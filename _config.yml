@@ -13,15 +13,15 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
-email:
+title: OVXX - Ryan Leo on the internet
+email: rrrrryyo@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  developer of innovative sonic weapons as OVXX, CEO reptilian of KitterChord, comrade of Twinknation, broad spectrum disordee; cyber-terrorist; neuroarchitect,. the self does not lie passively in wait for us to discover it ︻╦̵̵͇̿̿̿̿══╤─
 twitter_username: username
 github_username: username
 minimal_mistakes_skin: default
+# minimal_mistakes_skin: dirt
+# yakno what i kinda wanna make my own
 search: true
 
 # Build settings
@@ -58,34 +58,34 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name   : "Ryan Leo"
+  avatar : "/assets/images/IMG-20240220-WA0001.jpg"
+  bio    : "developer of innovative sonic weapons as OVXX, CEO reptilian of KitterChord, comrade of Twinknation, broad spectrum disordee; cyber-terrorist; neuroarchitect,. the self does not lie passively in wait for us to discover it ︻╦̵̵͇̿̿̿̿══╤─"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+    # - label: "Website"
+    #   icon: "fas fa-fw fa-link"
+      # url: "https://"
+    # - label: "Twitter"
+    #   icon: "fab fa-fw fa-twitter-square"
+    #   url: "https://twitter.com/"
+    # - label: "GitHub"
+    #   icon: "fab fa-fw fa-github"
+    #   url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://instagram.com/cryotato"
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+    # - label: "Twitter"
+    #   icon: "fab fa-fw fa-twitter-square"
+    #   url: "https://twitter.com/"
+    # - label: "GitHub"
+    #   icon: "fab fa-fw fa-github"
+    #   url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://instagram.com/cryotato"
 
 defaults:
   # _posts
