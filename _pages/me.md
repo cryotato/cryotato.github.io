@@ -1,6 +1,7 @@
 ---
 permalink: /me/
 title: "Me"
+author_profile: false
 ---
 
 developer of innovative sonic weapons as OVXX, CEO reptilian of KitterChord, comrade of Twinknation, broad spectrum disordee; cyber-terrorist; neuroarchitect,. the self does not lie passively in wait for us to discover it ︻╦̵̵͇̿̿̿̿══╤─
