@@ -1,5 +1,5 @@
 ---
-permalink: /mu/
+permalink: /ovxx/
 title: "OVXX"
 author_profile: false
 ---
