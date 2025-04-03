@@ -5,10 +5,10 @@ author_profile: false
 ---
 commissions are currently open for music and audio related work of any kind!
 
-# Commission work portfolio:
+# Commission work portfolio
 insert timestamped embedded contrapoints videos i've worked on
 
-# Pricing:
+# Pricing
 Note that while this is the general guideline, I'm willing to give considerable discounts to passion projects by indie artists with less income, mostly depending on if I find it personally interesting and if there will be a sizable audience. Otherwise, an hourly rate allows flexiblity in scope and complexity, revisions, etc no matter the task at hand, and keeps commissions open for any budget. You can expect simplier projects like those involving minimalistic ambient background music, loops, sound design, or mixing/mastering existing work, to take a lot less time (~2-6 hours) than if you were to commission a full soundtrack from scratch (~7-15 hours). Any pre-made material for me to work with such as samples or moteifs can be expected to take less time as well.
 
 ### Base Rates
@@ -54,8 +54,6 @@ While actual fees depend on project complexity, estimate your investment:
    [ ] From Sample (-10%) [ ] Passion (-15%)
 3. **Multiply**  
    (Hourly Rate) × 15h × (1 + Modifier Sum)
-
-*Typical project range: $140 (7h base) - $900 (15h collaborative exclusive)*
 
 ## FAQ
 **Q:** How do payments work?  
