@@ -1,6 +1,7 @@
 main:
-  - title: "Design"
-    url: /design/
+  # - title: "Design"
+  #   url: /design/
+  # actually i could just continue to use behance, as im continuing to use medium
   - title: "Music"
     url: /mu/
   - title: "Me"
