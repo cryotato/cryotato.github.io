@@ -83,6 +83,9 @@ author:
     - label: "Medium"
       icon: "fab fa-fw fa-medium"
       url: "https://ryaen.medium.com/"
+    - label: "itch.io"
+      icon: "fab fa-fw fa-itch-io"
+      url: "https://cryotato.itch.io/"
     - label: "YouTube"
       icon: "fab fa-fw fa-youtube"
       url: "https://www.youtube.com/@ovxx666"     
@@ -98,6 +101,7 @@ author:
     - label: "Goodreads"
       icon: "fab fa-fw fa-goodreads"
       url: "https://www.goodreads.com/user/show/114414047-rya"
+      
 
 footer:
   links:
@@ -119,6 +123,9 @@ footer:
     - label: "Medium"
       icon: "fab fa-fw fa-medium"
       url: "https://ryaen.medium.com/"
+    - label: "itch.io"
+      icon: "fab fa-fw fa-itch-io"
+      url: "https://cryotato.itch.io/"
     - label: "YouTube"
       icon: "fab fa-fw fa-youtube"
       url: "https://www.youtube.com/@ovxx666"     
