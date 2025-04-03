@@ -1,5 +1,5 @@
 ---
-permalink: /music/
+permalink: /mu/
 title: "OVXX"
 author_profile: false
 ---
