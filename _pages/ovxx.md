@@ -16,28 +16,20 @@ Note that while this is the general guideline, I'm willing to give considerable 
 **Standard Production**     - $20/hour    
 **Real-Time Collaboration** - $40/hour on call
 
-## Rate Modifiers
+### Rate Modifiers
 Applicable percentage adjustments to base rate:
 - **Accelerated Delivery** (+25%)  
   *(For projects requiring completion within 7 days)*
 - **Exclusive Licensing** (+50%)  
   *(Client retains full rights; composer cannot reuse motifs)*
-- **Sample-Based Production** (-10%)  
-  *(When building from provided rhythm beds/musical motifs)*
-- **Passion Project Discount** (-15%)  
-  *(For artistically ambitious/non-commercial works)*
 
-## Fee Calculation Formula
+### Fee Calculation Formula
 **Estimated Total** = `(Hourly Rate × Project Hours) × (1 + Sum of Modifiers)`
 
-### Example Estimates:
-1. **Rush Commercial Project**  
+** For example, an urgent commercial project might look something like: **  
    `($20 × 10h) × (1 + 0.25 + 0.50) = $200 × 1.75 = $350`
-   
-2. **Collaborative Passion Piece**  
-   `($40 × 12h) × (1 - 0.15 - 0.10) = $480 × 0.75 = $360`
 
-## Budget Capping System
+### Budget Capping System
 Clients may specify maximum investment thresholds. Work will:
 1. Proceed until cap is reached
 2. Automatically pause at threshold
@@ -48,7 +40,7 @@ Clients may specify maximum investment thresholds. Work will:
 While actual fees depend on project complexity, estimate your investment:
 
 1. **Choose base rate**  
-   [ ] Standard ($20/h) [ ] Real-Time ($40/h)
+   [ ] Base Rate ($20/h) + Real-Time ($40/h call time)
 2. **Select modifiers**  
    [ ] Rush (+25%) [ ] Exclusive (+50%)  
    [ ] From Sample (-10%) [ ] Passion (-15%)
@@ -57,10 +49,7 @@ While actual fees depend on project complexity, estimate your investment:
 
 ## FAQ
 **Q:** How do payments work?  
-**A:** 50% deposit to start, remainder before final delivery.
-
-**Q:** What if I exceed my cap?  
-**A:** You'll receive all work completed to date, with option to extend.
+**A:** 50% deposit to start, remainder before final delivery. I predominantly use PayPal but they're dicks so I'm open to using ETH or XMR if you're a freak.
 
 contact me:
 insert email contact box
