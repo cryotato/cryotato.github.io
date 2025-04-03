@@ -3,21 +3,18 @@ permalink: /ovxx/
 title: "OVXX"
 author_profile: false
 ---
-just dump everything in here first and then focus on making it pretty some other time..
+commissions are currently open for music and audio related work of any kind!
 
-commission work portfolio:
+# Commission work portfolio:
 insert timestamped embedded contrapoints videos i've worked on
 
-commissions are open for music and audio related work of any kind!
+# Pricing:
+Note that while this is the general guideline, I'm willing to give considerable discounts to passion projects by indie artists with less income, mostly depending on if I find it personally interesting and if there will be a sizable audience. Otherwise, an hourly rate allows flexiblity in scope and complexity, revisions, etc no matter the task at hand, and keeps commissions open for any budget. You can expect simplier projects like those involving minimalistic ambient background music, loops, sound design, or mixing/mastering existing work, to take a lot less time (~2-6 hours) than if you were to commission a full soundtrack from scratch (~7-15 hours). Any pre-made material for me to work with such as samples or moteifs can be expected to take less time as well.
 
-Pricing:
-note that while this is the general guideline, I'm willing to give considerable discounts to passion projects by indie artists with less income, mostly depending on if I find it personally interesting and if there will be a sizable audience. Otherwise, an hourly rate allows flexiblity in scope and complexity, revisions, etc no matter the task at hand, and keeps commissions open for any budget. You can expect simplier projects like those involving minimalistic ambient background music, loops, sound design, or mixing/mastering existing work, to take a lot less time (~2-6 hours) than if you were to commission a full soundtrack from scratch (~7-15 hours). Any pre-made material for me to work with such as samples or moteifs can be expected to take less time as well.
+### Base Rates
 
-## Base Rates
-| Service Tier                | Hourly Rate |
-|-----------------------------|-------------|
-| **Standard Production**     | $20/hour    
-| **Real-Time Collaboration** | $40/hour on call
+**Standard Production**     - $20/hour    
+**Real-Time Collaboration** - $40/hour on call
 
 ## Rate Modifiers
 Applicable percentage adjustments to base rate:
