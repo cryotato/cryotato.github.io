@@ -1,6 +1,6 @@
 ---
-permalink: /ovxx/
-title: "Commissions"
+permalink: /commissions/
+title: "a cog in your machine"
 author_profile: false
 toc: true
 toc_label: "⊹₊⟡⋆"
