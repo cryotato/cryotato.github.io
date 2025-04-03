@@ -1,12 +1,17 @@
 ---
 permalink: /ovxx/
-title: "OVXX"
+title: "Commissions"
 author_profile: false
+toc: true
+toc_label: "⊹₊⟡⋆"
+toc_icon: "music"  # corresponding Font Awesome icon name (without fa prefix)
 ---
-commissions are currently open for music and audio related work of any kind!
+♪ ༘⋆ commissions are currently open for music and audio related work of any kind!
 
-# Commission work portfolio
+# Portfolio
 insert timestamped embedded contrapoints videos i've worked on
+
+
 
 # Pricing
 Note that while this is the general guideline, I'm willing to give considerable discounts to passion projects by indie artists with less income, mostly depending on if I find it personally interesting and if there will be a sizable audience. Otherwise, an hourly rate allows flexiblity in scope and complexity, revisions, etc no matter the task at hand, and keeps commissions open for any budget. You can expect simplier projects like those involving minimalistic ambient background music, loops, sound design, or mixing/mastering existing work, to take a lot less time (~2-6 hours) than if you were to commission a full soundtrack from scratch (~7-15 hours). Any pre-made material for me to work with such as samples or moteifs can be expected to take less time as well.
@@ -36,7 +41,7 @@ Clients may specify maximum investment thresholds. Work will:
 3. Deliver current render + progress report
 4. Offer continuation options (if desired)
 
-## Client Cost Calculator
+### Client Cost Calculator
 While actual fees depend on project complexity, estimate your investment:
 
 1. **Choose base rate**  
@@ -47,9 +52,10 @@ While actual fees depend on project complexity, estimate your investment:
 3. **Multiply**  
    (Hourly Rate) × 15h × (1 + Modifier Sum)
 
-## FAQ
-**Q:** How do payments work?  
-**A:** 50% deposit to start, remainder before final delivery. I predominantly use PayPal but they're dicks so I'm open to using ETH or XMR if you're a freak.
+   replace this with an actual like calculating thing im sure it can be done smh.
 
-contact me:
-insert email contact box
+### Payments?
+50% deposit to start, remainder before final delivery. I predominantly use PayPal but they're dicks so I'm open to using ETH or XMR if you're a freak.
+
+### Get in touch ( ‾⌣‾)☞)•з•) :｡･:･ﾟ’★
+insert email contact box here
