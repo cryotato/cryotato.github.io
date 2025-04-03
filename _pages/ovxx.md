@@ -4,9 +4,9 @@ title: "Commissions"
 author_profile: false
 toc: true
 toc_label: "⊹₊⟡⋆"
-toc_icon: "music"  # corresponding Font Awesome icon name (without fa prefix)
+toc_icon: "heart"  # corresponding Font Awesome icon name (without fa prefix)
 ---
-♪ ༘⋆ commissions are currently open for music and audio related work of any kind!
+♪ ༘⋆ while all my music is free to download and use in non-commercial contexts with attribution, if you're looking for something specific, my commissions are currently open! i do music and audio related work of any kind!
 
 # Portfolio
 insert timestamped embedded contrapoints videos i've worked on
@@ -57,5 +57,5 @@ While actual fees depend on project complexity, estimate your investment:
 ### Payments?
 50% deposit to start, remainder before final delivery. I predominantly use PayPal but they're dicks so I'm open to using ETH or XMR if you're a freak.
 
-### Get in touch ( ‾⌣‾)☞)•з•) :｡･:･ﾟ’★
+## Get in touch ( ‾⌣‾)☞)•з•) :｡･:･ﾟ’★
 insert email contact box here
