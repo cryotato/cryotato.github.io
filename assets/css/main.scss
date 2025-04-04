@@ -86,8 +86,7 @@ h1, h2, h3, h4, h5, h6 {
 /* --- Modify Masthead (Header) --- */
 .masthead {
   font-family: "Courier New", Courier, monospace;
-  // Use --bg-7 for dithered dark, or --bg-8 for solid dark
-  background: var(--bg-4);
+  background: var(--bg-7);
   color: var(--light); // Default text color for anything inside not specifically styled
   // border-bottom: var(--border-standard);
 
