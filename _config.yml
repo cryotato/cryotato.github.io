@@ -167,5 +167,5 @@ tag_archive:
   type: liquid
   path: /tags/
 
-  after_footer_scripts:
+after_footer_scripts:
   - /assets/js/cursor.js
