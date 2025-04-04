@@ -13,12 +13,10 @@ search: false
    ========================================================================== */
 :root {
   /* --- Define your static colors --- */
-  // You already set these in your body rule, let's use variables now
-  // Using the colors from your body rule:
-  --light: #f5f5f5; // Your chosen light background
-  --dark: #2f4f4f;  // Your chosen dark text color
+  --light: #f5f5f5;
+  --dark: #262626; 
 
-  /* --- Dot Definitions (Copy Directly) --- */
+  /* --- Dot Definitions --- */
   --gl: radial-gradient(circle 1px at 0px 0px, var(--dark) 1px, transparent 0);
   --gd: radial-gradient(circle 1px at 0px 0px, var(--light) 1px, transparent 0);
 
