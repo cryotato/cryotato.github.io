@@ -19,8 +19,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   developer of innovative sonic weapons as OVXX, CEO reptilian of KitterChord, comrade of Twinknation, broad spectrum disordee; cyber-terrorist; neuroarchitect,. the self does not lie passively in wait for us to discover it ︻╦̵̵͇̿̿̿̿══╤─
 twitter_username: username
 github_username: username
-minimal_mistakes_skin: dirt
-search: true
+minimal_mistakes_skin: default
+search: false
 
 # Build settings
 markdown: kramdown
@@ -60,15 +60,6 @@ author:
   avatar : "/assets/images/IMG-20240220-WA0001.jpg"
   bio    : "developer of innovative sonic weapons as OVXX, CEO reptilian of KitterChord, comrade of Twinknation, broad spectrum disordee; cyber-terrorist; neuroarchitect,. the self does not lie passively in wait for us to discover it ︻╦̵̵͇̿̿̿̿══╤─"
   links:
-    # - label: "Website"
-    #   icon: "fas fa-fw fa-link"
-      # url: "https://"
-    # - label: "Twitter"
-    #   icon: "fab fa-fw fa-twitter-square"
-    #   url: "https://twitter.com/"
-    # - label: "GitHub"
-    #   icon: "fab fa-fw fa-github"
-    #   url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/cryotato"
@@ -103,12 +94,6 @@ author:
 
 footer:
   links:
-    # - label: "Twitter"
-    #   icon: "fab fa-fw fa-twitter-square"
-    #   url: "https://twitter.com/"
-    # - label: "GitHub"
-    #   icon: "fab fa-fw fa-github"
-    #   url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/cryotato"
