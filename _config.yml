@@ -167,6 +167,9 @@ tag_archive:
   type: liquid
   path: /tags/
 
+  after_footer_scripts:
+  - /assets/js/cursor.js
+
 
 # <div class="curzr" hidden>
 #   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
