@@ -49,81 +49,80 @@ search: false
 }
 
 /* ==========================================================================
-   Text Readability Improvements
+   Text Readability Improvements (Enhanced Specificity)
    ========================================================================== */
 
-/* Apply to main body text and lists */
-body, p, li {
-  // Assuming body background is --bg-0 (light) and text is --dark
-  text-shadow: var(--l-shadow);
+/* Apply to main body text and lists - Use !important */
+body,
+.page__content p, /* Be more specific for content paragraphs */
+.page__content li /* Be more specific for content list items */
+{
+  text-shadow: var(--l-shadow) !important; // Light shadow for dark text on light bg
+}
+/* Ensure base body color/bg are set if not already done elsewhere */
+body {
+    background: var(--bg-0) !important; // Force light background
+    color: var(--dark) !important;      // Force dark text color
 }
 
-/* Apply to headings */
+
+/* Apply to headings - Use !important */
 h1, h2, h3, h4, h5, h6 {
-  // Assuming headings are dark text on light background
-  text-shadow: var(--l-shadow);
+  text-shadow: var(--l-shadow) !important; // Light shadow for dark text
 }
 
-/* Apply to links (that aren't in explicitly dark sections like masthead) */
-/* Be careful - this might be too broad, adjust as needed */
-a {
-  // Assuming most links are dark text on light background
-  text-shadow: var(--l-shadow);
+/* Apply to MOST links - Use !important */
+/* Excludes masthead links, handled separately */
+a:not(.masthead a):not(.btn):not(.button) { // Target links NOT in masthead or buttons
+  text-shadow: var(--l-shadow) !important; // Light shadow for dark text
 }
-// Remove shadow specifically from links within the dark masthead
-// as they already have the dark shadow applied separately
-.masthead a {
-  text-shadow: var(--d-shadow) !important; // Re-assert dark shadow here
+/* Re-apply specific link colors if needed, as inherit might be overridden */
+a:not(.masthead a):not(.btn):not(.button) {
+    color: var(--dark) !important; // Make sure default links are dark
 }
 
 
-/* Apply to blockquotes */
-blockquote {
-  // Assuming dark text on potentially dithered light background
-  text-shadow: var(--l-shadow);
-}
-blockquote p { // Ensure paragraphs inside also get it
-  text-shadow: var(--l-shadow);
+/* Apply to blockquotes - Use !important */
+blockquote,
+blockquote p { // Target blockquote and paragraphs inside
+  text-shadow: var(--l-shadow) !important; // Light shadow for dark text
 }
 
-/* Apply within the sidebar (assuming dithered light background --bg-2) */
-.sidebar, .sidebar p, .sidebar li, .sidebar h1, .sidebar h2, .sidebar h3, .sidebar .author__name, .sidebar .author__bio {
-  // Sidebar has --bg-2 (light dither), text is --dark
-  text-shadow: var(--l-shadow);
+/* Apply within the sidebar - Use !important */
+.sidebar, .sidebar p, .sidebar li, .sidebar h1, .sidebar h2, .sidebar h3, .sidebar .author__name, .sidebar .author__bio, .sidebar a {
+  text-shadow: var(--l-shadow) !important; // Light shadow for dark text (assuming sidebar has light dither bg)
 }
-.sidebar a {
-  // Links within sidebar
-   text-shadow: var(--l-shadow);
-}
-
-/* Apply within the footer (assuming dithered light background --bg-2) */
-.page__footer, .page__footer p, .page__footer span, .page__footer li {
-  // Footer has --bg-2 (light dither), text is --dark
-  text-shadow: var(--l-shadow);
-}
-.page__footer a {
-  // Links within footer
-  text-shadow: var(--l-shadow);
+/* Ensure text color in sidebar is dark */
+.sidebar, .sidebar p, .sidebar li, .sidebar h1, .sidebar h2, .sidebar h3, .sidebar .author__name, .sidebar .author__bio, .sidebar a {
+    color: var(--dark) !important; // Force dark text if sidebar bg is light/dither-light
 }
 
-/* Apply within code blocks (pre) if needed */
+
+/* Apply within the footer - Use !important */
+.page__footer, .page__footer p, .page__footer span, .page__footer li, .page__footer a {
+  text-shadow: var(--l-shadow) !important; // Light shadow for dark text (assuming footer has light dither bg)
+}
+/* Ensure text color in footer is dark */
+.page__footer, .page__footer p, .page__footer span, .page__footer li, .page__footer a {
+    color: var(--dark) !important; // Force dark text if footer bg is light/dither-light
+}
+
+
+/* Apply within code blocks (pre) - Use !important */
 pre {
-  // Pre has --bg-2, text is --dark
-  text-shadow: var(--l-shadow);
+  text-shadow: var(--l-shadow) !important; // Light shadow for dark text
 }
-/* Inline code */
+/* Inline code - Use !important */
 p code, li code, h1 code, h2 code, h3 code, h4 code, h5 code, h6 code {
-  // Inline code has --bg-1, text is --dark
-  text-shadow: var(--l-shadow);
+  text-shadow: var(--l-shadow) !important; // Light shadow for dark text
 }
 
-/* Apply within Buttons */
+/* Apply within Buttons - Use !important */
+/* Base state already defined earlier, ensure shadows are forced */
 button, .btn {
-  // Button has --bg-1, text is --dark
-  text-shadow: var(--l-shadow);
+  text-shadow: var(--l-shadow) !important; // Light shadow for dark text on light button bg
   &:hover {
-    // Hover state has --bg-7 (dark dither), text is --light
-    text-shadow: var(--d-shadow); // Switch shadow on hover
+    text-shadow: var(--d-shadow) !important; // Dark shadow for light text on dark hover bg
   }
 }
 
@@ -163,7 +162,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 /* ==========================================================================
-   Masthead Styling (Header) with Specific Menu Item Animation
+   Masthead Styling (Header) with Button-Style Menu Items & Animation
    ========================================================================== */
 
 /* --- Base Masthead Styles --- */
@@ -186,45 +185,44 @@ h1, h2, h3, h4, h5, h6 {
 .masthead .search__toggle {
   font-family: "Courier New", Courier, monospace;
   color: var(--light) !important;
-  text-shadow: var(--d-shadow);
+  text-shadow: var(--d-shadow); // Dark shadow for light text
   text-decoration: none;
   background: transparent; // Ensure no background initially
-  transition: text-decoration 0.2s ease; // Optional: smooth underline transition
+  transition: text-decoration 0.2s ease;
 
   &:hover {
     text-decoration: underline; // Simple underline on hover
-    // Add any other simple hover effects here if needed
   }
 }
 
-/* --- Style the MENU ITEMS (With Codepen Animation on Hover) --- */
+/* --- Style the MENU ITEMS like Codepen Buttons (With Animation on Hover) --- */
 .masthead .visible-links .masthead__menu-item a {
   font-family: "Courier New", Courier, monospace;
-  color: var(--light) !important;
-  text-shadow: var(--d-shadow);
-  text-decoration: none;
-  background: transparent; // Start transparent for animation
-  padding: 0.5em 1em;      // Add padding for better hover area
-  display: inline-block;   // Make padding work correctly
-  transition: none;          // Disable default Minimal Mistakes transitions here
+  display: inline-block; // Make padding/border work
+  padding: 0.5em 1em;    // Padding inside the button
 
-  /* Optional: Apply reverse animation when hover ends (can sometimes look jerky) */
-  /* animation: dark-to-light 200ms linear forwards; */
+  /* --- Initial State (Like Codepen Button) --- */
+  background: var(--bg-0);           // Start with SOLID LIGHT background
+  color: var(--dark) !important;     // Start with DARK text color
+  text-shadow: var(--l-shadow);      // Start with LIGHT shadow for dark text
+  border: var(--border-standard);    // Add the standard DARK border
+
+  text-decoration: none;             // No underline by default
+  transition: none;                  // Disable default MM transitions
 
   &:hover {
     /* Apply the CodePen animation */
     animation: light-to-dark 200ms linear forwards;
 
-    /* Re-assert styles needed during animation */
-    color: var(--light) !important;
-    text-shadow: var(--d-shadow);
-    text-decoration: none; // Ensure no underline appears from other rules during animation
+    /* Ensure text/shadow are correct for hover state (visible on dark BG end state) */
+    color: var(--light) !important; // Text becomes LIGHT
+    text-shadow: var(--d-shadow);   // Shadow becomes DARK
+    text-decoration: none;        // Ensure no underline during animation
   }
 }
 
 
 /* --- Ensure greedy-nav button icon is visible --- */
-/* (Keep these rules as they were) */
 .masthead .greedy-nav__toggle .navicon {
   background: var(--light);
 }
@@ -234,10 +232,11 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 /* --- Ensure search icon is visible --- */
-/* (Keep this rule but it's mostly covered by the .search__toggle rule above) */
 .masthead .search__toggle {
     color: var(--light) !important; // Ensure icon color itself is light
 }
+
+
 
 /* --- Modify Footer --- */
 .page__footer {
