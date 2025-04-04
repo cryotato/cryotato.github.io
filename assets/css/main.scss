@@ -57,7 +57,7 @@ body {
   background: var(--bg-0) !important; // Use variable and force override
   color: var(--dark) !important;     // Use variable and force override
   font-family: "Courier New", Courier, monospace;
-  font-size: 18px;
+  font-size: 16px;
   // Apply base shadow to body text, paragraphs/lists within content will inherit or be overridden specifically below
   text-shadow: var(--l-shadow) !important;
 }
