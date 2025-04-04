@@ -49,82 +49,109 @@ search: false
 }
 
 /* ==========================================================================
-   Text Readability Improvements (Enhanced Specificity)
+   Text Readability Improvements (Hyper-Focused Specificity)
    ========================================================================== */
 
-/* Apply to main body text and lists - Use !important */
-body,
-.page__content p, /* Be more specific for content paragraphs */
-.page__content li /* Be more specific for content list items */
-{
-  text-shadow: var(--l-shadow) !important; // Light shadow for dark text on light bg
+/* --- Base Body Text (Paragraphs, Lists) --- */
+/* Use theme's own content wrapper class for higher specificity */
+.page__content p,
+.page__content ul li,
+.page__content ol li {
+  text-shadow: var(--l-shadow) !important;
+  color: var(--dark) !important; // Ensure dark text
 }
-/* Ensure base body color/bg are set if not already done elsewhere */
+/* Ensure base body background is set */
 body {
-    background: var(--bg-0) !important; // Force light background
-    color: var(--dark) !important;      // Force dark text color
+  background: var(--bg-0) !important;
 }
 
-
-/* Apply to headings - Use !important */
+/* --- Headings --- */
 h1, h2, h3, h4, h5, h6 {
-  text-shadow: var(--l-shadow) !important; // Light shadow for dark text
+  text-shadow: var(--l-shadow) !important;
+  color: var(--dark) !important; // Ensure dark text
 }
 
-/* Apply to MOST links - Use !important */
-/* Excludes masthead links, handled separately */
-a:not(.masthead a):not(.btn):not(.button) { // Target links NOT in masthead or buttons
-  text-shadow: var(--l-shadow) !important; // Light shadow for dark text
-}
-/* Re-apply specific link colors if needed, as inherit might be overridden */
-a:not(.masthead a):not(.btn):not(.button) {
-    color: var(--dark) !important; // Make sure default links are dark
+/* --- General Links (excluding specific areas) --- */
+a:not(.masthead a):not(.sidebar a):not(.toc a):not(.page__footer a):not(.btn):not(.button) {
+  text-shadow: var(--l-shadow) !important;
+  color: var(--dark) !important; // Ensure dark text
 }
 
-
-/* Apply to blockquotes - Use !important */
+/* --- Blockquotes --- */
 blockquote,
-blockquote p { // Target blockquote and paragraphs inside
-  text-shadow: var(--l-shadow) !important; // Light shadow for dark text
+blockquote p {
+  text-shadow: var(--l-shadow) !important;
+  color: var(--dark) !important; // Ensure dark text
 }
 
-/* Apply within the sidebar - Use !important */
-.sidebar, .sidebar p, .sidebar li, .sidebar h1, .sidebar h2, .sidebar h3, .sidebar .author__name, .sidebar .author__bio, .sidebar a {
-  text-shadow: var(--l-shadow) !important; // Light shadow for dark text (assuming sidebar has light dither bg)
-}
-/* Ensure text color in sidebar is dark */
-.sidebar, .sidebar p, .sidebar li, .sidebar h1, .sidebar h2, .sidebar h3, .sidebar .author__name, .sidebar .author__bio, .sidebar a {
-    color: var(--dark) !important; // Force dark text if sidebar bg is light/dither-light
-}
-
-
-/* Apply within the footer - Use !important */
-.page__footer, .page__footer p, .page__footer span, .page__footer li, .page__footer a {
-  text-shadow: var(--l-shadow) !important; // Light shadow for dark text (assuming footer has light dither bg)
-}
-/* Ensure text color in footer is dark */
-.page__footer, .page__footer p, .page__footer span, .page__footer li, .page__footer a {
-    color: var(--dark) !important; // Force dark text if footer bg is light/dither-light
-}
-
-
-/* Apply within code blocks (pre) - Use !important */
-pre {
-  text-shadow: var(--l-shadow) !important; // Light shadow for dark text
-}
-/* Inline code - Use !important */
+/* --- Code Blocks & Inline Code --- */
+pre,
 p code, li code, h1 code, h2 code, h3 code, h4 code, h5 code, h6 code {
   text-shadow: var(--l-shadow) !important; // Light shadow for dark text
+  // Color is usually handled okay by themes/syntax highlighters, but force if needed:
+  // color: var(--dark) !important;
 }
 
-/* Apply within Buttons - Use !important */
-/* Base state already defined earlier, ensure shadows are forced */
+/* --- Buttons (Already Styled, Re-affirm shadow) --- */
 button, .btn {
-  text-shadow: var(--l-shadow) !important; // Light shadow for dark text on light button bg
+  text-shadow: var(--l-shadow) !important;
   &:hover {
-    text-shadow: var(--d-shadow) !important; // Dark shadow for light text on dark hover bg
+    text-shadow: var(--d-shadow) !important;
   }
 }
+
+/* --- FIX FOR SIDEBARS (Author & TOC) --- */
+/* Target elements *directly within* sidebar/toc classes */
+.sidebar p,
+.sidebar li,
+.sidebar h1, .sidebar h2, .sidebar h3, .sidebar h4, /* Target headings in sidebar */
+.sidebar .author__name,
+.sidebar .author__bio,
+.sidebar .author__urls-label,
+.sidebar a, /* Target links specifically within .sidebar */
+.toc, /* Target TOC container itself if it has text */
+.toc__menu, /* Target TOC menu */
+.toc__title, /* Target TOC title */
+.toc a,  /* Target links specifically within .toc */
+.toc li /* Target list items within .toc */
+{
+  text-shadow: var(--l-shadow) !important; // Light shadow (assuming light dither bg)
+  color: var(--dark) !important;       // Force dark text color
+  // background: transparent !important; // Uncomment THIS LINE ONLY if text still has weird background artifacts
+}
+
+
+/* --- FIX FOR FOOTER --- */
+/* Target elements *directly within* footer classes */
+.page__footer, /* Target footer container itself */
+.page__footer p,
+.page__footer span, /* Target span elements */
+.page__footer li,
+.page__footer a {
+  text-shadow: var(--l-shadow) !important; // Light shadow (assuming light dither bg)
+  color: var(--dark) !important;       // Force dark text color
+}
+
+
+/* --- FIX FOR SITE TITLE in Masthead --- */
+/* Re-apply with high specificity */
+.masthead nav#site-nav a.site-title { // Use ID and class for very high specificity
+  color: var(--light) !important;
+  text-shadow: var(--d-shadow) !important; // Dark shadow for light text
+  // Test: Does increasing offset slightly make it visible? (If still not working)
+  // text-shadow: -2px -2px 0 var(--dark), 0 -2px 0 var(--dark), 2px -2px 0 var(--dark), 2px 0 0 var(--dark), 2px 2px 0 var(--dark), 0 2px 0 var(--dark), -2px 2px 0 var(--dark), -2px 0 0 var(--dark) !important;
+}
+
+/* --- FIX FOR MENU ITEMS (Initial State Shadow) --- */
+/* Ensure the initial state shadow is also important */
+.masthead .visible-links .masthead__menu-item a {
+    text-shadow: var(--l-shadow) !important; // Light shadow for dark text
+    /* Ensure hover state shadow is important too */
+    &:hover {
+        text-shadow: var(--d-shadow) !important; // Dark shadow for light text
+    }
+}
+
 
 
 
@@ -198,29 +225,29 @@ h1, h2, h3, h4, h5, h6 {
 /* --- Style the MENU ITEMS like Codepen Buttons (With Animation on Hover) --- */
 .masthead .visible-links .masthead__menu-item a {
   font-family: "Courier New", Courier, monospace;
-  display: inline-block; // Make padding/border work
-  padding: 0.5em 1em;    // Padding inside the button
+  display: inline-block;
+  padding: 0.5em 1em;
+  font-weight: bold; // <<< ADD THIS LINE for bold text
+  border-radius: 0.5em; // <<< ADD THIS LINE for rounded corners (adjust value as needed, e.g., 4px, 6px)
 
   /* --- Initial State (Like Codepen Button) --- */
-  background: var(--bg-0);           // Start with SOLID LIGHT background
-  color: var(--dark) !important;     // Start with DARK text color
-  text-shadow: var(--l-shadow);      // Start with LIGHT shadow for dark text
-  border: var(--border-standard);    // Add the standard DARK border
+  background: var(--bg-0);
+  color: var(--dark) !important;
+  text-shadow: var(--l-shadow); // Note: This relies on the shadow fix below!
+  border: var(--border-standard);
 
-  text-decoration: none;             // No underline by default
-  transition: none;                  // Disable default MM transitions
+  text-decoration: none;
+  transition: none;
 
   &:hover {
-    /* Apply the CodePen animation */
     animation: light-to-dark 200ms linear forwards;
-
-    /* Ensure text/shadow are correct for hover state (visible on dark BG end state) */
-    color: var(--light) !important; // Text becomes LIGHT
-    text-shadow: var(--d-shadow);   // Shadow becomes DARK
-    text-decoration: none;        // Ensure no underline during animation
+    color: var(--light) !important;
+    text-shadow: var(--d-shadow); // Note: This relies on the shadow fix below!
+    text-decoration: none;
+    /* Keep border rounded on hover */
+    border-radius: 0.5em; // Ensure border-radius persists
   }
 }
-
 
 /* --- Ensure greedy-nav button icon is visible --- */
 .masthead .greedy-nav__toggle .navicon {
