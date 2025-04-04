@@ -49,9 +49,55 @@ a {
 /* --- Optional: Apply monospace font to headings too --- */
 h1, h2, h3, h4, h5, h6 {
   font-family: "Courier New", Courier, monospace; // Or your chosen monospace font stack
-} // <--- MAKE SURE TO ADD CLOSING BRACES FOR ANY OTHER BLOCKS YOU ADD LATER
+} 
 
-/* --- Optional: Apply monospace font to buttons --- */
-.btn {
-    font-family: "Courier New", Courier, monospace; // Or your chosen monospace font stack
-} // <--- MAKE SURE TO ADD CLOSING BRACES FOR ANY OTHER BLOCKS YOU ADD LATER
+// Apply monospace to the Header (Masthead) elements
+.masthead,
+.site-title,
+.site-nav {
+  font-family: "Courier New", Courier, monospace;
+}
+
+// Apply monospace to the Footer elements
+.page__footer {
+  font-family: "Courier New", Courier, monospace;
+}
+// Also target links specifically within the footer if needed
+.page__footer a,
+.page__footer span,
+.page__footer p {
+    font-family: "Courier New", Courier, monospace;
+}
+
+
+// Apply monospace to the Table of Contents
+.toc,
+.toc__menu,
+.toc__title,
+.toc a { // Target the container, menu, title, and links within
+  font-family: "Courier New", Courier, monospace;
+}
+
+// Apply monospace to the Author Sidebar elements
+.sidebar .author__name,
+.sidebar .author__bio,
+.sidebar .author__urls .author__urls-label { // Target name, bio, and labels in the sidebar
+  font-family: "Courier New", Courier, monospace;
+}
+// You might also need to target generic sidebar text if the above isn't enough
+.sidebar,
+.sidebar p,
+.sidebar li {
+    font-family: "Courier New", Courier, monospace;
+}
+
+
+// Ensure buttons everywhere use monospace (you might already have .btn)
+button, .btn {
+     font-family: "Courier New", Courier, monospace;
+}
+
+// Ensure code blocks and inline code use monospace (often default, but good to be explicit)
+pre, code {
+  font-family: "Courier New", Courier, monospace;
+}
