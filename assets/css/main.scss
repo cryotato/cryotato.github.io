@@ -86,21 +86,55 @@ h1, h2, h3, h4, h5, h6 {
 /* --- Modify Masthead (Header) --- */
 .masthead {
   font-family: "Courier New", Courier, monospace;
-  background: var(--bg-4); // Example: Solid dark background
-  color: var(--light);     // Light text for contrast
-  border-bottom: var(--border-standard); // Add the hard border
-}
-// Style links within the masthead
-.masthead a,
-.site-title a, // Make sure site title link is styled
-.masthead__menu-item a {
-  font-family: "Courier New", Courier, monospace;
-  color: var(--light) !important; // Force light color, important might be needed here
-  text-decoration: none; // Remove underline if desired for header links
-  text-shadow: var(--d-shadow); // Add dark outline for readability
-  &:hover {
-    background: var(--bg-7); // Example: Sparse light dots on hover
+  // Use --bg-7 for dithered dark, or --bg-8 for solid dark
+  background: var(--bg-4);
+  color: var(--light); // Default text color for anything inside not specifically styled
+  // border-bottom: var(--border-standard);
+
+  /* --- Force inner wrappers to be transparent --- */
+  .masthead__inner-wrap,
+  .masthead__menu,
+  #site-nav {
+    background: transparent !important; // Prevent theme/skin backgrounds
   }
+}
+
+/* --- Style the links within the masthead --- */
+.masthead .site-title, // Target the site title link directly
+.masthead .visible-links .masthead__menu-item a, // Target menu item links
+.masthead .search__toggle { // Also style the search icon button if needed
+  font-family: "Courier New", Courier, monospace;
+  color: var(--light) !important; // Force light color
+  text-shadow: var(--d-shadow);   // Add dark outline for readability
+  text-decoration: none;
+  background: transparent; // Ensure NO background in default state
+  transition: background 200ms linear, color 200ms linear; // Add transitions if desired
+
+  &:hover {
+    // background: var(--bg-6); // Example: Denser dither on hover (Optional)
+    // color: var(--light); // Color likely stays light
+    text-decoration: underline; // Add underline on hover? (Optional)
+  }
+}
+
+/* Specific fix for site title if it needs different hover */
+.masthead .site-title:hover {
+   background: transparent; // Maybe no background change on title hover
+   text-decoration: none; // Keep no underline?
+}
+
+/* Ensure greedy-nav button icon is visible */
+.masthead .greedy-nav__toggle .navicon {
+  background: var(--light); // Make the hamburger icon lines light
+}
+.masthead .greedy-nav__toggle .navicon:before,
+.masthead .greedy-nav__toggle .navicon:after {
+  background: var(--light); // Make the hamburger icon lines light
+}
+
+/* Ensure search icon is visible */
+.masthead .search__toggle {
+    color: var(--light) !important; // Ensure icon itself is light
 }
 
 /* --- Modify Footer --- */
