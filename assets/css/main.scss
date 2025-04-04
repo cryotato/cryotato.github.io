@@ -8,108 +8,220 @@ search: false
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
-body {
-  /* --- Set the base background color --- */
-  // Replace #f0f0e0 with your desired light background color
-  // Examples:
-  // #f5f5f5 (Slightly off-white)
-  // #e8e4d5 (A warm beige/cream)
-  // #c7d0b9 (A pale green-ish tint)
-  background-color: #f5f5f5;
+/* ==========================================================================
+   Dithered Lo-Fi Styles - Variables
+   ========================================================================== */
+:root {
+  /* --- Define your static colors --- */
+  // You already set these in your body rule, let's use variables now
+  // Using the colors from your body rule:
+  --light: #f5f5f5; // Your chosen light background
+  --dark: #2f4f4f;  // Your chosen dark text color
 
-  /* --- Set the base text color --- */
-  // Replace #2a2a2a with your desired dark text color
-  // Examples:
-  // #333333 (Dark Gray)
-  // #4a3f35 (Dark Brown)
-  // #2f4f4f (Dark Slate Gray / Muted Green-Gray)
-  color: #2f4f4f;
+  /* --- Dot Definitions (Copy Directly) --- */
+  --gl: radial-gradient(circle 1px at 0px 0px, var(--dark) 1px, transparent 0);
+  --gd: radial-gradient(circle 1px at 0px 0px, var(--light) 1px, transparent 0);
 
-  /* --- Set the base font to monospace --- */
-  // This provides fallbacks if the user doesn't have the first font
-  font-family: "Courier New", Courier, monospace;
-  // Other options:
-  // font-family: Consolas, Monaco, "Andale Mono", "Ubuntu Mono", monospace;
-  // font-family: "Lucida Console", Monaco, monospace;
+  /* --- Dithered Background Patterns (Copy Directly) --- */
+  // Patterns: Dark dots on Light background
+  --bg-0: var(--light); // Solid Light
+  --bg-1: var(--gl) 0px 0px / 4px 4px, var(--light); // Sparse dots
+  --bg-2: var(--gl) 0px 0px / 4px 4px, var(--gl) 2px 2px / 4px 4px, var(--light); // Medium density dots (checkerboard-ish)
+  --bg-3: var(--gl) 0px 0px / 2px 2px, var(--light); // Dense dots (like 50% grey)
+  --bg-4: var(--gl) 0px 0px / 2px 2px, var(--gl) 1px 1px / 2px 2px, var(--light); // Very dense dots
 
-  /* --- Optional: Slightly adjust default font size or line height if needed --- */
-  font-size: 18px; /* Default is often fine */
-  // line-height: 1.6; /* Can improve readability */
+  // Patterns: Light dots on Dark background (adjust if needed)
+  --bg-5: var(--gd) 0px 0px / 2px 2px, var(--dark); // Dense light dots on dark
+  --bg-6: var(--gd) 0px 0px / 4px 4px, var(--gd) 2px 2px / 4px 4px, var(--dark); // Medium density light dots
+  --bg-7: var(--gd) 0px 0px / 4px 4px, var(--dark); // Sparse light dots
+  --bg-8: var(--dark); // Solid Dark
 
-} // <--- ADD THIS CLOSING BRACE
+  /* --- Pixelated Text Shadow Definitions (Copy Directly) --- */
+  --l-shadow: // Outline for dark text on light background
+    -1px -1px 0 var(--light), 0 -1px 0 var(--light), 1px -1px 0 var(--light),
+    1px 0 0 var(--light), 1px 1px 0 var(--light), 0 1px 0 var(--light),
+    -1px 1px 0 var(--light), -1px 0 0 var(--light);
+  --d-shadow: // Outline for light text on dark background
+    -1px -1px 0 var(--dark), 0 -1px 0 var(--dark), 1px -1px 0 var(--dark),
+    1px 0 0 var(--dark), 1px 1px 0 var(--dark), 0 1px 0 var(--dark),
+    -1px 1px 0 var(--dark), -1px 0 0 var(--dark);
 
-/* --- Optional: Ensure links use the main text color by default --- */
-/* You might want to style link underlines or hover states later */
-a {
-  color: inherit; // Makes links use the parent's color (which defaults to the body color)
-  // text-decoration: none; // Uncomment to remove underlines
-  // border-bottom: 1px solid; // Uncomment for a simple underline style
-} // <--- MAKE SURE TO ADD CLOSING BRACES FOR ANY OTHER BLOCKS YOU ADD LATER
-
-/* --- Optional: Apply monospace font to headings too --- */
-h1, h2, h3, h4, h5, h6 {
-  font-family: "Courier New", Courier, monospace; // Or your chosen monospace font stack
-} 
-
-// Apply monospace to the Header (Masthead) elements
-.masthead,
-.site-title,
-.site-nav {
-  font-family: "Courier New", Courier, monospace;
+   /* --- Standard Border --- */
+   --border-standard: 2px solid var(--dark); // Define a reusable border
 }
 
+body {
+  /* --- Use variables for background and color --- */
+  background: var(--bg-0); // Use the solid light variable
+  color: var(--dark);     // Use the solid dark variable
+
+  /* --- Keep your font settings --- */
+  font-family: "Courier New", Courier, monospace;
+  font-size: 18px;
+  // line-height: 1.6;
+
+  /* --- Optional: Add a base border to everything for a hard edge? --- */
+  // border: var(--border-standard); // Maybe too much, apply selectively later
+} // Make sure this closing brace is present!
+
+/* --- Modify Link Style --- */
+a {
+  color: inherit; // Keep this
+  text-decoration: underline; // Simple underline often works well for lo-fi
+  // Optionally add hover effect
+  &:hover {
+    // background: var(--bg-1); // Subtle dither on hover?
+    // color: var(--light);    // Invert color?
+    // text-shadow: var(--d-shadow); // Add outline?
+  }
+}
+
+/* --- Keep your heading font override --- */
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Courier New", Courier, monospace;
+  // Optional: Add outline to headings on light background?
+  // text-shadow: var(--l-shadow);
+}
+
+/* --- Modify Masthead (Header) --- */
+.masthead {
+  font-family: "Courier New", Courier, monospace;
+  background: var(--bg-8); // Example: Solid dark background
+  color: var(--light);     // Light text for contrast
+  border-bottom: var(--border-standard); // Add the hard border
+}
+// Style links within the masthead
+.masthead a,
+.site-title a, // Make sure site title link is styled
 .masthead__menu-item a {
   font-family: "Courier New", Courier, monospace;
+  color: var(--light) !important; // Force light color, important might be needed here
+  text-decoration: none; // Remove underline if desired for header links
+  text-shadow: var(--d-shadow); // Add dark outline for readability
+  &:hover {
+    background: var(--bg-7); // Example: Sparse light dots on hover
+  }
 }
 
-// Apply monospace to the Footer elements
+/* --- Modify Footer --- */
 .page__footer {
   font-family: "Courier New", Courier, monospace;
+  background: var(--bg-2); // Example: Give footer a dithered background
+  color: var(--dark);
+  border-top: var(--border-standard); // Add border
+  padding-top: 1em; // Add some spacing
+  padding-bottom: 1em;
 }
-// Also target links specifically within the footer if needed
 .page__footer a,
 .page__footer span,
 .page__footer p {
     font-family: "Courier New", Courier, monospace;
+    color: var(--dark); // Ensure text color is dark
+    text-shadow: var(--l-shadow); // Add light outline
+}
+.page__footer a:hover {
+   // Add hover effect if desired
 }
 
 
-// Apply monospace to the Table of Contents
-.toc,
+/* --- Modify Table of Contents --- */
+.toc {
+  font-family: "Courier New", Courier, monospace;
+  background: var(--bg-1); // Example: Light dither background
+  border: var(--border-standard);
+  padding: 1em;
+}
 .toc__menu,
 .toc__title,
-.toc a { // Target the container, menu, title, and links within
+.toc a {
   font-family: "Courier New", Courier, monospace;
+  color: var(--dark);
+  text-shadow: var(--l-shadow);
+}
+.toc a:hover {
+  background: var(--bg-2); // Darker dither on hover
 }
 
-// Apply monospace to the Author Sidebar elements
+/* --- Modify Author Sidebar --- */
+.sidebar { // Target the whole sidebar container
+    font-family: "Courier New", Courier, monospace;
+    background: var(--bg-2); // Example: Dither background
+    border: var(--border-standard);
+    padding: 1em;
+    color: var(--dark); // Set base text color for sidebar
+}
 .sidebar .author__name,
 .sidebar .author__bio,
-.sidebar .author__urls .author__urls-label { // Target name, bio, and labels in the sidebar
+.sidebar .author__urls .author__urls-label {
   font-family: "Courier New", Courier, monospace;
+  color: var(--dark);
+  text-shadow: var(--l-shadow); // Add outline
 }
-// You might also need to target generic sidebar text if the above isn't enough
-.sidebar,
 .sidebar p,
-.sidebar li {
+.sidebar li { // Apply to paragraphs and list items too
     font-family: "Courier New", Courier, monospace;
+    color: var(--dark);
+    text-shadow: var(--l-shadow);
+}
+.sidebar a { // Style links within the sidebar
+    color: var(--dark);
+    text-shadow: var(--l-shadow);
+    text-decoration: underline;
+    &:hover {
+      background: var(--bg-3); // Example hover
+    }
 }
 
 
-// Ensure buttons everywhere use monospace (you might already have .btn)
+/* --- Modify Buttons --- */
 button, .btn {
-     font-family: "Courier New", Courier, monospace;
-}
-
-// Ensure code blocks and inline code use monospace (often default, but good to be explicit)
-pre, code {
   font-family: "Courier New", Courier, monospace;
+  background: var(--bg-1); // Start with light dither
+  color: var(--dark);
+  border: var(--border-standard); // Use the standard border
+  text-shadow: var(--l-shadow); // Light outline for dark text
+  padding: 0.5em 1em; // Adjust padding as needed
+  cursor: pointer;
+  transition: background 200ms linear, color 200ms linear, text-shadow 200ms linear; // Smooth transition
+  box-shadow: none; // Remove default theme shadows if any
+  border-radius: 0; // Sharp corners for lo-fi feel (optional)
+}
+button:hover, .btn:hover {
+  background: var(--bg-7); // Change to darker dither on hover
+  color: var(--light); // Invert text color
+  text-shadow: var(--d-shadow); // Add dark outline for light text
 }
 
-// Apply monospace font to the search input field and its placeholder text
 
+/* --- Modify Code Blocks --- */
+pre {
+  font-family: "Courier New", Courier, monospace;
+  background: var(--bg-2); // Dithered background for code blocks
+  border: var(--border-standard);
+  padding: 1em;
+  color: var(--dark); // Ensure text is readable
+  text-shadow: var(--l-shadow); // Add outline
+  overflow-x: auto; // Ensure horizontal scrolling if needed
+}
+// Style inline code
+p code, li code, h1 code, h2 code, h3 code, h4 code, h5 code, h6 code { // Target code inside text elements
+  font-family: "Courier New", Courier, monospace;
+  background: var(--bg-1); // Lighter dither for inline
+  border: 1px solid var(--dark); // Thinner border for inline
+  padding: 0.1em 0.4em;
+  border-radius: 0; // Sharp corners
+  color: var(--dark);
+  text-shadow: var(--l-shadow);
+}
+
+/* --- Modify Search Input (Keep your font setting) --- */
 .search-input,
 .search-input::placeholder {
   font-family: "Courier New", Courier, monospace;
+  // Optional: Add dither/border styling
+  background: var(--bg-0);
+  border: var(--border-standard);
+  padding: 0.5em;
+  color: var(--dark);
 }
 
