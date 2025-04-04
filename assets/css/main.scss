@@ -117,10 +117,10 @@ p code, li code, h1 code, h2 code, h3 code, h4 code, h5 code, h6 code {
    Masthead (Header) Styles
    ========================================================================== */
 .masthead {
-  font-family: "Courier New", Courier, monospace;
-  background: var(--bg-4); // Dithered dark background (--bg-8 for solid)
-  color: var(--light); // Default color for elements inside
-  // border-bottom: var(--border-standard);
+  font-family: monospace; // <<< CHANGED font stack
+  background: var(--bg-7);
+  color: var(--light);
+  // border-bottom: var(--border-standard); // Uses the new 1px border if uncommented
 
   .masthead__inner-wrap,
   .masthead__menu,
@@ -130,11 +130,11 @@ p code, li code, h1 code, h2 code, h3 code, h4 code, h5 code, h6 code {
 }
 
 /* Site Title & Search Toggle (Simple Style) */
-.masthead nav#site-nav a.site-title, // High Specificity for Title
+.masthead nav#site-nav a.site-title,
 .masthead .search__toggle {
-  font-family: "Courier New", Courier, monospace;
+  font-family: monospace; // <<< CHANGED font stack
   color: var(--light) !important;
-  text-shadow: var(--d-shadow) !important; // Dark shadow for light text
+  text-shadow: var(--d-shadow) !important;
   text-decoration: none;
   background: transparent;
   transition: text-decoration 0.2s ease;
@@ -151,22 +151,22 @@ p code, li code, h1 code, h2 code, h3 code, h4 code, h5 code, h6 code {
 
 /* Menu Items (Button Style with Animation) */
 .masthead .visible-links .masthead__menu-item a {
-  font-family: "Courier New", Courier, monospace;
+  font-family: monospace; // <<< CHANGED font stack
   display: inline-block;
   padding: 0.5em 1em;
   font-weight: bold;
   border-radius: 0.5em;
-  background: var(--bg-0); // Initial State: Light BG
-  color: var(--dark) !important; // Initial State: Dark Text
-  text-shadow: var(--l-shadow) !important; // Initial State: Light Shadow
-  border: var(--border-standard);
+  background: var(--bg-0);
+  color: var(--dark) !important;
+  text-shadow: var(--l-shadow) !important;
+  border: var(--border-standard); // Uses the new 1px border
   text-decoration: none;
   transition: none;
 
   &:hover {
     animation: light-to-dark 200ms linear forwards;
-    color: var(--light) !important; // Hover State: Light Text
-    text-shadow: var(--d-shadow) !important; // Hover State: Dark Shadow
+    color: var(--light) !important;
+    text-shadow: var(--d-shadow) !important;
     text-decoration: none;
     border-radius: 0.5em;
   }
@@ -183,11 +183,10 @@ p code, li code, h1 code, h2 code, h3 code, h4 code, h5 code, h6 code {
    Sidebar (Author) Styles
    ========================================================================== */
 .sidebar {
-  font-family: "Courier New", Courier, monospace;
-  background: var(--bg-2); // Dithered light background
-  border: var(--border-standard);
+  font-family: monospace; // <<< CHANGED font stack
+  background: var(--bg-2);
+  border: var(--border-standard); // Uses the new 1px border
   padding: 1em;
-  // Base color/shadow for elements directly inside .sidebar that aren't overridden below
   color: var(--dark) !important;
   text-shadow: var(--l-shadow) !important;
 }
@@ -200,18 +199,16 @@ p code, li code, h1 code, h2 code, h3 code, h4 code, h5 code, h6 code {
 .sidebar .author__bio,
 .sidebar .author__urls-label,
 .sidebar a {
-  font-family: "Courier New", Courier, monospace; // Ensure font consistency
-  color: var(--dark) !important; // Force dark text
-  text-shadow: var(--l-shadow) !important; // Force light shadow
+  font-family: monospace; // <<< CHANGED font stack
+  color: var(--dark) !important;
+  text-shadow: var(--l-shadow) !important;
 }
 
 /* Specific hover for sidebar links */
 .sidebar a {
   text-decoration: underline;
   &:hover {
-    background: var(--bg-3); // Example darker dither on hover
-    // color: var(--light) !important; // Optionally change color on hover
-    // text-shadow: var(--d-shadow) !important; // Optionally change shadow on hover
+    background: var(--bg-3);
   }
 }
 
@@ -219,11 +216,10 @@ p code, li code, h1 code, h2 code, h3 code, h4 code, h5 code, h6 code {
    Table of Contents (TOC) Styles
    ========================================================================== */
 .toc {
-  font-family: "Courier New", Courier, monospace;
-  background: var(--bg-1); // Light dither background
-  border: var(--border-standard);
+  font-family: monospace; // <<< CHANGED font stack
+  background: var(--bg-1);
+  border: var(--border-standard); // Uses the new 1px border
   padding: 1em;
-  // Base color/shadow for elements directly inside .toc
   color: var(--dark) !important;
   text-shadow: var(--l-shadow) !important;
 }
@@ -231,31 +227,29 @@ p code, li code, h1 code, h2 code, h3 code, h4 code, h5 code, h6 code {
 /* Specific elements within TOC */
 .toc__menu,
 .toc__title,
-.toc li, // Target list items too
+.toc li,
 .toc a {
-  font-family: "Courier New", Courier, monospace; // Ensure font consistency
-  color: var(--dark) !important; // Force dark text
-  text-shadow: var(--l-shadow) !important; // Force light shadow
+  font-family: monospace; // <<< CHANGED font stack
+  color: var(--dark) !important;
+  text-shadow: var(--l-shadow) !important;
 }
 
 /* Specific hover for TOC links */
 .toc a {
-   text-decoration: none; // Or underline
+   text-decoration: none;
    &:hover {
-       background: var(--bg-2); // Darker dither on hover
+       background: var(--bg-2);
    }
 }
-
 
 /* ==========================================================================
    Footer Styles
    ========================================================================== */
 .page__footer {
-  font-family: "Courier New", Courier, monospace;
-  background: var(--bg-2); // Dithered light background
-  border-top: var(--border-standard);
-  padding: 1em 0; // Adjust padding
-  // Base color/shadow for elements directly inside footer
+  font-family: monospace; // <<< CHANGED font stack
+  background: var(--bg-2);
+  border-top: var(--border-standard); // Uses the new 1px border
+  padding: 1em 0;
   color: var(--dark) !important;
   text-shadow: var(--l-shadow) !important;
 }
@@ -265,9 +259,9 @@ p code, li code, h1 code, h2 code, h3 code, h4 code, h5 code, h6 code {
 .page__footer span,
 .page__footer li,
 .page__footer a {
-  font-family: "Courier New", Courier, monospace; // Ensure font consistency
-  color: var(--dark) !important; // Force dark text
-  text-shadow: var(--l-shadow) !important; // Force light shadow
+  font-family: monospace; // <<< CHANGED font stack
+  color: var(--dark) !important;
+  text-shadow: var(--l-shadow) !important;
 }
 
 /* Specific hover for footer links */
@@ -282,21 +276,21 @@ p code, li code, h1 code, h2 code, h3 code, h4 code, h5 code, h6 code {
    Button Styles (.btn, button)
    ========================================================================== */
 button, .btn {
-  font-family: "Courier New", Courier, monospace;
+  font-family: monospace; // <<< CHANGED font stack
   background: var(--bg-1);
-  color: var(--dark) !important; // Force dark text
-  text-shadow: var(--l-shadow) !important; // Force light shadow
-  border: var(--border-standard);
+  color: var(--dark) !important;
+  text-shadow: var(--l-shadow) !important;
+  border: var(--border-standard); // Uses the new 1px border
   padding: 0.5em 1em;
   cursor: pointer;
   transition: background 200ms linear, color 200ms linear, text-shadow 200ms linear;
   box-shadow: none;
-  border-radius: 0; // Sharp corners unless overridden (like masthead menu items)
+  border-radius: 0;
 
   &:hover {
     background: var(--bg-7);
-    color: var(--light) !important; // Force light text
-    text-shadow: var(--d-shadow) !important; // Force dark shadow
+    color: var(--light) !important;
+    text-shadow: var(--d-shadow) !important;
   }
 }
 
@@ -305,12 +299,12 @@ button, .btn {
    ========================================================================== */
 .search-input,
 .search-input::placeholder {
-  font-family: "Courier New", Courier, monospace;
+  font-family: monospace; // <<< CHANGED font stack
 }
 .search-input {
   background: var(--bg-0);
-  border: var(--border-standard);
+  border: var(--border-standard); // Uses the new 1px border
   padding: 0.5em;
-  color: var(--dark) !important; // Force dark text
-  text-shadow: var(--l-shadow) !important; // Force light shadow
+  color: var(--dark) !important;
+  text-shadow: var(--l-shadow) !important;
 }
