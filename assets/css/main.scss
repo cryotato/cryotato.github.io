@@ -48,6 +48,87 @@ search: false
    --border-standard: 2px solid var(--dark); // Define a reusable border
 }
 
+/* ==========================================================================
+   Text Readability Improvements
+   ========================================================================== */
+
+/* Apply to main body text and lists */
+body, p, li {
+  // Assuming body background is --bg-0 (light) and text is --dark
+  text-shadow: var(--l-shadow);
+}
+
+/* Apply to headings */
+h1, h2, h3, h4, h5, h6 {
+  // Assuming headings are dark text on light background
+  text-shadow: var(--l-shadow);
+}
+
+/* Apply to links (that aren't in explicitly dark sections like masthead) */
+/* Be careful - this might be too broad, adjust as needed */
+a {
+  // Assuming most links are dark text on light background
+  text-shadow: var(--l-shadow);
+}
+// Remove shadow specifically from links within the dark masthead
+// as they already have the dark shadow applied separately
+.masthead a {
+  text-shadow: var(--d-shadow) !important; // Re-assert dark shadow here
+}
+
+
+/* Apply to blockquotes */
+blockquote {
+  // Assuming dark text on potentially dithered light background
+  text-shadow: var(--l-shadow);
+}
+blockquote p { // Ensure paragraphs inside also get it
+  text-shadow: var(--l-shadow);
+}
+
+/* Apply within the sidebar (assuming dithered light background --bg-2) */
+.sidebar, .sidebar p, .sidebar li, .sidebar h1, .sidebar h2, .sidebar h3, .sidebar .author__name, .sidebar .author__bio {
+  // Sidebar has --bg-2 (light dither), text is --dark
+  text-shadow: var(--l-shadow);
+}
+.sidebar a {
+  // Links within sidebar
+   text-shadow: var(--l-shadow);
+}
+
+/* Apply within the footer (assuming dithered light background --bg-2) */
+.page__footer, .page__footer p, .page__footer span, .page__footer li {
+  // Footer has --bg-2 (light dither), text is --dark
+  text-shadow: var(--l-shadow);
+}
+.page__footer a {
+  // Links within footer
+  text-shadow: var(--l-shadow);
+}
+
+/* Apply within code blocks (pre) if needed */
+pre {
+  // Pre has --bg-2, text is --dark
+  text-shadow: var(--l-shadow);
+}
+/* Inline code */
+p code, li code, h1 code, h2 code, h3 code, h4 code, h5 code, h6 code {
+  // Inline code has --bg-1, text is --dark
+  text-shadow: var(--l-shadow);
+}
+
+/* Apply within Buttons */
+button, .btn {
+  // Button has --bg-1, text is --dark
+  text-shadow: var(--l-shadow);
+  &:hover {
+    // Hover state has --bg-7 (dark dither), text is --light
+    text-shadow: var(--d-shadow); // Switch shadow on hover
+  }
+}
+
+
+
 body {
   /* --- Use variables for background and color --- */
   background: var(--bg-0); // Use the solid light variable
