@@ -35,3 +35,23 @@ body {
   /* --- Optional: Slightly adjust default font size or line height if needed --- */
   // font-size: 16px; /* Default is often fine */
   // line-height: 1.6; /* Can improve readability */
+
+} // <--- ADD THIS CLOSING BRACE
+
+/* --- Optional: Ensure links use the main text color by default --- */
+/* You might want to style link underlines or hover states later */
+a {
+  color: inherit; // Makes links use the parent's color (which defaults to the body color)
+  // text-decoration: none; // Uncomment to remove underlines
+  // border-bottom: 1px solid; // Uncomment for a simple underline style
+} // <--- MAKE SURE TO ADD CLOSING BRACES FOR ANY OTHER BLOCKS YOU ADD LATER
+
+/* --- Optional: Apply monospace font to headings too --- */
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Courier New", Courier, monospace; // Or your chosen monospace font stack
+} // <--- MAKE SURE TO ADD CLOSING BRACES FOR ANY OTHER BLOCKS YOU ADD LATER
+
+/* --- Optional: Apply monospace font to buttons --- */
+.btn {
+    font-family: "Courier New", Courier, monospace; // Or your chosen monospace font stack
+} // <--- MAKE SURE TO ADD CLOSING BRACES FOR ANY OTHER BLOCKS YOU ADD LATER
