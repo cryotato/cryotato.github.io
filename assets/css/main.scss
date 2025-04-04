@@ -162,57 +162,81 @@ h1, h2, h3, h4, h5, h6 {
   // text-shadow: var(--l-shadow);
 }
 
-/* --- Modify Masthead (Header) --- */
+/* ==========================================================================
+   Masthead Styling (Header) with Specific Menu Item Animation
+   ========================================================================== */
+
+/* --- Base Masthead Styles --- */
 .masthead {
   font-family: "Courier New", Courier, monospace;
-  background: var(--bg-7);
-  color: var(--light); // Default text color for anything inside not specifically styled
-  // border-bottom: var(--border-standard);
+  background: var(--bg-7); // Dithered dark background (--bg-8 for solid)
+  color: var(--light);
+  // border-bottom: var(--border-standard); // Optional border
 
   /* --- Force inner wrappers to be transparent --- */
   .masthead__inner-wrap,
   .masthead__menu,
   #site-nav {
-    background: transparent !important; // Prevent theme/skin backgrounds
+    background: transparent !important;
   }
 }
 
-/* --- Style the links within the masthead --- */
-.masthead .site-title, // Target the site title link directly
-.masthead .visible-links .masthead__menu-item a, // Target menu item links
-.masthead .search__toggle { // Also style the search icon button if needed
+/* --- Style the SITE TITLE and SEARCH TOGGLE (No Animation) --- */
+.masthead .site-title,
+.masthead .search__toggle {
   font-family: "Courier New", Courier, monospace;
-  color: var(--light) !important; // Force light color
-  text-shadow: var(--d-shadow);   // Add dark outline for readability
+  color: var(--light) !important;
+  text-shadow: var(--d-shadow);
   text-decoration: none;
-  background: transparent; // Ensure NO background in default state
-  transition: background 200ms linear, color 200ms linear; // Add transitions if desired
+  background: transparent; // Ensure no background initially
+  transition: text-decoration 0.2s ease; // Optional: smooth underline transition
 
   &:hover {
-    // background: var(--bg-6); // Example: Denser dither on hover (Optional)
-    // color: var(--light); // Color likely stays light
-    text-decoration: underline; // Add underline on hover? (Optional)
+    text-decoration: underline; // Simple underline on hover
+    // Add any other simple hover effects here if needed
   }
 }
 
-/* Specific fix for site title if it needs different hover */
-.masthead .site-title:hover {
-   background: transparent; // Maybe no background change on title hover
-   text-decoration: none; // Keep no underline?
+/* --- Style the MENU ITEMS (With Codepen Animation on Hover) --- */
+.masthead .visible-links .masthead__menu-item a {
+  font-family: "Courier New", Courier, monospace;
+  color: var(--light) !important;
+  text-shadow: var(--d-shadow);
+  text-decoration: none;
+  background: transparent; // Start transparent for animation
+  padding: 0.5em 1em;      // Add padding for better hover area
+  display: inline-block;   // Make padding work correctly
+  transition: none;          // Disable default Minimal Mistakes transitions here
+
+  /* Optional: Apply reverse animation when hover ends (can sometimes look jerky) */
+  /* animation: dark-to-light 200ms linear forwards; */
+
+  &:hover {
+    /* Apply the CodePen animation */
+    animation: light-to-dark 200ms linear forwards;
+
+    /* Re-assert styles needed during animation */
+    color: var(--light) !important;
+    text-shadow: var(--d-shadow);
+    text-decoration: none; // Ensure no underline appears from other rules during animation
+  }
 }
 
-/* Ensure greedy-nav button icon is visible */
+
+/* --- Ensure greedy-nav button icon is visible --- */
+/* (Keep these rules as they were) */
 .masthead .greedy-nav__toggle .navicon {
-  background: var(--light); // Make the hamburger icon lines light
+  background: var(--light);
 }
 .masthead .greedy-nav__toggle .navicon:before,
 .masthead .greedy-nav__toggle .navicon:after {
-  background: var(--light); // Make the hamburger icon lines light
+  background: var(--light);
 }
 
-/* Ensure search icon is visible */
+/* --- Ensure search icon is visible --- */
+/* (Keep this rule but it's mostly covered by the .search__toggle rule above) */
 .masthead .search__toggle {
-    color: var(--light) !important; // Ensure icon itself is light
+    color: var(--light) !important; // Ensure icon color itself is light
 }
 
 /* --- Modify Footer --- */
@@ -337,3 +361,29 @@ p code, li code, h1 code, h2 code, h3 code, h4 code, h5 code, h6 code { // Targe
   color: var(--dark);
 }
 
+/* ==========================================================================
+   Codepen Dither Hover Animations
+   ========================================================================== */
+@keyframes light-to-dark {
+  0% { background: var(--bg-0); }
+  12.5% { background: var(--bg-1); }
+  25% { background: var(--bg-2); }
+  37.5% { background: var(--bg-3); }
+  50% { background: var(--bg-4); }
+  62.5% { background: var(--bg-5); }
+  75% { background: var(--bg-6); }
+  87.5% { background: var(--bg-7); }
+  100% { background: var(--bg-8); }
+}
+
+@keyframes dark-to-light {
+  0% { background: var(--bg-8); }
+  12.5% { background: var(--bg-7); }
+  25% { background: var(--bg-6); }
+  37.5% { background: var(--bg-5); }
+  50% { background: var(--bg-4); }
+  62.5% { background: var(--bg-3); }
+  75% { background: var(--bg-2); }
+  87.5% { background: var(--bg-1); }
+  100% { background: var(--bg-0); }
+}
