@@ -14,192 +14,117 @@ search: false
 :root {
   /* --- Define your static colors --- */
   --light: #f5f5f5;
-  --dark: #262626; 
+  --dark: #262626;
 
   /* --- Dot Definitions --- */
   --gl: radial-gradient(circle 1px at 0px 0px, var(--dark) 1px, transparent 0);
   --gd: radial-gradient(circle 1px at 0px 0px, var(--light) 1px, transparent 0);
 
-  /* --- Dithered Background Patterns (Copy Directly) --- */
-  // Patterns: Dark dots on Light background
-  --bg-0: var(--light); // Solid Light
-  --bg-1: var(--gl) 0px 0px / 4px 4px, var(--light); // Sparse dots
-  --bg-2: var(--gl) 0px 0px / 4px 4px, var(--gl) 2px 2px / 4px 4px, var(--light); // Medium density dots (checkerboard-ish)
-  --bg-3: var(--gl) 0px 0px / 2px 2px, var(--light); // Dense dots (like 50% grey)
-  --bg-4: var(--gl) 0px 0px / 2px 2px, var(--gl) 1px 1px / 2px 2px, var(--light); // Very dense dots
+  /* --- Dithered Background Patterns --- */
+  --bg-0: var(--light);
+  --bg-1: var(--gl) 0px 0px / 4px 4px, var(--light);
+  --bg-2: var(--gl) 0px 0px / 4px 4px, var(--gl) 2px 2px / 4px 4px, var(--light);
+  --bg-3: var(--gl) 0px 0px / 2px 2px, var(--light);
+  --bg-4: var(--gl) 0px 0px / 2px 2px, var(--gl) 1px 1px / 2px 2px, var(--light);
+  --bg-5: var(--gd) 0px 0px / 2px 2px, var(--dark);
+  --bg-6: var(--gd) 0px 0px / 4px 4px, var(--gd) 2px 2px / 4px 4px, var(--dark);
+  --bg-7: var(--gd) 0px 0px / 4px 4px, var(--dark);
+  --bg-8: var(--dark);
 
-  // Patterns: Light dots on Dark background (adjust if needed)
-  --bg-5: var(--gd) 0px 0px / 2px 2px, var(--dark); // Dense light dots on dark
-  --bg-6: var(--gd) 0px 0px / 4px 4px, var(--gd) 2px 2px / 4px 4px, var(--dark); // Medium density light dots
-  --bg-7: var(--gd) 0px 0px / 4px 4px, var(--dark); // Sparse light dots
-  --bg-8: var(--dark); // Solid Dark
-
-  /* --- Pixelated Text Shadow Definitions (Copy Directly) --- */
-  --l-shadow: // Outline for dark text on light background
-    -1px -1px 0 var(--light), 0 -1px 0 var(--light), 1px -1px 0 var(--light),
-    1px 0 0 var(--light), 1px 1px 0 var(--light), 0 1px 0 var(--light),
-    -1px 1px 0 var(--light), -1px 0 0 var(--light);
-  --d-shadow: // Outline for light text on dark background
-    -1px -1px 0 var(--dark), 0 -1px 0 var(--dark), 1px -1px 0 var(--dark),
-    1px 0 0 var(--dark), 1px 1px 0 var(--dark), 0 1px 0 var(--dark),
-    -1px 1px 0 var(--dark), -1px 0 0 var(--dark);
+  /* --- Pixelated Text Shadow Definitions --- */
+  --l-shadow: -1px -1px 0 var(--light), 0 -1px 0 var(--light), 1px -1px 0 var(--light), 1px 0 0 var(--light), 1px 1px 0 var(--light), 0 1px 0 var(--light), -1px 1px 0 var(--light), -1px 0 0 var(--light);
+  --d-shadow: -1px -1px 0 var(--dark), 0 -1px 0 var(--dark), 1px -1px 0 var(--dark), 1px 0 0 var(--dark), 1px 1px 0 var(--dark), 0 1px 0 var(--dark), -1px 1px 0 var(--dark), -1px 0 0 var(--dark);
 
    /* --- Standard Border --- */
-   --border-standard: 2px solid var(--dark); // Define a reusable border
+   --border-standard: 2px solid var(--dark);
 }
 
 /* ==========================================================================
-   Text Readability Improvements (Hyper-Focused Specificity)
+   Codepen Dither Hover Animations
+   ========================================================================== */
+@keyframes light-to-dark {
+  0% { background: var(--bg-0); } 12.5% { background: var(--bg-1); } 25% { background: var(--bg-2); } 37.5% { background: var(--bg-3); } 50% { background: var(--bg-4); } 62.5% { background: var(--bg-5); } 75% { background: var(--bg-6); } 87.5% { background: var(--bg-7); } 100% { background: var(--bg-8); }
+}
+@keyframes dark-to-light {
+  0% { background: var(--bg-8); } 12.5% { background: var(--bg-7); } 25% { background: var(--bg-6); } 37.5% { background: var(--bg-5); } 50% { background: var(--bg-4); } 62.5% { background: var(--bg-3); } 75% { background: var(--bg-2); } 87.5% { background: var(--bg-1); } 100% { background: var(--bg-0); }
+}
+
+/* ==========================================================================
+   Global and Base Element Styles
    ========================================================================== */
 
-/* --- Base Body Text (Paragraphs, Lists) --- */
-/* Use theme's own content wrapper class for higher specificity */
+body {
+  background: var(--bg-0) !important; // Use variable and force override
+  color: var(--dark) !important;     // Use variable and force override
+  font-family: "Courier New", Courier, monospace;
+  font-size: 18px;
+  // Apply base shadow to body text, paragraphs/lists within content will inherit or be overridden specifically below
+  text-shadow: var(--l-shadow) !important;
+}
+
+/* More specific rule for paragraphs and list items within the main content area */
 .page__content p,
 .page__content ul li,
 .page__content ol li {
+  color: var(--dark) !important;
   text-shadow: var(--l-shadow) !important;
-  color: var(--dark) !important; // Ensure dark text
-}
-/* Ensure base body background is set */
-body {
-  background: var(--bg-0) !important;
 }
 
-/* --- Headings --- */
 h1, h2, h3, h4, h5, h6 {
+  font-family: "Courier New", Courier, monospace;
+  color: var(--dark) !important;
   text-shadow: var(--l-shadow) !important;
-  color: var(--dark) !important; // Ensure dark text
 }
 
-/* --- General Links (excluding specific areas) --- */
+/* General links - Exclude specific sections handled later */
 a:not(.masthead a):not(.sidebar a):not(.toc a):not(.page__footer a):not(.btn):not(.button) {
+  color: var(--dark) !important;
   text-shadow: var(--l-shadow) !important;
-  color: var(--dark) !important; // Ensure dark text
+  text-decoration: underline;
+  &:hover {
+    // Define general link hover if needed
+  }
 }
 
-/* --- Blockquotes --- */
 blockquote,
 blockquote p {
+  color: var(--dark) !important;
   text-shadow: var(--l-shadow) !important;
-  color: var(--dark) !important; // Ensure dark text
+  // Add other blockquote styles like border if needed
+  border-left: var(--border-standard);
+  padding-left: 1em;
+  margin-left: 0;
 }
 
-/* --- Code Blocks & Inline Code --- */
-pre,
+pre {
+  font-family: "Courier New", Courier, monospace;
+  background: var(--bg-2);
+  border: var(--border-standard);
+  padding: 1em;
+  color: var(--dark) !important; // Force color
+  text-shadow: var(--l-shadow) !important; // Force shadow
+  overflow-x: auto;
+}
+
 p code, li code, h1 code, h2 code, h3 code, h4 code, h5 code, h6 code {
-  text-shadow: var(--l-shadow) !important; // Light shadow for dark text
-  // Color is usually handled okay by themes/syntax highlighters, but force if needed:
-  // color: var(--dark) !important;
-}
-
-/* --- Buttons (Already Styled, Re-affirm shadow) --- */
-button, .btn {
+  font-family: "Courier New", Courier, monospace;
+  background: var(--bg-1);
+  border: 1px solid var(--dark);
+  padding: 0.1em 0.4em;
+  border-radius: 0;
+  color: var(--dark) !important;
   text-shadow: var(--l-shadow) !important;
-  &:hover {
-    text-shadow: var(--d-shadow) !important;
-  }
-}
-
-/* --- FIX FOR SIDEBARS (Author & TOC) --- */
-/* Target elements *directly within* sidebar/toc classes */
-.sidebar p,
-.sidebar li,
-.sidebar h1, .sidebar h2, .sidebar h3, .sidebar h4, /* Target headings in sidebar */
-.sidebar .author__name,
-.sidebar .author__bio,
-.sidebar .author__urls-label,
-.sidebar a, /* Target links specifically within .sidebar */
-.toc, /* Target TOC container itself if it has text */
-.toc__menu, /* Target TOC menu */
-.toc__title, /* Target TOC title */
-.toc a,  /* Target links specifically within .toc */
-.toc li /* Target list items within .toc */
-{
-  text-shadow: var(--l-shadow) !important; // Light shadow (assuming light dither bg)
-  color: var(--dark) !important;       // Force dark text color
-  // background: transparent !important; // Uncomment THIS LINE ONLY if text still has weird background artifacts
-}
-
-
-/* --- FIX FOR FOOTER --- */
-/* Target elements *directly within* footer classes */
-.page__footer, /* Target footer container itself */
-.page__footer p,
-.page__footer span, /* Target span elements */
-.page__footer li,
-.page__footer a {
-  text-shadow: var(--l-shadow) !important; // Light shadow (assuming light dither bg)
-  color: var(--dark) !important;       // Force dark text color
-}
-
-
-/* --- FIX FOR SITE TITLE in Masthead --- */
-/* Re-apply with high specificity */
-.masthead nav#site-nav a.site-title { // Use ID and class for very high specificity
-  color: var(--light) !important;
-  text-shadow: var(--d-shadow) !important; // Dark shadow for light text
-  // Test: Does increasing offset slightly make it visible? (If still not working)
-  // text-shadow: -2px -2px 0 var(--dark), 0 -2px 0 var(--dark), 2px -2px 0 var(--dark), 2px 0 0 var(--dark), 2px 2px 0 var(--dark), 0 2px 0 var(--dark), -2px 2px 0 var(--dark), -2px 0 0 var(--dark) !important;
-}
-
-/* --- FIX FOR MENU ITEMS (Initial State Shadow) --- */
-/* Ensure the initial state shadow is also important */
-.masthead .visible-links .masthead__menu-item a {
-    text-shadow: var(--l-shadow) !important; // Light shadow for dark text
-    /* Ensure hover state shadow is important too */
-    &:hover {
-        text-shadow: var(--d-shadow) !important; // Dark shadow for light text
-    }
-}
-
-
-
-
-body {
-  /* --- Use variables for background and color --- */
-  background: var(--bg-0); // Use the solid light variable
-  color: var(--dark);     // Use the solid dark variable
-
-  /* --- Keep your font settings --- */
-  font-family: "Courier New", Courier, monospace;
-  font-size: 18px;
-  // line-height: 1.6;
-
-  /* --- Optional: Add a base border to everything for a hard edge? --- */
-  // border: var(--border-standard); // Maybe too much, apply selectively later
-} // Make sure this closing brace is present!
-
-/* --- Modify Link Style --- */
-a {
-  color: inherit; // Keep this
-  text-decoration: underline; // Simple underline often works well for lo-fi
-  // Optionally add hover effect
-  &:hover {
-    // background: var(--bg-1); // Subtle dither on hover?
-    // color: var(--light);    // Invert color?
-    // text-shadow: var(--d-shadow); // Add outline?
-  }
-}
-
-/* --- Keep your heading font override --- */
-h1, h2, h3, h4, h5, h6 {
-  font-family: "Courier New", Courier, monospace;
-  // Optional: Add outline to headings on light background?
-  // text-shadow: var(--l-shadow);
 }
 
 /* ==========================================================================
-   Masthead Styling (Header) with Button-Style Menu Items & Animation
+   Masthead (Header) Styles
    ========================================================================== */
-
-/* --- Base Masthead Styles --- */
 .masthead {
   font-family: "Courier New", Courier, monospace;
   background: var(--bg-7); // Dithered dark background (--bg-8 for solid)
-  color: var(--light);
-  // border-bottom: var(--border-standard); // Optional border
+  color: var(--light); // Default color for elements inside
+  // border-bottom: var(--border-standard);
 
-  /* --- Force inner wrappers to be transparent --- */
   .masthead__inner-wrap,
   .masthead__menu,
   #site-nav {
@@ -207,209 +132,188 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
-/* --- Style the SITE TITLE and SEARCH TOGGLE (No Animation) --- */
-.masthead .site-title,
+/* Site Title & Search Toggle (Simple Style) */
+.masthead nav#site-nav a.site-title, // High Specificity for Title
 .masthead .search__toggle {
   font-family: "Courier New", Courier, monospace;
   color: var(--light) !important;
-  text-shadow: var(--d-shadow); // Dark shadow for light text
+  text-shadow: var(--d-shadow) !important; // Dark shadow for light text
   text-decoration: none;
-  background: transparent; // Ensure no background initially
+  background: transparent;
   transition: text-decoration 0.2s ease;
 
   &:hover {
-    text-decoration: underline; // Simple underline on hover
+    text-decoration: underline;
   }
 }
+/* Ensure search icon color */
+.masthead .search__toggle {
+    color: var(--light) !important;
+}
 
-/* --- Style the MENU ITEMS like Codepen Buttons (With Animation on Hover) --- */
+
+/* Menu Items (Button Style with Animation) */
 .masthead .visible-links .masthead__menu-item a {
   font-family: "Courier New", Courier, monospace;
   display: inline-block;
   padding: 0.5em 1em;
-  font-weight: bold; // <<< ADD THIS LINE for bold text
-  border-radius: 0.5em; // <<< ADD THIS LINE for rounded corners (adjust value as needed, e.g., 4px, 6px)
-
-  /* --- Initial State (Like Codepen Button) --- */
-  background: var(--bg-0);
-  color: var(--dark) !important;
-  text-shadow: var(--l-shadow); // Note: This relies on the shadow fix below!
+  font-weight: bold;
+  border-radius: 0.5em;
+  background: var(--bg-0); // Initial State: Light BG
+  color: var(--dark) !important; // Initial State: Dark Text
+  text-shadow: var(--l-shadow) !important; // Initial State: Light Shadow
   border: var(--border-standard);
-
   text-decoration: none;
   transition: none;
 
   &:hover {
     animation: light-to-dark 200ms linear forwards;
-    color: var(--light) !important;
-    text-shadow: var(--d-shadow); // Note: This relies on the shadow fix below!
+    color: var(--light) !important; // Hover State: Light Text
+    text-shadow: var(--d-shadow) !important; // Hover State: Dark Shadow
     text-decoration: none;
-    /* Keep border rounded on hover */
-    border-radius: 0.5em; // Ensure border-radius persists
+    border-radius: 0.5em;
   }
 }
 
-/* --- Ensure greedy-nav button icon is visible --- */
-.masthead .greedy-nav__toggle .navicon {
-  background: var(--light);
-}
+/* Greedy Nav Mobile Toggle Icon */
+.masthead .greedy-nav__toggle .navicon,
 .masthead .greedy-nav__toggle .navicon:before,
 .masthead .greedy-nav__toggle .navicon:after {
   background: var(--light);
 }
 
-/* --- Ensure search icon is visible --- */
-.masthead .search__toggle {
-    color: var(--light) !important; // Ensure icon color itself is light
-}
-
-
-
-/* --- Modify Footer --- */
-.page__footer {
+/* ==========================================================================
+   Sidebar (Author) Styles
+   ========================================================================== */
+.sidebar {
   font-family: "Courier New", Courier, monospace;
-  background: var(--bg-2); // Example: Give footer a dithered background
-  color: var(--dark);
-  border-top: var(--border-standard); // Add border
-  padding-top: 1em; // Add some spacing
-  padding-bottom: 1em;
-}
-.page__footer a,
-.page__footer span,
-.page__footer p {
-    font-family: "Courier New", Courier, monospace;
-    color: var(--dark); // Ensure text color is dark
-    text-shadow: var(--l-shadow); // Add light outline
-}
-.page__footer a:hover {
-   // Add hover effect if desired
-}
-
-
-/* --- Modify Table of Contents --- */
-.toc {
-  font-family: "Courier New", Courier, monospace;
-  background: var(--bg-1); // Example: Light dither background
+  background: var(--bg-2); // Dithered light background
   border: var(--border-standard);
   padding: 1em;
-}
-.toc__menu,
-.toc__title,
-.toc a {
-  font-family: "Courier New", Courier, monospace;
-  color: var(--dark);
-  text-shadow: var(--l-shadow);
-}
-.toc a:hover {
-  background: var(--bg-2); // Darker dither on hover
+  // Base color/shadow for elements directly inside .sidebar that aren't overridden below
+  color: var(--dark) !important;
+  text-shadow: var(--l-shadow) !important;
 }
 
-/* --- Modify Author Sidebar --- */
-.sidebar { // Target the whole sidebar container
-    font-family: "Courier New", Courier, monospace;
-    background: var(--bg-2); // Example: Dither background
-    border: var(--border-standard);
-    padding: 1em;
-    color: var(--dark); // Set base text color for sidebar
-}
+/* Specific elements within Author Sidebar */
+.sidebar p,
+.sidebar li,
+.sidebar h1, .sidebar h2, .sidebar h3, .sidebar h4,
 .sidebar .author__name,
 .sidebar .author__bio,
-.sidebar .author__urls .author__urls-label {
-  font-family: "Courier New", Courier, monospace;
-  color: var(--dark);
-  text-shadow: var(--l-shadow); // Add outline
-}
-.sidebar p,
-.sidebar li { // Apply to paragraphs and list items too
-    font-family: "Courier New", Courier, monospace;
-    color: var(--dark);
-    text-shadow: var(--l-shadow);
-}
-.sidebar a { // Style links within the sidebar
-    color: var(--dark);
-    text-shadow: var(--l-shadow);
-    text-decoration: underline;
-    &:hover {
-      background: var(--bg-3); // Example hover
-    }
+.sidebar .author__urls-label,
+.sidebar a {
+  font-family: "Courier New", Courier, monospace; // Ensure font consistency
+  color: var(--dark) !important; // Force dark text
+  text-shadow: var(--l-shadow) !important; // Force light shadow
 }
 
-
-/* --- Modify Buttons --- */
-button, .btn {
-  font-family: "Courier New", Courier, monospace;
-  background: var(--bg-1); // Start with light dither
-  color: var(--dark);
-  border: var(--border-standard); // Use the standard border
-  text-shadow: var(--l-shadow); // Light outline for dark text
-  padding: 0.5em 1em; // Adjust padding as needed
-  cursor: pointer;
-  transition: background 200ms linear, color 200ms linear, text-shadow 200ms linear; // Smooth transition
-  box-shadow: none; // Remove default theme shadows if any
-  border-radius: 0; // Sharp corners for lo-fi feel (optional)
-}
-button:hover, .btn:hover {
-  background: var(--bg-7); // Change to darker dither on hover
-  color: var(--light); // Invert text color
-  text-shadow: var(--d-shadow); // Add dark outline for light text
-}
-
-
-/* --- Modify Code Blocks --- */
-pre {
-  font-family: "Courier New", Courier, monospace;
-  background: var(--bg-2); // Dithered background for code blocks
-  border: var(--border-standard);
-  padding: 1em;
-  color: var(--dark); // Ensure text is readable
-  text-shadow: var(--l-shadow); // Add outline
-  overflow-x: auto; // Ensure horizontal scrolling if needed
-}
-// Style inline code
-p code, li code, h1 code, h2 code, h3 code, h4 code, h5 code, h6 code { // Target code inside text elements
-  font-family: "Courier New", Courier, monospace;
-  background: var(--bg-1); // Lighter dither for inline
-  border: 1px solid var(--dark); // Thinner border for inline
-  padding: 0.1em 0.4em;
-  border-radius: 0; // Sharp corners
-  color: var(--dark);
-  text-shadow: var(--l-shadow);
-}
-
-/* --- Modify Search Input (Keep your font setting) --- */
-.search-input,
-.search-input::placeholder {
-  font-family: "Courier New", Courier, monospace;
-  // Optional: Add dither/border styling
-  background: var(--bg-0);
-  border: var(--border-standard);
-  padding: 0.5em;
-  color: var(--dark);
+/* Specific hover for sidebar links */
+.sidebar a {
+  text-decoration: underline;
+  &:hover {
+    background: var(--bg-3); // Example darker dither on hover
+    // color: var(--light) !important; // Optionally change color on hover
+    // text-shadow: var(--d-shadow) !important; // Optionally change shadow on hover
+  }
 }
 
 /* ==========================================================================
-   Codepen Dither Hover Animations
+   Table of Contents (TOC) Styles
    ========================================================================== */
-@keyframes light-to-dark {
-  0% { background: var(--bg-0); }
-  12.5% { background: var(--bg-1); }
-  25% { background: var(--bg-2); }
-  37.5% { background: var(--bg-3); }
-  50% { background: var(--bg-4); }
-  62.5% { background: var(--bg-5); }
-  75% { background: var(--bg-6); }
-  87.5% { background: var(--bg-7); }
-  100% { background: var(--bg-8); }
+.toc {
+  font-family: "Courier New", Courier, monospace;
+  background: var(--bg-1); // Light dither background
+  border: var(--border-standard);
+  padding: 1em;
+  // Base color/shadow for elements directly inside .toc
+  color: var(--dark) !important;
+  text-shadow: var(--l-shadow) !important;
 }
 
-@keyframes dark-to-light {
-  0% { background: var(--bg-8); }
-  12.5% { background: var(--bg-7); }
-  25% { background: var(--bg-6); }
-  37.5% { background: var(--bg-5); }
-  50% { background: var(--bg-4); }
-  62.5% { background: var(--bg-3); }
-  75% { background: var(--bg-2); }
-  87.5% { background: var(--bg-1); }
-  100% { background: var(--bg-0); }
+/* Specific elements within TOC */
+.toc__menu,
+.toc__title,
+.toc li, // Target list items too
+.toc a {
+  font-family: "Courier New", Courier, monospace; // Ensure font consistency
+  color: var(--dark) !important; // Force dark text
+  text-shadow: var(--l-shadow) !important; // Force light shadow
+}
+
+/* Specific hover for TOC links */
+.toc a {
+   text-decoration: none; // Or underline
+   &:hover {
+       background: var(--bg-2); // Darker dither on hover
+   }
+}
+
+
+/* ==========================================================================
+   Footer Styles
+   ========================================================================== */
+.page__footer {
+  font-family: "Courier New", Courier, monospace;
+  background: var(--bg-2); // Dithered light background
+  border-top: var(--border-standard);
+  padding: 1em 0; // Adjust padding
+  // Base color/shadow for elements directly inside footer
+  color: var(--dark) !important;
+  text-shadow: var(--l-shadow) !important;
+}
+
+/* Specific elements within Footer */
+.page__footer p,
+.page__footer span,
+.page__footer li,
+.page__footer a {
+  font-family: "Courier New", Courier, monospace; // Ensure font consistency
+  color: var(--dark) !important; // Force dark text
+  text-shadow: var(--l-shadow) !important; // Force light shadow
+}
+
+/* Specific hover for footer links */
+.page__footer a {
+  text-decoration: underline;
+  &:hover {
+     // Define footer link hover if needed
+  }
+}
+
+/* ==========================================================================
+   Button Styles (.btn, button)
+   ========================================================================== */
+button, .btn {
+  font-family: "Courier New", Courier, monospace;
+  background: var(--bg-1);
+  color: var(--dark) !important; // Force dark text
+  text-shadow: var(--l-shadow) !important; // Force light shadow
+  border: var(--border-standard);
+  padding: 0.5em 1em;
+  cursor: pointer;
+  transition: background 200ms linear, color 200ms linear, text-shadow 200ms linear;
+  box-shadow: none;
+  border-radius: 0; // Sharp corners unless overridden (like masthead menu items)
+
+  &:hover {
+    background: var(--bg-7);
+    color: var(--light) !important; // Force light text
+    text-shadow: var(--d-shadow) !important; // Force dark shadow
+  }
+}
+
+/* ==========================================================================
+   Search Input Styles
+   ========================================================================== */
+.search-input,
+.search-input::placeholder {
+  font-family: "Courier New", Courier, monospace;
+}
+.search-input {
+  background: var(--bg-0);
+  border: var(--border-standard);
+  padding: 0.5em;
+  color: var(--dark) !important; // Force dark text
+  text-shadow: var(--l-shadow) !important; // Force light shadow
 }
