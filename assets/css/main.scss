@@ -159,7 +159,6 @@ p code, li code, h1 code, h2 code, h3 code, h4 code, h5 code, h6 code {
 .masthead .visible-links .masthead__menu-item a {
   font-family: monospace;
   display: inline-block;
-  /* Reduce button height by reducing vertical padding */
   padding: 0.25em 1em; // <<< REDUCED vertical padding (was 0.5em)
   font-weight: bold;
   border-radius: 0.5em;
@@ -171,7 +170,7 @@ p code, li code, h1 code, h2 code, h3 code, h4 code, h5 code, h6 code {
   transition: none;
   position: relative;
 
-  &::after {
+  &::before {
       background: none !important;
   }
 
@@ -183,7 +182,7 @@ p code, li code, h1 code, h2 code, h3 code, h4 code, h5 code, h6 code {
     text-decoration: none !important;
     border-radius: 0.5em;
 
-    &::after {
+    &::before {
         background: none !important;
     }
   }
