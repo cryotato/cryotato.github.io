@@ -35,8 +35,8 @@ search: false
   --l-shadow: -1px -1px 0 var(--light), 0 -1px 0 var(--light), 1px -1px 0 var(--light), 1px 0 0 var(--light), 1px 1px 0 var(--light), 0 1px 0 var(--light), -1px 1px 0 var(--light), -1px 0 0 var(--light);
   --d-shadow: -1px -1px 0 var(--dark), 0 -1px 0 var(--dark), 1px -1px 0 var(--dark), 1px 0 0 var(--dark), 1px 1px 0 var(--dark), 0 1px 0 var(--dark), -1px 1px 0 var(--dark), -1px 0 0 var(--dark);
 
-   /* --- Standard Border --- */
-   --border-standard: 2px solid var(--dark);
+   /* --- Standard Border (Changed to 1px) --- */
+   --border-standard: 1px solid var(--dark); // <<< CHANGED FROM 2px to 1px
 }
 
 /* ==========================================================================
@@ -54,15 +54,13 @@ search: false
    ========================================================================== */
 
 body {
-  background: var(--bg-0) !important; // Use variable and force override
-  color: var(--dark) !important;     // Use variable and force override
-  font-family: "Courier New", Courier, monospace;
-  font-size: 16px;
-  // Apply base shadow to body text, paragraphs/lists within content will inherit or be overridden specifically below
+  background: var(--bg-0) !important;
+  color: var(--dark) !important;
+  font-family: monospace; // <<< CHANGED font stack
+  font-size: 18px;
   text-shadow: var(--l-shadow) !important;
 }
 
-/* More specific rule for paragraphs and list items within the main content area */
 .page__content p,
 .page__content ul li,
 .page__content ol li {
@@ -71,7 +69,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Courier New", Courier, monospace;
+  font-family: monospace; // <<< CHANGED font stack
   color: var(--dark) !important;
   text-shadow: var(--l-shadow) !important;
 }
@@ -90,26 +88,25 @@ blockquote,
 blockquote p {
   color: var(--dark) !important;
   text-shadow: var(--l-shadow) !important;
-  // Add other blockquote styles like border if needed
-  border-left: var(--border-standard);
+  border-left: var(--border-standard); // Uses the new 1px border
   padding-left: 1em;
   margin-left: 0;
 }
 
 pre {
-  font-family: "Courier New", Courier, monospace;
+  font-family: monospace; // <<< CHANGED font stack
   background: var(--bg-2);
-  border: var(--border-standard);
+  border: var(--border-standard); // Uses the new 1px border
   padding: 1em;
-  color: var(--dark) !important; // Force color
-  text-shadow: var(--l-shadow) !important; // Force shadow
+  color: var(--dark) !important;
+  text-shadow: var(--l-shadow) !important;
   overflow-x: auto;
 }
 
 p code, li code, h1 code, h2 code, h3 code, h4 code, h5 code, h6 code {
-  font-family: "Courier New", Courier, monospace;
+  font-family: monospace; // <<< CHANGED font stack
   background: var(--bg-1);
-  border: 1px solid var(--dark);
+  border: 1px solid var(--dark); // Explicit 1px border here already
   padding: 0.1em 0.4em;
   border-radius: 0;
   color: var(--dark) !important;
