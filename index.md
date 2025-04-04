@@ -5,3 +5,4 @@
 layout: single
 author_profile: true
 ---
+hi im ryan. everything i do is to declare my identity but i dont really have one. i aspire to be a Concept. i'm a schizoromantic in that way
