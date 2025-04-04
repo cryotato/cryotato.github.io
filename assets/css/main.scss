@@ -105,3 +105,11 @@ button, .btn {
 pre, code {
   font-family: "Courier New", Courier, monospace;
 }
+
+// Apply monospace font to the search input field and its placeholder text
+
+.search-input,
+.search-input::placeholder {
+  font-family: "Courier New", Courier, monospace;
+}
+
