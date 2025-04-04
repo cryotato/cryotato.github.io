@@ -266,7 +266,7 @@ p code, li code, h1 code, h2 code, h3 code, h4 code, h5 code, h6 code {
   font-family: monospace; // <<< CHANGED font stack
   background: var(--bg-2);
   border-top: var(--border-standard); // Uses the new 1px border
-  padding: 1em 0;
+  padding: 0.25em 1em; // <<< REDUCED vertical padding (was 0.5em)
   color: var(--dark) !important;
   text-shadow: var(--l-shadow) !important;
 }
