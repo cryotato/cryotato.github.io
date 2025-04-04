@@ -117,12 +117,17 @@ p code, li code, h1 code, h2 code, h3 code, h4 code, h5 code, h6 code {
    Masthead (Header) Styles
    ========================================================================== */
 .masthead {
-  font-family: monospace; // <<< CHANGED font stack
+  font-family: monospace;
   background: var(--bg-7);
   color: var(--light);
-  // border-bottom: var(--border-standard); // Uses the new 1px border if uncommented
+  // border-bottom: var(--border-standard);
 
-  .masthead__inner-wrap,
+  /* Reduce overall header height by adjusting inner wrap padding */
+  .masthead__inner-wrap {
+    padding-top: 0.5rem !important; // <<< REDUCED (Original might be 1rem or more)
+    padding-bottom: 0.5rem !important; // <<< REDUCED
+  }
+
   .masthead__menu,
   #site-nav {
     background: transparent !important;
@@ -130,9 +135,10 @@ p code, li code, h1 code, h2 code, h3 code, h4 code, h5 code, h6 code {
 }
 
 /* Site Title & Search Toggle (Simple Style) */
+/* No height changes needed here typically */
 .masthead nav#site-nav a.site-title,
 .masthead .search__toggle {
-  font-family: monospace; // <<< CHANGED font stack
+  font-family: monospace;
   color: var(--light) !important;
   text-shadow: var(--d-shadow) !important;
   text-decoration: none;
@@ -151,28 +157,40 @@ p code, li code, h1 code, h2 code, h3 code, h4 code, h5 code, h6 code {
 
 /* Menu Items (Button Style with Animation) */
 .masthead .visible-links .masthead__menu-item a {
-  font-family: monospace; // <<< CHANGED font stack
+  font-family: monospace;
   display: inline-block;
-  padding: 0.5em 1em;
+  /* Reduce button height by reducing vertical padding */
+  padding: 0.25em 1em; // <<< REDUCED vertical padding (was 0.5em)
   font-weight: bold;
   border-radius: 0.5em;
   background: var(--bg-0);
   color: var(--dark) !important;
   text-shadow: var(--l-shadow) !important;
-  border: var(--border-standard); // Uses the new 1px border
-  text-decoration: none;
+  border: var(--border-standard);
+  text-decoration: none !important;
   transition: none;
+  position: relative;
+
+  &::after {
+      background: none !important;
+  }
+
 
   &:hover {
     animation: light-to-dark 200ms linear forwards;
     color: var(--light) !important;
     text-shadow: var(--d-shadow) !important;
-    text-decoration: none;
+    text-decoration: none !important;
     border-radius: 0.5em;
+
+    &::after {
+        background: none !important;
+    }
   }
 }
 
 /* Greedy Nav Mobile Toggle Icon */
+/* No height changes needed here typically */
 .masthead .greedy-nav__toggle .navicon,
 .masthead .greedy-nav__toggle .navicon:before,
 .masthead .greedy-nav__toggle .navicon:after {
