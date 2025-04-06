@@ -59,17 +59,8 @@ Clients may specify maximum investment thresholds. Work will:
 ***
 
 ## Get in touch ( ‾⌣‾)☞)•з•) :｡･:･ﾟ’★
-insert email contact box here
+Some text before the button...
 
-Here is some text, and here is a button linking to another page:
-[Go to Commissions](/commissions/){: .btn }
+[My Big Wide Button Text](/link/to/target/){: .btn .btn--wide .btn--large }
 
-You can also put it on its own line (often wrapped in a paragraph automatically):
-
-[Check Out My Blog](/blog/){: .btn }
-
-You can embed raw HTML too:
-<button class="btn">Click Me (Raw)</button>
-
-Or make it navigate:
-<button class="btn" onclick="window.location.href='/commissions/';">Go To Commissions (Raw)</button>
+Some text after the button...
