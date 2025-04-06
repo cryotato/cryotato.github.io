@@ -575,6 +575,18 @@
         text-shadow: var(--d-shadow) !important;
       }
     }
+
+    /* Prevent parent li from animating when a child li is hovered */
+    &:has(li:hover) {
+      animation: none; /* Cancel animation on parent */
+      background: var(--bg-0); /* Reset parent background */
+
+      /* Reset parent's direct link text color/shadow */
+      & > a {
+        color: var(--dark) !important;
+        text-shadow: var(--l-shadow) !important;
+      }
+    }
   }
 
   a {
