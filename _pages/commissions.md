@@ -8,6 +8,8 @@ toc_icon: "heart"  # corresponding Font Awesome icon name (without fa prefix)
 ---
 ♪ ༘⋆ while all my music is free to download and use in non-commercial contexts with attribution, if you're looking for something specific, my commissions are currently open! i do music and audio related work of any kind!
 
+***
+
 ## Portfolio
 My most popular work happens to be music commissioned by ContraPoints - which was used anywhere from title sequences to background music. 
 
