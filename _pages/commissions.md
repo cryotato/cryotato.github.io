@@ -59,4 +59,4 @@ Clients may specify maximum investment thresholds. Work will:
 ***
 
 ## Get in touch ( ‾⌣‾)☞)•з•) :｡･:･ﾟ’★
-[✉](ryovxx@gmail.com){: .btn .btn--wide .btn--large }
+[E✉AIL ME](ryovxx@gmail.com){: .btn .btn--wide .btn--large }
