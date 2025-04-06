@@ -60,3 +60,16 @@ Clients may specify maximum investment thresholds. Work will:
 
 ## Get in touch ( ‾⌣‾)☞)•з•) :｡･:･ﾟ’★
 insert email contact box here
+
+Here is some text, and here is a button linking to another page:
+[Go to Commissions](/commissions/){: .btn }
+
+You can also put it on its own line (often wrapped in a paragraph automatically):
+
+[Check Out My Blog](/blog/){: .btn }
+
+You can embed raw HTML too:
+<button class="btn">Click Me (Raw)</button>
+
+Or make it navigate:
+<button class="btn" onclick="window.location.href='/commissions/';">Go To Commissions (Raw)</button>
