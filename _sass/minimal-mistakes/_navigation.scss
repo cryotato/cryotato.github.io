@@ -557,30 +557,46 @@
     font-size: $type-size-7;
   }
 
-  a {
-    /* Apply button-like base styles */
-    display: block;
-    padding: 0.25rem 0.75rem; /* Existing padding */
-    line-height: 1.5; /* Existing line-height */
+  li {
+    /* Apply button-like base styles to the list item */
+    display: block; /* Ensure li takes full width */
+    padding: 0; /* Reset li padding */
+    margin: 0; /* Reset li margin */
     background: var(--bg-0); /* Start with light background */
-    color: var(--dark) !important; /* Dark text */
-    text-shadow: var(--l-shadow) !important; /* Light shadow */
     border: var(--border-standard); /* Standard border all around */
-    margin-top: -1px; /* Overlap borders for a cleaner look */
-    font-weight: bold; /* Keep original bold weight */
-    text-decoration: none !important;
     transition: none; /* Use animation for hover */
 
     &:hover {
-      /* Apply dither animation on hover */
+      /* Apply dither animation on li hover */
       animation: light-to-dark 200ms linear forwards;
-      color: var(--light) !important; /* Light text on hover */
-      text-shadow: var(--d-shadow) !important; /* Dark shadow on hover */
-      text-decoration: none !important;
+
+      /* Change text color/shadow via the nested 'a' tag on li hover */
+      a {
+        color: var(--light) !important;
+        text-shadow: var(--d-shadow) !important;
+      }
     }
   }
 
-  /* Ensure indentation rules still apply correctly */
+  a {
+    /* Revert a tag styles - mostly for text display and padding */
+    display: block; /* Make link fill the li */
+    padding: 0.25rem 0.75rem; /* Existing padding */
+    line-height: 1.5; /* Existing line-height */
+    color: var(--dark) !important; /* Base dark text */
+    text-shadow: var(--l-shadow) !important; /* Base light shadow */
+    font-weight: bold; /* Keep original bold weight */
+    text-decoration: none !important;
+    /* Remove background/border/animation from 'a' tag itself */
+    background: none;
+    border: none;
+    transition: none;
+
+    /* Remove hover styles from 'a' tag itself */
+    // &:hover { ... }
+  }
+
+  /* Ensure indentation rules still apply correctly to the 'a' tag's padding */
   li ul > li a {
     padding-inline-start: 1.25rem;
     font-weight: normal; /* Keep sub-items normal weight */
@@ -603,8 +619,12 @@
   }
 
   /* Style active item if needed (optional, based on scrollspy) */
-  // li.active > a {
+  // li.active {
   //   background: var(--bg-2); /* Example active style */
+  //   a {
+  //      color: var(--dark) !important;
+  //      text-shadow: var(--l-shadow) !important;
+  //   }
   // }
 }
 
