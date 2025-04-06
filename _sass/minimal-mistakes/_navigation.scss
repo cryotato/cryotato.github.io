@@ -585,6 +585,7 @@
       & > a {
         color: var(--dark) !important;
         text-shadow: var(--l-shadow) !important;
+        transition: none; /* Ensure parent resets instantly */
       }
     }
   }
@@ -602,7 +603,8 @@
     /* Remove background/border/animation from 'a' tag itself */
     background: none;
     border: none;
-    transition: none;
+    /* Add short transition for color/shadow changes */
+    transition: color 0.05s linear, text-shadow 0.05s linear;
 
     /* Remove hover styles from 'a' tag itself */
     // &:hover { ... }
