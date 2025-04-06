@@ -230,61 +230,58 @@ p code, li code, h1 code, h2 code, h3 code, h4 code, h5 code, h6 code {
 }
 
 /* ==========================================================================
-   Table of Contents (TOC) Styles
+   Table of Contents (TOC) Styles (Revised)
    ========================================================================== */
 
-/* Style the main container (.toc or nav.toc) */
-.toc {
+/* --- Main TOC container (nav.toc) --- */
+nav.toc { // Using nav.toc for better specificity
   font-family: monospace;
-  background: var(--bg-1);           // Apply dithered background HERE
-  border: var(--border-standard);    // Apply border HERE
-  padding: 1em;                      // ADD PADDING HERE - This is crucial
-  margin-bottom: 1.5em; // Add some space below the TOC block
-
-  /* Default text color/shadow for items inside (can be overridden) */
-  color: var(--dark) !important;
-  text-shadow: var(--l-shadow) !important;
+  background: var(--bg-0); /* Solid light background for the container */
+  /* Remove border and general text styles from the main container */
+  /* border: var(--border-standard); */
+  padding: 1em; /* Padding around the inner title and menu */
 }
 
-/* Style the TOC Title */
-.toc__title {
-  font-family: monospace; // Ensure font
-  color: var(--dark) !important; // Ensure color
-  text-shadow: var(--l-shadow) !important; // Ensure shadow
-  margin-top: 0; // Remove potential default top margin
-  margin-bottom: 0.75em; // Space below title, before list
-  font-size: 1.1em; // Make title slightly larger? (Optional)
-  font-weight: bold; // Make title bold? (Optional)
-  background: transparent; // Ensure title element itself has no background
+/* --- TOC Title ("Contents" Header) --- */
+nav.toc .toc__title {
+  font-family: monospace;
+  background: var(--bg-6); /* Darker dither background */
+  color: var(--light) !important; /* Light text color */
+  text-shadow: var(--d-shadow) !important; /* Dark shadow for light text */
+  padding: 0.5em 1em; /* Padding inside the title */
+  margin: -1em -1em 1em -1em; /* Use negative margins to fill container padding, add bottom margin */
+  border-bottom: var(--border-standard); /* Optional border to separate from menu */
+  text-align: center; /* Optional: Center the title */
 }
 
-/* Style the menu list container (ul) */
-.toc__menu {
-  margin: 0; // Reset default margins
-  padding: 0; // Reset default padding
-  list-style: none; // Remove default bullets
-  background: transparent; // Ensure list element itself has no background
+/* --- TOC Menu (the ul list) --- */
+nav.toc .toc__menu {
+  font-family: monospace;
+  background: var(--bg-2); /* Lighter dither background for the menu area */
+  padding: 1em; /* Padding inside the menu list */
+  list-style: none; /* Remove default list bullets */
+  margin: 0; /* Remove default ul margin */
+  /* Default text color/shadow for items inside will be set below */
 }
 
-/* Style individual list items (li) */
-.toc__menu li {
-   margin-bottom: 0.25em; // Add small space between items
+/* --- TOC List Items & Links (within toc__menu) --- */
+nav.toc .toc__menu li {
+  margin-bottom: 0.25em; /* Spacing between list items */
 }
 
-
-/* Style the links within the TOC */
-.toc__menu a {
-  font-family: monospace; // Ensure font
-  color: var(--dark) !important; // Ensure color
-  text-shadow: var(--l-shadow) !important; // Ensure shadow
-  text-decoration: none; // Remove underlines?
-  display: block; // Make link take full width of list item for easier hover/click
-  padding: 0.1em 0.2em; // Small padding on links for hover effect visibility
-  border-radius: 3px; // Slightly rounded hover? (Optional)
+nav.toc .toc__menu a {
+  font-family: monospace;
+  display: block; /* Make links easier to click */
+  padding: 0.1em 0.25em; /* Small padding on links */
+  color: var(--dark) !important; /* Dark text color for links */
+  text-shadow: var(--l-shadow) !important; /* Light shadow for dark text */
+  text-decoration: none; /* No underline by default */
 
   &:hover {
-     background: var(--bg-2); // Apply darker dither background ON THE LINK on hover
-     // text-shadow: ... // Change shadow if needed on hover
+    /* Choose a hover effect - simple underline is often good */
+     text-decoration: underline;
+    /* Or maybe a slightly different background? */
+    // background: var(--bg-3);
   }
 }
 
