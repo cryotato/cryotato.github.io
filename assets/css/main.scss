@@ -232,31 +232,60 @@ p code, li code, h1 code, h2 code, h3 code, h4 code, h5 code, h6 code {
 /* ==========================================================================
    Table of Contents (TOC) Styles
    ========================================================================== */
+
+/* Style the main container (.toc or nav.toc) */
 .toc {
-  font-family: monospace; // <<< CHANGED font stack
-  background: var(--bg-1);
-  border: var(--border-standard); // Uses the new 1px border
-  padding: 1em;
+  font-family: monospace;
+  background: var(--bg-1);           // Apply dithered background HERE
+  border: var(--border-standard);    // Apply border HERE
+  padding: 1em;                      // ADD PADDING HERE - This is crucial
+  margin-bottom: 1.5em; // Add some space below the TOC block
+
+  /* Default text color/shadow for items inside (can be overridden) */
   color: var(--dark) !important;
   text-shadow: var(--l-shadow) !important;
 }
 
-/* Specific elements within TOC */
-.toc__menu,
-.toc__title,
-.toc li,
-.toc a {
-  font-family: monospace; // <<< CHANGED font stack
-  color: var(--dark) !important;
-  text-shadow: var(--l-shadow) !important;
+/* Style the TOC Title */
+.toc__title {
+  font-family: monospace; // Ensure font
+  color: var(--dark) !important; // Ensure color
+  text-shadow: var(--l-shadow) !important; // Ensure shadow
+  margin-top: 0; // Remove potential default top margin
+  margin-bottom: 0.75em; // Space below title, before list
+  font-size: 1.1em; // Make title slightly larger? (Optional)
+  font-weight: bold; // Make title bold? (Optional)
+  background: transparent; // Ensure title element itself has no background
 }
 
-/* Specific hover for TOC links */
-.toc a {
-   text-decoration: none;
-   &:hover {
-       background: var(--bg-2);
-   }
+/* Style the menu list container (ul) */
+.toc__menu {
+  margin: 0; // Reset default margins
+  padding: 0; // Reset default padding
+  list-style: none; // Remove default bullets
+  background: transparent; // Ensure list element itself has no background
+}
+
+/* Style individual list items (li) */
+.toc__menu li {
+   margin-bottom: 0.25em; // Add small space between items
+}
+
+
+/* Style the links within the TOC */
+.toc__menu a {
+  font-family: monospace; // Ensure font
+  color: var(--dark) !important; // Ensure color
+  text-shadow: var(--l-shadow) !important; // Ensure shadow
+  text-decoration: none; // Remove underlines?
+  display: block; // Make link take full width of list item for easier hover/click
+  padding: 0.1em 0.2em; // Small padding on links for hover effect visibility
+  border-radius: 3px; // Slightly rounded hover? (Optional)
+
+  &:hover {
+     background: var(--bg-2); // Apply darker dither background ON THE LINK on hover
+     // text-shadow: ... // Change shadow if needed on hover
+  }
 }
 
 /* ==========================================================================
