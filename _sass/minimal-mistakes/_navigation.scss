@@ -511,11 +511,31 @@
   box-shadow: $box-shadow;
 
   .nav__title {
-    color: #fff;
+    background: var(--bg-6);
+    color: var(--light);
+    text-shadow: var(--d-shadow);
+    border-bottom: none;
+    padding: 0.5em 1em;
+    margin-bottom: 0;
+    font-family: $sans-serif;
     font-size: $type-size-6;
-    background: $primary-color;
-    border-start-start-radius: $border-radius;
-    border-start-end-radius: $border-radius;
+    font-weight: bold;
+    text-transform: uppercase;
+  }
+
+  & + .toc {
+    margin-top: 1em;
+    padding-top: 1em;
+    border-top: 1px solid $border-color;
+  }
+
+  .nav__title {
+    background: var(--bg-6);
+    color: var(--light);
+    text-shadow: var(--d-shadow);
+    border-bottom: none;
+    padding: 0.5em 1em;
+    margin-bottom: 0;
   }
 
   // Scrollspy marks toc items as .active when they are in focus
@@ -569,3 +589,20 @@
     padding-inline-start: 3.25rem;
   }
 }
+
+/*
+   Custom TOC Header Style
+   ========================================================================== */
+
+.toc .nav__title {
+  background: var(--bg-6);
+  color: var(--light);
+  text-shadow: var(--d-shadow);
+  border-bottom: none;
+  padding: 0.5em 1em;
+  margin-bottom: 0;
+}
+
+/*
+   Algolia search
+   ========================================================================== */
