@@ -59,4 +59,4 @@ Clients may specify maximum investment thresholds. Work will:
 ***
 
 ## Get in touch ( ‾⌣‾)☞)•з•) :｡･:･ﾟ’★
-[E✉AIL ME](mailto:{{ site.email }}?subject=Commission%3F&body=(%20•ω•ฅ）.｡.:*){: .btn .btn--wide .btn--large }
+<a href="mailto:{{ site.email }}?subject=Commission%3F&body=(%20•ω•ฅ）.｡.:*" class="btn btn--wide btn--large">E✉AIL ME</a>
