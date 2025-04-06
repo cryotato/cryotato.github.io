@@ -1,5 +1,5 @@
 ---
-title: Work
+title: corpo-art
 layout: collection
 permalink: /design/
 collection: portfolio
@@ -7,4 +7,4 @@ entries_layout: grid
 classes: wide
 ---
 
-Sample document listing for the collection `_portfolio`.
+This section is still in the works, it might make more sense to go to my [Behance](https://www.behance.net/ryanmeow)
