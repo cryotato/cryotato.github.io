@@ -59,8 +59,4 @@ Clients may specify maximum investment thresholds. Work will:
 ***
 
 ## Get in touch ( ‾⌣‾)☞)•з•) :｡･:･ﾟ’★
-Some text before the button...
-
-[My Big Wide Button Text](/link/to/target/){: .btn .btn--wide .btn--large }
-
-Some text after the button...
+[✉](ryovxx@gmail.com){: .btn .btn--wide .btn--large }
