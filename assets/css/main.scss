@@ -290,39 +290,66 @@ p code, li code, h1 code, h2 code, h3 code, h4 code, h5 code, h6 code {
 }
 
 /* ==========================================================================
-   Button Styles (.btn, button)
+   Button Styles (.btn, button) - Using Header Menu Animation
    ========================================================================== */
 button, .btn {
-  font-family: monospace; // <<< CHANGED font stack
-  background: var(--bg-1);
-  color: var(--dark) !important;
-  text-shadow: var(--l-shadow) !important;
-  border: var(--border-standard); // Uses the new 1px border
-  padding: 0.5em 1em;
+  font-family: monospace;
+  display: inline-block; // Needed for padding/sizing
+  padding: 0.5em 1em; // Default padding - adjust if needed, matches .btn--large more closely now
+  font-weight: bold; // Make default buttons bold like header items
+  border-radius: 0.5em; // Default rounded corners like header items
   cursor: pointer;
-  transition: background 200ms linear, color 200ms linear, text-shadow 200ms linear;
-  box-shadow: none;
-  border-radius: 0;
+  text-align: center; // Center text
+  box-shadow: none; // Remove default shadows
 
-  &:hover {
-    background: var(--bg-7);
-    color: var(--light) !important;
-    text-shadow: var(--d-shadow) !important;
+  /* --- Initial State (Matches Header Menu Button Start) --- */
+  background: var(--bg-0);           // Start with SOLID LIGHT background
+  color: var(--dark) !important;     // Start with DARK text color
+  text-shadow: var(--l-shadow) !important; // Start with LIGHT shadow for dark text
+  border: var(--border-standard);    // Use the standard 1px DARK border
+  text-decoration: none !important;  // No underline
+  transition: none;                  // Disable default transitions
+
+  /* Ensure ::before pseudo-element doesn't interfere (belt-and-suspenders) */
+  &::before {
+      background: none !important;
+      // Add other ::before resets if necessary (border, transform, etc.)
   }
 }
 
-/* Modifier for Full Width */
-.btn--wide {
-  display: block; /* Makes the element take up full available width */
-  width: 100%;    /* Explicitly set width */
-  box-sizing: border-box; /* Include padding and border in the element's total width */
+button:hover, .btn:hover {
+  /* --- Hover State (Matches Header Menu Button Hover) --- */
+  animation: light-to-dark 200ms linear forwards; // Apply the dither animation
+  color: var(--light) !important; // Text becomes LIGHT
+  text-shadow: var(--d-shadow) !important; // Shadow becomes DARK
+  text-decoration: none !important; // Ensure no underline during animation
+  border-radius: 0.5em; // Keep corners rounded
+
+  /* Ensure ::before pseudo-element doesn't interfere on hover */
+   &::before {
+      background: none !important;
+      // Add other ::before resets if necessary
+  }
+
+  /* REMOVE conflicting simple background change from previous version */
+  // background: var(--bg-7);
 }
 
-/* Modifier for Larger Size */
+
+/* --- Button Modifier Classes --- */
+
+/* Modifier for Full Width */
+.btn--wide {
+  display: block;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+/* Modifier for Larger Size (Adjust if default button padding/font changed) */
 .btn--large {
-  font-size: 1.2em; /* Increase font size (adjust value as desired) */
-  padding: 0.8em 1.5em; /* Increase padding (adjust values as desired) */
-  font-weight: bold; /* Make text bold */
+  font-size: 1.2em;
+  padding: 0.8em 1.5em;
+  // font-weight: bold; // Already bold by default now
 }
 
 /* ==========================================================================
