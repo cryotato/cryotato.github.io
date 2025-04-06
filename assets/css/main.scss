@@ -230,62 +230,6 @@ p code, li code, h1 code, h2 code, h3 code, h4 code, h5 code, h6 code {
 }
 
 /* ==========================================================================
-   Table of Contents (TOC) Styles (Revised)
-   ========================================================================== */
-
-/* --- Main TOC container (nav.toc) --- */
-// nav.toc { // Using nav.toc for better specificity
-//   font-family: monospace;
-//   background: var(--bg-0); /* Solid light background for the container */
-//   /* Remove border and general text styles from the main container */
-//   /* border: var(--border-standard); */
-//   padding: 1em; /* Padding around the inner title and menu */
-// }
-
-/* --- TOC Title ("Contents" Header) --- */
-nav.toc .toc__title {
-  font-family: monospace;
-  background: var(--bg-6); /* Darker dither background */
-  color: var(--light) !important; /* Light text color */
-  text-shadow: var(--d-shadow) !important; /* Dark shadow for light text */
-  padding: 0.5em 1em; /* Padding inside the title */
-  margin: -1em -1em 1em -1em; /* Use negative margins to fill container padding, add bottom margin */
-  border-bottom: var(--border-standard); /* Optional border to separate from menu */
-  text-align: center; /* Optional: Center the title */
-}
-
-/* --- TOC Menu (the ul list) --- */
-nav.toc .toc__menu {
-  font-family: monospace;
-  background: var(--bg-2); /* Lighter dither background for the menu area */
-  padding: 1em; /* Padding inside the menu list */
-  list-style: none; /* Remove default list bullets */
-  margin: 0; /* Remove default ul margin */
-  /* Default text color/shadow for items inside will be set below */
-}
-
-/* --- TOC List Items & Links (within toc__menu) --- */
-nav.toc .toc__menu li {
-  margin-bottom: 0.25em; /* Spacing between list items */
-}
-
-nav.toc .toc__menu a {
-  font-family: monospace;
-  display: block; /* Make links easier to click */
-  padding: 0.1em 0.25em; /* Small padding on links */
-  color: var(--dark) !important; /* Dark text color for links */
-  text-shadow: var(--l-shadow) !important; /* Light shadow for dark text */
-  text-decoration: none; /* No underline by default */
-
-  &:hover {
-    /* Choose a hover effect - simple underline is often good */
-     text-decoration: underline;
-    /* Or maybe a slightly different background? */
-    // background: var(--bg-3);
-  }
-}
-
-/* ==========================================================================
    Footer Styles
    ========================================================================== */
 .page__footer {
@@ -392,3 +336,24 @@ button:hover, .btn:hover {
   color: var(--dark) !important;
   text-shadow: var(--l-shadow) !important;
 }
+
+/* ==========================================================================
+   Table of Contents (TOC) Styles (Revised)
+   ========================================================================== */
+
+/* --- Main TOC container (nav.toc) --- */
+// [ Styles are handled in _navigation.scss ]
+
+/* --- TOC Title ("Contents" Header) --- */
+// [ Styles are handled in _navigation.scss ]
+
+/* --- TOC Menu (the ul list) --- */
+// [ Styles are handled in _navigation.scss ]
+
+/* --- TOC List Items & Links (within toc__menu) --- */
+// [ Styles are handled in _navigation.scss ]
+
+
+/* ==========================================================================
+   Main Content Area Styles
+   ========================================================================== */
