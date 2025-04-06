@@ -311,6 +311,20 @@ button, .btn {
   }
 }
 
+/* Modifier for Full Width */
+.btn--wide {
+  display: block; /* Makes the element take up full available width */
+  width: 100%;    /* Explicitly set width */
+  box-sizing: border-box; /* Include padding and border in the element's total width */
+}
+
+/* Modifier for Larger Size */
+.btn--large {
+  font-size: 1.2em; /* Increase font size (adjust value as desired) */
+  padding: 0.8em 1.5em; /* Increase padding (adjust values as desired) */
+  font-weight: bold; /* Make text bold */
+}
+
 /* ==========================================================================
    Search Input Styles
    ========================================================================== */
