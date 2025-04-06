@@ -563,7 +563,6 @@
     padding: 0; /* Reset li padding */
     margin: 0; /* Reset li margin */
     background: var(--bg-0); /* Start with light background */
-    border: var(--border-standard); /* Standard border all around */
     transition: none; /* Use animation for hover */
 
     &:hover {
@@ -586,6 +585,7 @@
     color: var(--dark) !important; /* Base dark text */
     text-shadow: var(--l-shadow) !important; /* Base light shadow */
     font-weight: bold; /* Keep original bold weight */
+    font-family: monospace; /* Set font to monospace */
     text-decoration: none !important;
     /* Remove background/border/animation from 'a' tag itself */
     background: none;
