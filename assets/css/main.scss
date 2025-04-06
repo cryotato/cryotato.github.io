@@ -234,13 +234,13 @@ p code, li code, h1 code, h2 code, h3 code, h4 code, h5 code, h6 code {
    ========================================================================== */
 
 /* --- Main TOC container (nav.toc) --- */
-nav.toc { // Using nav.toc for better specificity
-  font-family: monospace;
-  background: var(--bg-0); /* Solid light background for the container */
-  /* Remove border and general text styles from the main container */
-  /* border: var(--border-standard); */
-  padding: 1em; /* Padding around the inner title and menu */
-}
+// nav.toc { // Using nav.toc for better specificity
+//   font-family: monospace;
+//   background: var(--bg-0); /* Solid light background for the container */
+//   /* Remove border and general text styles from the main container */
+//   /* border: var(--border-standard); */
+//   padding: 1em; /* Padding around the inner title and menu */
+// }
 
 /* --- TOC Title ("Contents" Header) --- */
 nav.toc .toc__title {
