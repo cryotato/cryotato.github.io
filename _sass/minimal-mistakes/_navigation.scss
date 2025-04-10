@@ -610,9 +610,11 @@
     // &:hover { ... }
   }
 
-  /* Apply specific text animation on parent li hover */
+  /* Apply specific text styles on parent li hover */
   li:hover > a {
-    animation: toc-text-anim 200ms linear forwards;
+    /* Apply target text styles directly */
+    color: var(--light) !important;
+    text-shadow: var(--d-shadow) !important;
   }
 
   /* Ensure indentation rules still apply correctly to the 'a' tag's padding */
@@ -663,4 +665,3 @@
 /*
    Algolia search
    ========================================================================== */
-
