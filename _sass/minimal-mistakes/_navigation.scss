@@ -611,11 +611,13 @@
   }
 
   /* Apply specific text styles on parent li hover */
+  /* DIAGNOSTIC: Temporarily disabled to check sibling hover issue
   li:hover > a {
-    /* Apply target text styles directly */
+    // Apply target text styles directly 
     color: var(--light) !important;
     text-shadow: var(--d-shadow) !important;
   }
+  */
 
   /* Ensure indentation rules still apply correctly to the 'a' tag's padding */
   li ul > li a {
