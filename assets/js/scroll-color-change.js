@@ -4,7 +4,7 @@ document.addEventListener('DOMContentLoaded', () => {
   // --- Configuration --- 
   const lightStartHue = 0;    // Starting HSL hue for light color (0-360)
   const lightEndHue = 360;  // Not directly used for rate, but keeps range clear
-  const lightSaturation = 100; // Saturation % for light color
+  const lightSaturation = 60; // Saturation % for light color
   const lightLightness = 80;  // Lightness % for light color
 
   const darkStartHue = 0;     // Starting HSL hue for dark color (0-360)
@@ -12,7 +12,7 @@ document.addEventListener('DOMContentLoaded', () => {
   const darkSaturation = 100;  // Saturation % for dark color
   const darkLightness = 20;   // Lightness % for dark color
 
-  const pixelsPerHueCycle = 6000; // Pixels scrolled for one full 360deg hue cycle. Adjust for sensitivity.
+  const pixelsPerHueCycle = 10000; // Pixels scrolled for one full 360deg hue cycle. Adjust for sensitivity.
   const easingFactor = 0.1; // Smaller = smoother/more lag (0 to 1)
   // --- End Configuration ---
 
