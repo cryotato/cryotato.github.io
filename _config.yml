@@ -154,3 +154,4 @@ tag_archive:
 
 after_footer_scripts:
   - /assets/js/cursor.js
+  - /assets/js/scroll-color-change.js
