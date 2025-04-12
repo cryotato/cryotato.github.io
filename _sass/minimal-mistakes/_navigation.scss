@@ -558,41 +558,23 @@
   }
 
   li {
-    /* Apply base styles and RETURN animation to the list item */
+    /* Remove animation/background styles from li */
     display: block; /* Ensure li takes full width */
     padding: 0; /* Reset li padding */
     margin: 0; /* Reset li margin */
-    background: var(--bg-0); /* Start with light background */
-    /* Apply dark-to-light animation for the RETURN */
-    animation: dark-to-light 200ms linear forwards;
-    // transition: none; /* Remove if exists */
+    // background: var(--bg-0); /* MOVED to a */
+    // animation: dark-to-light 200ms linear forwards; /* MOVED to a */
 
-    &:hover {
-      /* Apply dither animation on li hover */
-      animation: light-to-dark 200ms linear forwards;
-
-      /* Change text color/shadow via the nested 'a' tag on li hover */
-      /* This rule might be redundant now but kept for clarity/fallback */
-      // a {
-      //   color: var(--light) !important;
-      //   text-shadow: var(--d-shadow) !important;
-      // }
-    }
-
-    /* Prevent parent li background change when a child li is hovered (might need adjustment) */
-    // &:has(li:hover) {
-    //   background: var(--bg-0);
-    //   animation: none; /* Stop parent animation if child is hovered */
-
-    //   & > a {
-    //     color: var(--dark) !important; /* Ensure parent text stays dark */
-    //     text-shadow: none !important; /* Ensure parent text has no shadow */
-    //   }
+    // &:hover { /* REMOVED - hover handled by a:hover */
+    //   animation: light-to-dark 200ms linear forwards;
     // }
+
+    /* Keep commented-out :has() logic if needed for other purposes, but not needed for this fix */
+    // &:has(li:hover) { ... }
   }
 
   a {
-    /* Base text styles and padding */
+    /* Base text styles, padding, AND BACKGROUND/ANIMATION */
     display: block; /* Make link fill the li */
     padding: 0.25rem 0.75rem; /* Existing padding */
     line-height: 1.5; /* Existing line-height */
@@ -601,13 +583,16 @@
     font-weight: bold; /* Keep original bold weight */
     font-family: monospace; /* Set font to monospace */
     text-decoration: none !important; /* Keep this !important */
-    /* Ensure no background/border on link itself */
-    background: none;
-    border: none;
+    /* Add base background and return animation */
+    background: var(--bg-0); /* Start light */
+    animation: dark-to-light 200ms linear forwards;
+    border: none; /* Keep border none */
   }
 
-  /* Apply INSTANT text styles on parent li hover */
-  li:hover > a {
+  /* Apply hover animation and INSTANT text styles directly to a:hover */
+  a:hover {
+    /* Apply light-to-dark animation on a:hover */
+    animation: light-to-dark 200ms linear forwards;
     /* Instantly apply target text styles */
     color: var(--light) !important;
     text-shadow: var(--d-shadow) !important;
