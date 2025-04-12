@@ -162,11 +162,11 @@ p code, li code, h1 code, h2 code, h3 code, h4 code, h5 code, h6 code {
   padding: 0.25em 1em; // <<< REDUCED vertical padding (was 0.5em)
   font-weight: bold;
   border-radius: 0.5em;
-  /* --- Set initial state to the END of the hover animation --- */
-  background: var(--bg-8);
-  color: var(--light) !important;
-  text-shadow: var(--d-shadow) !important;
-  /* --- Apply dark-to-light animation by default --- */
+  /* --- Set initial state to the DEFAULT state --- */
+  background: var(--bg-0); /* Start light */
+  color: var(--dark) !important; /* Start dark text */
+  text-shadow: none !important; /* Start NO shadow */
+  /* --- Apply dark-to-light animation for the RETURN --- */
   animation: dark-to-light 200ms linear forwards;
   border: var(--border-standard);
   text-decoration: none !important;
@@ -180,7 +180,7 @@ p code, li code, h1 code, h2 code, h3 code, h4 code, h5 code, h6 code {
   &:hover {
     /* --- Apply light-to-dark animation on hover --- */
     animation: light-to-dark 200ms linear forwards;
-    /* Ensure hover state matches animation end state */
+    /* --- INSTANTLY change text/shadow for dark background --- */
     color: var(--light) !important;
     text-shadow: var(--d-shadow) !important;
     text-decoration: none !important;
@@ -269,45 +269,43 @@ p code, li code, h1 code, h2 code, h3 code, h4 code, h5 code, h6 code {
 button, .btn {
   font-family: monospace;
   display: inline-block; // Needed for padding/sizing
-  padding: 0.5em 1em; // Default padding - adjust if needed, matches .btn--large more closely now
-  font-weight: bold; // Make default buttons bold like header items
-  border-radius: 0.5em; // Default rounded corners like header items
+  padding: 0.5em 1em; // Default padding
+  font-weight: bold;
+  border-radius: 0.5em;
   cursor: pointer;
-  text-align: center; // Center text
-  box-shadow: none; // Remove default shadows
+  text-align: center;
+  box-shadow: none;
 
-  /* --- Set initial state to the END of the hover animation --- */
-  background: var(--bg-8);           // Start with SOLID DARK background conceptually
-  color: var(--light) !important;    // Start with LIGHT text color conceptually
-  text-shadow: var(--d-shadow) !important; // Start with DARK shadow for light text conceptually
-  /* --- Apply dark-to-light animation by default --- */
+  /* --- Set initial state to the DEFAULT state --- */
+  background: var(--bg-0);           // Start light
+  color: var(--dark) !important;    // Start dark text
+  text-shadow: none !important; // Start NO shadow
+  /* --- Apply dark-to-light animation for the RETURN --- */
   animation: dark-to-light 200ms linear forwards;
-  border: var(--border-standard);    // Use the standard 1px DARK border
-  text-decoration: none !important;  // No underline
+  border: var(--border-standard);
+  text-decoration: none !important;
 
-  /* Ensure ::before pseudo-element doesn't interfere (belt-and-suspenders) */
+  /* Ensure ::before pseudo-element doesn't interfere */
   &::before {
       background: none !important;
-      // Add other ::before resets if necessary (border, transform, etc.)
   }
 }
 
 button:hover, .btn:hover {
   /* --- Hover State (Matches Header Menu Button Hover) --- */
   animation: light-to-dark 200ms linear forwards; // Apply the dither animation
-  /* Ensure hover state matches animation end state */
+  /* --- INSTANTLY change text/shadow for dark background --- */
   color: var(--light) !important; // Text becomes LIGHT
   text-shadow: var(--d-shadow) !important; // Shadow becomes DARK
-  text-decoration: none !important; // Ensure no underline during animation
+  text-decoration: none !important;
   border-radius: 0.5em; // Keep corners rounded
 
   /* Ensure ::before pseudo-element doesn't interfere on hover */
    &::before {
       background: none !important;
-      // Add other ::before resets if necessary
   }
 
-  /* REMOVE conflicting simple background change from previous version */
+  /* REMOVE conflicting simple background change */
   // background: var(--bg-7);
 }
 
