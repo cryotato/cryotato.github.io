@@ -584,7 +584,7 @@
     font-family: monospace; /* Set font to monospace */
     text-decoration: none !important; /* Keep this !important */
     /* Add base background and return animation */
-    background: var(--bg-0); /* Start light */
+    background: var(--bg-1); /* Start bg-1 */
     animation: dark-to-light 200ms linear forwards;
     border: none; /* Keep border none */
   }

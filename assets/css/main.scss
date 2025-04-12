@@ -43,10 +43,26 @@ search: false
    Codepen Dither Hover Animations
    ========================================================================== */
 @keyframes light-to-dark {
-  0% { background: var(--bg-0); } 12.5% { background: var(--bg-1); } 25% { background: var(--bg-2); } 37.5% { background: var(--bg-3); } 50% { background: var(--bg-4); } 62.5% { background: var(--bg-5); } 75% { background: var(--bg-6); } 87.5% { background: var(--bg-7); } 100% { background: var(--bg-8); }
+  0% { background: var(--bg-1); } /* Start from bg-1 */
+  12.5% { background: var(--bg-1); }
+  25% { background: var(--bg-2); }
+  37.5% { background: var(--bg-3); }
+  50% { background: var(--bg-4); }
+  62.5% { background: var(--bg-5); }
+  75% { background: var(--bg-6); }
+  87.5% { background: var(--bg-7); }
+  100% { background: var(--bg-8); }
 }
 @keyframes dark-to-light {
-  0% { background: var(--bg-8); } 12.5% { background: var(--bg-7); } 25% { background: var(--bg-6); } 37.5% { background: var(--bg-5); } 50% { background: var(--bg-4); } 62.5% { background: var(--bg-3); } 75% { background: var(--bg-2); } 87.5% { background: var(--bg-1); } 100% { background: var(--bg-0); }
+  0% { background: var(--bg-8); }
+  12.5% { background: var(--bg-7); }
+  25% { background: var(--bg-6); }
+  37.5% { background: var(--bg-5); }
+  50% { background: var(--bg-4); }
+  62.5% { background: var(--bg-3); }
+  75% { background: var(--bg-2); }
+  87.5% { background: var(--bg-1); }
+  100% { background: var(--bg-1); } /* End at bg-1 */
 }
 
 /* ==========================================================================
@@ -163,7 +179,7 @@ p code, li code, h1 code, h2 code, h3 code, h4 code, h5 code, h6 code {
   font-weight: bold;
   border-radius: 0.5em;
   /* --- Set initial state to the DEFAULT state --- */
-  background: var(--bg-0); /* Start light */
+  background: var(--bg-1); /* Start bg-1 */
   color: var(--dark) !important; /* Start dark text */
   text-shadow: none !important; /* Start NO shadow */
   /* --- Apply dark-to-light animation for the RETURN --- */
@@ -277,7 +293,7 @@ button, .btn {
   box-shadow: none;
 
   /* --- Set initial state to the DEFAULT state --- */
-  background: var(--bg-0);           // Start light
+  background: var(--bg-1);           // Start bg-1
   color: var(--dark) !important;    // Start dark text
   text-shadow: none !important; // Start NO shadow
   /* --- Apply dark-to-light animation for the RETURN --- */
