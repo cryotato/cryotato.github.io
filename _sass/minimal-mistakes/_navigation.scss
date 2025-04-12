@@ -558,34 +558,37 @@
   }
 
   li {
-    /* Apply button-like base styles to the list item */
+    /* Apply base styles and RETURN animation to the list item */
     display: block; /* Ensure li takes full width */
     padding: 0; /* Reset li padding */
     margin: 0; /* Reset li margin */
     background: var(--bg-0); /* Start with light background */
-    transition: none; /* Use animation for hover */
+    /* Apply dark-to-light animation for the RETURN */
+    animation: dark-to-light 200ms linear forwards;
+    // transition: none; /* Remove if exists */
 
     &:hover {
       /* Apply dither animation on li hover */
       animation: light-to-dark 200ms linear forwards;
 
       /* Change text color/shadow via the nested 'a' tag on li hover */
-      a {
-        color: var(--light);
-        text-shadow: var(--d-shadow);
-      }
+      /* This rule might be redundant now but kept for clarity/fallback */
+      // a {
+      //   color: var(--light) !important;
+      //   text-shadow: var(--d-shadow) !important;
+      // }
     }
 
-    /* Prevent parent li from being styled when a child li is hovered */
-    &:has(li:hover) {
-      background: var(--bg-0);
+    /* Prevent parent li background change when a child li is hovered (might need adjustment) */
+    // &:has(li:hover) {
+    //   background: var(--bg-0);
+    //   animation: none; /* Stop parent animation if child is hovered */
 
-      & > a {
-        color: var(--dark);
-        text-shadow: var(--l-shadow);
-        transition: none;
-      }
-    }
+    //   & > a {
+    //     color: var(--dark) !important; /* Ensure parent text stays dark */
+    //     text-shadow: none !important; /* Ensure parent text has no shadow */
+    //   }
+    // }
   }
 
   a {
@@ -593,8 +596,8 @@
     display: block; /* Make link fill the li */
     padding: 0.25rem 0.75rem; /* Existing padding */
     line-height: 1.5; /* Existing line-height */
-    color: var(--dark);
-    text-shadow: var(--l-shadow);
+    color: var(--dark) !important; /* Default dark text */
+    text-shadow: none !important; /* Default NO shadow */
     font-weight: bold; /* Keep original bold weight */
     font-family: monospace; /* Set font to monospace */
     text-decoration: none !important; /* Keep this !important */
@@ -603,14 +606,14 @@
     border: none;
   }
 
-  /* Apply specific text styles on parent li hover */
+  /* Apply INSTANT text styles on parent li hover */
   li:hover > a {
-    /* Apply target text styles directly */
-    color: var(--light);
-    text-shadow: var(--d-shadow);
+    /* Instantly apply target text styles */
+    color: var(--light) !important;
+    text-shadow: var(--d-shadow) !important;
   }
 
-  /* Indentation rules */
+  /* Indentation rules (Keep as is) */
   li ul > li a {
     padding-inline-start: 1.25rem;
     font-weight: normal; /* Keep sub-items normal weight */
@@ -632,7 +635,7 @@
     padding-inline-start: 3.25rem;
   }
 
-  /* Style active item if needed (optional, based on scrollspy) */
+  /* Style active item if needed (Keep as is) */
   // li.active {
   //   background: var(--bg-2); /* Example active style */
   //   a {
