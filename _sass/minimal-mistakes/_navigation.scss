@@ -502,222 +502,92 @@
      ========================================================================== */
 
 .toc {
-  font-family: $sans-serif-narrow;
-  color: $gray;
-  background-color: $background-color;
+  display: block;
+  z-index: 10;
+  margin-block-end: 2em;
+  padding: 1em;
+  width: 100%;
+  font-family: $sans-serif;
+  font-size: $type-size-6;
+  background: $grey;
   border: 1px solid $border-color;
   border-radius: $border-radius;
-  -webkit-box-shadow: $box-shadow;
-  box-shadow: $box-shadow;
-
-  .nav__title {
-    background: var(--bg-6);
-    color: var(--light);
-    text-shadow: var(--d-shadow);
-    border-bottom: none;
-    padding: 0.5em 1em;
-    margin-bottom: 0;
-    font-family: $sans-serif;
-    font-size: $type-size-6;
-    font-weight: bold;
-    text-transform: uppercase;
-    border-top-left-radius: $border-radius;
-    border-top-right-radius: $border-radius;
-  }
-
-  & + .toc {
-    margin-top: 1em;
-    padding-top: 1em;
-    border-top: 1px solid $border-color;
-  }
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-=======
->>>>>>> parent of bade3de (reverse dither anim on toc as well)
-
-  .nav__title {
-    background: var(--bg-6);
-    color: var(--light);
-    text-shadow: var(--d-shadow);
-    border-bottom: none;
-    padding: 0.5em 1em;
-    margin-bottom: 0;
-  }
-
-  // Scrollspy marks toc items as .active when they are in focus
-  .active a {
-    @include yiq-contrasted($active-color);
-  }
-<<<<<<< HEAD
->>>>>>> parent of bade3de (reverse dither anim on toc as well)
-=======
->>>>>>> parent of bade3de (reverse dither anim on toc as well)
-}
-
-.toc__menu {
-  margin: 0;
-  padding: 0;
-  width: 100%;
-  list-style: none;
-  font-size: $type-size-6;
 
   @include breakpoint($large) {
-    font-size: $type-size-7;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 2em;
+    float: inline-end;
+    width: $right-sidebar-width-narrow;
+    margin-inline-start: 2em;
   }
 
-  li {
-<<<<<<< HEAD
-<<<<<<< HEAD
-    display: block;
-    padding: 0;
+  @include breakpoint($x-large) {
+    width: $right-sidebar-width;
+  }
+
+  &__menu {
     margin: 0;
+    padding: 0;
+    list-style: none;
+    overflow-y: auto;
+
+    @include breakpoint($large) {
+      max-height: calc(100vh - 4em);
+    }
+  }
+
+  &__link {
+    display: block;
+    padding: 0.125em 0;
+    font-family: $sans-serif;
+    /* --- Set initial state to the END of the hover animation --- */
     background: var(--bg-8);
+    color: var(--light) !important;     // Use light color for dark bg
+    text-shadow: var(--d-shadow) !important; // Use dark shadow for light text
+    /* --- Apply dark-to-light animation by default --- */
     animation: dark-to-light 200ms linear forwards;
     border: var(--border-standard);
+    text-decoration: none;
 
-    &:hover {
-      animation: light-to-dark 200ms linear forwards;
-
-      a {
-        color: var(--light) !important;
-        text-shadow: var(--d-shadow) !important;
-      }
+    &::before {
+      display: none !important; // Prevent minimal-mistakes styles interfering
     }
-  }
 
-  a {
-    display: block;
-    padding: 0.25rem 0.75rem;
-    line-height: 1.5;
-    color: var(--light) !important;
-    text-shadow: var(--d-shadow) !important;
-    font-weight: bold;
-    font-family: monospace;
-    text-decoration: none !important;
-    background: none;
-    border: none;
-  }
-
-  li ul > li a {
-    padding-inline-start: 1.25rem;
-    font-weight: normal;
-  }
-
-  li ul li ul > li a {
-    padding-inline-start: 1.75rem;
-  }
-
-  li ul li ul li ul > li a {
-    padding-inline-start: 2.25rem;
-  }
-
-  li ul li ul li ul li ul > li a {
-    padding-inline-start: 2.75rem;
-  }
-
-  li ul li ul li ul li ul li ul > li a {
-    padding-inline-start: 3.25rem;
-=======
-    /* Apply button-like base styles to the list item */
-    display: block; /* Ensure li takes full width */
-    padding: 0; /* Reset li padding */
-    margin: 0; /* Reset li margin */
-    background: var(--bg-0); /* Start with light background */
-    transition: none; /* Use animation for hover */
+    &.is-active-link {
+      font-weight: bold;
+      /* Ensure active link also follows the animation pattern */
+      /* (Animation should handle the state, but can override if needed) */
+      // background: var(--bg-8); // Explicitly set if animation doesn't cover
+      // color: var(--light) !important;
+      // text-shadow: var(--d-shadow) !important;
+    }
 
     &:hover {
-      /* Apply dither animation on li hover */
+      /* --- Apply light-to-dark animation on hover --- */
       animation: light-to-dark 200ms linear forwards;
+      /* Ensure hover state matches animation end state */
+      color: var(--light) !important;
+      text-shadow: var(--d-shadow) !important;
 
-=======
-    /* Apply button-like base styles to the list item */
-    display: block; /* Ensure li takes full width */
-    padding: 0; /* Reset li padding */
-    margin: 0; /* Reset li margin */
-    background: var(--bg-0); /* Start with light background */
-    transition: none; /* Use animation for hover */
-
-    &:hover {
-      /* Apply dither animation on li hover */
-      animation: light-to-dark 200ms linear forwards;
-
->>>>>>> parent of bade3de (reverse dither anim on toc as well)
-      /* Change text color/shadow via the nested 'a' tag on li hover */
-      a {
-        color: var(--light);
-        text-shadow: var(--d-shadow);
+      &::before {
+        display: none !important;
       }
     }
 
-    /* Prevent parent li from being styled when a child li is hovered */
-    &:has(li:hover) {
-      background: var(--bg-0);
-
-      & > a {
-        color: var(--dark);
-        text-shadow: var(--l-shadow);
-        transition: none;
-      }
+    /* nested lists */
+    + ul {
+      padding-inline-start: 1em;
     }
   }
 
-  a {
-    /* Base text styles and padding */
-    display: block; /* Make link fill the li */
-    padding: 0.25rem 0.75rem; /* Existing padding */
-    line-height: 1.5; /* Existing line-height */
-    color: var(--dark);
-    text-shadow: var(--l-shadow);
-    font-weight: bold; /* Keep original bold weight */
-    font-family: monospace; /* Set font to monospace */
-    text-decoration: none !important; /* Keep this !important */
-    /* Ensure no background/border on link itself */
-    background: none;
-    border: none;
-<<<<<<< HEAD
->>>>>>> parent of bade3de (reverse dither anim on toc as well)
-=======
->>>>>>> parent of bade3de (reverse dither anim on toc as well)
+  &__title {
+    margin-top: 0;
+    margin-block-end: 0.5em;
+    font-family: $sans-serif;
+    font-size: $type-size-5;
+    text-transform: uppercase;
   }
-
-  /* Apply specific text styles on parent li hover */
-  li:hover > a {
-    /* Apply target text styles directly */
-    color: var(--light);
-    text-shadow: var(--d-shadow);
-  }
-
-  /* Indentation rules */
-  li ul > li a {
-    padding-inline-start: 1.25rem;
-    font-weight: normal; /* Keep sub-items normal weight */
-  }
-
-  li ul li ul > li a {
-    padding-inline-start: 1.75rem;
-  }
-
-  li ul li ul li ul > li a {
-    padding-inline-start: 2.25rem;
-  }
-
-  li ul li ul li ul li ul > li a {
-    padding-inline-start: 2.75rem;
-  }
-
-  li ul li ul li ul li ul li ul > li a {
-    padding-inline-start: 3.25rem;
-  }
-
-  /* Style active item if needed (optional, based on scrollspy) */
-  // li.active {
-  //   background: var(--bg-2); /* Example active style */
-  //   a {
-  //      color: var(--dark) !important;
-  //      text-shadow: var(--l-shadow) !important;
-  //   }
-  // }
 }
 
 /*
