@@ -53,9 +53,15 @@ document.addEventListener('DOMContentLoaded', () => {
     const newLightColor = `hsl(${currentLightHue}, ${lightSaturation}%, ${lightLightness}%)`;
     const newDarkColor = `hsl(${currentDarkHue}, ${darkSaturation}%, ${darkLightness}%)`;
 
-    // Update CSS variables
+    // Construct the full shadow strings using the new colors
+    const newLightShadow = `-1px -1px 0 ${newLightColor}, 0 -1px 0 ${newLightColor}, 1px -1px 0 ${newLightColor}, 1px 0 0 ${newLightColor}, 1px 1px 0 ${newLightColor}, 0 1px 0 ${newLightColor}, -1px 1px 0 ${newLightColor}, -1px 0 0 ${newLightColor}`;
+    const newDarkShadow = `-1px -1px 0 ${newDarkColor}, 0 -1px 0 ${newDarkColor}, 1px -1px 0 ${newDarkColor}, 1px 0 0 ${newDarkColor}, 1px 1px 0 ${newDarkColor}, 0 1px 0 ${newDarkColor}, -1px 1px 0 ${newDarkColor}, -1px 0 0 ${newDarkColor}`;
+
+    // Update CSS variables for colors AND shadows
     root.style.setProperty('--light', newLightColor);
     root.style.setProperty('--dark', newDarkColor);
+    root.style.setProperty('--l-shadow', newLightShadow);
+    root.style.setProperty('--d-shadow', newDarkShadow);
     
     // Keep the animation loop running
     requestAnimationFrame(updateColors);

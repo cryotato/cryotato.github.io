@@ -30,9 +30,9 @@ search: false
   --bg-7: var(--gd) 0px 0px / 4px 4px, var(--dark);
   --bg-8: var(--dark);
 
-  /* --- Pixelated Text Shadow Definitions --- */
-  --l-shadow: -1px -1px 0 var(--light), 0 -1px 0 var(--light), 1px -1px 0 var(--light), 1px 0 0 var(--light), 1px 1px 0 var(--light), 0 1px 0 var(--light), -1px 1px 0 var(--light), -1px 0 0 var(--light);
-  --d-shadow: -1px -1px 0 var(--dark), 0 -1px 0 var(--dark), 1px -1px 0 var(--dark), 1px 0 0 var(--dark), 1px 1px 0 var(--dark), 0 1px 0 var(--dark), -1px 1px 0 var(--dark), -1px 0 0 var(--dark);
+  /* --- Pixelated Text Shadow Definitions (Initial values, JS updates dynamically) --- */
+  --l-shadow: -1px -1px 0 hsl(0, 100%, 80%), 0 -1px 0 hsl(0, 100%, 80%), 1px -1px 0 hsl(0, 100%, 80%), 1px 0 0 hsl(0, 100%, 80%), 1px 1px 0 hsl(0, 100%, 80%), 0 1px 0 hsl(0, 100%, 80%), -1px 1px 0 hsl(0, 100%, 80%), -1px 0 0 hsl(0, 100%, 80%);
+  --d-shadow: -1px -1px 0 hsl(0, 100%, 20%), 0 -1px 0 hsl(0, 100%, 20%), 1px -1px 0 hsl(0, 100%, 20%), 1px 0 0 hsl(0, 100%, 20%), 1px 1px 0 hsl(0, 100%, 20%), 0 1px 0 hsl(0, 100%, 20%), -1px 1px 0 hsl(0, 100%, 20%), -1px 0 0 hsl(0, 100%, 20%);
 
    /* --- Standard Border (Changed to 1px) --- */
    --border-standard: 1px solid var(--dark); // <<< CHANGED FROM 2px to 1px
