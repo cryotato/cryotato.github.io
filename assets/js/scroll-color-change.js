@@ -3,33 +3,27 @@ document.addEventListener('DOMContentLoaded', () => {
 
   // --- Configuration --- 
   const lightStartHue = 0;    // Starting HSL hue for light color (0-360)
-  const lightEndHue = 360;  // Ending HSL hue for light color (0-360)
+  const lightEndHue = 360;  // Not directly used for rate, but keeps range clear
   const lightSaturation = 100; // Saturation % for light color
   const lightLightness = 80;  // Lightness % for light color
 
   const darkStartHue = 0;     // Starting HSL hue for dark color (0-360)
-  const darkEndHue = 360;   // Ending HSL hue for dark color (0-360)
+  const darkEndHue = 360;   // Not directly used for rate, but keeps range clear
   const darkSaturation = 100;  // Saturation % for dark color
   const darkLightness = 20;   // Lightness % for dark color
+
+  const pixelsPerHueCycle = 3000; // Pixels scrolled for one full 360deg hue cycle. Adjust for sensitivity.
   // --- End Configuration ---
 
   let virtualScrollTop = window.scrollY || document.documentElement.scrollTop;
   let ticking = false;
 
   function updateColors() {
-    const scrollHeight = document.documentElement.scrollHeight;
-    const clientHeight = document.documentElement.clientHeight;
+    // Calculate current hue based on virtual scroll position and sensitivity factor
+    const hueOffset = (virtualScrollTop / pixelsPerHueCycle) * 360;
     
-    // Calculate the actual scrollable distance
-    const maxScroll = scrollHeight > clientHeight ? scrollHeight - clientHeight : 1; 
-
-    // Calculate progress based on virtual scroll position relative to actual scroll height
-    // This progress can go below 0 or above 1 during overscroll
-    const scrollProgress = virtualScrollTop / maxScroll;
-
-    // Calculate current hue based on scroll progress, wrapping around using modulo
-    let currentLightHue = (lightStartHue + (lightEndHue - lightStartHue) * scrollProgress);
-    let currentDarkHue = (darkStartHue + (darkEndHue - darkStartHue) * scrollProgress);
+    let currentLightHue = lightStartHue + hueOffset;
+    let currentDarkHue = darkStartHue + hueOffset;
 
     // Ensure hue stays within 0-360 range and handles negative modulo results
     currentLightHue = ((currentLightHue % 360) + 360) % 360;
