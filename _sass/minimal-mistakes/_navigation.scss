@@ -579,7 +579,7 @@
     padding: 0.25rem 0.75rem; /* Existing padding */
     line-height: 1.5; /* Existing line-height */
     color: var(--dark) !important; /* Default dark text */
-    text-shadow: none !important; /* Default NO shadow */
+    text-shadow: var(--l-shadow) !important; /* Default WITH light shadow */
     font-weight: bold; /* Keep original bold weight */
     font-family: monospace; /* Set font to monospace */
     text-decoration: none !important; /* Keep this !important */
