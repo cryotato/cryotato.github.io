@@ -69,7 +69,6 @@ document.addEventListener('DOMContentLoaded', () => {
 
   function handleWheel(event) {
     virtualScrollTop += event.deltaY;
-    virtualScrollTop = Math.max(0, virtualScrollTop);
     // No need to call requestTick here, loop is continuous
   }
 
