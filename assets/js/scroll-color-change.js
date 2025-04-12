@@ -13,60 +13,69 @@ document.addEventListener('DOMContentLoaded', () => {
   const darkLightness = 20;   // Lightness % for dark color
 
   const pixelsPerHueCycle = 6000; // Pixels scrolled for one full 360deg hue cycle. Adjust for sensitivity.
+  const easingFactor = 0.1; // Smaller = smoother/more lag (0 to 1)
   // --- End Configuration ---
 
   let virtualScrollTop = window.scrollY || document.documentElement.scrollTop;
-  let ticking = false;
+  
+  // Initialize current hues based on initial virtual scroll
+  let currentLightHue = (lightStartHue + (virtualScrollTop / pixelsPerHueCycle) * 360);
+  let currentDarkHue = (darkStartHue + (virtualScrollTop / pixelsPerHueCycle) * 360);
+  currentLightHue = ((currentLightHue % 360) + 360) % 360;
+  currentDarkHue = ((currentDarkHue % 360) + 360) % 360;
+  
+  // Helper function for hue interpolation with wrap-around
+  function lerpHue(current, target, factor) {
+    let diff = target - current;
+    // Adjust difference for shortest path around the 0-360 circle
+    if (diff > 180) {
+      diff -= 360;
+    } else if (diff < -180) {
+      diff += 360;
+    }
+    // Apply easing
+    let next = current + diff * factor;
+    // Ensure the result wraps around correctly
+    return ((next % 360) + 360) % 360;
+  }
 
   function updateColors() {
-    // Calculate current hue based on virtual scroll position and sensitivity factor
-    const hueOffset = (virtualScrollTop / pixelsPerHueCycle) * 360;
-    
-    let currentLightHue = lightStartHue + hueOffset;
-    let currentDarkHue = darkStartHue + hueOffset;
+    // Calculate TARGET hue based on virtual scroll position
+    const targetHueOffset = (virtualScrollTop / pixelsPerHueCycle) * 360;
+    let targetLightHue = ((lightStartHue + targetHueOffset) % 360 + 360) % 360;
+    let targetDarkHue = ((darkStartHue + targetHueOffset) % 360 + 360) % 360;
 
-    // Ensure hue stays within 0-360 range and handles negative modulo results
-    currentLightHue = ((currentLightHue % 360) + 360) % 360;
-    currentDarkHue = ((currentDarkHue % 360) + 360) % 360;
+    // Interpolate CURRENT hue towards the target hue
+    currentLightHue = lerpHue(currentLightHue, targetLightHue, easingFactor);
+    currentDarkHue = lerpHue(currentDarkHue, targetDarkHue, easingFactor);
 
-    // Construct HSL color strings
+    // Construct HSL color strings using CURRENT interpolated hues
     const newLightColor = `hsl(${currentLightHue}, ${lightSaturation}%, ${lightLightness}%)`;
     const newDarkColor = `hsl(${currentDarkHue}, ${darkSaturation}%, ${darkLightness}%)`;
 
     // Update CSS variables
     root.style.setProperty('--light', newLightColor);
     root.style.setProperty('--dark', newDarkColor);
-
-    ticking = false;
-  }
-
-  function requestTick() {
-    if (!ticking) {
-      requestAnimationFrame(updateColors);
-      ticking = true;
-    }
+    
+    // Keep the animation loop running
+    requestAnimationFrame(updateColors);
   }
 
   function handleWheel(event) {
-    // Update virtual scroll position based on wheel delta
     virtualScrollTop += event.deltaY;
-    // Clamp virtual scroll top to prevent it going below 0 (optional, adjust if needed)
     virtualScrollTop = Math.max(0, virtualScrollTop);
-    
-    // Request an animation frame to update colors
-    requestTick();
-    
-    // Note: We don't prevent default scrolling here, let the browser handle visual overscroll.
+    // No need to call requestTick here, loop is continuous
   }
 
-  // Initial call to set colors based on initial scroll position
-  requestTick(); 
+  // --- Start the continuous animation loop --- 
+  requestAnimationFrame(updateColors);
 
-  // Listen for wheel events instead of scroll events
+  // Listen for wheel events to update the virtual scroll position
   window.addEventListener('wheel', handleWheel, { passive: true });
   
-  // Optional: Update colors on resize as clientHeight/scrollHeight might change
-  // Note: Resizing might reset virtualScrollTop if desired, or recalculate progress based on new dimensions.
-  // Current implementation just recalculates progress based on the existing virtualScrollTop.
-  window.addEventListener('resize', requestTick, { passive: true });
+  // Optional: Update colors on resize - loop handles the visual update
+  window.addEventListener('resize', () => {
+      // Maybe re-read initial scroll position or adjust virtualScrollTop?
+      // For now, just lets the continuous loop adjust based on current virtualScrollTop.
+  }, { passive: true });
 }); 
