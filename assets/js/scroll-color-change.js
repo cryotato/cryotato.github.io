@@ -12,7 +12,7 @@ document.addEventListener('DOMContentLoaded', () => {
   const darkSaturation = 100;  // Saturation % for dark color
   const darkLightness = 20;   // Lightness % for dark color
 
-  const pixelsPerHueCycle = 3000; // Pixels scrolled for one full 360deg hue cycle. Adjust for sensitivity.
+  const pixelsPerHueCycle = 6000; // Pixels scrolled for one full 360deg hue cycle. Adjust for sensitivity.
   // --- End Configuration ---
 
   let virtualScrollTop = window.scrollY || document.documentElement.scrollTop;
