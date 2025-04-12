@@ -531,7 +531,10 @@
     border-top: 1px solid $border-color;
   }
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> parent of bade3de (reverse dither anim on toc as well)
 
   .nav__title {
     background: var(--bg-6);
@@ -546,6 +549,9 @@
   .active a {
     @include yiq-contrasted($active-color);
   }
+<<<<<<< HEAD
+>>>>>>> parent of bade3de (reverse dither anim on toc as well)
+=======
 >>>>>>> parent of bade3de (reverse dither anim on toc as well)
 }
 
@@ -561,6 +567,7 @@
   }
 
   li {
+<<<<<<< HEAD
 <<<<<<< HEAD
     display: block;
     padding: 0;
@@ -623,6 +630,19 @@
       /* Apply dither animation on li hover */
       animation: light-to-dark 200ms linear forwards;
 
+=======
+    /* Apply button-like base styles to the list item */
+    display: block; /* Ensure li takes full width */
+    padding: 0; /* Reset li padding */
+    margin: 0; /* Reset li margin */
+    background: var(--bg-0); /* Start with light background */
+    transition: none; /* Use animation for hover */
+
+    &:hover {
+      /* Apply dither animation on li hover */
+      animation: light-to-dark 200ms linear forwards;
+
+>>>>>>> parent of bade3de (reverse dither anim on toc as well)
       /* Change text color/shadow via the nested 'a' tag on li hover */
       a {
         color: var(--light);
@@ -655,6 +675,9 @@
     /* Ensure no background/border on link itself */
     background: none;
     border: none;
+<<<<<<< HEAD
+>>>>>>> parent of bade3de (reverse dither anim on toc as well)
+=======
 >>>>>>> parent of bade3de (reverse dither anim on toc as well)
   }
 
