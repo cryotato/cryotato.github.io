@@ -1,3 +1,7 @@
+---
+search: false
+---
+
 @charset "utf-8";
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
@@ -8,8 +12,8 @@
    ========================================================================== */
 :root {
   /* --- Define your static colors --- */
-  --light: hsl(0, 100%, 80%); /* Initial Light Color (Start of Codepen animation) */
-  --dark: hsl(0, 100%, 20%);  /* Initial Dark Color (Start of Codepen animation) */
+  --light: hsl(0, 100%, 80%); /* Initial light color (Matches Codepen 0%) */
+  --dark: hsl(0, 100%, 20%);  /* Initial dark color (Matches Codepen 0%) */
 
   /* --- Dot Definitions --- */
   --gl: radial-gradient(circle 1px at 0px 0px, var(--dark) 1px, transparent 0);
