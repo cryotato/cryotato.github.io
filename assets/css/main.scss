@@ -162,12 +162,14 @@ p code, li code, h1 code, h2 code, h3 code, h4 code, h5 code, h6 code {
   padding: 0.25em 1em; // <<< REDUCED vertical padding (was 0.5em)
   font-weight: bold;
   border-radius: 0.5em;
-  background: var(--bg-0);
-  color: var(--dark) !important;
-  text-shadow: var(--l-shadow) !important;
+  /* --- Set initial state to the END of the hover animation --- */
+  background: var(--bg-8);
+  color: var(--light) !important;
+  text-shadow: var(--d-shadow) !important;
+  /* --- Apply dark-to-light animation by default --- */
+  animation: dark-to-light 200ms linear forwards;
   border: var(--border-standard);
   text-decoration: none !important;
-  transition: none;
   position: relative;
 
   &::before {
@@ -176,11 +178,13 @@ p code, li code, h1 code, h2 code, h3 code, h4 code, h5 code, h6 code {
 
 
   &:hover {
+    /* --- Apply light-to-dark animation on hover --- */
     animation: light-to-dark 200ms linear forwards;
+    /* Ensure hover state matches animation end state */
     color: var(--light) !important;
     text-shadow: var(--d-shadow) !important;
     text-decoration: none !important;
-    border-radius: 0.5em;
+    border-radius: 0.5em; // Keep consistent
 
     &::before {
         background: none !important;
@@ -272,13 +276,14 @@ button, .btn {
   text-align: center; // Center text
   box-shadow: none; // Remove default shadows
 
-  /* --- Initial State (Matches Header Menu Button Start) --- */
-  background: var(--bg-0);           // Start with SOLID LIGHT background
-  color: var(--dark) !important;     // Start with DARK text color
-  text-shadow: var(--l-shadow) !important; // Start with LIGHT shadow for dark text
+  /* --- Set initial state to the END of the hover animation --- */
+  background: var(--bg-8);           // Start with SOLID DARK background conceptually
+  color: var(--light) !important;    // Start with LIGHT text color conceptually
+  text-shadow: var(--d-shadow) !important; // Start with DARK shadow for light text conceptually
+  /* --- Apply dark-to-light animation by default --- */
+  animation: dark-to-light 200ms linear forwards;
   border: var(--border-standard);    // Use the standard 1px DARK border
   text-decoration: none !important;  // No underline
-  transition: none;                  // Disable default transitions
 
   /* Ensure ::before pseudo-element doesn't interfere (belt-and-suspenders) */
   &::before {
@@ -290,6 +295,7 @@ button, .btn {
 button:hover, .btn:hover {
   /* --- Hover State (Matches Header Menu Button Hover) --- */
   animation: light-to-dark 200ms linear forwards; // Apply the dither animation
+  /* Ensure hover state matches animation end state */
   color: var(--light) !important; // Text becomes LIGHT
   text-shadow: var(--d-shadow) !important; // Shadow becomes DARK
   text-decoration: none !important; // Ensure no underline during animation
