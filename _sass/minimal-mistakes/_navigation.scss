@@ -530,6 +530,23 @@
     padding-top: 1em;
     border-top: 1px solid $border-color;
   }
+<<<<<<< HEAD
+=======
+
+  .nav__title {
+    background: var(--bg-6);
+    color: var(--light);
+    text-shadow: var(--d-shadow);
+    border-bottom: none;
+    padding: 0.5em 1em;
+    margin-bottom: 0;
+  }
+
+  // Scrollspy marks toc items as .active when they are in focus
+  .active a {
+    @include yiq-contrasted($active-color);
+  }
+>>>>>>> parent of bade3de (reverse dither anim on toc as well)
 }
 
 .toc__menu {
@@ -544,6 +561,7 @@
   }
 
   li {
+<<<<<<< HEAD
     display: block;
     padding: 0;
     margin: 0;
@@ -593,7 +611,90 @@
 
   li ul li ul li ul li ul li ul > li a {
     padding-inline-start: 3.25rem;
+=======
+    /* Apply button-like base styles to the list item */
+    display: block; /* Ensure li takes full width */
+    padding: 0; /* Reset li padding */
+    margin: 0; /* Reset li margin */
+    background: var(--bg-0); /* Start with light background */
+    transition: none; /* Use animation for hover */
+
+    &:hover {
+      /* Apply dither animation on li hover */
+      animation: light-to-dark 200ms linear forwards;
+
+      /* Change text color/shadow via the nested 'a' tag on li hover */
+      a {
+        color: var(--light);
+        text-shadow: var(--d-shadow);
+      }
+    }
+
+    /* Prevent parent li from being styled when a child li is hovered */
+    &:has(li:hover) {
+      background: var(--bg-0);
+
+      & > a {
+        color: var(--dark);
+        text-shadow: var(--l-shadow);
+        transition: none;
+      }
+    }
   }
+
+  a {
+    /* Base text styles and padding */
+    display: block; /* Make link fill the li */
+    padding: 0.25rem 0.75rem; /* Existing padding */
+    line-height: 1.5; /* Existing line-height */
+    color: var(--dark);
+    text-shadow: var(--l-shadow);
+    font-weight: bold; /* Keep original bold weight */
+    font-family: monospace; /* Set font to monospace */
+    text-decoration: none !important; /* Keep this !important */
+    /* Ensure no background/border on link itself */
+    background: none;
+    border: none;
+>>>>>>> parent of bade3de (reverse dither anim on toc as well)
+  }
+
+  /* Apply specific text styles on parent li hover */
+  li:hover > a {
+    /* Apply target text styles directly */
+    color: var(--light);
+    text-shadow: var(--d-shadow);
+  }
+
+  /* Indentation rules */
+  li ul > li a {
+    padding-inline-start: 1.25rem;
+    font-weight: normal; /* Keep sub-items normal weight */
+  }
+
+  li ul li ul > li a {
+    padding-inline-start: 1.75rem;
+  }
+
+  li ul li ul li ul > li a {
+    padding-inline-start: 2.25rem;
+  }
+
+  li ul li ul li ul li ul > li a {
+    padding-inline-start: 2.75rem;
+  }
+
+  li ul li ul li ul li ul li ul > li a {
+    padding-inline-start: 3.25rem;
+  }
+
+  /* Style active item if needed (optional, based on scrollspy) */
+  // li.active {
+  //   background: var(--bg-2); /* Example active style */
+  //   a {
+  //      color: var(--dark) !important;
+  //      text-shadow: var(--l-shadow) !important;
+  //   }
+  // }
 }
 
 /*
