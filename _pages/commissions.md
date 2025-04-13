@@ -16,7 +16,9 @@ My most popular work happens to be music commissioned by ContraPoints - which wa
 ### Conspiracy
 <iframe width="560" height="315" src="https://www.youtube.com/embed/teqkK0RLNkI?si=UUUen4U7tJdj_KHN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+mmm replace these with bandcamp embeds actually,,,. and try to get it to fit with the rest of the website theme
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3bMpn73DutwMIVh1PX6XdW?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+insert how much time this took to make so people have an idea of how much their project might cost them
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4Vf8cq8rmi60sESHYVrGyl?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 ### Envy
