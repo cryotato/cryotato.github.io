@@ -1,22 +1,19 @@
 ---
 title: "The Secret Post-Sploder Underground Culture"
-author: "ryan leo ꜩ-tzen [ovxx]"
 date: 2023-10-03T13:49:12.559+0000
 last_modified_at: 2023-10-03T13:49:12.559+0000
 categories: [""]
-tags: ["music","culture","album-review","music-review","house-music"]
+tags: ["music"]
 description: "Naked Flames — Miracle in Transit"
 image:
-  path: /assets/e37801e8c5fb/0*2CAN0oSpdU68QGMm.jpg
+  path: /assets/images/0*2CAN0oSpdU68QGMm.jpg
 ---
-
-### The Secret Post\-Sploder Underground Culture
 #### Naked Flames — Miracle in Transit
 
 _\(5 Jan 2023, commissioned by Shawn Zod’s magazine\)_
 
 
-![Miracle in Transit](assets/e37801e8c5fb/0*2CAN0oSpdU68QGMm.jpg)
+![Miracle in Transit](/assets/images/0*2CAN0oSpdU68QGMm.jpg)
 
 Miracle in Transit
 
