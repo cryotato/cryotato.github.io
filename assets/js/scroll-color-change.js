@@ -4,8 +4,8 @@ document.addEventListener('DOMContentLoaded', () => {
   // --- Configuration --- 
   const lightStartHue = 0;    // Starting HSL hue for light color (0-360)
   const lightEndHue = 360;  // Not directly used for rate, but keeps range clear
-  const lightSaturation = 60; // Saturation % for light color
-  const lightLightness = 80;  // Lightness % for light color
+  const lightSaturation = 40; // Saturation % for light color (Reduced from 60)
+  const lightLightness = 90;  // Lightness % for light color
 
   const darkStartHue = 0;     // Starting HSL hue for dark color (0-360)
   const darkEndHue = 360;   // Not directly used for rate, but keeps range clear
@@ -17,6 +17,8 @@ document.addEventListener('DOMContentLoaded', () => {
   // --- End Configuration ---
 
   let virtualScrollTop = window.scrollY || document.documentElement.scrollTop;
+  let isTouching = false;
+  let touchStartY = 0;
   
   // Initialize current hues based on initial virtual scroll
   let currentLightHue = (lightStartHue + (virtualScrollTop / pixelsPerHueCycle) * 360);
@@ -72,12 +74,40 @@ document.addEventListener('DOMContentLoaded', () => {
     // No need to call requestTick here, loop is continuous
   }
 
+  // --- Touch Event Handlers ---
+  function handleTouchStart(event) {
+    if (event.touches.length === 1) { // Handle single touch scrolling
+      isTouching = true;
+      touchStartY = event.touches[0].clientY;
+    }
+  }
+
+  function handleTouchMove(event) {
+    if (!isTouching || event.touches.length !== 1) return;
+
+    const currentY = event.touches[0].clientY;
+    const deltaY = touchStartY - currentY; // Calculate difference
+    virtualScrollTop += deltaY; // Update virtual scroll
+    touchStartY = currentY; // Update start position for next move event
+    // No need to call requestTick, continuous loop handles updates.
+  }
+
+  function handleTouchEnd(event) {
+    isTouching = false;
+  }
+
   // --- Start the continuous animation loop --- 
   requestAnimationFrame(updateColors);
 
   // Listen for wheel events to update the virtual scroll position
   window.addEventListener('wheel', handleWheel, { passive: true });
   
+  // --- Add Touch Event Listeners ---
+  window.addEventListener('touchstart', handleTouchStart, { passive: true });
+  window.addEventListener('touchmove', handleTouchMove, { passive: true });
+  window.addEventListener('touchend', handleTouchEnd, { passive: true });
+  window.addEventListener('touchcancel', handleTouchEnd, { passive: true }); // Handle cancellation too
+
   // Optional: Update colors on resize - loop handles the visual update
   window.addEventListener('resize', () => {
       // Maybe re-read initial scroll position or adjust virtualScrollTop?

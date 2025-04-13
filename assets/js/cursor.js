@@ -1,4 +1,3 @@
-
 class ArrowPointer {
   constructor() {
     this.root = document.body
@@ -113,11 +112,38 @@ class ArrowPointer {
 
 (() => {
   const cursor = new ArrowPointer()
-  if(!/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)) {    
-    document.onmousemove = function (event) {
-      cursor.move(event)
-    }
-  } else {
-    cursor.remove()
+
+  // Move cursor on mouse move (for desktop)
+  document.onmousemove = function (event) {
+    cursor.move(event)
   }
+
+  // Move cursor on touch move (for mobile/touch)
+  function handleTouchMove(event) {
+    if (event.touches.length > 0) {
+      // Synthesize an event-like object for the move method
+      const touchEvent = {
+        pageX: event.touches[0].pageX,
+        pageY: event.touches[0].pageY
+      };
+      cursor.move(touchEvent);
+    }
+  }
+
+  // Also position cursor on initial touch
+  function handleTouchStart(event) {
+    if (event.touches.length > 0) {
+       // Synthesize an event-like object for the move method
+       const touchEvent = {
+        pageX: event.touches[0].pageX,
+        pageY: event.touches[0].pageY
+      };
+      // Call move to set initial position and potentially initial angle
+      cursor.move(touchEvent);
+    }
+  }
+
+  document.addEventListener('touchstart', handleTouchStart, { passive: true });
+  document.addEventListener('touchmove', handleTouchMove, { passive: true });
+
 })()
