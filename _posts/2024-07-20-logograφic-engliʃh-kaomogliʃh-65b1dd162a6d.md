@@ -1,10 +1,12 @@
 ---
 title: "Transliŋgual Engliʃh — 𖡉Kaomogliʃh"
-author: "ryan leo ꜩ-tzen [ovxx]"
 date: 2024-07-20T19:31:53.906+0000
 last_modified_at: 2025-04-03T13:08:54.803+0000
 categories: [""]
-tags: ["linguistics","writing","english-language","typescript","design"]
+toc: true
+toc_label: "ϑawts"
+toc_icon: "brain"  # corresponding Font Awesome icon name (without fa prefix)
+tags: ["linguistics","orthography"]
 description: "after experimentiŋ w/ ϑ’Neogliʃh writiŋ syſtem ï cooked ûp a year or so ago, enough has ɕhang’d for me to write a new manifeſto / guide…"
 image:
   path: /assets/images/1_YTgbiT1uJmPfWDjGCpYXLA.jpeg
@@ -518,6 +520,3 @@ hadModifier := false
 
 ϑat is all\. remember to find ϑ’Beautεїз in Θiŋs\.
 
-
-
-_[Post](https://ryaen.medium.com/logogra%CF%86ic-engli%CA%83h-kaomogli%CA%83h-65b1dd162a6d) converted from Medium by [ZMediumToMarkdown](https://github.com/ZhgChgLi/ZMediumToMarkdown)._

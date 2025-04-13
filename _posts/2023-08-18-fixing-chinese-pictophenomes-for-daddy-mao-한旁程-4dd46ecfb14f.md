@@ -1,10 +1,12 @@
 ---
 title: "Fixing Chinese pictophonemes for Mao — 魂體한字"
-author: "ryan leo ꜩ-tzen [ovxx]"
 date: 2023-08-18T19:31:09.548+0000
 last_modified_at: 2024-10-26T13:56:38.709+0000
 categories: [""]
-tags: ["linguistics","chinese","conlang","korean","history"]
+tags: ["linguistics","orthography"]
+toc: true
+toc_label: "ϑawts"
+toc_icon: "brain"  # corresponding Font Awesome icon name (without fa prefix)
 description: "Huoonty Hantze, hybrid logographic hangul script for 普通話"
 image:
   path: /assets/images/1_HbQgkZAGvgV__2p_lvpqUw.png
@@ -110,6 +112,3 @@ The Hangul & Huoontification is so obvious I’m weary to even point it out\.
 
 Either way I hope another linguacel finds this interesting\!
 
-
-
-_[Post](https://ryaen.medium.com/fixing-chinese-pictophenomes-for-daddy-mao-%ED%95%9C%E6%97%81%E7%A8%8B-4dd46ecfb14f) converted from Medium by [ZMediumToMarkdown](https://github.com/ZhgChgLi/ZMediumToMarkdown)._

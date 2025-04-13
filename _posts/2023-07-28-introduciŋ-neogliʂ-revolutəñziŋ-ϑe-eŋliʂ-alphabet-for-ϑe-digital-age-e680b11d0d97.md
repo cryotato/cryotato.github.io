@@ -4,6 +4,9 @@ date: 2023-07-28T13:33:39.725+0000
 last_modified_at: 2023-07-30T10:47:37.437+0000
 categories: [""]
 tags: ["linguistics","orthography"]
+toc: true
+toc_label: "ϑawts"
+toc_icon: "brain"  # corresponding Font Awesome icon name (without fa prefix)
 description: "[Introducing Neo-English — revolutionizing the English alphabet for the digital age]"
 image:
   path: /assets/images/1_QoH-q4r9Fs0B1ihVQtYriA.jpeg
@@ -225,7 +228,3 @@ light poured out of ϑe hatчways\.
 For my pəsonal use I only use “ϑ” for ϑe supə common articles like “ϑe” “ϑis” and “ϑat” but sometimes I just use “ϑ” alone to represent “ϑe” when I’m writiŋ in my diary\. I’m into “ŋ” & “ʊ” tʊ but it’s hardə to configure in Gboard so meh\. “ə” is tʊ muч of a pain as well oftentimes but I still like ϑe idea of it\. I don’t boϑə wiϑ “ʂ” “ч” “ʞ” “ß” or “ñ”at all even ϑough ϑey’re cʊl cuz i feel ϑat “ʂ” & “ч” already makes enough sense given “h” briŋs back ϑe “s” or “c” sound; “qu” doesn’t really appear enough for me to care and ϑəe’s not enough of a problem wiϑ “ni” or “ss” for me to specify if it’s actually makiŋ ϑe eñe or eszett sound\.
 
 Remembə ϑəe’s no right way to do laŋuage, play around & figure out what works for you\!
-
-
-
-_[Post](https://ryaen.medium.com/introduci%C5%8B-neogli%CA%82-revolut%C9%99%C3%B1zi%C5%8B-%CF%91e-e%C5%8Bli%CA%82-alphabet-for-%CF%91e-digital-age-e680b11d0d97) converted from Medium by [ZMediumToMarkdown](https://github.com/ZhgChgLi/ZMediumToMarkdown)._

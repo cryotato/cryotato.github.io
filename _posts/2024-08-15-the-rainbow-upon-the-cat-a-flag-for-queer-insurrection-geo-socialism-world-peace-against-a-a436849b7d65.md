@@ -1,10 +1,12 @@
 ---
 title: "R̥̥ḁ̥̥̥i̥̥n̥b͡ow Upon ϑ’Cat"
-author: "ryan leo ꜩ-tzen [ovxx]"
 date: 2024-08-15T13:01:11.083+0000
 last_modified_at: 2024-10-26T15:16:54.365+0000
 categories: [""]
-tags: ["vexillology","flags","pride","politics","socialism"]
+tags: ["vexillology","politics"]
+toc: true
+toc_label: "ϑawts"
+toc_icon: "brain"  # corresponding Font Awesome icon name (without fa prefix)
 description: "a Flag for Unflinɕhiŋ Unity & Hope in a Growiŋ Landscape of Desperation & Sterility"
 image:
   path: /assets/images/1_GSo3APMnveL5RtUIxfTw7w.png
@@ -159,7 +161,3 @@ First attempt at a geosocialist flag, with a “do you see the cat” reference 
 
 ![](/assets/images/1_PqPiWTeajFid9gLfzGC9Yw.jpeg)
 
-
-
-
-_[Post](https://ryaen.medium.com/the-rainbow-upon-the-cat-a-flag-for-queer-insurrection-geo-socialism-world-peace-against-a-a436849b7d65) converted from Medium by [ZMediumToMarkdown](https://github.com/ZhgChgLi/ZMediumToMarkdown)._

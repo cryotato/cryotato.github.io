@@ -3,10 +3,13 @@ title: "the Friendification of Mindfulness — Gamifying a Solution to Insomnia 
 date: 2022-04-26T17:15:04.091+0000
 last_modified_at: 2022-04-30T09:39:52.037+0000
 categories: [""]
-tags: ["ui","ui-design","ux-case-study","design-philosophy","cute"]
+tags: ["design"]
 description: "Product Overview: Mindfulness chatbot application with breathing exercises and mood journaling, inspired by Breatherly and Woebot."
 image:
   path: /assets/images/1_Ifkca-CesPKnf7AcFpyBrg.png
+toc: true
+toc_label: "ϑawts"
+toc_icon: "brain"  # corresponding Font Awesome icon name (without fa prefix)
 ---
 
 ![](/assets/images/1_PAJFe-oNYioLSOU5dfI0bQ@2x.png)
@@ -789,6 +792,3 @@ If you got this far down, just for fun, you can explore the prototype used for t
 
 For this last bit, I‘d like to thank everyone that participated in any one of the 3 surveys, especially interviewees Cami, Mirza, and Claire\. Thank you\!
 
-
-
-_[Post](https://ryaen.medium.com/the-friendification-of-mindfulness-gamifying-a-solution-to-insomnia-with-the-philosophy-of-7bf7ee34005) converted from Medium by [ZMediumToMarkdown](https://github.com/ZhgChgLi/ZMediumToMarkdown)._

@@ -1,10 +1,12 @@
 ---
 title: "Reintroducing Intimacy in Computer Music With Folktrionics"
-author: "ryan leo ꜩ-tzen [ovxx]"
 date: 2023-10-03T13:57:19.022+0000
 last_modified_at: 2024-10-26T13:55:30.463+0000
 categories: [""]
-tags: ["music","album-review","music-review","electronic-music","albums-of-the-year"]
+tags: ["music"]
+toc: true
+toc_label: "ϑawts"
+toc_icon: "brain"  # corresponding Font Awesome icon name (without fa prefix)
 description: "The Books — The Way Out"
 image:
   path: /assets/images/0_-_N0M73g9382gZOB
@@ -32,7 +34,3 @@ Speaking of fun, my initial exposure to The Books started with A Cold Freezin’
 John Zorn’s Naked City
 
 Despite all the variation between the songs, the base of every song is the same witty love for sound collage, the sound of randomly flipping through TV channels late at night\. The same sound avant jazz pioneer John Zorn first described being the main source of his inspiration before the birth of electronic music\. Arranged meticulously, with care and personality, it’s maximalist post\-ironic YouTube poop of guided meditation clips — an acquired taste for those new to experimental music and what I call “folktronics,” but for the explorers, it’s practically begging to be heard\!
-
-
-
-_[Post](https://ryaen.medium.com/reintroducing-intimacy-in-computer-music-with-folktrionics-b10088b59dcf) converted from Medium by [ZMediumToMarkdown](https://github.com/ZhgChgLi/ZMediumToMarkdown)._

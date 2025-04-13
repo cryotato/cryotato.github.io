@@ -1,10 +1,9 @@
 ---
 title: "“Based on What?” Based on Entropic Meaniŋlesƨnesƨ, Janet."
-author: "ryan leo ꜩ-tzen [ovxx]"
 date: 2024-04-03T00:32:08.740+0000
 last_modified_at: 2024-10-29T14:27:14.776+0000
 categories: [""]
-tags: ["linguistics","palestine","fascism","israel","journalism"]
+tags: ["linguistics","politics"]
 description: "Remember when words meant ϑiŋs?"
 image:
   path: /assets/images/0_w-cLPA0idj8OKPNX.jpg
@@ -53,6 +52,3 @@ _I wanted to just leave ϑis here & leave it to your media literacy to deconstru
 
 I Hope Øut of Spite\.
 
-
-
-_[Post](https://ryaen.medium.com/based-on-what-%CF%91entropic-nature-of-sla%C5%8B-in-online-spaces-3f676c4563c2) converted from Medium by [ZMediumToMarkdown](https://github.com/ZhgChgLi/ZMediumToMarkdown)._

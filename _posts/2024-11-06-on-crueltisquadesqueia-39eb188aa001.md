@@ -1,10 +1,12 @@
 ---
 title: "a Practical Guide to Cannibalize Banal Evil for ϑ’Schizo-Accelerationist ˗ˏˋnow 𝘸/ Brainrotˎˊ˗"
-author: "ryan leo ꜩ-tzen [ovxx]"
 date: 2024-11-06T02:58:27.548+0000
 last_modified_at: 2025-02-12T18:09:40.509+0000
 categories: [""]
-tags: ["politics","ai","philosophy","pop-culture","socialism"]
+tags: ["politics","philosophy","culture"]
+toc: true
+toc_label: "ϑawts"
+toc_icon: "brain"  # corresponding Font Awesome icon name (without fa prefix)
 description: "accordiŋ to Lain, Cruelty Squad, & Deleuze."
 image:
   path: /assets/images/1_7DdOt-Cj1D6cZRvX1KUaaQ.jpeg
@@ -97,6 +99,3 @@ literally me
 
 Embody ϑis mode of existence — form creative liberation, resist reterritorialization by ϑ’banalities of ordinary life\. Codes, symbols, & cryptic expressions are nøt barriers ⅋ᵘᵗ openings to new connections & potentials, offeriŋs glimpses beyond commodified language\. & for ϑose williŋ to decode ϑ’signal, new ways of beiŋ can emerge\.
 
-
-
-_[Post](https://ryaen.medium.com/on-crueltisquadesqueia-39eb188aa001) converted from Medium by [ZMediumToMarkdown](https://github.com/ZhgChgLi/ZMediumToMarkdown)._
