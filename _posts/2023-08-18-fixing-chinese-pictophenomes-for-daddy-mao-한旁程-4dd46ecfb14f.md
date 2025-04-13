@@ -7,14 +7,14 @@ categories: [""]
 tags: ["linguistics","chinese","conlang","korean","history"]
 description: "Huoonty Hantze, hybrid logographic hangul script for 普通話"
 image:
-  path: /assets/4dd46ecfb14f/1*HbQgkZAGvgV__2p_lvpqUw.png
+  path: /assets/images/1_HbQgkZAGvgV__2p_lvpqUw.png
 ---
 
 ### Fixing Chinese pictophonemes for Mao — 魂體한字
 #### Huoonty Hantze, an etymological hybrid logographic hangul script & universal methodology to immortalize Chinese characters
 
 
-![](assets/4dd46ecfb14f/1*HbQgkZAGvgV__2p_lvpqUw.png)
+![](/assets/images/1_HbQgkZAGvgV__2p_lvpqUw.png)
 
 
 Disclaimer: I’m not a dictator\.
@@ -33,7 +33,7 @@ Another issue arises when you realize Hanzi’s use extends beyond Mandarin\. It
 I like to imagine what the conversation between Mao and Stalin could have gone\. Despite it all, there’s a reason its so hard to imagine Mandarin without 漢字\. The first issue is that Mandarin has very little phonemes at all — 29 while English has 44\. The fact that Mandarin uses very short words oftentimes just containing 1 syllable, switching to a phonetic system would make many words very hard to distinguish from one another\. In English we have the buffalo buffalo buffalo buffalo debaucle but in Chinese we have this monstrosity of words which are all pronounced “shi”:
 
 
-[![The Story of Mr Shi Eating Lions, recited in Mandarin Chinese](assets/4dd46ecfb14f/0c02_hqdefault.jpg "The Story of Mr Shi Eating Lions, recited in Mandarin Chinese")](https://www.youtube.com/watch?v=9jtiw721RAg)
+[![The Story of Mr Shi Eating Lions, recited in Mandarin Chinese](/assets/images/0c02_hqdefault.jpg "The Story of Mr Shi Eating Lions, recited in Mandarin Chinese")](https://www.youtube.com/watch?v=9jtiw721RAg)
 
 
 Aside from readability, Hanzi is just awesome, it’s the last pictographic script we still use \(besides numbers and emojis\) and its the main reason I study Chinese to this day despite all it’s frustrating pitfalls\. It allows for writing that is concise and succinct\. Writing that transcends even spoken language itself\.
@@ -45,7 +45,7 @@ In my eyes the obvious solution is to combine the advantages of a phonetic syste
 It’s really simple, I just had to repurpose and adjust the Korean Hangul system to fit the phonemes of Mandarin\.
 
 
-![](assets/4dd46ecfb14f/1*S90Z1kIFapqPU--PmN0-Vw.png)
+![](/assets/images/1_S90Z1kIFapqPU--PmN0-Vw.png)
 
 
 Then I had to figure out which components in every character were phonetic\. I haven’t been alive for all of ancient Chinese history so for this I had to check every character in the [Yellowbridge](https://www.yellowbridge.com/chinese/dictionary.php) dictionary\. The final step is to just construct the hangul and replace it with the phonetic component\!
@@ -55,13 +55,13 @@ Because my idea for this was to make Chinese Characters immune to any phonetic c
 This is the result of my experiment with Article 1 of the Universal Declaration of Human Rights, used to demonstrate scripts on [Omniglot](https://www.omniglot.com/index.htm) \. “人人生而自由﹐在尊嚴和權利上一律平等。他們賦有理性和良心﹐並應以兄弟關係的精神互相對待。” and chapter 25 from the Tao Te Ching
 
 
-![](assets/4dd46ecfb14f/1*Bbxn_JZo9bQgOVwWJwboiA.png)
+![](/assets/images/1_Bbxn_JZo9bQgOVwWJwboiA.png)
 
 
 Digitizing an idea like this \(accelerationist huoontification, if you will\) would prove to be difficult but I still have a couple of ideas\. I could either make a font which has a very limited use case and would take a lifetime to create \(still might do it anyway & if I do I’ll document some cool etymology findings\), or use a system that makes use of existing hangul unicodes besides the Chinese component, like 應 “yin” as written above could be represented by 인心 instead of in one block… which isn’t introduces a whole set of other problems but I guess it kinda gets the point across\.
 
 
-![A handwritten draft](assets/4dd46ecfb14f/1*vR39VC-KlYTQVjDqCi3Opw.png)
+![A handwritten draft](/assets/images/1_vR39VC-KlYTQVjDqCi3Opw.png)
 
 A handwritten draft
 ### Applications in other languages:
@@ -73,19 +73,19 @@ Korean and Vietnamese have stopped teaching Hanzi in their official education cu
 Apart from traditions sake, there could also be practical reasons\. In [Schwar’s video on Hanja](https://www.youtube.com/watch?v=d9CaoxfljsU) , he explains how the sudden disappearance of Hanzi in Korean caused many words take the exact same written phonetic form, and how in official documents where specificity is crucial, Hanja is still used in conjunction with Hangul today\.
 
 
-![](assets/4dd46ecfb14f/1*uP6bsnhoTktUeGYfGGKl8w.png)
+![](/assets/images/1_uP6bsnhoTktUeGYfGGKl8w.png)
 
 
 Besides, just aesthetically I mean I can’t be the only one that thinks Korean mixed script looks awesome and wishes it could make a comeback\.
 
 
-![](assets/4dd46ecfb14f/0*l2_4VahA53Q1F8g6)
+![](/assets/images/0_l2_4VahA53Q1F8g6)
 
 
 As for Vietnam, a comeback for Chữ Nôm as it is would prove very difficult\. The construction of their characters are quite complex, often adding phonetic components just like in Chinese writing\. Because Chữ Nôm was never standardized, these phonetic components caused a lot of inconsistent variation\. On top of that, much of Chữ Nôm specific characters are purely phonetic to express Vietnamese specific word extensions, and like I expressed earlier, this can cause confusion as to which components are pictographic and which are intended to be phonetic\. [Here’s Schwar](https://www.youtube.com/watch?v=zI9AF7sj1Bk) again with his demonstration of how Vietnamese phonetic characters work in Chữ Nôm\.
 
 
-![](assets/4dd46ecfb14f/1*WmumLpU2oplKdaZLowE0tA.png)
+![](/assets/images/1_WmumLpU2oplKdaZLowE0tA.png)
 
 
 For both these countries, Huoonty Hantze could create a comfortable middle ground for them to reconnect with their forgotten culture and traditions\. It would make Korean mixed script much much more accessible and easy to learn for Koreans, and standardize phonetic components for Vietnamese\.
@@ -93,7 +93,7 @@ For both these countries, Huoonty Hantze could create a comfortable middle groun
 If you’ve been following along, you can probably imagine the possibilities of this being used for other Sinitic languages\. Coincidentally Hokkien shares a [very similar set of spoken phenomes as Korean](https://www.youtube.com/watch?v=HNcW47zZYjQ) , and also has a dire literacy rate\. My grandma, who's Hokkien is literally her native tongue, genuinely still believes to this day that there is “no way to write it\.” Well she’s wrong, but yes it’s just as “difficult” as you’d expect \(at least to me\), having a similar clutter to Chữ Nôm:
 
 
-![This is what it looks like\. Really cool\.](assets/4dd46ecfb14f/0*o2Vt0Ns-08BnJQnw.jpg)
+![This is what it looks like\. Really cool\.](/assets/images/0_o2Vt0Ns-08BnJQnw.jpg)
 
 This is what it looks like\. Really cool\.
 

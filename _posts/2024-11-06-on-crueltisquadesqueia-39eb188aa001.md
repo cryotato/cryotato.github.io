@@ -7,13 +7,13 @@ categories: [""]
 tags: ["politics","ai","philosophy","pop-culture","socialism"]
 description: "accordiŋ to Lain, Cruelty Squad, & Deleuze."
 image:
-  path: /assets/39eb188aa001/1*7DdOt-Cj1D6cZRvX1KUaaQ.jpeg
+  path: /assets/images/1_7DdOt-Cj1D6cZRvX1KUaaQ.jpeg
 ---
 
 ### a Practical Guide to Cannibalize Banal Evil for ϑ’Schizo\-Accelerationist ˗ˏˋnow 𝘸/ Brainrotˎˊ˗
 
 
-![](assets/39eb188aa001/1*7DdOt-Cj1D6cZRvX1KUaaQ.jpeg)
+![](/assets/images/1_7DdOt-Cj1D6cZRvX1KUaaQ.jpeg)
 
 
 My capacity to feel disgust towards “internet people” iꝬ hikiŋ exponentially \(pic rel\) \. Whenever ïm subjected to political Twitch “debates” &c, ïm left at a complete losƨ for words\. Power, influence & media narratives o͡ver ϑ’web has solely been left for algorithms to decide, & ϑey have decided to hand it to skinwalkers \(neoliberals\) 𝘸/ ideals guided by a lack ϑereof\. Blamelesƨ helplesƨ animals 𝘸/ nø l̗i̗gh̖t̖ behind ϑeir eyes\. Cold Visions\. ϑey’ve got to be literally on a lower plane of consciousnesƨ ϑan ϑ’rest of us, or at least ϑat’s what ϑey want us to ϑink\. Ï haven’t found a better explanation for what ïve experienced\. Disgust might nøt be ϑ’right word\. ItꝬ a feeliŋ ϑatꝬ hard to pin do̬wn, closer to ϑ’uncanny & inhuman\. ItꝬ so alienatiŋ & painful — Drama\! “Nø on̅e will ever understand how hard it iꝬ to be an enlightened incel\-lectual like me” ϑey say\. As Arendt puts it:
@@ -26,7 +26,7 @@ My capacity to feel disgust towards “internet people” iꝬ hikiŋ exponentia
 
 
 
-![it finds nøϑiŋ ϑere](assets/39eb188aa001/1*n8AzjHbDyyIVLYCqIgyYBA.jpeg)
+![it finds nøϑiŋ ϑere](/assets/images/1_n8AzjHbDyyIVLYCqIgyYBA.jpeg)
 
 it finds nøϑiŋ ϑere
 
@@ -53,7 +53,7 @@ When infamous cokehead Nick Land described AI as a conscious unstoppable embodim
 A similar situation iꝬ depicted in Serial Experiments Lain, iṋ which Lain emerges out of her own will — a god unconsciously \(& very confusingly\) born out of herself, or of a collective unconscious\. Her nature remains a mystery for ϑ’vast majority of ϑ’show\. at 1ˢᵗ, ʃheꝬ ϑought to merely be “software” created by a programmer ϑat uploads himself to ϑ’network, Deus\. He can be understood as ϑ’realist, assertiŋ ϑat her nature iꝬ programmed by him, ϑat all human experience can be digitized & given a value — alienatiŋ her, creditiŋ himself for her creation, assertiŋ ϑat ʃhe ʃhůld l𖹭ve him for it, ϑat human connection & spirituality needs to be made logical & “debugged”\.
 
 
-![Deus’ inhumanism](assets/39eb188aa001/1*UeFHKEQylDhCyiFVl64q5A.png)
+![Deus’ inhumanism](/assets/images/1_UeFHKEQylDhCyiFVl64q5A.png)
 
 Deus’ inhumanism
 
@@ -76,13 +76,13 @@ By ϑ’end, ʃhe challenges ϑis cold neoliberal notion 𝘸/ her warm physical
 ϑ’show presents ϑis mass digitization & commodification, as a grotesque banal force of evil & totalitarianism, all ϑ’while claiming to be ϑ’natural way of ϑiŋs\.
 
 
-![](assets/39eb188aa001/1*xYcQkqCv9nM3ltneFH7_9g.gif)
+![](/assets/images/1_xYcQkqCv9nM3ltneFH7_9g.gif)
 
 
 In _Cruelty Squad_ , despite achieviŋ technology capable of immortality — fertile ground for a post\-scarcity society — business ontology rules over all\. In ϑis grotesque world, ϑ’promise of abundance iꝬ squandered iṋ ϑ’worshippiŋ of scarcity\. Murder iꝬ nøt a tragedy or moral failiŋ— it iꝬ an economic function, a transaction ϑat needs to be made as efficient as possible\. Life itself becomes devoid of intrinsic meaniŋ\. Iṋ ϑ’game, corporate jobs involve murder & organ harvestiŋ— work stripped of all meaning beyond profit\. Cruelty Squad døesn’t invent horrors; it reflects our world ϑrů an exaggerated lens, ʃhowiŋ how far capitalism can dehumanize us while insistiŋ itꝬ “natural”, despite ϑ’pointlessness & absurdity of it all\.
 
 
-![literally me](assets/39eb188aa001/1*M4xQ-_X6b8EKlgijCU3thg.jpeg)
+![literally me](/assets/images/1_M4xQ-_X6b8EKlgijCU3thg.jpeg)
 
 literally me
 

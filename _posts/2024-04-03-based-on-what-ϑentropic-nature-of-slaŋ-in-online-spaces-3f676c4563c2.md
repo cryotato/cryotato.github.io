@@ -7,7 +7,7 @@ categories: [""]
 tags: ["linguistics","palestine","fascism","israel","journalism"]
 description: "Remember when words meant ϑiŋs?"
 image:
-  path: /assets/3f676c4563c2/0*w-cLPA0idj8OKPNX.jpg
+  path: /assets/images/0_w-cLPA0idj8OKPNX.jpg
 ---
 
 ### “Based on What?” Based on Entropic Meaninglesƨnesƨ, Janet\.
@@ -23,7 +23,7 @@ I used to unironically \(important distinction\) use ϑ’word “based” a lot
 
 
 
-![“no touchiŋ I find it disgustiŋgg”](assets/3f676c4563c2/0*w-cLPA0idj8OKPNX.jpg)
+![“no touchiŋ I find it disgustiŋgg”](/assets/images/0_w-cLPA0idj8OKPNX.jpg)
 
 “no touchiŋ I find it disgustiŋgg”
 
@@ -45,7 +45,7 @@ Wiϑ online slaŋ ϑis “problem” amounts to banter, but almost a year after 
 
 
 
-!["meat"](assets/3f676c4563c2/1*HvtpnnmIoGrKBp1NUA2PgQ.jpeg)
+!["meat"](/assets/images/1_HvtpnnmIoGrKBp1NUA2PgQ.jpeg)
 
 "meat"
 

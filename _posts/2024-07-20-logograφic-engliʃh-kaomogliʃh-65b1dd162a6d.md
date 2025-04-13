@@ -7,13 +7,13 @@ categories: [""]
 tags: ["linguistics","writing","english-language","typescript","design"]
 description: "after experimentiŋ w/ ϑ’Neogliʃh writiŋ syſtem ï cooked ûp a year or so ago, enough has ɕhang’d for me to write a new manifeſto / guide…"
 image:
-  path: /assets/65b1dd162a6d/1*YTgbiT1uJmPfWDjGCpYXLA.jpeg
+  path: /assets/images/1_YTgbiT1uJmPfWDjGCpYXLA.jpeg
 ---
 
 ### Transliŋgual Engliʃh — 𖡉Kaomogliʃh
 
 
-![\(it probably won't be\)](assets/65b1dd162a6d/1*YTgbiT1uJmPfWDjGCpYXLA.jpeg)
+![\(it probably won't be\)](/assets/images/1_YTgbiT1uJmPfWDjGCpYXLA.jpeg)
 
 \(it probably won't be\)
 

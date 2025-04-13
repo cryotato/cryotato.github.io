@@ -1,13 +1,12 @@
 ---
 title: "Introduciŋ Neogliʂ — revolutəñziŋ ϑe Eŋliʂ alphabet for ϑe digital age."
-author: "ryan leo ꜩ-tzen [ovxx]"
 date: 2023-07-28T13:33:39.725+0000
 last_modified_at: 2023-07-30T10:47:37.437+0000
 categories: [""]
-tags: ["linguistics","language","culture","writing-systems","conlang"]
+tags: ["linguistics","orthography"]
 description: "[Introducing Neo-English — revolutionizing the English alphabet for the digital age]"
 image:
-  path: /assets/e680b11d0d97/1*QoH-q4r9Fs0B1ihVQtYriA.jpeg
+  path: /assets/images/1_QoH-q4r9Fs0B1ihVQtYriA.jpeg
 ---
 
 ### Introduciŋ Neogliʂ — revolutəñziŋ ϑe Eŋliʂ alphabet for ϑe digital age\.
@@ -33,19 +32,19 @@ I’m not a profeßionally trained liŋguist by any means, just someone ϑat is 
 It’s far from pəfect and I’m aware of it’s many flaws, but [həe’s a rough translator](https://lingojam.com/Neoglish%28Extended%26UpdatedEnglishAlphabet%29) I made for ϑis system so you can ʞickly and easily translate whole bʊks for your brain to adjust to readiŋ to it\! It’s like maßagiŋ your brən for neuroplasticity, like learñŋ a new laŋuage wiϑout actually doiŋ so… it’s fun\!
 
 
-![](assets/e680b11d0d97/1*QEj1gZYtfIxn_JcJJDjY7Q.png)
+![](/assets/images/1_QEj1gZYtfIxn_JcJJDjY7Q.png)
 
 
 And for Gboard usəs, you can easily implement ϑese new lettəs into your texts wiϑ ϑis custom dictənary I’ve created\. You can type ϑe sound ϑe lettə represents on ϑe standard QWERTY keyboard \(so “th” for “ϑ” or “er/uh/un” for “ə”\) and it will just show up in the suggestion bar\. Θis way, you can чʊse to use ϑis new alphabet howevə you like, wheϑə you just want to use ϑe common “ϑ” or if you only want to use ϑem for cətain contexts\. \. I’ve also included some common words so typiŋ ϑem will automatically suggest ϑe whole word, and if you swipe \(aka glide type\) it won’t even boϑə to ask\. You can [download it to import into Gboard “personal dictionary” həe](https://drive.google.com/file/d/1Gb1HqGUKp6rZh6bQnnDDC26c1SFx5MEv/view?usp=sharing) and even add your own\!
 
 
-![](assets/e680b11d0d97/1*QoH-q4r9Fs0B1ihVQtYriA.jpeg)
+![](/assets/images/1_QoH-q4r9Fs0B1ihVQtYriA.jpeg)
 
 
 If enough nədy femcels like me adopt it I’d design and code a whole custom keyboard for it, but for now I ϑink ϑis is gʊd enough… it’s already startiŋ to annoy my boyfriend who hates it because he “instinctually reads it in a Rußian accent\.” Oh well\. I gueß ϑe only way to tell if he’s right is to read how it comes acroß in actual gʊd writiŋ…
 
 
-![](assets/e680b11d0d97/1*CYkCGu7YDvwMJVH9LDFfnQ.png)
+![](/assets/images/1_CYkCGu7YDvwMJVH9LDFfnQ.png)
 
 ### Θe Hitчhikə’s Guide to ϑe Galaxy by Douglas Adams in Neogliʂ
 

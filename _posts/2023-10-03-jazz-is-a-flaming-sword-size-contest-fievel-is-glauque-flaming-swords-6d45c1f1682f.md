@@ -7,7 +7,7 @@ categories: [""]
 tags: ["music","aoty","jazz","album-review","music-journalism"]
 description: "4 Dec 2022, commissioned by Shawn Zod"
 image:
-  path: /assets/6d45c1f1682f/0*HYFinnMLHOlflopB.jpg
+  path: /assets/images/0_HYFinnMLHOlflopB.jpg
 ---
 
 ### **Jazz is a Flaming Sword Size Contest**
@@ -16,7 +16,7 @@ image:
 _\(2 Dec 2022, commissioned by Shawn Zod\)_
 
 
-![Flaming Swords](assets/6d45c1f1682f/0*HYFinnMLHOlflopB.jpg)
+![Flaming Swords](/assets/images/0_HYFinnMLHOlflopB.jpg)
 
 Flaming Swords
 

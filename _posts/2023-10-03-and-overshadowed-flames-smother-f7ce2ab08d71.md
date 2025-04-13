@@ -7,7 +7,7 @@ categories: [""]
 tags: ["music","music-review","aoty","mu","albums-of-the-year"]
 description: "Weyes Blood — And In The Dark, Hearts Aglow"
 image:
-  path: /assets/f7ce2ab08d71/0*vTvzRCP3lxkl5lSB.jpg
+  path: /assets/images/0_vTvzRCP3lxkl5lSB.jpg
 ---
 
 ### **And Overshadowed, Flames Smother\!**
@@ -16,7 +16,7 @@ image:
 _\(4 Dec 2022, commissioned by Shawn Zod\)_
 
 
-![And In The Dark, Hearts Aglow](assets/f7ce2ab08d71/0*vTvzRCP3lxkl5lSB.jpg)
+![And In The Dark, Hearts Aglow](/assets/images/0_vTvzRCP3lxkl5lSB.jpg)
 
 And In The Dark, Hearts Aglow
 
@@ -25,7 +25,7 @@ I was fully pumped for this album, even knowing nothing can be reasonably compar
 Maybe it was those masterful chord progressions, she sure as HELL made sure she caught everyone by their heartstrings with hooks that swell and embrace you in its beautiful little baroque soundscape\. Her sincere, bittersweet and heart\-warming themes, her pain wrapped in hope, she exuded this unforgettable motherly love that was so so hard to find anywhere else\. And the words she spoke were treated to the same degree, they felt big as ever — profound in its sheer warmth\.
 
 
-![Titanic Rising](assets/f7ce2ab08d71/0*cjRD7XMoYm1O9xKw.jpg)
+![Titanic Rising](/assets/images/0_cjRD7XMoYm1O9xKw.jpg)
 
 Titanic Rising
 

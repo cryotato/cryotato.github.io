@@ -7,7 +7,7 @@ categories: [""]
 tags: ["music","album-review","music-review","electronic-music","albums-of-the-year"]
 description: "The Books — The Way Out"
 image:
-  path: /assets/b10088b59dcf/0*-_N0M73g9382gZOB
+  path: /assets/images/0_-_N0M73g9382gZOB
 ---
 
 ### Reintroducing Intimacy in Computer Music With Folktrionics
@@ -16,7 +16,7 @@ image:
 _\(30 Apr 2023, commissioned by Shawn Zod’s magazine\)_
 
 
-![The Way Out](assets/b10088b59dcf/0*-_N0M73g9382gZOB)
+![The Way Out](/assets/images/0_-_N0M73g9382gZOB)
 
 The Way Out
 
@@ -27,7 +27,7 @@ And still electronics aren’t the only trick up their sleeve\. Free Translator 
 Speaking of fun, my initial exposure to The Books started with A Cold Freezin’ Night\. For this one, they bought a load of secondhand tape toys marketed towards children that still had old recordings on them\. They used the inherent psychopathic nature of children to create unnerving and hilarious hooks\. “Alright that’s tha attitood\! Ow ow ah ow\!” has been stuck in my head since the very first day I listened to it, you’d be surprised how catchy it all is\. Maybe it’s the woody percussion sounds I find so satisfying, or the pop\-like structure that makes the mess just predictable enough to stay looping in my head\. It really hits the spot\.
 
 
-![John Zorn’s Naked City](assets/b10088b59dcf/0*8ZYflTJnT_IkkqM3.jpeg)
+![John Zorn’s Naked City](/assets/images/0_8ZYflTJnT_IkkqM3.jpeg)
 
 John Zorn’s Naked City
 
