@@ -8,12 +8,12 @@ document.addEventListener('DOMContentLoaded', () => {
   // --- Configuration --- 
   const lightStartHue = randomLightStartHue; // Use random start hue
   const lightEndHue = 360;  // Not directly used for rate, but keeps range clear
-  const lightSaturation = 30; // Saturation % for light color (Reduced from 60)
-  const lightLightness = 93;  // Lightness % for light color
+  const lightSaturation = 34; // Saturation % for light color (Reduced from 60)
+  const lightLightness = 90;  // Lightness % for light color
 
   const darkStartHue = randomDarkStartHue; // Use random start hue
   const darkEndHue = 360;   // Not directly used for rate, but keeps range clear
-  const darkSaturation = 60;  // Saturation % for dark color
+  const darkSaturation = 55;  // Saturation % for dark color
   const darkLightness = 20;   // Lightness % for dark color
 
   const pixelsPerLightHueCycle = 10000; // Slower cycle for light color
