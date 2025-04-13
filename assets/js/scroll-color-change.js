@@ -13,7 +13,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
   const darkStartHue = randomDarkStartHue; // Use random start hue
   const darkEndHue = 360;   // Not directly used for rate, but keeps range clear
-  const darkSaturation = 100;  // Saturation % for dark color
+  const darkSaturation = 70;  // Saturation % for dark color
   const darkLightness = 20;   // Lightness % for dark color
 
   const pixelsPerLightHueCycle = 10000; // Slower cycle for light color
