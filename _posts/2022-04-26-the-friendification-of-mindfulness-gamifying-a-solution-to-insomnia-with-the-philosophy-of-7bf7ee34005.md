@@ -6,10 +6,10 @@ categories: [""]
 tags: ["ui","ui-design","ux-case-study","design-philosophy","cute"]
 description: "Product Overview: Mindfulness chatbot application with breathing exercises and mood journaling, inspired by Breatherly and Woebot."
 image:
-  path: /assets/7bf7ee34005/1*Ifkca-CesPKnf7AcFpyBrg.png
+  path: /assets/1*Ifkca-CesPKnf7AcFpyBrg.png
 ---
 
-![](/assets/7bf7ee34005/1*PAJFe-oNYioLSOU5dfI0bQ@2x.png)
+![](/assets/1*PAJFe-oNYioLSOU5dfI0bQ@2x.png)
 
 
 
@@ -47,43 +47,43 @@ To apply this, I made an Animal Crossing\-esque chatbot the main medium of explo
 It all starts from the chatbot asking you about your day\. Not only do the responses encourage a form of journaling, it also allows the bot to analyse the emotional context of the words being used in order to pick a breathing exercise to help the user\. The idea is that by addressing the user’s emotions, it can help them to feel comfortable and fall asleep\.
 
 
-![](/assets/7bf7ee34005/1*Ifkca-CesPKnf7AcFpyBrg.png)
+![](/assets/1*Ifkca-CesPKnf7AcFpyBrg.png)
 
 
 
-![Onboarding](/assets/7bf7ee34005/1*6UFsYwRbwWyUWDHnAPCEgA.png)
+![Onboarding](/assets/1*6UFsYwRbwWyUWDHnAPCEgA.png)
 
 Onboarding
 
 
-![](/assets/7bf7ee34005/1*Pin4TdPn8c3uSXm0GQLgHw.png)
+![](/assets/1*Pin4TdPn8c3uSXm0GQLgHw.png)
 
 
 
-![Onboarding to homepage to journaling to breathing](/assets/7bf7ee34005/1*qtcLYQLKUByQXvFy5gTnHg.png)
+![Onboarding to homepage to journaling to breathing](/assets/1*qtcLYQLKUByQXvFy5gTnHg.png)
 
 Onboarding to homepage to journaling to breathing
 
 
-![](/assets/7bf7ee34005/1*GOhjA-MHq1ZtiYhudfJvaA.png)
+![](/assets/1*GOhjA-MHq1ZtiYhudfJvaA.png)
 
 
 
-![Setting timers and changing settings while breathing](/assets/7bf7ee34005/1*_iKWnhcpUzkl_lih0QTxcg.png)
+![Setting timers and changing settings while breathing](/assets/1*_iKWnhcpUzkl_lih0QTxcg.png)
 
 Setting timers and changing settings while breathing
 
 
-![Homepage to journal history pages](/assets/7bf7ee34005/1*ggcRr-oKyDqHJZy7HhvyYA.png)
+![Homepage to journal history pages](/assets/1*ggcRr-oKyDqHJZy7HhvyYA.png)
 
 Homepage to journal history pages
 
 
-![](/assets/7bf7ee34005/1*Pr3zaXw7M74Y-SzlkOmacg.png)
+![](/assets/1*Pr3zaXw7M74Y-SzlkOmacg.png)
 
 
 
-![Homepage to settings to changing bedtime buddy](/assets/7bf7ee34005/1*1OmY4nP6hcilgs_5ci6lrQ.png)
+![Homepage to settings to changing bedtime buddy](/assets/1*1OmY4nP6hcilgs_5ci6lrQ.png)
 
 Homepage to settings to changing bedtime buddy
 #### Design Process —long and technical
@@ -109,7 +109,7 @@ Breathing exercises can reduce stress by increasing oxygen exchange, which reduc
 These physical changes also benefit your mental state — helping aid sleep and manage anxiety
 
 
-![[https://www\.ncbi\.nlm\.nih\.gov/pmc/articles/PMC5455070/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5455070/)](/assets/7bf7ee34005/0*FLzgo91H3bakn-Bz)
+![[https://www\.ncbi\.nlm\.nih\.gov/pmc/articles/PMC5455070/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5455070/)](/assets/0*FLzgo91H3bakn-Bz)
 
 [https://www\.ncbi\.nlm\.nih\.gov/pmc/articles/PMC5455070/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5455070/)
 #### Interview
@@ -117,11 +117,11 @@ These physical changes also benefit your mental state — helping aid sleep and 
 A survey was used to pick out individuals suitable to interview\. Of 17 participants, 3 were chosen for an interview\.
 
 
-![](/assets/7bf7ee34005/1*d382-Gf76V-942filbV2vg.png)
+![](/assets/1*d382-Gf76V-942filbV2vg.png)
 
 
 
-![meet the interviewees :D](/assets/7bf7ee34005/1*CkhCYFmpVrydRRYZ2eI6UQ.png)
+![meet the interviewees :D](/assets/1*CkhCYFmpVrydRRYZ2eI6UQ.png)
 
 meet the interviewees :D
 
@@ -190,7 +190,7 @@ Gets woken up by audio when trying to sleep with a guided meditation
 Wants something simple and easy to use without much time commitment
 
 
-![Journey](/assets/7bf7ee34005/1*XUgIcDSK3UP3DoNZguZl1A.png)
+![Journey](/assets/1*XUgIcDSK3UP3DoNZguZl1A.png)
 
 Journey
 
@@ -202,11 +202,11 @@ Journey
 **Our solution** is more personal and flexible, uses vibration instead of audio as to not interrupt sleep
 
 
-![](/assets/7bf7ee34005/1*SgkNHSNMcroKxD0wdBxWtg.png)
+![](/assets/1*SgkNHSNMcroKxD0wdBxWtg.png)
 
 
 
-![Opportunities](/assets/7bf7ee34005/1*ifl10NkH2x_0NmXGns8QiQ.png)
+![Opportunities](/assets/1*ifl10NkH2x_0NmXGns8QiQ.png)
 
 Opportunities
 
@@ -214,22 +214,22 @@ Then, a competitor analysis board was made to compare my main app inspiration, B
 #### Competitor analysis
 
 
-![](/assets/7bf7ee34005/1*utSLTRHWbEa-o5JaN8YNFw.png)
+![](/assets/1*utSLTRHWbEa-o5JaN8YNFw.png)
 
 
 
-![](/assets/7bf7ee34005/1*f112Osuf564r14_cPi4MaQ.png)
+![](/assets/1*f112Osuf564r14_cPi4MaQ.png)
 
 
 
-![](/assets/7bf7ee34005/1*owdbAY7Hueszq1nMSEXenA.png)
+![](/assets/1*owdbAY7Hueszq1nMSEXenA.png)
 
 #### **Breathwrk**
 
 Breathing exercise app structured like a traditional audiobook guided meditation app, like a bit of both
 
 
-![](/assets/7bf7ee34005/1*bFgAOOyAvLOp5QcmXMUHrQ.png)
+![](/assets/1*bFgAOOyAvLOp5QcmXMUHrQ.png)
 
 
 _Pros:_
@@ -253,7 +253,7 @@ Seems to me this app pumps itself with exercises with minute details just to ent
 Simple breathing exercise app with a cute bunny graphic and sounds to help user relax
 
 
-![](/assets/7bf7ee34005/1*waVpTeeU7riJOg9tBa99YA.png)
+![](/assets/1*waVpTeeU7riJOg9tBa99YA.png)
 
 
 _Pros:_
@@ -275,7 +275,7 @@ I love the mascot idea, it makes me feel like I’m sleeping alongside someone a
 Popular traditional audiobook meditation app
 
 
-![](/assets/7bf7ee34005/1*nK1HhmDf3FK-2oMNm7YXog.png)
+![](/assets/1*nK1HhmDf3FK-2oMNm7YXog.png)
 
 
 Pros:
@@ -298,7 +298,7 @@ This app used to be great when i first used it 5 or so years ago\. Now it is blo
 A big messy mix of everything, breathing exercises, affirmations from a chatbot, guided meditation audiobooks\. Its really messy
 
 
-![](/assets/7bf7ee34005/1*gMfPxq_EvCWcnKQDXOtyZg.png)
+![](/assets/1*gMfPxq_EvCWcnKQDXOtyZg.png)
 
 
 _Pros:_
@@ -325,7 +325,7 @@ I hate the interface and how messy it is but I think the chatbot feature is a go
 It’s what i wish the Wysa interface was\. The whole UI is centred around a chatbot that helps you choose exercises and asks you about your day\. It’s great\.
 
 
-![](/assets/7bf7ee34005/1*cKbxGgDn6mwZyWE2MXSDdg.png)
+![](/assets/1*cKbxGgDn6mwZyWE2MXSDdg.png)
 
 
 _Pros:_
@@ -357,11 +357,11 @@ As a base of the project, the app I chose for reference was Breatherly\. It is a
 Before deciding on the features to add, Jakob Nielson’s Heuristics Analysis was used to find a UX scorecard for Breatherly\. Observe:
 
 
-![](/assets/7bf7ee34005/1*M_O5d_DoCSsl60XMEZB0Jg.png)
+![](/assets/1*M_O5d_DoCSsl60XMEZB0Jg.png)
 
 
 
-![](/assets/7bf7ee34005/1*1nxlAFtcfFpwAkK64SRMow.png)
+![](/assets/1*1nxlAFtcfFpwAkK64SRMow.png)
 
 
 Breatherly scored a 3\.4 on average
@@ -376,18 +376,18 @@ While the app was great at minimizing the mental burden by being extremely simpl
 Ideas for features were categorized to determine which were worth focusing on most\.
 
 
-![](/assets/7bf7ee34005/1*3w1w2YRJZqw_7hYiX8YSSw.png)
+![](/assets/1*3w1w2YRJZqw_7hYiX8YSSw.png)
 
 
 
-![Product Prioritization Framework](/assets/7bf7ee34005/0*l6D4LShOMtdRNFCv)
+![Product Prioritization Framework](/assets/0*l6D4LShOMtdRNFCv)
 
 Product Prioritization Framework
 
 After I knew which features to focus on, a sitemap plan was made\.
 
 
-![Sitemap with new features](/assets/7bf7ee34005/0*5te71Wtd_2LXR66T)
+![Sitemap with new features](/assets/0*5te71Wtd_2LXR66T)
 
 Sitemap with new features
 
@@ -408,7 +408,7 @@ This consisted of:
 To test the concept, a basic product wireframe was made for users to test:
 
 
-![Wireframe prototype](/assets/7bf7ee34005/0*FMnm1XqrcfPJrqge)
+![Wireframe prototype](/assets/0*FMnm1XqrcfPJrqge)
 
 Wireframe prototype
 
@@ -443,11 +443,11 @@ And their least were:
 
 
 
-![](/assets/7bf7ee34005/0*aRMP3Nrnjtmv3v0Y)
+![](/assets/0*aRMP3Nrnjtmv3v0Y)
 
 
 
-![Overall impression](/assets/7bf7ee34005/0*j38LY7mbvTFAivXp)
+![Overall impression](/assets/0*j38LY7mbvTFAivXp)
 
 Overall impression
 
@@ -458,14 +458,14 @@ Overall, users were generally thought the app was of good value, 100% thought it
 
 
 
-![Layouts A \(left\) and B \(right\)](assets/7bf7ee34005/1*jWlaCFArHZlk3DvE49wWcg.png)
+![Layouts A \(left\) and B \(right\)](/assets/1*jWlaCFArHZlk3DvE49wWcg.png)
 
 Layouts A \(left\) and B \(right\)
 
 Different menus were also tested\. 60% preferred talking to the chatbot to change settings while 40% preferred using a traditional settings menu\. This was because they feel that; the chatbot settings layout is more human, less menus, feels more personal and is friendlier; the menu layout is faster, less frustrating\.
 
 
-![Findings summary](assets/7bf7ee34005/1*Pvp-hRZHxpvX4ofS_HPaTQ.png)
+![Findings summary](/assets/1*Pvp-hRZHxpvX4ofS_HPaTQ.png)
 
 Findings summary
 #### Appendix
@@ -483,20 +483,20 @@ Slides for the [Concept Sprint](https://docs.google.com/presentation/d/1zxRBbgd4
 For the moodboard, I was generally looking for ways I could create a “soft” look, and I envisioned the breathing aspect of the app as a colourful aura\.
 
 
-![](assets/7bf7ee34005/1*r1jYKoVTHwPJjkaLVLBHNw.png)
+![](/assets/1*r1jYKoVTHwPJjkaLVLBHNw.png)
 
 
 
-![Neomorphic Buttons](assets/7bf7ee34005/1*PEXe3DmPWeeM4E3SdqxkzQ.png)
+![Neomorphic Buttons](/assets/1*PEXe3DmPWeeM4E3SdqxkzQ.png)
 
 Neomorphic Buttons
 
 
-![](assets/7bf7ee34005/1*vZryrProhwe7S_kp9_py6A.png)
+![](/assets/1*vZryrProhwe7S_kp9_py6A.png)
 
 
 
-![Aura to represent breath](assets/7bf7ee34005/1*W01hjyXgYNx6iTbpysXVTQ.png)
+![Aura to represent breath](/assets/1*W01hjyXgYNx6iTbpysXVTQ.png)
 
 Aura to represent breath
 #### User Flow
@@ -504,27 +504,27 @@ Aura to represent breath
 The first few iterations of user flow consisted of the basic features\. Many more have been added since then \(new flows are shown shown at the start of the article\) \.
 
 
-![](assets/7bf7ee34005/1*QVcJGmgueWuQz8zsL_4q7g.png)
+![](/assets/1*QVcJGmgueWuQz8zsL_4q7g.png)
 
 
 
-![](assets/7bf7ee34005/1*0vRTdvKhO5VtDjQ3z5rwPw.png)
+![](/assets/1*0vRTdvKhO5VtDjQ3z5rwPw.png)
 
 
 
-![](assets/7bf7ee34005/1*go0W-zlwrC8glOmlY1VOYA.png)
+![](/assets/1*go0W-zlwrC8glOmlY1VOYA.png)
 
 
 
-![](assets/7bf7ee34005/1*rd1G4E7W8TRKeJx893zlOQ.png)
+![](/assets/1*rd1G4E7W8TRKeJx893zlOQ.png)
 
 
 
-![](assets/7bf7ee34005/1*1sMgbBXBYVGawMJMpu-uew.png)
+![](/assets/1*1sMgbBXBYVGawMJMpu-uew.png)
 
 
 
-![Flow applied to the prototype used for the final testing](assets/7bf7ee34005/0*lJBkI8RCiDnJaKo_)
+![Flow applied to the prototype used for the final testing](/assets/0*lJBkI8RCiDnJaKo_)
 
 Flow applied to the prototype used for the final testing
 #### Final Usability Testing
@@ -558,7 +558,7 @@ _task:_
 
 
 
-![](assets/7bf7ee34005/0*SNb61h9oqm6-fKA-)
+![](/assets/0*SNb61h9oqm6-fKA-)
 
 
 **41\.2% direct success**
@@ -583,15 +583,15 @@ _task:_
 
 
 
-![](assets/7bf7ee34005/0*ExEFSSxTjn8KFX28)
+![](/assets/0*ExEFSSxTjn8KFX28)
 
 
 
-![](assets/7bf7ee34005/0*zh0zy57cqPUzQcyj)
+![](/assets/0*zh0zy57cqPUzQcyj)
 
 
 
-![](assets/7bf7ee34005/0*XVRKVzVCNneTaE7N)
+![](/assets/0*XVRKVzVCNneTaE7N)
 
 
 **94\.7% direct success**
@@ -614,7 +614,7 @@ _task:_
 
 
 
-![](assets/7bf7ee34005/0*-9FlGo9Cbc8WOTap)
+![](/assets/0*-9FlGo9Cbc8WOTap)
 
 
 **73\.7% direct success**
@@ -630,7 +630,7 @@ _Thoughts while doing this task:_
 
 
 
-![Action plan from findings](assets/7bf7ee34005/1*5_lbtEE_brCOh1LvbhuwhQ.png)
+![Action plan from findings](/assets/1*5_lbtEE_brCOh1LvbhuwhQ.png)
 
 Action plan from findings
 #### Final Hi Fidelity Screens \(original version\)
@@ -638,76 +638,76 @@ Action plan from findings
 The ones shown below is the original of the final prototype\. The alternative version is displayed below to demonstrate the final flow, it uses a pearl rather than a generic home button\. I personally prefer the pearl but the home button is more functional\.
 
 
-![](assets/7bf7ee34005/1*hfGwbb0paYEMZ_8cSB0XDw.png)
+![](/assets/1*hfGwbb0paYEMZ_8cSB0XDw.png)
 
 
 
-![](assets/7bf7ee34005/1*Y9VQv7GqjghewV52Z1twUA.png)
+![](/assets/1*Y9VQv7GqjghewV52Z1twUA.png)
 
 
 
-![](assets/7bf7ee34005/1*8JtCsISEFr_gGMbd-BQXQA.png)
+![](/assets/1*8JtCsISEFr_gGMbd-BQXQA.png)
 
 
 
-![](assets/7bf7ee34005/1*MpkcoaUVJOWXeVQiJq2hHQ.png)
+![](/assets/1*MpkcoaUVJOWXeVQiJq2hHQ.png)
 
 
 
-![](assets/7bf7ee34005/1*S7mbH_30B6OgprLMa1Ym3w.png)
+![](/assets/1*S7mbH_30B6OgprLMa1Ym3w.png)
 
 
 
-![](assets/7bf7ee34005/1*6QIc7yeKjoxwhMc2EGrh9A.png)
+![](/assets/1*6QIc7yeKjoxwhMc2EGrh9A.png)
 
 
 
-![](assets/7bf7ee34005/1*WZrlfTGxSCOK3xvF1m6xWQ.png)
+![](/assets/1*WZrlfTGxSCOK3xvF1m6xWQ.png)
 
 
 
-![](assets/7bf7ee34005/1*nmZUZ_Dg-M7dVmg_ol8H7Q.png)
+![](/assets/1*nmZUZ_Dg-M7dVmg_ol8H7Q.png)
 
 #### Final Flow \(using alternative pearl version\)
 
 
-![](assets/7bf7ee34005/1*Ifkca-CesPKnf7AcFpyBrg.png)
+![](/assets/1*Ifkca-CesPKnf7AcFpyBrg.png)
 
 
 
-![Onboarding](assets/7bf7ee34005/1*6UFsYwRbwWyUWDHnAPCEgA.png)
+![Onboarding](/assets/1*6UFsYwRbwWyUWDHnAPCEgA.png)
 
 Onboarding
 
 
-![](assets/7bf7ee34005/1*Pin4TdPn8c3uSXm0GQLgHw.png)
+![](/assets/1*Pin4TdPn8c3uSXm0GQLgHw.png)
 
 
 
-![Onboarding to homepage to journaling to breathing](assets/7bf7ee34005/1*qtcLYQLKUByQXvFy5gTnHg.png)
+![Onboarding to homepage to journaling to breathing](/assets/1*qtcLYQLKUByQXvFy5gTnHg.png)
 
 Onboarding to homepage to journaling to breathing
 
 
-![](assets/7bf7ee34005/1*GOhjA-MHq1ZtiYhudfJvaA.png)
+![](/assets/1*GOhjA-MHq1ZtiYhudfJvaA.png)
 
 
 
-![Setting timers and changing settings while breathing](assets/7bf7ee34005/1*_iKWnhcpUzkl_lih0QTxcg.png)
+![Setting timers and changing settings while breathing](/assets/1*_iKWnhcpUzkl_lih0QTxcg.png)
 
 Setting timers and changing settings while breathing
 
 
-![Homepage to journal history pages](assets/7bf7ee34005/1*ggcRr-oKyDqHJZy7HhvyYA.png)
+![Homepage to journal history pages](/assets/1*ggcRr-oKyDqHJZy7HhvyYA.png)
 
 Homepage to journal history pages
 
 
-![](assets/7bf7ee34005/1*Pr3zaXw7M74Y-SzlkOmacg.png)
+![](/assets/1*Pr3zaXw7M74Y-SzlkOmacg.png)
 
 
 
-![Homepage to settings to changing bedtime buddy](assets/7bf7ee34005/1*1OmY4nP6hcilgs_5ci6lrQ.png)
+![Homepage to settings to changing bedtime buddy](/assets/1*1OmY4nP6hcilgs_5ci6lrQ.png)
 
 Homepage to settings to changing bedtime buddy
 #### Appendix
@@ -723,52 +723,52 @@ Homepage to settings to changing bedtime buddy
 The purpose of a style guide is to help ensure consistency of a design as the project is continued by different designers\.
 
 
-![](assets/7bf7ee34005/1*5gp0IEvKB25Yn5Eqvvo8xA.png)
+![](/assets/1*5gp0IEvKB25Yn5Eqvvo8xA.png)
 
 
 
-![](assets/7bf7ee34005/1*q3cZ0RJBWxRogEMfaiqfxA.png)
+![](/assets/1*q3cZ0RJBWxRogEMfaiqfxA.png)
 
 
 
-![](assets/7bf7ee34005/1*bN11Klwvq4FfNbaEiK-mbA.png)
+![](/assets/1*bN11Klwvq4FfNbaEiK-mbA.png)
 
 
 
-![](assets/7bf7ee34005/1*U7i66GDuynlBrX-qJ8j6LQ.png)
+![](/assets/1*U7i66GDuynlBrX-qJ8j6LQ.png)
 
 
 
-![](assets/7bf7ee34005/1*4GbhcdYTvF0_jwQqgnRKsw.png)
+![](/assets/1*4GbhcdYTvF0_jwQqgnRKsw.png)
 
 
 
-![](assets/7bf7ee34005/1*8BqmuttIti6biQyV8RMtvw.png)
+![](/assets/1*8BqmuttIti6biQyV8RMtvw.png)
 
 
 
-![](assets/7bf7ee34005/1*JAY-gwg-UmuasBqJ6sG1dA.png)
+![](/assets/1*JAY-gwg-UmuasBqJ6sG1dA.png)
 
 
 
-![](assets/7bf7ee34005/1*-sXAzplTsS3z9kgyG9zz0A.png)
+![](/assets/1*-sXAzplTsS3z9kgyG9zz0A.png)
 
 
 
-![](assets/7bf7ee34005/1*132iQHi-F6-DnMXacEeTQw.png)
+![](/assets/1*132iQHi-F6-DnMXacEeTQw.png)
 
 
 
-![](assets/7bf7ee34005/1*SO2-FbRuFimyGZFkJAvHVQ.png)
+![](/assets/1*SO2-FbRuFimyGZFkJAvHVQ.png)
 
 
 
-![](assets/7bf7ee34005/1*362cgSf2ZE430jK3lNil5g.png)
+![](/assets/1*362cgSf2ZE430jK3lNil5g.png)
 
 #### Mockup:
 
 
-![](assets/7bf7ee34005/1*PAJFe-oNYioLSOU5dfI0bQ@2x.png)
+![](/assets/1*PAJFe-oNYioLSOU5dfI0bQ@2x.png)
 
 #### Appendix:
 
