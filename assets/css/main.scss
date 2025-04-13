@@ -155,23 +155,18 @@ p code, li code, h1 code, h2 code, h3 code, h4 code, h5 code, h6 code {
 .masthead .search__toggle {
   font-family: monospace;
   color: var(--light) !important;
-  //get this to change from dark to light on hover
   text-shadow: var(--d-shadow) !important;
   text-decoration: none;
   background: transparent;
   transition: text-decoration 0.2s ease;
-  padding: 0.25em 1em; 
-  }
-
-  // Optional: Sometimes the inner icon needs adjustment too
-  // .greedy-nav__toggle .navicon {
-  //   margin: 0; // Example: Reset margin if padding alone isn't enough
-  // }
-}
 
   &:hover {
     text-decoration: underline;
   }
+}
+/* Ensure search icon color */
+.masthead .search__toggle {
+    color: var(--light) !important;
 }
 
 
@@ -218,8 +213,6 @@ p code, li code, h1 code, h2 code, h3 code, h4 code, h5 code, h6 code {
 .masthead .greedy-nav__toggle .navicon:before,
 .masthead .greedy-nav__toggle .navicon:after {
   background: var(--light);
-  //doesnt button css override this?
-  padding: 0.25em 1em;
 }
 
 /* ==========================================================================
