@@ -12,7 +12,6 @@ image:
   path: /assets/images/0_HYFinnMLHOlflopB.jpg
 ---
 
-### **Jazz is a Flaming Sword Size Contest**
 #### Fievel Is Glauque — Flaming Swords
 
 _\(2 Dec 2022, commissioned by Shawn Zod\)_

@@ -12,7 +12,6 @@ image:
   path: /assets/images/0_-_N0M73g9382gZOB
 ---
 
-### Reintroducing Intimacy in Computer Music With Folktrionics
 #### The Books — The Way Out
 
 _\(30 Apr 2023, commissioned by Shawn Zod’s magazine\)_

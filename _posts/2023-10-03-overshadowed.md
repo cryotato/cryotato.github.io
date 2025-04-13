@@ -11,8 +11,6 @@ description: "Weyes Blood — And In The Dark, Hearts Aglow"
 image:
   path: /assets/images/0_vTvzRCP3lxkl5lSB.jpg
 ---
-
-### **And Overshadowed, Flames Smother\!**
 #### Weyes Blood — And In The Dark, Hearts Aglow
 
 _\(4 Dec 2022, commissioned by Shawn Zod\)_

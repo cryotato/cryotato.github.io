@@ -12,9 +12,6 @@ image:
   path: /assets/images/1_7DdOt-Cj1D6cZRvX1KUaaQ.jpeg
 ---
 
-### a Practical Guide to Cannibalize Banal Evil for ϑ’Schizo\-Accelerationist ˗ˏˋnow 𝘸/ Brainrotˎˊ˗
-
-
 ![](/assets/images/1_7DdOt-Cj1D6cZRvX1KUaaQ.jpeg)
 
 

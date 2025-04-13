@@ -12,9 +12,6 @@ image:
   path: /assets/images/1_YTgbiT1uJmPfWDjGCpYXLA.jpeg
 ---
 
-### Transliŋgual Engliʃh — 𖡉Kaomogliʃh
-
-
 ![\(it probably won't be\)](/assets/images/1_YTgbiT1uJmPfWDjGCpYXLA.jpeg)
 
 \(it probably won't be\)
