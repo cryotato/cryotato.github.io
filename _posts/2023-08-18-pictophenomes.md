@@ -12,7 +12,7 @@ image:
   path: /assets/images/1_HbQgkZAGvgV__2p_lvpqUw.png
 ---
 
-#### Huoonty Hantze, an etymological hybrid logographic hangul script & universal methodology to immortalize Chinese characters
+Huoonty Hantze, an etymological hybrid logographic hangul script & universal methodology to immortalize Chinese characters
 
 
 ![](/assets/images/1_HbQgkZAGvgV__2p_lvpqUw.png)
@@ -34,7 +34,7 @@ Another issue arises when you realize Hanzi’s use extends beyond Mandarin\. It
 I like to imagine what the conversation between Mao and Stalin could have gone\. Despite it all, there’s a reason its so hard to imagine Mandarin without 漢字\. The first issue is that Mandarin has very little phonemes at all — 29 while English has 44\. The fact that Mandarin uses very short words oftentimes just containing 1 syllable, switching to a phonetic system would make many words very hard to distinguish from one another\. In English we have the buffalo buffalo buffalo buffalo debaucle but in Chinese we have this monstrosity of words which are all pronounced “shi”:
 
 
-[![The Story of Mr Shi Eating Lions, recited in Mandarin Chinese](/assets/images/0c02_hqdefault.jpg "The Story of Mr Shi Eating Lions, recited in Mandarin Chinese")](https://www.youtube.com/watch?v=9jtiw721RAg)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9jtiw721RAg?si=dckohODVDN5TSI6d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 Aside from readability, Hanzi is just awesome, it’s the last pictographic script we still use \(besides numbers and emojis\) and its the main reason I study Chinese to this day despite all it’s frustrating pitfalls\. It allows for writing that is concise and succinct\. Writing that transcends even spoken language itself\.
@@ -98,7 +98,7 @@ If you’ve been following along, you can probably imagine the possibilities of 
 
 This is what it looks like\. Really cool\.
 
-I debated bringing up Hokkien at all because the discussion around it is complicated and is too focused on keeping Hokkien alive at all to care about reforming a traditional writing system — seeing as to how close it is from going extinct in Singapore, Malaysia and Taiwan\. In this case many people argue that the standardization of Hokkien using the latin alphabet, like Pe̍h\-ōe\-jī, might be ideal\. I’d even make the case that Pe̍h\-ōe\-jī is too complicated and convoluted to the average English and Malay educated Malaysian\. It’s still interesting to note that a Pe̍h\-ōe\-jī and Hanzi mixed writing system exists too, and it’s a lot more readable than Pe̍h\-ōe\-jī by itself to most Malaysian Chinese people, but they’d still just read it as Mandarin because the Hanzi unHuoontified fails to preserve Hokkien specific pronunciation\. It looks like this:
+I debated bringing up Hokkien at all because the discussion around it is complicated and is too focused on keeping Hokkien alive at all to care about reforming a traditional writing system, seeing as to how close it is from going extinct in Singapore, Malaysia and Taiwan\. My Grandma's native language is Hokkien, and when asked how she writes it she simply replies "it can't be". The same is true of my parents who are also Hokkien speakers. I've only ever met one person who can read Hokkien, and upon discovering she was literate in it I was just in total awe. The splitting image of the dodo in front of my eyes. She said she picked it up watching Hokkien dramas with subtitles on as a kid, on a now-defunct Taiwanese TV channel. In a desperate situation like this many people argue that the standardization of Hokkien using the latin alphabet, like Pe̍h\-ōe\-jī, might be ideal\. I’d even make the case that Pe̍h\-ōe\-jī is too complicated and convoluted to the average English and Malay educated Malaysian\. It’s still interesting to note that a Pe̍h\-ōe\-jī and Hanzi mixed writing system exists too, and it’s a lot more readable than Pe̍h\-ōe\-jī by itself to most Malaysian Chinese people, but they’d still just read it as Mandarin because the Hanzi unHuoontified fails to preserve Hokkien specific pronunciation\. It looks like this:
 
 
 > [翻 tńg 工，我 koh hap i tī Hotel ê 餐廳食西式 ê chái 起，我講 beh tò 去稅厝 ê 所在，i beh 送我去，我 kā 拒絕，mā 無 beh hō͘ i 知我 ê 地址、電話番，講若有緣就會 koh 再相會。I 講人海茫茫，我若無 tī hit 間跳舞、唱歌，i beh 去 toh 位 chhōe — 我？「就是 án\-ni m̄\-chiah 講是緣」，我嘴是 án\-ni 應，心肝內知影 kap i 自細漢到這時 ê 牽連、綿纏無 hiah 簡單就煞。](https://en.wikipedia.org/wiki/Written_Hokkien) 
