@@ -1,6 +1,5 @@
 ---
-title: "the Friendification of Mindfulness — Gamifying a Solution to Insomnia with the Philosophy of…"
-author: "ryan leo ꜩ-tzen [ovxx]"
+title: "the Friendification of Mindfulness — Gamifying a Solution to Insomnia with the Philosophy of Childhood Comfort"
 date: 2022-04-26T17:15:04.091+0000
 last_modified_at: 2022-04-30T09:39:52.037+0000
 categories: [""]
