@@ -4,7 +4,7 @@ document.addEventListener('DOMContentLoaded', () => {
   // --- Configuration --- 
   const lightStartHue = 0;    // Starting HSL hue for light color (0-360)
   const lightEndHue = 360;  // Not directly used for rate, but keeps range clear
-  const lightSaturation = 40; // Saturation % for light color (Reduced from 60)
+  const lightSaturation = 34; // Saturation % for light color (Reduced from 60)
   const lightLightness = 90;  // Lightness % for light color
 
   const darkStartHue = 0;     // Starting HSL hue for dark color (0-360)
@@ -12,7 +12,9 @@ document.addEventListener('DOMContentLoaded', () => {
   const darkSaturation = 100;  // Saturation % for dark color
   const darkLightness = 20;   // Lightness % for dark color
 
-  const pixelsPerHueCycle = 10000; // Pixels scrolled for one full 360deg hue cycle. Adjust for sensitivity.
+  const pixelsPerLightHueCycle = 10000; // Slower cycle for light color
+  const pixelsPerDarkHueCycle = 7500;  // Faster cycle for dark color
+
   const easingFactor = 0.1; // Smaller = smoother/more lag (0 to 1)
   // --- End Configuration ---
 
@@ -21,8 +23,8 @@ document.addEventListener('DOMContentLoaded', () => {
   let touchStartY = 0;
   
   // Initialize current hues based on initial virtual scroll
-  let currentLightHue = (lightStartHue + (virtualScrollTop / pixelsPerHueCycle) * 360);
-  let currentDarkHue = (darkStartHue + (virtualScrollTop / pixelsPerHueCycle) * 360);
+  let currentLightHue = (lightStartHue + (virtualScrollTop / pixelsPerLightHueCycle) * 360);
+  let currentDarkHue = (darkStartHue + (virtualScrollTop / pixelsPerDarkHueCycle) * 360);
   currentLightHue = ((currentLightHue % 360) + 360) % 360;
   currentDarkHue = ((currentDarkHue % 360) + 360) % 360;
   
@@ -42,10 +44,12 @@ document.addEventListener('DOMContentLoaded', () => {
   }
 
   function updateColors() {
-    // Calculate TARGET hue based on virtual scroll position
-    const targetHueOffset = (virtualScrollTop / pixelsPerHueCycle) * 360;
-    let targetLightHue = ((lightStartHue + targetHueOffset) % 360 + 360) % 360;
-    let targetDarkHue = ((darkStartHue + targetHueOffset) % 360 + 360) % 360;
+    // Calculate TARGET hues based on virtual scroll position and INDIVIDUAL cycle lengths
+    const targetLightHueOffset = (virtualScrollTop / pixelsPerLightHueCycle) * 360;
+    const targetDarkHueOffset = (virtualScrollTop / pixelsPerDarkHueCycle) * 360;
+
+    let targetLightHue = ((lightStartHue + targetLightHueOffset) % 360 + 360) % 360;
+    let targetDarkHue = ((darkStartHue + targetDarkHueOffset) % 360 + 360) % 360;
 
     // Interpolate CURRENT hue towards the target hue
     currentLightHue = lerpHue(currentLightHue, targetLightHue, easingFactor);
