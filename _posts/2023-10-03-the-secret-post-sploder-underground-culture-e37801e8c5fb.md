@@ -6,14 +6,14 @@ categories: [""]
 tags: ["music"]
 description: "Naked Flames — Miracle in Transit"
 image:
-  path: /assets/images/0*2CAN0oSpdU68QGMm.jpg
+  path: /assets/images/0_2CAN0oSpdU68QGMm.jpg
 ---
 #### Naked Flames — Miracle in Transit
 
 _\(5 Jan 2023, commissioned by Shawn Zod’s magazine\)_
 
 
-![Miracle in Transit](/assets/images/0*2CAN0oSpdU68QGMm.jpg)
+![Miracle in Transit](/assets/images/0_2CAN0oSpdU68QGMm.jpg)
 
 Miracle in Transit
 
