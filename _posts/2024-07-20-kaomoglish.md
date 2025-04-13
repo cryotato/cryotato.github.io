@@ -12,24 +12,19 @@ image:
   path: /assets/images/1_YTgbiT1uJmPfWDjGCpYXLA.jpeg
 ---
 
+after experimentiŋ 𝑤/ ϑ’Neogliʃh writiŋ syſtem ï cooked ûp a year or so ago, enůgh has ɕhang’d for me to write a new manifeſto / guide for its interpretation & use\. ϑ’project started as a way to streamline Engliʃh spelliŋ, ⅋ᵘᵗ it — its goals & its ideology, has evolved into someϑiŋ muɕh more\.
+
 ![\(it probably won't be\)](/assets/images/1_YTgbiT1uJmPfWDjGCpYXLA.jpeg)
 
 \(it probably won't be\)
 
 
-> All creativity is bureaucratically suppressed until there’s just a boring, grey, algorithmic internet left\. Ruled by robots feeding us bite\-sized bullshit in between ads\. And it’s the people pleading for inclusivity who create this ultimate exclusivity\. 
+> All creativity is bureaucratically suppressed until there’s just a boring, grey, algorithmic internet left\. Ruled by robots feeding us bite\-sized bullshit in between ads\. And it’s the people pleading for inclusivity who create this ultimate exclusivity\. — [some redditor](https://www.reddit.com/r/webdev/comments/vql26g/comment/ieqcnbj/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) 
 
 
+ ů can ϑink of ϑis as a Patɕh Ûpdate of 𖡉bug fixes, improvements &cᵆᵗᵉʳᵃ\. ï tryજ⁀➴to be consistent ⅋ut ϑere’ˢ nø strict right or wrøŋ way to use Neogliʃh, it’ˢ just anoϑer mode of creative expreſsion on ϑ’internet\. here’ʳᵉ a few ideological quirks ï personally adhere to:
 
 
-
-> — [some redditor](https://www.reddit.com/r/webdev/comments/vql26g/comment/ieqcnbj/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) 
-
-
-
-
-
-after experimentiŋ 𝑤/ ϑ’Neogliʃh writiŋ syſtem ï cooked ûp a year or so ago, enůgh has ɕhang’d for me to write a new manifeſto / guide for its interpretation & use\. ϑ’project started as a way to streamline Engliʃh spelliŋ, ⅋ᵘᵗ it — its goals & its ideology, has evolved into someϑiŋ muɕh more\. ů can ϑink of ϑis as a Patɕh Ûpdate of 𖡉bug fixes, improvements &cᵆᵗᵉʳᵃ\. ï tryજ⁀➴to be consistent ⅋ut ϑere’ˢ nø strict right or wrøŋ way to use Neogliʃh, it’ˢ just anoϑer mode of creative expreſsion on ϑ’internet\. here’ʳᵉ a few ideological quirks ï personally adhere to:
 ### LOGOGRAΦY
 
 as someone w/ an Asian background, a mountiŋ knowledge of 漢字, & an abuser of kaomoji, ï find profound beautεїз✧ in logograφy\., naturally, ï started l𓏗𓏗kiŋ for ways to briŋ ϑ’same magic to Neogliʃh in ways ϑat do nøt interfere w/ ϑ’legibility of ϑ’word itself\. ů may’ᵛᵉ spott’d some examples already\. here’ʳᵉ just a few examples:
