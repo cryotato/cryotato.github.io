@@ -16,7 +16,7 @@
 title: RYO
 email: ryovxx@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  developer of innovative sonic weapons as OVXX, CEO reptilian of KitterChord, comrade of Twinknation, broad spectrum disordee; cyber-terrorist; neuroarchitect,. the self does not lie passively in wait for us to discover it ︻╦̵̵͇̿̿̿̿══╤─
+  developer of innovative sonic weapons as OVXX, CEO reptilian of KitterChord, comrade of Twinknation,. ϑ'self does nøt lie passively in wait for us to discover it ︻╦̵̵͇̿̿̿̿══╤─
 twitter_username: username
 github_username: username
 minimal_mistakes_skin: default
@@ -60,36 +60,22 @@ author:
   avatar : "/assets/images/IMG-20240220-WA0001.jpg"
   bio    : "developer of innovative sonic weapons as OVXX, CEO reptilian of KitterChord, comrade of Twinknation, broad spectrum disordee; cyber-terrorist; neuroarchitect,. the self does not lie passively in wait for us to discover it ︻╦̵̵͇̿̿̿̿══╤─"
   links:
-    - label: "Instagram"
+    - label: "φꙩtograφic"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/cryotato"
-    - label: "Behance"
+    - label: "corpo-art"
       icon: "fab fa-fw fa-behance"
       url: "https://www.behance.net/ryanmeow"
-    - label: "LinkedIn"
+    - label: "career"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/ovxx/"
-    - label: "Medium"
-      icon: "fab fa-fw fa-medium"
-      url: "https://ryaen.medium.com/"
-    - label: "itch.io"
-      icon: "fab fa-fw fa-itch-io"
-      url: "https://cryotato.itch.io/"
-    - label: "YouTube"
-      icon: "fab fa-fw fa-youtube"
-      url: "https://www.youtube.com/@ovxx666"     
-    - label: "Bandcamp"
+      url: "https://www.linkedin.com/in/ovxx/"   
+    - label: "buy/pirate OVXX"
       icon: "fab fa-fw fa-bandcamp"
       url: "https://ovxx.bandcamp.com/"
-    - label: "Spotify"
+    - label: "stream OVXX"
       icon: "fab fa-fw fa-spotify"
       url: "https://open.spotify.com/artist/5kysZzGC0WtDlkwSX4P1St"
-    - label: "RateYourMusic"
-      icon: "fab fa-fw fa-link"
-      url: "https://rateyourmusic.com/~cryotato"
-    - label: "Goodreads"
-      icon: "fab fa-fw fa-goodreads"
-      url: "https://www.goodreads.com/user/show/114414047-rya"
+
       
 
 footer:
