@@ -1,0 +1,14 @@
+name: ZMediumToMarkdown
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 8 * * *"
+
+jobs:
+  ZMediumToMarkdown:
+    runs-on: ubuntu-latest
+    steps:
+    - name: ZMediumToMarkdown Automatic Bot
+      uses: ZhgChgLi/ZMediumToMarkdown@main
+      with:
+        command: '-u ryaen'
