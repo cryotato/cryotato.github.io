@@ -1,13 +1,17 @@
 document.addEventListener('DOMContentLoaded', () => {
   const root = document.documentElement;
 
+  // Generate random starting hues (0-359)
+  const randomLightStartHue = Math.floor(Math.random() * 360);
+  const randomDarkStartHue = Math.floor(Math.random() * 360);
+
   // --- Configuration --- 
-  const lightStartHue = 0;    // Starting HSL hue for light color (0-360)
+  const lightStartHue = randomLightStartHue; // Use random start hue
   const lightEndHue = 360;  // Not directly used for rate, but keeps range clear
   const lightSaturation = 34; // Saturation % for light color (Reduced from 60)
   const lightLightness = 90;  // Lightness % for light color
 
-  const darkStartHue = 0;     // Starting HSL hue for dark color (0-360)
+  const darkStartHue = randomDarkStartHue; // Use random start hue
   const darkEndHue = 360;   // Not directly used for rate, but keeps range clear
   const darkSaturation = 100;  // Saturation % for dark color
   const darkLightness = 20;   // Lightness % for dark color
