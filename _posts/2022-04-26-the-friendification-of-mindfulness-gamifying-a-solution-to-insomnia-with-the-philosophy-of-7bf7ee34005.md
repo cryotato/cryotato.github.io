@@ -9,10 +9,7 @@ image:
   path: /assets/7bf7ee34005/1*Ifkca-CesPKnf7AcFpyBrg.png
 ---
 
-### the Friendification of Mindfulness — Gamifying a Solution to Insomnia with the Philosophy of Childhood Comfort \(UX Case Study / Manifesto\)
-
-
-![](assets/7bf7ee34005/1*PAJFe-oNYioLSOU5dfI0bQ@2x.png)
+![](/assets/7bf7ee34005/1*PAJFe-oNYioLSOU5dfI0bQ@2x.png)
 
 
 
@@ -50,43 +47,43 @@ To apply this, I made an Animal Crossing\-esque chatbot the main medium of explo
 It all starts from the chatbot asking you about your day\. Not only do the responses encourage a form of journaling, it also allows the bot to analyse the emotional context of the words being used in order to pick a breathing exercise to help the user\. The idea is that by addressing the user’s emotions, it can help them to feel comfortable and fall asleep\.
 
 
-![](assets/7bf7ee34005/1*Ifkca-CesPKnf7AcFpyBrg.png)
+![](/assets/7bf7ee34005/1*Ifkca-CesPKnf7AcFpyBrg.png)
 
 
 
-![Onboarding](assets/7bf7ee34005/1*6UFsYwRbwWyUWDHnAPCEgA.png)
+![Onboarding](/assets/7bf7ee34005/1*6UFsYwRbwWyUWDHnAPCEgA.png)
 
 Onboarding
 
 
-![](assets/7bf7ee34005/1*Pin4TdPn8c3uSXm0GQLgHw.png)
+![](/assets/7bf7ee34005/1*Pin4TdPn8c3uSXm0GQLgHw.png)
 
 
 
-![Onboarding to homepage to journaling to breathing](assets/7bf7ee34005/1*qtcLYQLKUByQXvFy5gTnHg.png)
+![Onboarding to homepage to journaling to breathing](/assets/7bf7ee34005/1*qtcLYQLKUByQXvFy5gTnHg.png)
 
 Onboarding to homepage to journaling to breathing
 
 
-![](assets/7bf7ee34005/1*GOhjA-MHq1ZtiYhudfJvaA.png)
+![](/assets/7bf7ee34005/1*GOhjA-MHq1ZtiYhudfJvaA.png)
 
 
 
-![Setting timers and changing settings while breathing](assets/7bf7ee34005/1*_iKWnhcpUzkl_lih0QTxcg.png)
+![Setting timers and changing settings while breathing](/assets/7bf7ee34005/1*_iKWnhcpUzkl_lih0QTxcg.png)
 
 Setting timers and changing settings while breathing
 
 
-![Homepage to journal history pages](assets/7bf7ee34005/1*ggcRr-oKyDqHJZy7HhvyYA.png)
+![Homepage to journal history pages](/assets/7bf7ee34005/1*ggcRr-oKyDqHJZy7HhvyYA.png)
 
 Homepage to journal history pages
 
 
-![](assets/7bf7ee34005/1*Pr3zaXw7M74Y-SzlkOmacg.png)
+![](/assets/7bf7ee34005/1*Pr3zaXw7M74Y-SzlkOmacg.png)
 
 
 
-![Homepage to settings to changing bedtime buddy](assets/7bf7ee34005/1*1OmY4nP6hcilgs_5ci6lrQ.png)
+![Homepage to settings to changing bedtime buddy](/assets/7bf7ee34005/1*1OmY4nP6hcilgs_5ci6lrQ.png)
 
 Homepage to settings to changing bedtime buddy
 #### Design Process —long and technical
@@ -112,7 +109,7 @@ Breathing exercises can reduce stress by increasing oxygen exchange, which reduc
 These physical changes also benefit your mental state — helping aid sleep and manage anxiety
 
 
-![[https://www\.ncbi\.nlm\.nih\.gov/pmc/articles/PMC5455070/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5455070/)](assets/7bf7ee34005/0*FLzgo91H3bakn-Bz)
+![[https://www\.ncbi\.nlm\.nih\.gov/pmc/articles/PMC5455070/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5455070/)](/assets/7bf7ee34005/0*FLzgo91H3bakn-Bz)
 
 [https://www\.ncbi\.nlm\.nih\.gov/pmc/articles/PMC5455070/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5455070/)
 #### Interview
@@ -120,11 +117,11 @@ These physical changes also benefit your mental state — helping aid sleep and 
 A survey was used to pick out individuals suitable to interview\. Of 17 participants, 3 were chosen for an interview\.
 
 
-![](assets/7bf7ee34005/1*d382-Gf76V-942filbV2vg.png)
+![](/assets/7bf7ee34005/1*d382-Gf76V-942filbV2vg.png)
 
 
 
-![meet the interviewees :D](assets/7bf7ee34005/1*CkhCYFmpVrydRRYZ2eI6UQ.png)
+![meet the interviewees :D](/assets/7bf7ee34005/1*CkhCYFmpVrydRRYZ2eI6UQ.png)
 
 meet the interviewees :D
 
@@ -193,7 +190,7 @@ Gets woken up by audio when trying to sleep with a guided meditation
 Wants something simple and easy to use without much time commitment
 
 
-![Journey](assets/7bf7ee34005/1*XUgIcDSK3UP3DoNZguZl1A.png)
+![Journey](/assets/7bf7ee34005/1*XUgIcDSK3UP3DoNZguZl1A.png)
 
 Journey
 
@@ -205,11 +202,11 @@ Journey
 **Our solution** is more personal and flexible, uses vibration instead of audio as to not interrupt sleep
 
 
-![](assets/7bf7ee34005/1*SgkNHSNMcroKxD0wdBxWtg.png)
+![](/assets/7bf7ee34005/1*SgkNHSNMcroKxD0wdBxWtg.png)
 
 
 
-![Opportunities](assets/7bf7ee34005/1*ifl10NkH2x_0NmXGns8QiQ.png)
+![Opportunities](/assets/7bf7ee34005/1*ifl10NkH2x_0NmXGns8QiQ.png)
 
 Opportunities
 
@@ -217,22 +214,22 @@ Then, a competitor analysis board was made to compare my main app inspiration, B
 #### Competitor analysis
 
 
-![](assets/7bf7ee34005/1*utSLTRHWbEa-o5JaN8YNFw.png)
+![](/assets/7bf7ee34005/1*utSLTRHWbEa-o5JaN8YNFw.png)
 
 
 
-![](assets/7bf7ee34005/1*f112Osuf564r14_cPi4MaQ.png)
+![](/assets/7bf7ee34005/1*f112Osuf564r14_cPi4MaQ.png)
 
 
 
-![](assets/7bf7ee34005/1*owdbAY7Hueszq1nMSEXenA.png)
+![](/assets/7bf7ee34005/1*owdbAY7Hueszq1nMSEXenA.png)
 
 #### **Breathwrk**
 
 Breathing exercise app structured like a traditional audiobook guided meditation app, like a bit of both
 
 
-![](assets/7bf7ee34005/1*bFgAOOyAvLOp5QcmXMUHrQ.png)
+![](/assets/7bf7ee34005/1*bFgAOOyAvLOp5QcmXMUHrQ.png)
 
 
 _Pros:_
@@ -256,7 +253,7 @@ Seems to me this app pumps itself with exercises with minute details just to ent
 Simple breathing exercise app with a cute bunny graphic and sounds to help user relax
 
 
-![](assets/7bf7ee34005/1*waVpTeeU7riJOg9tBa99YA.png)
+![](/assets/7bf7ee34005/1*waVpTeeU7riJOg9tBa99YA.png)
 
 
 _Pros:_
@@ -278,7 +275,7 @@ I love the mascot idea, it makes me feel like I’m sleeping alongside someone a
 Popular traditional audiobook meditation app
 
 
-![](assets/7bf7ee34005/1*nK1HhmDf3FK-2oMNm7YXog.png)
+![](/assets/7bf7ee34005/1*nK1HhmDf3FK-2oMNm7YXog.png)
 
 
 Pros:
@@ -301,7 +298,7 @@ This app used to be great when i first used it 5 or so years ago\. Now it is blo
 A big messy mix of everything, breathing exercises, affirmations from a chatbot, guided meditation audiobooks\. Its really messy
 
 
-![](assets/7bf7ee34005/1*gMfPxq_EvCWcnKQDXOtyZg.png)
+![](/assets/7bf7ee34005/1*gMfPxq_EvCWcnKQDXOtyZg.png)
 
 
 _Pros:_
@@ -328,7 +325,7 @@ I hate the interface and how messy it is but I think the chatbot feature is a go
 It’s what i wish the Wysa interface was\. The whole UI is centred around a chatbot that helps you choose exercises and asks you about your day\. It’s great\.
 
 
-![](assets/7bf7ee34005/1*cKbxGgDn6mwZyWE2MXSDdg.png)
+![](/assets/7bf7ee34005/1*cKbxGgDn6mwZyWE2MXSDdg.png)
 
 
 _Pros:_
@@ -360,11 +357,11 @@ As a base of the project, the app I chose for reference was Breatherly\. It is a
 Before deciding on the features to add, Jakob Nielson’s Heuristics Analysis was used to find a UX scorecard for Breatherly\. Observe:
 
 
-![](assets/7bf7ee34005/1*M_O5d_DoCSsl60XMEZB0Jg.png)
+![](/assets/7bf7ee34005/1*M_O5d_DoCSsl60XMEZB0Jg.png)
 
 
 
-![](assets/7bf7ee34005/1*1nxlAFtcfFpwAkK64SRMow.png)
+![](/assets/7bf7ee34005/1*1nxlAFtcfFpwAkK64SRMow.png)
 
 
 Breatherly scored a 3\.4 on average
@@ -379,18 +376,18 @@ While the app was great at minimizing the mental burden by being extremely simpl
 Ideas for features were categorized to determine which were worth focusing on most\.
 
 
-![](assets/7bf7ee34005/1*3w1w2YRJZqw_7hYiX8YSSw.png)
+![](/assets/7bf7ee34005/1*3w1w2YRJZqw_7hYiX8YSSw.png)
 
 
 
-![Product Prioritization Framework](assets/7bf7ee34005/0*l6D4LShOMtdRNFCv)
+![Product Prioritization Framework](/assets/7bf7ee34005/0*l6D4LShOMtdRNFCv)
 
 Product Prioritization Framework
 
 After I knew which features to focus on, a sitemap plan was made\.
 
 
-![Sitemap with new features](assets/7bf7ee34005/0*5te71Wtd_2LXR66T)
+![Sitemap with new features](/assets/7bf7ee34005/0*5te71Wtd_2LXR66T)
 
 Sitemap with new features
 
@@ -411,7 +408,7 @@ This consisted of:
 To test the concept, a basic product wireframe was made for users to test:
 
 
-![Wireframe prototype](assets/7bf7ee34005/0*FMnm1XqrcfPJrqge)
+![Wireframe prototype](/assets/7bf7ee34005/0*FMnm1XqrcfPJrqge)
 
 Wireframe prototype
 
@@ -446,11 +443,11 @@ And their least were:
 
 
 
-![](assets/7bf7ee34005/0*aRMP3Nrnjtmv3v0Y)
+![](/assets/7bf7ee34005/0*aRMP3Nrnjtmv3v0Y)
 
 
 
-![Overall impression](assets/7bf7ee34005/0*j38LY7mbvTFAivXp)
+![Overall impression](/assets/7bf7ee34005/0*j38LY7mbvTFAivXp)
 
 Overall impression
 
