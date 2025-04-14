@@ -1,5 +1,5 @@
 ---
-title: O'Connell th' Modular Bottle ᵖʳᵒᵈᵘᶜᵗ ᵈᵉˢᶦᵍⁿ :: Behance
+title: O'Connell th' Modular Bottle ᵖʳᵒᵈᵘᶜᵗ ᵈᵉˢᶦᵍⁿ
 description: 
 created: 2023-11-04T00:00:00 (UTC +01:00)
 source: https://www.behance.net/gallery/183774759/OConnell-th-Modular-Bottle-
