@@ -1,8 +1,7 @@
 ---
 title: "The Secret Post-Sploder Underground Culture"
 date: 2023-01-05T13:49:12.559+0000
-last_modified_at: 2023-10-03T13:49:12.559+0000
-categories: [""]
+categories: ["blog"]
 tags: ["music"]
 toc: true
 toc_label: "ϑawts"
