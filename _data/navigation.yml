@@ -4,9 +4,9 @@ main:
   - title: "commission me!"
     url: /commissions/
   - title: "iṋ experience"
-    url: /design/
+    url: /categories/art/
   - title: "lapses"
-    url: /blog/ 
+    url: /categories/blog/ 
   # - title: "Me"
   #   url: /me/
   # actually i could make the index homepage the me page with all the links..
