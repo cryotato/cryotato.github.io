@@ -1,7 +1,6 @@
 ---
 title: "Reintroducing Intimacy in Computer Music With Folktrionics"
-date: 2023-04-30T13:57:19.022+0000
-last_modified_at: 2024-10-26T13:55:30.463+0000
+date: 2024-04-30T13:57:19.022+0000
 categories: [""]
 tags: ["music"]
 toc: true
