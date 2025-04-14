@@ -1,3 +1,17 @@
+---
+title: "KittyChord Bass ᵖʳᵒᵈᵘᶜᵗ ᵈᵉˢᶦᵍⁿ"
+date: 2024-11-06T02:58:27.548+0000
+categories: ["art"]
+tags: ["product design"]
+toc: true
+toc_label: "corproart"
+toc_icon: "hexagon-nodes"  # corresponding Font Awesome icon name (without fa prefix)
+description: If there's no such thing as a "wrong note" then why do I still suck at music? Memorizing abstract theory? Practicing for hours a day? I thought music was supposed to be fun!
+
+image:
+  path: https://mir-s3-cdn-cf.behance.net/project_modules/1400/39076a166425909.64b3a8abc18d5.png)](https://www.behance.net/gallery/166425909/KittyChord-Bass-/modules/990722831
+---
+
 [![C++ coding instrument interactive design jazz MIDI music product](https://mir-s3-cdn-cf.behance.net/project_modules/1400/39076a166425909.64b3a8abc18d5.png)](https://www.behance.net/gallery/166425909/KittyChord-Bass-/modules/990722831)
 
 If there's no such thing as a "wrong note" then why do I still suck at music? Memorizing abstract theory? Practicing for hours a day? I thought music was supposed to be fun!
