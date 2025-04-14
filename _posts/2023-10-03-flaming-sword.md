@@ -1,5 +1,5 @@
 ---
-title: "Jazz is a Flaming Sword Size Contest (Fievel Is Glauque — Flaming Swords)"
+title: "Jazz is a Flaming Sword Size Contest"
 date: 2023-10-03T13:20:48.337+0000
 last_modified_at: 2023-10-03T13:25:12.858+0000
 categories: [""]
