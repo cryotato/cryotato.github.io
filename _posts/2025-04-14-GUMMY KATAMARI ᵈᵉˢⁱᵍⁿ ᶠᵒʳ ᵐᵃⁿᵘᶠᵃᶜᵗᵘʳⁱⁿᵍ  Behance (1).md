@@ -1,0 +1,66 @@
+---
+title: GUMMY KATAMARI ᵈᵉˢⁱᵍⁿ ᶠᵒʳ ᵐᵃⁿᵘᶠᵃᶜᵗᵘʳⁱⁿᵍ :: Behance
+description: 
+created: 2025-04-14T19:45:15 (UTC +01:00)
+source: https://www.behance.net/gallery/195952611/GUMMY-KATAMARI-
+
+tags: [Rhinoceros 5.0,Rhinoceros,Rhino 3D,Rhinoceros 6.0,SolidWorks,Luxion keyshot,Keyshot,Adobe Photoshop,Adobe Illustrator,industrial design,product design,cad,DFM,Product Design,Interaction Design,Industrial Design]
+categories: ["art"]
+toc: true
+toc_label: "corproart"
+toc_icon: "hexagon-nodes"  # corresponding Font Awesome icon name (without fa prefix)
+---
+
+[![industrial design  product design  cad DFM](https://mir-s3-cdn-cf.behance.net/project_modules/1400/6c1946195952611.6616fda14536f.png)](https://www.behance.net/gallery/195952611/GUMMY-KATAMARI-/modules/1109349347)
+
+[![industrial design  product design  cad DFM](https://mir-s3-cdn-cf.behance.net/project_modules/1400/32f2c3195952611.6616fda1470c6.png)](https://www.behance.net/gallery/195952611/GUMMY-KATAMARI-/modules/1109349361)
+
+[![industrial design  product design  cad DFM](https://mir-s3-cdn-cf.behance.net/project_modules/1400/605361195952611.6616fda1465f4.png)](https://www.behance.net/gallery/195952611/GUMMY-KATAMARI-/modules/1109349353)
+
+[![industrial design  product design  cad DFM](https://mir-s3-cdn-cf.behance.net/project_modules/1400/e48bd3195952611.6616fda148ef5.png)](https://www.behance.net/gallery/195952611/GUMMY-KATAMARI-/modules/1109349375)
+
+[![industrial design  product design  cad DFM](https://mir-s3-cdn-cf.behance.net/project_modules/1400/aae20f195952611.6616fda1446ab.png)](https://www.behance.net/gallery/195952611/GUMMY-KATAMARI-/modules/1109349343)
+
+[![industrial design  product design  cad DFM](https://mir-s3-cdn-cf.behance.net/project_modules/1400/113be9195952611.6616fda143db7.png)](https://www.behance.net/gallery/195952611/GUMMY-KATAMARI-/modules/1109349339)
+
+[![industrial design  product design  cad DFM](https://mir-s3-cdn-cf.behance.net/project_modules/1400/bb589e195952611.6616fda14ad20.png)](https://www.behance.net/gallery/195952611/GUMMY-KATAMARI-/modules/1109349385)
+
+[![industrial design  product design  cad DFM](https://mir-s3-cdn-cf.behance.net/project_modules/1400/3a6fc7195952611.6616fda1487c0.png)](https://www.behance.net/gallery/195952611/GUMMY-KATAMARI-/modules/1109349373)
+
+[![industrial design  product design  cad DFM](https://mir-s3-cdn-cf.behance.net/project_modules/1400/58bc1e195952611.6616fda142a3e.png)](https://www.behance.net/gallery/195952611/GUMMY-KATAMARI-/modules/1109349331)
+
+[![industrial design  product design  cad DFM](https://mir-s3-cdn-cf.behance.net/project_modules/1400/5f29fc195952611.6616fda149340.png)](https://www.behance.net/gallery/195952611/GUMMY-KATAMARI-/modules/1109349377)
+
+[![industrial design  product design  cad DFM](https://mir-s3-cdn-cf.behance.net/project_modules/1400/2fb572195952611.6616fda1430cd.png)](https://www.behance.net/gallery/195952611/GUMMY-KATAMARI-/modules/1109349333)
+
+[![industrial design  product design  cad DFM](https://mir-s3-cdn-cf.behance.net/project_modules/1400/e5f24e195952611.6616fda14344a.png)](https://www.behance.net/gallery/195952611/GUMMY-KATAMARI-/modules/1109349335)
+
+[![industrial design  product design  cad DFM](https://mir-s3-cdn-cf.behance.net/project_modules/1400/51f959195952611.6616fda14a636.png)](https://www.behance.net/gallery/195952611/GUMMY-KATAMARI-/modules/1109349383)
+
+[![industrial design  product design  cad DFM](https://mir-s3-cdn-cf.behance.net/project_modules/1400/d78b40195952611.6616fda14b1ca.png)](https://www.behance.net/gallery/195952611/GUMMY-KATAMARI-/modules/1109349387)
+
+[![industrial design  product design  cad DFM](https://mir-s3-cdn-cf.behance.net/project_modules/1400/3c8e48195952611.6616fda1458c6.png)](https://www.behance.net/gallery/195952611/GUMMY-KATAMARI-/modules/1109349349)
+
+[![industrial design  product design  cad DFM](https://mir-s3-cdn-cf.behance.net/project_modules/1400/73f38e195952611.6616fda144cca.png)](https://www.behance.net/gallery/195952611/GUMMY-KATAMARI-/modules/1109349345)
+
+[![industrial design  product design  cad DFM](https://mir-s3-cdn-cf.behance.net/project_modules/1400/4ab0e9195952611.6616fda145ff9.png)](https://www.behance.net/gallery/195952611/GUMMY-KATAMARI-/modules/1109349351)
+
+[![industrial design  product design  cad DFM](https://mir-s3-cdn-cf.behance.net/project_modules/1400/b99271195952611.6616fda148389.png)](https://www.behance.net/gallery/195952611/GUMMY-KATAMARI-/modules/1109349371)
+
+[![industrial design  product design  cad DFM](https://mir-s3-cdn-cf.behance.net/project_modules/1400/78ec42195952611.6616fda149a4f.png)](https://www.behance.net/gallery/195952611/GUMMY-KATAMARI-/modules/1109349379)
+
+[![industrial design  product design  cad DFM](https://mir-s3-cdn-cf.behance.net/project_modules/1400/039ea8195952611.6616fda149eca.png)](https://www.behance.net/gallery/195952611/GUMMY-KATAMARI-/modules/1109349381)
+
+[![industrial design  product design  cad DFM](https://mir-s3-cdn-cf.behance.net/project_modules/1400/3af833195952611.6616fda147c3d.png)](https://www.behance.net/gallery/195952611/GUMMY-KATAMARI-/modules/1109349369)
+
+[![industrial design  product design  cad DFM](https://mir-s3-cdn-cf.behance.net/project_modules/1400/3a7bd4195952611.6616fda1443a5.png)](https://www.behance.net/gallery/195952611/GUMMY-KATAMARI-/modules/1109349341)
+
+[![industrial design  product design  cad DFM](https://mir-s3-cdn-cf.behance.net/project_modules/1400/c943a5195952611.6616fda146cf2.png)](https://www.behance.net/gallery/195952611/GUMMY-KATAMARI-/modules/1109349357)
+
+[![industrial design  product design  cad DFM](https://mir-s3-cdn-cf.behance.net/project_modules/1400/b78276195952611.6616fda143a89.png)](https://www.behance.net/gallery/195952611/GUMMY-KATAMARI-/modules/1109349337)
+
+[![industrial design  product design  cad DFM](https://mir-s3-cdn-cf.behance.net/project_modules/1400/b4964a195952611.6616fda1477fc.png)](https://www.behance.net/gallery/195952611/GUMMY-KATAMARI-/modules/1109349365)
+
+GUMMY KATAMARI ᵈᵉˢⁱᵍⁿ ᶠᵒʳ ᵐᵃⁿᵘᶠᵃᶜᵗᵘʳⁱⁿᵍ
+
+Published: April 10th 2024
