@@ -1,8 +1,8 @@
 ---
 permalink: /blog/
-title: here's some embarrassing information about me PLEASE DON'T BULLY ME WITH IT
+title: hereꝬ some embarrassiŋ information about me PLEASE DØN'T BULLY ME W/ IT
 author_profile: true
 layout: posts
 # entries_layout: grid
 ---
-my bussy wrote a ϑesis on colonialism
+iṋ a deterritoritory cꙩsmꙩs where blogs have a say o͡ver an epic algorithmic deaϑconsciůsness, my busƨy writes ϑeses on colonialism -- [musique](https://cryotato.github.io/tags/#music), [orϑograφy](https://cryotato.github.io/tags/#orthography) / [liŋguistics](https://cryotato.github.io/tags/#linguistics), [violensiṋisms](https://cryotato.github.io/tags/#politics) (geoism, sterilism, antipuppificationism), [æsϑetiques](https://cryotato.github.io/tags/#design) *(aka ŵhat itꝬ like beiŋ so beautεĭзful & cool,. well, just for all of ᴜ̊ to støp askiŋ - itꝬ really hard. ï truly struggle w/ it everyday)*, &c.

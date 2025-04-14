@@ -1,8 +1,7 @@
 ---
 title: "The Secret Post-Sploder Underground Culture"
-date: 2023-10-03T13:49:12.559+0000
-last_modified_at: 2023-10-03T13:49:12.559+0000
-categories: [""]
+date: 2023-01-05T13:49:12.559+0000
+categories: ["blog"]
 tags: ["music"]
 toc: true
 toc_label: "ϑawts"
@@ -12,8 +11,6 @@ image:
   path: /assets/images/0_2CAN0oSpdU68QGMm.jpg
 ---
 #### Naked Flames — Miracle in Transit
-
-_\(5 Jan 2023, commissioned by Shawn Zod’s magazine\)_
 
 
 ![Miracle in Transit](/assets/images/0_2CAN0oSpdU68QGMm.jpg)
@@ -30,3 +27,4 @@ Close your eyes and a whole landscape of rainbow road is painted in front of you
 
 If you’d prefer something less laid back, it would be painful of me to miss this opportunity to recommend some of Dismiss Yourself’s other standout records, which are often much less patient\. An easy example would be the retro racing game inspired album “Ateriavia’’, a split collaborative effort by hexD trance artists Anthony1, Exodia, and Sienna Sleep\. Exodia’s contribution “Lumina” is an instant classic, the adrenaline it induces gives me goosebumps every time\. I’m not sure how else to put it but it just goes so hard, and in its own sleepless monster energy drink way its honest to god beautiful\.
 
+_\(Commissioned by Shawn Zod’s magazine\)_
