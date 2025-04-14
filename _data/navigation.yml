@@ -1,11 +1,10 @@
 main:
-  - title: "OVXX"
-    url: /ovxx/
+  # - title: "OVXX"
+  # url: /ovxx/
   - title: "commission me!"
     url: /commissions/
   - title: "corpo-art"
     url: /design/
-      # actually i could just continue to use behance, as im continuing to use medium? actually fuck using medium as well..
   - title: "lapses in consciousness"
     url: /blog/ 
   # - title: "Me"
