@@ -54,6 +54,7 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  - jekyll-archives
 
 author:
   name   : "Ryan Leo Tz-Tzen"
@@ -131,6 +132,17 @@ defaults:
       layout: single
       author_profile: true
 
+jekyll-archives:
+  enabled: []
+  layout: archive
+  permalinks:
+    year: '/:year/'
+    month: '/:year/:month/'
+    day: '/:year/:month/:day/'
+    tag: '/tag/:name/'
+    category: '/category/:name/'
+
+# wait then wgat the fycj is this.. huh?
 category_archive:
   type: liquid
   path: /categories/
@@ -141,3 +153,5 @@ tag_archive:
 after_footer_scripts:
   - /assets/js/cursor.js
   - /assets/js/scroll-color-change.js
+
+
