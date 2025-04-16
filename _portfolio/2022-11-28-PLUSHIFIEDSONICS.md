@@ -3,7 +3,7 @@ title: PLUSHIFIED SONICS ³ᴰ ᵐᵒᵗᶦᵒⁿ / ᵖʳᵒʲᵉᶜᵗᶦᵒⁿ
 excerpt: 
 created: 2022-11-28T00:00:00 (UTC +01:00)
 source: https://www.behance.net/gallery/157696319/PLUSHIFIED-SONICS-
-
+author_profile: true
 tags: ["Cinema 4D", "3d", "Animation","Resolume Arena"]
 categories: ["art"]
 toc: true

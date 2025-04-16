@@ -3,7 +3,7 @@ title: O'Connell th' Modular Bottle ᵖʳᵒᵈᵘᶜᵗ ᵈᵉˢᶦᵍⁿ
 excerpt: 
 created: 2023-11-04T00:00:00 (UTC +01:00)
 source: https://www.behance.net/gallery/183774759/OConnell-th-Modular-Bottle-
-
+author_profile: true
 tags: ["Rhino 3D","Keyshot", "Product Design"]
 categories: ["art"]
 toc: true

@@ -11,6 +11,7 @@ toc_icon: "brain"  # corresponding Font Awesome icon name (without fa prefix)
 header:
   image: /assets/images/1_Ifkca-CesPKnf7AcFpyBrg.png
   teaser: /assets/images/1_Ifkca-CesPKnf7AcFpyBrg.png
+author_profile: true
 ---
 
 ![](/assets/images/1_PAJFe-oNYioLSOU5dfI0bQ@2x.png)
