@@ -4,12 +4,13 @@ date: 2022-04-26T17:15:04.091+0000
 last_modified_at: 2022-04-30T09:39:52.037+0000
 categories: [""]
 tags: ["design"]
-description: "Product Overview: Mindfulness chatbot application with breathing exercises and mood journaling, inspired by Breatherly and Woebot."
-image:
-  path: /assets/images/1_Ifkca-CesPKnf7AcFpyBrg.png
+excerpt: "Product Overview: Mindfulness chatbot application with breathing exercises and mood journaling, inspired by Breatherly and Woebot."
 toc: true
 toc_label: "ϑawts"
 toc_icon: "brain"  # corresponding Font Awesome icon name (without fa prefix)
+header:
+  image: /assets/images/1_Ifkca-CesPKnf7AcFpyBrg.png
+  teaser: /assets/images/1_Ifkca-CesPKnf7AcFpyBrg.png
 ---
 
 ![](/assets/images/1_PAJFe-oNYioLSOU5dfI0bQ@2x.png)
