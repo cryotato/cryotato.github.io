@@ -376,3 +376,9 @@ button:hover, .btn:hover {
 /* ==========================================================================
    Main Content Area Styles
    ========================================================================== */
+
+
+.entries-list,
+.entries-list * { // Selects the container and all elements inside it
+  font-family: monospace !important;
+}
