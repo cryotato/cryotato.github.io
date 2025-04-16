@@ -1,6 +1,6 @@
 ---
 title: PLUSHIFIED SONICS ³ᴰ ᵐᵒᵗᶦᵒⁿ / ᵖʳᵒʲᵉᶜᵗᶦᵒⁿ ᵐᵃᵖᵖᶦⁿᵍ
-description: 
+excerpt: 
 created: 2022-11-28T00:00:00 (UTC +01:00)
 source: https://www.behance.net/gallery/157696319/PLUSHIFIED-SONICS-
 
@@ -9,6 +9,10 @@ categories: ["art"]
 toc: true
 toc_label: "corproart"
 toc_icon: "hexagon-nodes"  # corresponding Font Awesome icon name (without fa prefix)
+
+header:
+  image: https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/e9a345157696319.637fae3e55083.png)](https://www.behance.net/gallery/157696319/PLUSHIFIED-SONICS-/modules/890429967
+  teaser: https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/e9a345157696319.637fae3e55083.png)](https://www.behance.net/gallery/157696319/PLUSHIFIED-SONICS-/modules/890429967
 ---
 
 <iframe src="https://player.vimeo.com/video/772975827?h=e58ed7d873" title="Project Embed Content" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-pointer-lock allow-forms" loading="eager" fetchpriority="high"></iframe>
