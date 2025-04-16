@@ -1,27 +1,35 @@
-/* assets/css/giscus-theme.css - Revised */
+/* assets/css/giscus-theme.css - More Specific Targeting */
+
+/* Base style (fallback) */
 body {
-    font-family: monospace !important;
+  font-family: monospace, "Courier New", Courier !important;
+  color: #333 !important; /* Default text color */
+}
+
+/* Target the main textarea */
+.gsc-comment-box-textarea {
+  font-family: monospace, "Courier New", Courier !important;
+  color: var(--dark) !important;
+  /* background-color: #fff !important; Ensure background is light */
+}
+
+/* Target the specific buttons provided */
+button.link-secondary.text-sm, /* "Sign out" button */
+button.color-text-primary.color-bg-canvas, /* "Write" tab button */
+button.btn.btn-primary /* "Comment" button (likely class) */
+{
+   font-family: monospace, "Courier New", Courier !important;
+   color: #333 !important; /* Ensure button text is visible */
+}
+
+/* Target the comment text paragraph */
+.gsc-comments .gsc-comment p[dir="auto"] { /* Target paragraphs within comments */
+    font-family: monospace, "Courier New", Courier !important;
     color: #333 !important;
-  }
-  .gsc-comment-box {
-    font-family: monospace !important;
-    color: #333 !important;
-  }
-  .gsc-comment-box-textarea {
-    font-family: monospace !important;
-    color: #333 !important;
-  }
-  .gsc-comment-box button,
-  .gsc-comment-box .btn {
-     font-family: monospace !important;
-     color: #333 !important;
-  }
-  .gsc-comment-box a {
-    font-family: monospace !important;
-  }
-  .gsc-comment-box div,
-  .gsc-comment-box span,
-  .gsc-comment-box label {
-      font-family: monospace !important;
-      color: #333 !important;
-  }
+}
+
+/* General catch-all for other elements within the comment box if needed */
+.gsc-comment-box *,
+.gsc-comments * {
+    font-family: inherit !important; /* Inherit from body */
+}
