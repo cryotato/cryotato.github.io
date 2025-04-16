@@ -1,11 +1,27 @@
-/* body,
-.gsc-comment-box,
-.gsc-comment-box * {
-  font-family: monospace !important;
-}
-.gsc-comment-box-textarea {
-  font-family: monospace !important;
-}
-.gsc-comment-box button {
-   font-family: monospace !important;
-} */
+/* assets/css/giscus-theme.css - Revised */
+body {
+    font-family: monospace !important;
+    color: #333 !important;
+  }
+  .gsc-comment-box {
+    font-family: monospace !important;
+    color: #333 !important;
+  }
+  .gsc-comment-box-textarea {
+    font-family: monospace !important;
+    color: #333 !important;
+  }
+  .gsc-comment-box button,
+  .gsc-comment-box .btn {
+     font-family: monospace !important;
+     color: #333 !important;
+  }
+  .gsc-comment-box a {
+    font-family: monospace !important;
+  }
+  .gsc-comment-box div,
+  .gsc-comment-box span,
+  .gsc-comment-box label {
+      font-family: monospace !important;
+      color: #333 !important;
+  }
