@@ -1,7 +1,7 @@
 document.addEventListener('DOMContentLoaded', function() {
   // Initialize Lenis
   const lenis = new Lenis({
-    lerp: 0.1, // Adjust this value for smoothness (0.05 to 0.1 is common)
+    lerp: 0.06, // Adjust this value for smoothness (0.05 to 0.1 is common)
     // duration: 1.2, // Optional: Define scroll duration
     // easing: (t) => Math.min(1, 1.001 - Math.pow(2, -10 * t)), // Optional: Custom easing function
     smoothWheel: true, // Enable smooth scrolling for mouse wheel
