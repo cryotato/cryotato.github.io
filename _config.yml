@@ -159,6 +159,7 @@ tag_archive:
   path: /tags/
 
 after_footer_scripts:
+  - https://unpkg.com/lenis@1.1.6/dist/lenis.min.js # Add Lenis library
   - /assets/js/cursor.js
   - /assets/js/scroll-color-change.js
   - /assets/js/smooth-scroll.js
