@@ -1,7 +1,7 @@
 ---
 title: corpo-art
 layout: collection
-permalink: /design/
+permalink: /portfolio/
 collection: portfolio
 entries_layout: grid
 classes: wide
