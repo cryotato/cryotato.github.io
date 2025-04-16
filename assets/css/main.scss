@@ -12,7 +12,7 @@ search: false
    ========================================================================== */
 :root {
   /* --- Define your static colors --- */
-  --light: hsl(0, 0%, 79%);
+  --light: hsl(0, 0%, 88%);
   --dark: hsl(0, 0%, 16%);
 
   /* --- Dot Definitions --- */
@@ -31,7 +31,7 @@ search: false
   --bg-8: var(--dark);
 
   /* --- Pixelated Text Shadow Definitions (Initial values, JS updates dynamically) --- */
-  --l-shadow: -1px -1px 0 hsl(0, 0%, 79%), 0 -1px 0 hsl(0, 0%, 79%), 1px -1px 0 hsl(0, 0%, 79%), 1px 0 0 hsl(0, 0%, 79%), 1px 1px 0 hsl(0, 0%, 79%), 0 1px 0 hsl(0, 0%, 79%), -1px 1px 0 hsl(0, 0%, 79%), -1px 0 0 hsl(0, 0%, 79%);
+  --l-shadow: -1px -1px 0 hsl(0, 0%, 88%), 0 -1px 0 hsl(0, 0%, 88%), 1px -1px 0 hsl(0, 0%, 88%), 1px 0 0 hsl(0, 0%, 88%), 1px 1px 0 hhsl(0, 0%, 88%), 0 1px 0 hsl(0, 0%, 88%), -1px 1px 0 hsl(0, 0%, 88%), -1px 0 0 hsl(0, 0%, 88%);
   --d-shadow: -1px -1px 0 hsl(0, 0%, 16%), 0 -1px 0 hsl(0, 0%, 16%), 1px -1px 0 hsl(0, 0%, 16%), 1px 0 0 hsl(0, 0%, 16%), 1px 1px 0 hsl(0, 0%, 16%), 0 1px 0 hsl(0, 0%, 16%), -1px 1px 0 hsl(0, 0%, 16%), -1px 0 0 hsl(0, 0%, 16%);
 
    /* --- Standard Border (Changed to 1px) --- */
