@@ -1,12 +1,12 @@
 document.addEventListener('DOMContentLoaded', function() {
   // Initialize Lenis
   const lenis = new Lenis({
-    lerp: 0.06, // Adjust this value for smoothness (0.05 to 0.1 is common)
+    lerp: 0.14, // Adjust this value for smoothness (0.05 to 0.1 is common)
     // duration: 1.2, // Optional: Define scroll duration
     // easing: (t) => Math.min(1, 1.001 - Math.pow(2, -10 * t)), // Optional: Custom easing function
     smoothWheel: true, // Enable smooth scrolling for mouse wheel
     smoothTouch: false, // Optional: Enable smooth scrolling for touch events
-    touchMultiplier: 2, // Optional: Adjust touch scroll speed
+    // touchMultiplier: 2, // Optional: Adjust touch scroll speed
   });
 
   // Integrate Lenis with the browser's scroll events
