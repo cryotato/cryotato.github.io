@@ -232,6 +232,31 @@ p code, li code, h1 code, h2 code, h3 code, h4 code, h5 code, h6 code {
   background: var(--light) !important;
 }
 
+.search__toggle .fa-search {
+  /* Initial state: Dark icon */
+  color: var(--dark) !important; /* Use 'color' for Font Awesome */
+  transition: color 200ms linear; /* Transition the 'color' property */
+}
+
+/* Select the search icon when the parent button is hovered */
+.search__toggle:hover .fa-search {
+  /* Hover state: Light icon */
+  color: var(--light) !important; /* Use 'color' for Font Awesome */
+}
+
+/* Optional: If the search button is also within .masthead */
+/* You might want to make the selectors more specific like this: */
+/*
+.masthead .search__toggle .fa-search {
+  color: var(--dark) !important;
+  transition: color 200ms linear;
+}
+
+.masthead .search__toggle:hover .fa-search {
+  color: var(--light) !important;
+}
+*/
+
 
 /* ==========================================================================
    Hidden Links (Greedy Nav Dropdown) Styles
