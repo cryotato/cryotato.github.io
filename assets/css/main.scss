@@ -209,12 +209,10 @@ p code, li code, h1 code, h2 code, h3 code, h4 code, h5 code, h6 code {
 }
 
 /* Greedy Nav Mobile Toggle Icon */
-// .masthead .greedy-nav__toggle {
-//   /* Ensure the button itself doesn't interfere with icon color */
-//   background: transparent !important;
-//   border: none !important;
-//   padding: 0.5em; // Give it some clickable area
-// }
+.masthead .greedy-nav__toggle,
+.search__toggle {
+  padding: 0.25em 1em; // <<< REDUCED vertical padding (was 0.5em)
+}
 // ^ that is not what i asked for.
 
 .masthead .greedy-nav__toggle .navicon,
