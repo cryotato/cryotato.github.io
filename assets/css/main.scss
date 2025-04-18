@@ -1,7 +1,4 @@
----
-search: false
----
-
+/* SCSS Start */
 @charset "utf-8";
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
@@ -279,6 +276,86 @@ p code, li code, h1 code, h2 code, h3 code, h4 code, h5 code, h6 code {
   position: relative;
   width: 100%; // Make buttons full width of dropdown
   text-align: center; // Center text
+
+  &::before {
+      background: none !important;
+  }
+
+  &:hover {
+    /* --- Apply light-to-dark animation on hover --- */
+    animation: light-to-dark 200ms linear forwards;
+    /* --- INSTANTLY change text/shadow for dark background --- */
+    color: var(--light) !important;
+    text-shadow: var(--d-shadow) !important;
+    text-decoration: none !important;
+    border-radius: 0.5em; // Keep consistent
+
+    &::before {
+        background: none !important;
+    }
+  }
+}
+
+
+/* ==========================================================================
+   Author URLs (Sidebar Links) Styles - Matching Hidden Links
+   ========================================================================== */
+.author__urls {
+  font-family: monospace !important;
+  background: var(--bg-3) !important; // Use bg-3 background
+  border: 3px solid var(--dark) !important; // Thick dark border like TOC
+  border-radius: 0 !important; // Remove default border-radius
+  box-shadow: none !important; // Remove default shadow
+  padding: 0.5em !important; // Add some padding
+  margin-top: 0.5em !important; // Add some space above
+
+  // Remove the arrow pseudo-elements if they exist (might be from theme)
+  &::before,
+  &::after {
+    display: none !important;
+  }
+}
+
+.author__urls li {
+  font-family: monospace !important;
+  border-bottom: none !important; // Remove default separators if any
+  margin-bottom: 0.5em; // Add space between items
+
+  &:last-child {
+    margin-bottom: 0; // No margin for the last item
+  }
+}
+
+/* Style author links like header/hidden buttons */
+.author__urls a {
+  font-family: monospace !important;
+  display: inline-block;
+  padding: 0.25em 1em;
+  font-weight: bold;
+  border-radius: 0.5em;
+  /* --- Set initial state to the DEFAULT state --- */
+  background: var(--bg-1); /* Start bg-1 */
+  color: var(--dark) !important; /* Start dark text */
+  text-shadow: var(--l-shadow) !important; /* Start WITH light shadow */
+  /* --- Apply dark-to-light animation for the RETURN --- */
+  animation: dark-to-light 200ms linear forwards;
+  border: var(--border-standard);
+  text-decoration: none !important;
+  position: relative;
+  width: 100%; // Make buttons full width of dropdown
+  text-align: center; // Center text
+
+  /* Ensure icons inherit color correctly */
+  i {
+    color: inherit !important;
+    text-shadow: inherit !important;
+  }
+  /* Ensure labels inherit color correctly */
+  .label {
+     color: inherit !important;
+     text-shadow: inherit !important;
+  }
+
 
   &::before {
       background: none !important;
