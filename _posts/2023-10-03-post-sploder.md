@@ -1,7 +1,7 @@
 ---
 title: "The Secret Post-Sploder Underground Culture"
-show_music_player: true
-bandcamp_embed_code: <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=3718192199/size=small/bgcol=ffffff/linkcol=f171a2/transparent=true/" seamless><a href="https://dismissyourself.bandcamp.com/album/miracle-in-transit">Miracle in Transit by Naked Flames</a></iframe>
+# show_music_player: true
+# bandcamp_embed_code: <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=3718192199/size=small/bgcol=ffffff/linkcol=f171a2/transparent=true/" seamless><a href="https://dismissyourself.bandcamp.com/album/miracle-in-transit">Miracle in Transit by Naked Flames</a></iframe>
 date: 2023-01-05T13:49:12.559+0000
 categories: ["blog"]
 tags: ["music"]
