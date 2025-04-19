@@ -1,0 +1,5 @@
+<!-- _includes/music-player.html -->
+<div class="sticky-music-player">
+  {% comment %} Display the Bandcamp embed code passed from the layout {% endcomment %}
+  {{ include.bandcamp_embed_code | default: "<p>Error: Bandcamp embed code not provided in front matter.</p>" }}
+</div>

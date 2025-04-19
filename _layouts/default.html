@@ -39,5 +39,10 @@
     </div>
 
     {% include scripts.html %}
+
+    {% comment %} Check if the player should be shown AND if the embed code exists {% endcomment %}
+    {% if page.show_music_player and page.bandcamp_embed_code %}
+      {% include music-player.html bandcamp_embed_code=page.bandcamp_embed_code %}
+    {% endif %}
   </body>
 </html>
