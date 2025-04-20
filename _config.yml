@@ -187,3 +187,4 @@ comments:
     theme                : light # "light" (default), "dark", "dark_dimmed", "transparent_dark", "preferred_color_scheme"
 
 logo: "/assets/images/ryanlogo.svg"
+masthead_title: ""
