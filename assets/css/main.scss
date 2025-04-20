@@ -585,3 +585,7 @@ button:hover, .btn:hover {
   box-shadow: 0 -2px 5px rgba(0,0,0,0.2); /* Optional shadow */
   text-align: center; /* Example alignment */
 }
+
+.site-logo img {
+  color: var(--dark) !important;
+}
