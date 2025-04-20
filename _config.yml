@@ -185,3 +185,5 @@ comments:
     discussion_term      : # "pathname" (default), "url", "title", "og:title"
     reactions_enabled    : 0 # '1' for enabled (default), '0' for disabled
     theme                : light # "light" (default), "dark", "dark_dimmed", "transparent_dark", "preferred_color_scheme"
+
+logo: "/assets/images/ryanlogo.png"
