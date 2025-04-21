@@ -14,7 +14,7 @@ toc_icon: "heart"  # corresponding Font Awesome icon name (without fa prefix)
 My most popular work happens to be music commissioned by ContraPoints - which was used anywhere from title sequences to background music. 
 
 <details open>
-<summary> Conspiracy</summary>
+<summary><h3>Conspiracy</h3></summary>
 <br>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/teqkK0RLNkI?si=UUUen4U7tJdj_KHN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
