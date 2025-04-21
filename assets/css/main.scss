@@ -607,3 +607,7 @@ button:hover, .btn:hover {
     opacity: 0;
   }
 }
+/* Apply monospace font to specific archive titles */
+h2.archive__item-title {
+  font-family: monospace;
+}
