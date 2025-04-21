@@ -130,10 +130,10 @@ button, .btn, // Buttons (mixin handles font for these)
 .search-input, // Search
 .entries-list, // Entry lists
 .archive__item-title, // Specific archive titles
-.sc-comments-count,
+// .sc-comments-count,
 .pagination--pager, // Pagination (mixin handles font)
 .page__footer, // Footer
-.time
+.page__meta-date
 {
   font-family: monospace;
 }
