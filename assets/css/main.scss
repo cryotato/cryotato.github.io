@@ -1,4 +1,5 @@
 ---
+
 ---
 
 
@@ -31,7 +32,7 @@
   --bg-8: var(--dark);
 
   /* --- Pixelated Text Shadow Definitions (Initial values, JS updates dynamically) --- */
-  --l-shadow: -1px -1px 0 hsl(0, 0%, 88%), 0 -1px 0 hsl(0, 0%, 88%), 1px -1px 0 hsl(0, 0%, 88%), 1px 0 0 hsl(0, 0%, 88%), 1px 1px 0 hsl(0, 0%, 88%), 0 1px 0 hsl(0, 0%, 88%), -1px 1px 0 hsl(0, 0%, 88%), -1px 0 0 hsl(0, 0%, 88%);
+  --l-shadow: -1px -1px 0 hsl(0, 0%, 88%), 0 -1px 0 hsl(0, 0%, 88%), 1px -1px 0 hsl(0, 0%, 88%), 1px 0 0 hsl(0, 0%, 88%), 1px 1px 0 hhsl(0, 0%, 88%), 0 1px 0 hsl(0, 0%, 88%), -1px 1px 0 hsl(0, 0%, 88%), -1px 0 0 hsl(0, 0%, 88%);
   --d-shadow: -1px -1px 0 hsl(0, 0%, 16%), 0 -1px 0 hsl(0, 0%, 16%), 1px -1px 0 hsl(0, 0%, 16%), 1px 0 0 hsl(0, 0%, 16%), 1px 1px 0 hsl(0, 0%, 16%), 0 1px 0 hsl(0, 0%, 16%), -1px 1px 0 hsl(0, 0%, 16%), -1px 0 0 hsl(0, 0%, 16%);
 
    /* --- Standard Border (Changed to 1px) --- */
@@ -65,156 +66,81 @@
 }
 
 /* ==========================================================================
-   SCSS Mixin for Dithered Button Styles
-   ========================================================================== */
-@mixin dither-button-style($include-border-radius: true, $include-position: false, $include-cursor: false, $include-text-align: false, $include-box-shadow: false) {
-  font-family: monospace; // Included here as it's common to all buttons
-  display: inline-block;
-  font-weight: bold;
-  @if $include-border-radius {
-    border-radius: 0.5em;
-  }
-  background: var(--bg-1);
-  color: var(--dark) !important;
-  text-shadow: var(--l-shadow) !important;
-  animation: dark-to-light 200ms linear forwards;
-  border: var(--border-standard);
-  text-decoration: none !important;
-
-  @if $include-position {
-    position: relative;
-  }
-  @if $include-cursor {
-    cursor: pointer;
-  }
-  @if $include-text-align {
-    text-align: center;
-  }
-  @if $include-box-shadow {
-    box-shadow: none;
-  }
-
-  &::before {
-    background: none !important;
-  }
-
-  &:hover {
-    animation: light-to-dark 200ms linear forwards;
-    color: var(--light) !important;
-    text-shadow: var(--d-shadow) !important;
-    text-decoration: none !important;
-    @if $include-border-radius {
-      border-radius: 0.5em;
-    }
-
-    &::before {
-      background: none !important;
-    }
-  }
-}
-
-/* ==========================================================================
    Global and Base Element Styles
    ========================================================================== */
 
-// --- Global Font Family ---
-// Apply monospace font more globally where appropriate
-body, // Base
-h1, h2, h3, h4, h5, h6, // Headings
-pre, code, // Code elements
-.masthead, // Header elements
-.hidden-links, // Hidden nav
-.author__urls, // Author links
-.sidebar, // Sidebar elements
-button, .btn, // Buttons (mixin handles font for these)
-.search-input, // Search
-.entries-list, // Entry lists
-.archive__item-title, // Specific archive titles
-// .sc-comments-count,
-.pagination--pager, // Pagination (mixin handles font)
-.page__footer, // Footer
-.page__meta-date
-{
+body {
+  background: var(--bg-0) !important;
+  color: var(--dark) !important;
   font-family: monospace;
+  font-size: 16px;
+  text-shadow: var(--l-shadow) !important;
 }
 
-// --- Global Dark Text / Light Shadow ---
-body,
 .page__content p,
 .page__content ul li,
-.page__content ol li,
-h1, h2, h3, h4, h5, h6,
-// General links - Exclude specific sections handled later or via mixin
-a:not(.masthead a):not(.sidebar a):not(.toc a):not(.page__footer a):not(.btn):not(.button):not(.author__urls a):not(.hidden-links a):not(.pagination--pager a),
-blockquote,
-blockquote p,
-pre,
-p code, li code, h1 code, h2 code, h3 code, h4 code, h5 code, h6 code,
-.sidebar, // Sidebar base styles
-.sidebar p,
-.sidebar li,
-.sidebar h1, .sidebar h2, .sidebar h3, .sidebar h4,
-.sidebar .author__name,
-.sidebar .author__bio,
-.sidebar .author__urls-label,
-.sidebar a:not(.author__urls a), // Sidebar links excluding styled buttons
-.page__footer, // Footer base styles
-.page__footer p,
-.page__footer span,
-.page__footer li,
-.page__footer a, // Footer links
-.search-input {
+.page__content ol li {
   color: var(--dark) !important;
   text-shadow: var(--l-shadow) !important;
 }
 
-// --- Base Body Styles ---
-body {
-  background: var(--bg-0) !important;
-  font-size: 16px;
+h1, h2, h3, h4, h5, h6 {
+  font-family: monospace; // <<< CHANGED font stack
+  color: var(--dark) !important;
+  text-shadow: var(--l-shadow) !important;
 }
 
-// --- General Links (Non-Button) ---
-a:not(.masthead a):not(.sidebar a):not(.toc a):not(.page__footer a):not(.btn):not(.button):not(.author__urls a):not(.hidden-links a):not(.pagination--pager a) {
+/* General links - Exclude specific sections handled later */
+a:not(.masthead a):not(.sidebar a):not(.toc a):not(.page__footer a):not(.btn):not(.button) {
+  color: var(--dark) !important;
+  text-shadow: var(--l-shadow) !important;
   text-decoration: underline;
   &:hover {
     // Define general link hover if needed
   }
 }
 
-// --- Blockquote ---
-blockquote {
+blockquote,
+blockquote p {
+  color: var(--dark) !important;
+  text-shadow: var(--l-shadow) !important;
   border-left: var(--border-standard); // Uses the new 1px border
   padding-left: 1em;
   margin-left: 0;
 }
 
-// --- Preformatted Text ---
 pre {
+  font-family: monospace; // <<< CHANGED font stack
   background: var(--bg-2);
   border: var(--border-standard); // Uses the new 1px border
   padding: 1em;
+  color: var(--dark) !important;
+  text-shadow: var(--l-shadow) !important;
   overflow-x: auto;
 }
 
-// --- Inline Code ---
 p code, li code, h1 code, h2 code, h3 code, h4 code, h5 code, h6 code {
+  font-family: monospace; // <<< CHANGED font stack
   background: var(--bg-1);
   border: 1px solid var(--dark); // Explicit 1px border here already
   padding: 0.1em 0.4em;
   border-radius: 0;
+  color: var(--dark) !important;
+  text-shadow: var(--l-shadow) !important;
 }
 
 /* ==========================================================================
    Masthead (Header) Styles
    ========================================================================== */
 .masthead {
+  font-family: monospace;
   background: var(--bg-7);
-  color: var(--light); // Base color for masthead text (overridden below)
+  color: var(--light);
   // border-bottom: var(--border-standard);
 
+  /* Reduce overall header height by adjusting inner wrap padding */
   .masthead__inner-wrap {
-    padding-top: 0.5rem !important; // <<< REDUCED
+    padding-top: 0.5rem !important; // <<< REDUCED (Original might be 1rem or more)
     padding-bottom: 0.5rem !important; // <<< REDUCED
   }
 
@@ -222,126 +148,257 @@ p code, li code, h1 code, h2 code, h3 code, h4 code, h5 code, h6 code {
   #site-nav {
     background: transparent !important;
   }
-
-  // --- Site Title & Search Toggle (Simple Style) ---
-  nav#site-nav a.site-title,
-  .search__toggle {
-    color: var(--light) !important; // Light text
-    text-shadow: var(--d-shadow) !important; // Dark shadow
-    text-decoration: none;
-    background: transparent;
-    transition: text-decoration 0.2s ease;
-
-    &:hover {
-      text-decoration: underline;
-    }
-  }
-  // Ensure search icon color matches
-  .search__toggle {
-      color: var(--light) !important;
-  }
-
-
-  // --- Menu Items (Button Style with Animation) ---
-  .visible-links .masthead__menu-item a {
-    @include dither-button-style($include-position: true);
-    padding: 0.25em 1em; // <<< Specific padding
-  }
-
-  // --- Greedy Nav Mobile Toggle Icon ---
-  .greedy-nav__toggle,
-  .search__toggle { // Apply reduced padding to search toggle as well
-    padding: 0.25em 1em; // <<< REDUCED vertical padding
-  }
-
-  .greedy-nav__toggle {
-    // Hover state handled by parent :hover and icon style changes below
-    .navicon,
-    .navicon:before,
-    .navicon:after {
-      background: var(--dark) !important; // Initial: Dark icon
-      transition: background 200ms linear;
-    }
-
-    &:hover {
-      .navicon,
-      .navicon:before,
-      .navicon:after {
-        background: var(--light) !important; // Hover: Light icon
-      }
-    }
-  }
-
-  // --- Search Toggle Icon ---
-  // Color is handled by the general .search__toggle rule above
-  // Hover color change is handled by the general .search__toggle:hover rule
 }
+
+/* Site Title & Search Toggle (Simple Style) */
+/* No height changes needed here typically */
+.masthead nav#site-nav a.site-title,
+.masthead .search__toggle {
+  font-family: monospace;
+  color: var(--light) !important;
+  text-shadow: var(--d-shadow) !important;
+  text-decoration: none;
+  background: transparent;
+  transition: text-decoration 0.2s ease;
+
+  &:hover {
+    text-decoration: underline;
+  }
+}
+/* Ensure search icon color */
+.masthead .search__toggle {
+    color: var(--light) !important;
+}
+
+
+/* Menu Items (Button Style with Animation) */
+.masthead .visible-links .masthead__menu-item a {
+  font-family: monospace;
+  display: inline-block;
+  padding: 0.25em 1em; // <<< REDUCED vertical padding (was 0.5em)
+  font-weight: bold;
+  border-radius: 0.5em;
+  /* --- Set initial state to the DEFAULT state --- */
+  background: var(--bg-1); /* Start bg-1 */
+  color: var(--dark) !important; /* Start dark text */
+  text-shadow: var(--l-shadow) !important; /* Start WITH light shadow */
+  /* --- Apply dark-to-light animation for the RETURN --- */
+  animation: dark-to-light 200ms linear forwards;
+  border: var(--border-standard);
+  text-decoration: none !important;
+  position: relative;
+
+  &::before {
+      background: none !important;
+  }
+
+
+  &:hover {
+    /* --- Apply light-to-dark animation on hover --- */
+    animation: light-to-dark 200ms linear forwards;
+    /* --- INSTANTLY change text/shadow for dark background --- */
+    color: var(--light) !important;
+    text-shadow: var(--d-shadow) !important;
+    text-decoration: none !important;
+    border-radius: 0.5em; // Keep consistent
+
+    &::before {
+        background: none !important;
+    }
+  }
+}
+
+/* Greedy Nav Mobile Toggle Icon */
+.masthead .greedy-nav__toggle,
+.search__toggle {
+  padding: 0.25em 1em; // <<< REDUCED vertical padding (was 0.5em)
+}
+// ^ that is not what i asked for.
+
+.masthead .greedy-nav__toggle .navicon,
+.masthead .greedy-nav__toggle .navicon:before,
+.masthead .greedy-nav__toggle .navicon:after {
+  /* Initial state: Dark icon on light background (matching button text) */
+  background: var(--dark) !important;
+  transition: background 200ms linear; /* Match animation speed */
+}
+
+.masthead .greedy-nav__toggle:hover .navicon,
+.masthead .greedy-nav__toggle:hover .navicon:before,
+.masthead .greedy-nav__toggle:hover .navicon:after {
+  /* Hover state: Light icon on dark background (matching button text) */
+  background: var(--light) !important;
+}
+
+.search__toggle .fa-search {
+  /* Initial state: Dark icon */
+  color: var(--dark) !important; /* Use 'color' for Font Awesome */
+  transition: color 200ms linear; /* Transition the 'color' property */
+}
+
+/* Select the search icon when the parent button is hovered */
+.search__toggle:hover .fa-search {
+  /* Hover state: Light icon */
+  color: var(--light) !important; /* Use 'color' for Font Awesome */
+}
+
+/* Optional: If the search button is also within .masthead */
+/* You might want to make the selectors more specific like this: */
+/*
+.masthead .search__toggle .fa-search {
+  color: var(--dark) !important;
+  transition: color 200ms linear;
+}
+
+.masthead .search__toggle:hover .fa-search {
+  color: var(--light) !important;
+}
+*/
 
 
 /* ==========================================================================
    Hidden Links (Greedy Nav Dropdown) Styles
    ========================================================================== */
 .hidden-links {
-  background: var(--bg-3) !important;
-  border: 3px solid var(--dark) !important;
-  border-radius: 0 !important;
-  box-shadow: none !important;
-  padding: 0.5em !important;
-  margin-top: 0 !important;
+  font-family: monospace !important; // Ensure monospace font
+  background: var(--bg-3) !important; // Use bg-3 background
+  border: 3px solid var(--dark) !important; // Thick dark border like TOC
+  border-radius: 0 !important; // Remove default border-radius
+  box-shadow: none !important; // Remove default shadow
+  padding: 0.5em !important; // Add some padding
+  margin-top: 0 !important; // Adjust margin if needed
 
+  // Remove the arrow pseudo-elements
   &::before,
-  &::after { // Remove arrows
+  &::after {
     display: none !important;
   }
+}
 
-  li {
-    border-bottom: none !important;
-    margin-bottom: 0.5em;
-    &:last-child {
-      margin-bottom: 0;
-    }
-  }
+.hidden-links li {
+  font-family: monospace !important;
+  border-bottom: none !important; // Remove default separators
+  margin-bottom: 0.5em; // Add space between items
 
-  a {
-    @include dither-button-style($include-position: true, $include-text-align: true);
-    padding: 0.25em 1em; // Specific padding
-    width: 100%; // Make buttons full width
+  &:last-child {
+    margin-bottom: 0; // No margin for the last item
   }
 }
+
+/* Style hidden links like header buttons */
+.hidden-links a {
+  font-family: monospace !important;
+  display: inline-block;
+  padding: 0.25em 1em;
+  font-weight: bold;
+  border-radius: 0.5em;
+  /* --- Set initial state to the DEFAULT state --- */
+  background: var(--bg-1); /* Start bg-1 */
+  color: var(--dark) !important; /* Start dark text */
+  text-shadow: var(--l-shadow) !important; /* Start WITH light shadow */
+  /* --- Apply dark-to-light animation for the RETURN --- */
+  animation: dark-to-light 200ms linear forwards;
+  border: var(--border-standard);
+  text-decoration: none !important;
+  position: relative;
+  width: 100%; // Make buttons full width of dropdown
+  text-align: center; // Center text
+
+  &::before {
+      background: none !important;
+  }
+
+  &:hover {
+    /* --- Apply light-to-dark animation on hover --- */
+    animation: light-to-dark 200ms linear forwards;
+    /* --- INSTANTLY change text/shadow for dark background --- */
+    color: var(--light) !important;
+    text-shadow: var(--d-shadow) !important;
+    text-decoration: none !important;
+    border-radius: 0.5em; // Keep consistent
+
+    &::before {
+        background: none !important;
+    }
+  }
+}
+
 
 /* ==========================================================================
    Author URLs (Sidebar Links) Styles - Matching Hidden Links
    ========================================================================== */
 .author__urls {
-  background: var(--bg-3) !important;
-  border: 3px solid var(--dark) !important;
-  border-radius: 0 !important;
-  box-shadow: none !important;
-  padding: 0.5em !important;
-  margin-top: 0.5em !important;
+  font-family: monospace !important;
+  background: var(--bg-3) !important; // Use bg-3 background
+  border: 3px solid var(--dark) !important; // Thick dark border like TOC
+  border-radius: 0 !important; // Remove default border-radius
+  box-shadow: none !important; // Remove default shadow
+  padding: 0.5em !important; // Add some padding
+  margin-top: 0.5em !important; // Add some space above
 
+  // Remove the arrow pseudo-elements if they exist (might be from theme)
   &::before,
-  &::after { // Remove arrows if any
+  &::after {
     display: none !important;
   }
+}
 
-  li {
-    border-bottom: none !important;
-    margin-bottom: 0.5em;
-    &:last-child {
-      margin-bottom: 0;
-    }
+.author__urls li {
+  font-family: monospace !important;
+  border-bottom: none !important; // Remove default separators if any
+  margin-bottom: 0.5em; // Add space between items
+
+  &:last-child {
+    margin-bottom: 0; // No margin for the last item
+  }
+}
+
+/* Style author links like header/hidden buttons */
+.author__urls a {
+  font-family: monospace !important;
+  display: inline-block;
+  padding: 0.25em 1em;
+  font-weight: bold;
+  border-radius: 0.5em;
+  /* --- Set initial state to the DEFAULT state --- */
+  background: var(--bg-1); /* Start bg-1 */
+  color: var(--dark) !important; /* Start dark text */
+  text-shadow: var(--l-shadow) !important; /* Start WITH light shadow */
+  /* --- Apply dark-to-light animation for the RETURN --- */
+  animation: dark-to-light 200ms linear forwards;
+  border: var(--border-standard);
+  text-decoration: none !important;
+  position: relative;
+  width: 100%; // Make buttons full width of dropdown
+  text-align: center; // Center text
+
+  /* Ensure icons inherit color correctly */
+  i {
+    color: inherit !important;
+    text-shadow: inherit !important;
+  }
+  /* Ensure labels inherit color correctly */
+  .label {
+     color: inherit !important;
+     text-shadow: inherit !important;
   }
 
-  a {
-    @include dither-button-style($include-position: true, $include-text-align: true);
-    padding: 0.25em 1em; // Specific padding
-    width: 100%; // Make buttons full width
 
-    // Ensure icons and labels inherit animated color/shadow
-    i, .label {
-      color: inherit !important;
-      text-shadow: inherit !important;
+  &::before {
+      background: none !important;
+  }
+
+  &:hover {
+    /* --- Apply light-to-dark animation on hover --- */
+    animation: light-to-dark 200ms linear forwards;
+    /* --- INSTANTLY change text/shadow for dark background --- */
+    color: var(--light) !important;
+    text-shadow: var(--d-shadow) !important;
+    text-decoration: none !important;
+    border-radius: 0.5em; // Keep consistent
+
+    &::before {
+        background: none !important;
     }
   }
 }
@@ -351,17 +408,32 @@ p code, li code, h1 code, h2 code, h3 code, h4 code, h5 code, h6 code {
    Sidebar (Author) Styles
    ========================================================================== */
 .sidebar {
+  font-family: monospace; // <<< CHANGED font stack
   background: var(--bg-0);
-  // border: var(--border-standard);
+  // border: var(--border-standard); // Uses the new 1px border
   padding: 1em;
-  // Color and text-shadow handled by global rule
+  color: var(--dark) !important;
+  text-shadow: var(--l-shadow) !important;
+}
 
-  // Specific hover for non-button sidebar links
-  a:not(.author__urls a) {
-    text-decoration: underline;
-    &:hover {
-      background: var(--bg-3); // Simple background hover for these
-    }
+/* Specific elements within Author Sidebar */
+.sidebar p,
+.sidebar li,
+.sidebar h1, .sidebar h2, .sidebar h3, .sidebar h4,
+.sidebar .author__name,
+.sidebar .author__bio,
+.sidebar .author__urls-label,
+.sidebar a {
+  font-family: monospace; // <<< CHANGED font stack
+  color: var(--dark) !important;
+  text-shadow: var(--l-shadow) !important;
+}
+
+/* Specific hover for sidebar links */
+.sidebar a {
+  text-decoration: underline;
+  &:hover {
+    background: var(--bg-3);
   }
 }
 
@@ -369,17 +441,29 @@ p code, li code, h1 code, h2 code, h3 code, h4 code, h5 code, h6 code {
    Footer Styles
    ========================================================================== */
 .page__footer {
+  font-family: monospace; // <<< CHANGED font stack
   background: var(--bg-2);
-  border-top: var(--border-standard);
-  padding: 0.1em 1em; // <<< REDUCED vertical padding
-  // Color and text-shadow handled by global rule
+  border-top: var(--border-standard); // Uses the new 1px border
+  padding: 0.1em 1em; // <<< REDUCED vertical padding (was 0.5em)
+  color: var(--dark) !important;
+  text-shadow: var(--l-shadow) !important;
+}
 
-  // Specific hover for footer links
-  a {
-    text-decoration: underline;
-    &:hover {
-       // Define footer link hover if needed
-    }
+/* Specific elements within Footer */
+.page__footer p,
+.page__footer span,
+.page__footer li,
+.page__footer a {
+  font-family: monospace; // <<< CHANGED font stack
+  color: var(--dark) !important;
+  text-shadow: var(--l-shadow) !important;
+}
+
+/* Specific hover for footer links */
+.page__footer a {
+  text-decoration: underline;
+  &:hover {
+     // Define footer link hover if needed
   }
 }
 
@@ -387,45 +471,106 @@ p code, li code, h1 code, h2 code, h3 code, h4 code, h5 code, h6 code {
    Button Styles (.btn, button) - Using Header Menu Animation
    ========================================================================== */
 button, .btn {
-  @include dither-button-style($include-cursor: true, $include-text-align: true, $include-box-shadow: true);
-  padding: 0.5em 1em; // Default padding for general buttons
+  font-family: monospace;
+  display: inline-block; // Needed for padding/sizing
+  padding: 0.5em 1em; // Default padding
+  font-weight: bold;
+  border-radius: 0.5em;
+  cursor: pointer;
+  text-align: center;
+  box-shadow: none;
+
+  /* --- Set initial state to the DEFAULT state --- */
+  background: var(--bg-1);           // Start bg-1
+  color: var(--dark) !important;    // Start dark text
+  text-shadow: var(--l-shadow) !important; // Start WITH light shadow
+  /* --- Apply dark-to-light animation for the RETURN --- */
+  animation: dark-to-light 200ms linear forwards;
+  border: var(--border-standard);
+  text-decoration: none !important;
+
+  /* Ensure ::before pseudo-element doesn't interfere */
+  &::before {
+      background: none !important;
+  }
 }
 
+button:hover, .btn:hover {
+  /* --- Hover State (Matches Header Menu Button Hover) --- */
+  animation: light-to-dark 200ms linear forwards; // Apply the dither animation
+  /* --- INSTANTLY change text/shadow for dark background --- */
+  color: var(--light) !important; // Text becomes LIGHT
+  text-shadow: var(--d-shadow) !important; // Shadow becomes DARK
+  text-decoration: none !important;
+  border-radius: 0.5em; // Keep corners rounded
+
+  /* Ensure ::before pseudo-element doesn't interfere on hover */
+   &::before {
+      background: none !important;
+  }
+
+  /* REMOVE conflicting simple background change */
+  // background: var(--bg-7);
+}
+
+
 /* --- Button Modifier Classes --- */
+
+/* Modifier for Full Width */
 .btn--wide {
   display: block;
   width: 100%;
   box-sizing: border-box;
 }
 
+/* Modifier for Larger Size (Adjust if default button padding/font changed) */
 .btn--large {
   font-size: 1.2em;
   padding: 0.8em 1.5em;
+  // font-weight: bold; // Already bold by default now
 }
 
 /* ==========================================================================
    Search Input Styles
    ========================================================================== */
+.search-input,
+.search-input::placeholder {
+  font-family: monospace; // <<< CHANGED font stack
+}
 .search-input {
   background: var(--bg-0);
-  border: var(--border-standard);
+  border: var(--border-standard); // Uses the new 1px border
   padding: 0.5em;
-  // Font, color, text-shadow handled by global rules
-  &::placeholder {
-    font-family: monospace; // Ensure placeholder matches
-    // Placeholder color/shadow might need specific rules if different from input text
-  }
+  color: var(--dark) !important;
+  text-shadow: var(--l-shadow) !important;
 }
 
 /* ==========================================================================
    Table of Contents (TOC) Styles (Revised)
    ========================================================================== */
-// [ Styles are handled in _navigation.scss - Assuming no changes needed here ]
+
+/* --- Main TOC container (nav.toc) --- */
+// [ Styles are handled in _navigation.scss ]
+
+/* --- TOC Title ("Contents" Header) --- */
+// [ Styles are handled in _navigation.scss ]
+
+/* --- TOC Menu (the ul list) --- */
+// [ Styles are handled in _navigation.scss ]
+
+/* --- TOC List Items & Links (within toc__menu) --- */
+// [ Styles are handled in _navigation.scss ]
+
 
 /* ==========================================================================
    Main Content Area Styles
    ========================================================================== */
-// Font handled globally for .entries-list *
+
+
+.entries-list,
+.entries-list * { // Selects the container and all elements inside it
+  font-family: monospace !important;
+}
 
 /* Sticky Music Player Styles */
 .sticky-music-player {
@@ -433,13 +578,12 @@ button, .btn {
   bottom: 0;
   left: 0;
   width: 100%;
-  background-color: #333; // Example - Keep as is unless part of dither theme
-  color: #fff; // Example - Keep as is
-  padding: 10px 20px; // Example - Keep as is
-  z-index: 1000;
-  box-shadow: 0 -2px 5px rgba(0,0,0,0.2); // Optional shadow
-  text-align: center; // Example - Keep as is
-  // Note: This doesn't use the dither theme variables. Fine if intended.
+  background-color: #333; /* Example background color */
+  color: #fff; /* Example text color */
+  padding: 10px 20px; /* Example padding */
+  z-index: 1000; /* Ensure it's above most other content */
+  box-shadow: 0 -2px 5px rgba(0,0,0,0.2); /* Optional shadow */
+  text-align: center; /* Example alignment */
 }
 
 /* Style the SVG logo using CSS mask */
@@ -448,7 +592,8 @@ button, .btn {
   width: 150px;          // <<< Adjust this width
   height: 50px;         // <<< Adjust this height
   vertical-align: middle;
-  background-color: var(--bg-2); // Using a dither background
+  // background-color: var(--light);
+  background-color: var(--bg-2);
   -webkit-mask-image: url(/assets/images/ryanlogo.svg);
   mask-image: url(/assets/images/ryanlogo.svg);
   -webkit-mask-repeat: no-repeat;
@@ -463,31 +608,62 @@ button, .btn {
     opacity: 0;
   }
 }
-
+/* Apply monospace font to specific archive titles */
+.archive__item-title {
+  font-family: monospace;
+}
 /* ==========================================================================
    Pagination Pager Button Styles (Matching General Buttons)
    ========================================================================== */
 .pagination--pager {
-  @include dither-button-style($include-border-radius: false, $include-cursor: true, $include-text-align: true, $include-box-shadow: true); // No border-radius for pager
+  font-family: monospace;
+  display: inline-block; // Needed for padding/sizing
   padding: 0.5em 1em; // Default padding
+  font-weight: bold;
+  // border-radius: 0.5em;
+  cursor: pointer;
+  text-align: center;
+  box-shadow: none;
 
-  // Ensure links inside inherit animated styles
-  a {
-    color: inherit !important;
-    text-shadow: inherit !important;
+  /* --- Set initial state to the DEFAULT state --- */
+  background: var(--bg-1);           // Start bg-1
+  color: var(--dark) !important;    // Start dark text
+  text-shadow: var(--l-shadow) !important; // Start WITH light shadow
+  /* --- Apply dark-to-light animation for the RETURN --- */
+  animation: dark-to-light 200ms linear forwards;
+  border: var(--border-standard);
+  text-decoration: none !important;
+
+  /* Ensure ::before pseudo-element doesn't interfere */
+  &::before {
+      background: none !important;
+  }
+
+  &:hover {
+    /* --- Hover State (Matches Header Menu Button Hover) --- */
+    animation: light-to-dark 200ms linear forwards; // Apply the dither animation
+    /* --- INSTANTLY change text/shadow for dark background --- */
+    color: var(--light) !important; // Text becomes LIGHT
+    text-shadow: var(--d-shadow) !important; // Shadow becomes DARK
     text-decoration: none !important;
+    // border-radius: 0.5em; // Keep corners rounded
 
-    &:hover {
-      color: inherit !important;
-      text-shadow: inherit !important;
-      text-decoration: none !important;
+    /* Ensure ::before pseudo-element doesn't interfere on hover */
+     &::before {
+        background: none !important;
     }
   }
 }
 
-/* Ensure specific archive titles get monospace font */
-// Handled by global font rule now
-// .archive__item-title,
-// .sc-comments-count {
-//   font-family: monospace;
-// }
+/* Ensure pagination links within the pager also get styled */
+.pagination--pager a {
+  color: inherit !important; /* Inherit color from parent */
+  text-shadow: inherit !important; /* Inherit text shadow from parent */
+  text-decoration: none !important; /* Remove underline */
+
+  &:hover {
+    color: inherit !important; /* Inherit color on hover */
+    text-shadow: inherit !important; /* Inherit shadow on hover */
+    text-decoration: none !important; /* Remove underline on hover */
+  }
+}
