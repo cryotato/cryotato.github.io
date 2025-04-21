@@ -13,5 +13,6 @@ hi ( •ω•ฅ）.｡.:*♡ ïm Ryan. everyϑiŋ ï do iꝬ to declare my iden
 </div>
 
 <div align="right">
-    consumption - 20250227
+    endless consumption - 20250227
 </div>
+
