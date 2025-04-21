@@ -9,7 +9,7 @@ hi ( •ω•ฅ）.｡.:*♡ ïm Ryan. everyϑiŋ ï do iꝬ to declare my iden
 
 <!-- ![](/assets/images/artifactspain.jpeg) -->
 <div align="right">
-    <img src="/assets/images/artifactspain.jpeg" alt="consumption" width="500"/>
+    <img src="/assets/images/artifactspain.jpeg" alt="consumption" width="400"/>
 </div>
 
 <div align="right">
