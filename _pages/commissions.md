@@ -54,8 +54,8 @@ Soundtrack commissioned for an animated film
 ### Others
 Okay so this one is seriously incredibly bizarre but a lot of attention I got early on when I first started making tunes as a literal 13 year old came directly from [this vlog of Gle Marquez](https://youtu.be/wQ5AepXgHCs?si=2OTDyhyU-GTP6oOC&t=1199) talking about how her boyfriend died in an accident
 
-### as OVXX
-I make tunes just for The Culture too.
+### Self-released as OVXX
+I make tunes just for The Culture too. Here's my most recent album
 <iframe style="border: 0; width: 350px; height: 786px;" src="https://bandcamp.com/EmbeddedPlayer/album=1995316380/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="https://ovxx.bandcamp.com/album/imperfective">ˢᵒᵘⁿᵈˢ ᶠᵒʳ imperfective 世界 by OVXX</a></iframe>
 
 ***
