@@ -8,9 +8,10 @@ author_profile: true
 hi ( •ω•ฅ）.｡.:*♡ ïm Ryan. everyϑiŋ ï do iꝬ to declare my identity ⅋ut ï døn't really have on̅e. ï aspire to be a [Concept](https://cryotato.github.io/blog/). ïm a schizor𖹭mantic iṋ ϑat way
 
 <!-- ![](/assets/images/artifactspain.jpeg) -->
-<img src="/assets/images/artifactspain.jpeg" alt="consumption" width="500"/>
 <div align="right">
     <img src="/assets/images/artifactspain.jpeg" alt="consumption" width="500"/>
-    
+</div>
+
+<div align="right">
     consumption - 20250227
 </div>
