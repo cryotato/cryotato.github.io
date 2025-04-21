@@ -56,9 +56,8 @@ This was not a commission, a track that was part of my EP "how to try" called "m
  My music has also been featured in various makeup vlogs by okaysage
  <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=2799883544/size=small/bgcol=ffffff/linkcol=0687f5/track=2598638364/transparent=true/" seamless><a href="https://ovxx.bandcamp.com/album/youre-overthinking-it">you&#39;re overthinking it by OVXX</a></iframe>
 
-### others
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wQ5AepXgHCs?si=6LOGgFZUzlNaYpr8&amp;start=1198" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Okay so this one is seriously incredibly bizarre but a lot of attention I got early on when I first started making tunes as a literal 13 year old came directly from this vlog of Gle Marquez talking about how her boyfriend died in an accident
+### Others
+Okay so this one is seriously incredibly bizarre but a lot of attention I got early on when I first started making tunes as a literal 13 year old came directly from [this vlog of Gle Marquez](https://youtu.be/wQ5AepXgHCs?si=2OTDyhyU-GTP6oOC&t=1199) talking about how her boyfriend died in an accident
 
 ***
 
