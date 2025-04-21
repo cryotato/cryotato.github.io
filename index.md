@@ -7,5 +7,5 @@ author_profile: true
 ---
 hi ( •ω•ฅ）.｡.:*♡ ïm Ryan. everyϑiŋ ï do iꝬ to declare my identity ⅋ut ï døn't really have on̅e. ï aspire to be a [Concept](https://cryotato.github.io/blog/). ïm a schizor𖹭mantic iṋ ϑat way
 
-![](/assets/images/artifact6529.jpeg)
-schizor𖹭manticism
+![](/assets/images/artifactspain.jpeg)
+consumption
