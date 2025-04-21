@@ -619,7 +619,7 @@ button:hover, .btn:hover {
   display: inline-block; // Needed for padding/sizing
   padding: 0.5em 1em; // Default padding
   font-weight: bold;
-  border-radius: 0.5em;
+  // border-radius: 0.5em;
   cursor: pointer;
   text-align: center;
   box-shadow: none;
@@ -645,7 +645,7 @@ button:hover, .btn:hover {
     color: var(--light) !important; // Text becomes LIGHT
     text-shadow: var(--d-shadow) !important; // Shadow becomes DARK
     text-decoration: none !important;
-    border-radius: 0.5em; // Keep corners rounded
+    // border-radius: 0.5em; // Keep corners rounded
 
     /* Ensure ::before pseudo-element doesn't interfere on hover */
      &::before {
