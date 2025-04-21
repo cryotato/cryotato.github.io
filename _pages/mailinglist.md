@@ -5,7 +5,7 @@ author_profile: false
 toc: false
 ---
 
-i hate emails. i really really really do, i mean i don't even think i'm ever going to use this tbh - but i'm even more done posting bullshit on my fucking INSTAGRAM story. [GET REAL](https://youtu.be/wKiIroiCvZ0?si=Jbak7YTo6g2OWUJ_&t=18). "And, OH! Take me off your mailing list For kids who think it still exists Yes, for those who think it still exists Maybe I'm wrong and maybe you're right Maybe I'm wrong and maybe you're right Maybe you're right, maybe I'm wrong And just maybe you're right... And, OHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH! Maybe mother told you true! And there'll always be somebody there for you! And you'll never be alone... But maybe she's wrong and maybe I'm right And just maybe she's wrong!!!!!! Maybe she's wrong and maybe I'm right And if so, here's [thi iiiiiiiii ssong](https://www.youtube.com/watch?v=-eohHwsplvY)"
+ï hate emails. ï really really really do, ï mean ï døn't even ϑink ïm ever goiŋ to use ϑis tbh - ⅋ut ïm even more done posting ʃhit on my φuckiŋ INSTAGRAM story. [GET REAL](https://youtu.be/wKiIroiCvZ0?si=Jbak7YTo6g2OWUJ_&t=18). "&, OH! Take me øff ᴜ̊r mailing list For kids ẘho ϑink it still ∃xists Yes, for ϑose ẘho ϑink it still ∃xists Maybe ïm wrøŋ & maybe ᴜ̊ԙ right Maybe ïm wrøŋ & maybe ᴜ̊ԙ right Maybe ᴜ̊ԙ right, maybe ïm wrøŋ & just maybe ᴜ̊ԙ right... & OHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH! Maybe moϑer told ᴜ̊ true! & ϑere'll always be somebody ϑere for ᴜ̊! & ᴜ̊'ll never be alone... ⅋ut maybe sheꝬ wrøŋ & maybe I'm right & just maybe sheꝬ wrøŋ!!!!!! Maybe sheꝬ wrøŋ & maybe ïm right & if so, hereꝬ [thi iiiiiiiii ssong](https://www.youtube.com/watch?v=-eohHwsplvY)"
 
 INSERT NEWSLETTER HERE 
 
