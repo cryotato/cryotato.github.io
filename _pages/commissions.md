@@ -16,42 +16,57 @@ Some of my most popular work happens to be music commissioned by ContraPoints - 
 <details open>
 <summary><b>Conspiracy</b></summary>
 <br>
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/teqkK0RLNkI?si=UUUen4U7tJdj_KHN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=1507420990/size=small/bgcol=ffffff/linkcol=0687f5/track=3840458334/transparent=true/" seamless><a href="https://ovxx.bandcamp.com/album/hymns-contrapoints">hymns ५&#39;ContraPoints by OVXX</a></iframe>
 <!-- insert how much time this took to make so people have an idea of how much their project might cost them -->
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=1507420990/size=small/bgcol=ffffff/linkcol=0687f5/track=1658746704/transparent=true/" seamless><a href="https://ovxx.bandcamp.com/album/hymns-contrapoints">hymns ५&#39;ContraPoints by OVXX</a></iframe>
-
 </details>
 
-
-### Envy
+<details open>
+<summary><b>Envy</b></summary>
+<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aPhrTOg1RUk?si=m-bMYjgLH1jChSAU&amp;start=681" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=1507420990/size=small/bgcol=ffffff/linkcol=0687f5/track=1239757180/transparent=true/" seamless><a href="https://ovxx.bandcamp.com/album/hymns-contrapoints">hymns ५&#39;ContraPoints by OVXX</a></iframe>
+</details>
 
-### Opulence
+<details open>
+<summary><b>Opulence</b></summary>
+<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jD-PbF3ywGo?si=QDs_T-YsIg44usWu&amp;start=179" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=1507420990/size=small/bgcol=ffffff/linkcol=0687f5/track=1394602779/transparent=true/" seamless><a href="https://ovxx.bandcamp.com/album/hymns-contrapoints">hymns ५&#39;ContraPoints by OVXX</a></iframe>
 
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=2799883544/size=small/bgcol=ffffff/linkcol=0687f5/track=3956957088/transparent=true/" seamless><a href="https://ovxx.bandcamp.com/album/youre-overthinking-it">you&#39;re overthinking it by OVXX</a></iframe>
+</details>
 
-### Men
+<details open>
+<summary><b>Men</b></summary>
+<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/S1xxcKCGljY?si=6mzhVGTnTOYibf_n&amp;start=191" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</details>
 
-### Transtrenders
+<details open>
+<summary><b>Transtrenders</b></summary>
+<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EdvM_pRfuFM?si=5YJdAXgDRf374FOY&amp;start=1611" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 This was not a commission, a track that was part of my EP "how to try" called "meowth muh nuggeth" just so happened to fit the aesthetic of the "digital messiah"
+</details>
 
-### okaysage
+<details open>
+<summary><b>okaysage</b></summary>
+<br>
  <iframe width="560" height="315" src="https://www.youtube.com/embed/KjwWEValX8M?si=3-JllfFP18cSJSVz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
  My music has also been featured in various makeup vlogs by okaysage
  <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=2799883544/size=small/bgcol=ffffff/linkcol=0687f5/track=2598638364/transparent=true/" seamless><a href="https://ovxx.bandcamp.com/album/youre-overthinking-it">you&#39;re overthinking it by OVXX</a></iframe>
+</details>
 
-### Others
+<details open>
+<summary><b>Others</b></summary>
+<br>
+
 Okay so this one is seriously incredibly bizarre but a lot of attention I got early on when I first started making tunes as a literal 13 year old came directly from [this vlog of Gle Marquez](https://youtu.be/wQ5AepXgHCs?si=2OTDyhyU-GTP6oOC&t=1199) talking about how her boyfriend died in an accident
+</details>
 
 ***
 
@@ -68,7 +83,7 @@ Note that while this is just a general guideline, I'm willing to give considerab
   *(Client retains full rights, music will not be distributed by me under the name "OVXX")*
 
 ### Budget Capping System
-Clients may specify maximum investment thresholds. Work will:
+With a maximum investment threshold, work will:
 1. Proceed until cap is reached
 2. Automatically pause at threshold
 3. Deliver current render + progress report
