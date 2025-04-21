@@ -8,6 +8,8 @@ main:
     url: /portfolio/
   - title: "commission me!"
     url: /commissions/
+  - title: "you've got mail"
+    url: /mail/
   # - title: "Me"
   #   url: /me/
   # actually i could make the index homepage the me page with all the links..
