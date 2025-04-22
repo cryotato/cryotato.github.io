@@ -585,26 +585,28 @@
     text-decoration: none !important; /* Keep this !important */
     /* Add base background and return animation */
     background: var(--bg-1); /* Start bg-1 */
-    animation: dark-to-light 200ms linear forwards;
+    animation: dark-to-light 200ms steps(8, start) forwards; /* Use steps for return */
     border: none; /* Keep border none */
   }
 
   /* Apply hover animation and INSTANT text styles directly to a:hover */
   a:hover {
     /* Apply light-to-dark animation on a:hover */
-    animation: light-to-dark 200ms linear forwards;
+    animation: light-to-dark 200ms steps(8, end) forwards; /* Use steps */
     /* Instantly apply target text styles */
     color: var(--light) !important;
     text-shadow: var(--d-shadow) !important;
+    transition: none !important; /* Prevent text fading */
   }
 
   /* Apply hover animation and styles when parent li is active */
   li.active a {
     /* Apply light-to-dark animation */
-    animation: light-to-dark 200ms linear forwards;
+    animation: light-to-dark 200ms steps(8, end) forwards; /* Use steps */
     /* Apply target text styles */
     color: var(--light) !important;
     text-shadow: var(--d-shadow) !important;
+    transition: none !important; /* Prevent text fading */
   }
 
   /* Indentation rules (Keep as is) */
