@@ -183,7 +183,7 @@ p code, li code, h1 code, h2 code, h3 code, h4 code, h5 code, h6 code {
   color: var(--dark) !important; /* Start dark text */
   text-shadow: var(--l-shadow) !important; /* Start WITH light shadow */
   /* --- Apply dark-to-light animation for the RETURN --- */
-  animation: dark-to-light 400ms linear forwards;
+  animation: dark-to-light 300ms linear forwards;
   border: var(--border-standard);
   text-decoration: none !important;
   position: relative;
@@ -195,7 +195,7 @@ p code, li code, h1 code, h2 code, h3 code, h4 code, h5 code, h6 code {
 
   &:hover {
     /* --- Apply light-to-dark animation on hover --- */
-    animation: light-to-dark 400ms linear forwards;
+    animation: light-to-dark 300ms linear forwards;
     /* --- INSTANTLY change text/shadow for dark background --- */
     color: var(--light) !important;
     text-shadow: var(--d-shadow) !important;
@@ -220,7 +220,7 @@ p code, li code, h1 code, h2 code, h3 code, h4 code, h5 code, h6 code {
 .masthead .greedy-nav__toggle .navicon:after {
   /* Initial state: Dark icon on light background (matching button text) */
   background: var(--dark) !important;
-  transition: background 400ms linear; /* Match animation speed */
+  transition: background 300ms linear; /* Match animation speed */
 }
 
 .masthead .greedy-nav__toggle:hover .navicon,
@@ -233,7 +233,7 @@ p code, li code, h1 code, h2 code, h3 code, h4 code, h5 code, h6 code {
 .search__toggle .fa-search {
   /* Initial state: Dark icon */
   color: var(--dark) !important; /* Use 'color' for Font Awesome */
-  transition: color 400ms linear; /* Transition the 'color' property */
+  transition: color 300ms linear; /* Transition the 'color' property */
 }
 
 /* Select the search icon when the parent button is hovered */
@@ -247,7 +247,7 @@ p code, li code, h1 code, h2 code, h3 code, h4 code, h5 code, h6 code {
 /*
 .masthead .search__toggle .fa-search {
   color: var(--dark) !important;
-  transition: color 400ms linear;
+  transition: color 300ms linear;
 }
 
 .masthead .search__toggle:hover .fa-search {
@@ -297,7 +297,7 @@ p code, li code, h1 code, h2 code, h3 code, h4 code, h5 code, h6 code {
   color: var(--dark) !important; /* Start dark text */
   text-shadow: var(--l-shadow) !important; /* Start WITH light shadow */
   /* --- Apply dark-to-light animation for the RETURN --- */
-  animation: dark-to-light 400ms linear forwards;
+  animation: dark-to-light 300ms linear forwards;
   border: var(--border-standard);
   text-decoration: none !important;
   position: relative;
@@ -310,7 +310,7 @@ p code, li code, h1 code, h2 code, h3 code, h4 code, h5 code, h6 code {
 
   &:hover {
     /* --- Apply light-to-dark animation on hover --- */
-    animation: light-to-dark 400ms linear forwards;
+    animation: light-to-dark 300ms linear forwards;
     /* --- INSTANTLY change text/shadow for dark background --- */
     color: var(--light) !important;
     text-shadow: var(--d-shadow) !important;
@@ -365,7 +365,7 @@ p code, li code, h1 code, h2 code, h3 code, h4 code, h5 code, h6 code {
   color: var(--dark) !important; /* Start dark text */
   text-shadow: var(--l-shadow) !important; /* Start WITH light shadow */
   /* --- Apply dark-to-light animation for the RETURN --- */
-  animation: dark-to-light 400ms linear forwards;
+  animation: dark-to-light 300ms linear forwards;
   border: var(--border-standard);
   text-decoration: none !important;
   position: relative;
@@ -391,7 +391,7 @@ p code, li code, h1 code, h2 code, h3 code, h4 code, h5 code, h6 code {
 
   &:hover {
     /* --- Apply light-to-dark animation on hover --- */
-    animation: light-to-dark 400ms linear forwards;
+    animation: light-to-dark 300ms linear forwards;
     /* --- INSTANTLY change text/shadow for dark background --- */
     color: var(--light) !important;
     text-shadow: var(--d-shadow) !important;
@@ -487,7 +487,7 @@ button, .btn {
   color: var(--dark) !important;    // Start dark text
   text-shadow: var(--l-shadow) !important; // Start WITH light shadow
   /* --- Apply dark-to-light animation for the RETURN --- */
-  animation: dark-to-light 400ms linear forwards;
+  animation: dark-to-light 300ms linear forwards;
   border: var(--border-standard);
   text-decoration: none !important;
 
@@ -499,7 +499,7 @@ button, .btn {
 
 button:hover, .btn:hover {
   /* --- Hover State (Matches Header Menu Button Hover) --- */
-  animation: light-to-dark 400ms linear forwards; // Apply the dither animation
+  animation: light-to-dark 300ms linear forwards; // Apply the dither animation
   /* --- INSTANTLY change text/shadow for dark background --- */
   color: var(--light) !important; // Text becomes LIGHT
   text-shadow: var(--d-shadow) !important; // Shadow becomes DARK
@@ -631,7 +631,7 @@ button:hover, .btn:hover {
   color: var(--dark) !important;    // Start dark text
   text-shadow: var(--l-shadow) !important; // Start WITH light shadow
   /* --- Apply dark-to-light animation for the RETURN --- */
-  animation: dark-to-light 400ms linear forwards;
+  animation: dark-to-light 300ms linear forwards;
   border: var(--border-standard);
   text-decoration: none !important;
 
@@ -642,7 +642,7 @@ button:hover, .btn:hover {
 
   &:hover {
     /* --- Hover State (Matches Header Menu Button Hover) --- */
-    animation: light-to-dark 400ms linear forwards; // Apply the dither animation
+    animation: light-to-dark 300ms linear forwards; // Apply the dither animation
     /* --- INSTANTLY change text/shadow for dark background --- */
     color: var(--light) !important; // Text becomes LIGHT
     text-shadow: var(--d-shadow) !important; // Shadow becomes DARK
