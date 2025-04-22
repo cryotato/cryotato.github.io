@@ -563,10 +563,10 @@
     padding: 0; /* Reset li padding */
     margin: 0; /* Reset li margin */
     // background: var(--bg-0); /* MOVED to a */
-    // animation: dark-to-light 30ms linear forwards; /* MOVED to a */
+    // animation: dark-to-light 200ms linear forwards; /* MOVED to a */
 
     // &:hover { /* REMOVED - hover handled by a:hover */
-    //   animation: light-to-dark 30ms linear forwards;
+    //   animation: light-to-dark 200ms linear forwards;
     // }
 
     /* Keep commented-out :has() logic if needed for other purposes, but not needed for this fix */
@@ -585,14 +585,14 @@
     text-decoration: none !important; /* Keep this !important */
     /* Add base background and return animation */
     background: var(--bg-1); /* Start bg-1 */
-    animation: dark-to-light 30ms linear forwards;
+    animation: dark-to-light 200ms linear forwards;
     border: none; /* Keep border none */
   }
 
   /* Apply hover animation and INSTANT text styles directly to a:hover */
   a:hover {
     /* Apply light-to-dark animation on a:hover */
-    animation: light-to-dark 30ms linear forwards;
+    animation: light-to-dark 200ms linear forwards;
     /* Instantly apply target text styles */
     color: var(--light) !important;
     text-shadow: var(--d-shadow) !important;
@@ -601,7 +601,7 @@
   /* Apply hover animation and styles when parent li is active */
   li.active a {
     /* Apply light-to-dark animation */
-    animation: light-to-dark 30ms linear forwards;
+    animation: light-to-dark 200ms linear forwards;
     /* Apply target text styles */
     color: var(--light) !important;
     text-shadow: var(--d-shadow) !important;
