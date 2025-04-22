@@ -2,7 +2,8 @@
 permalink: /shop/
 title: "the Kitterchord Hex is a shoegaze humbucker mounttachment that opens up new ways to experiment w/ sound using light."
 author_profile: false
-toc: true
+layout: toc-left
+# toc: true
 toc_label: "HEX"
 toc_icon: "hexagon-nodes"
 # comments: true

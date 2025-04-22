@@ -666,3 +666,59 @@ button:hover, .btn:hover {
     text-decoration: none !important; /* Remove underline on hover */
   }
 }
+/* Custom styles for toc-left layout */
+/* ========================================================================== */
+
+.toc-left-layout {
+
+  /* Adjust the main page content area */
+  .page {
+    @include breakpoint($large) {
+      float: inline-end; /* Float page content to the right of the left sidebar */
+      width: calc(100% - #{$right-sidebar-width-narrow}); /* Calculate width based on sidebar */
+      padding-inline-start: $right-sidebar-width-narrow; /* Add padding on the LEFT */
+      padding-inline-end: 0; /* Remove default right padding */
+    }
+
+    @include breakpoint($x-large) {
+      width: calc(100% - #{$right-sidebar-width}); /* Use the wider variable */
+      padding-inline-start: $right-sidebar-width; /* Add padding on the LEFT */
+      padding-inline-end: 0; /* Remove default right padding */
+    }
+  }
+
+  /* Ensure the TOC (now using .sidebar class) is correctly positioned */
+  .sidebar { // Targets the TOC in this layout
+     @include breakpoint($large) {
+       float: inline-start; /* Make sure it floats left */
+       /* Width is handled by the default .sidebar styles */
+       /* Sticky positioning is handled by the .sticky class */
+     }
+  }
+
+  /* Hide the original right sidebar container if it somehow renders */
+  .sidebar__right {
+    display: none;
+  }
+}
+
+/* Ensure the wide layout still works by overriding our changes if needed */
+/* Apply this only if a page uses BOTH wide and toc-left layouts */
+.wide.toc-left-layout {
+  .page {
+     @include breakpoint($large) {
+        width: 100%;
+        padding-inline-start: 0;
+        float: none;
+     }
+     @include breakpoint($x-large) {
+        width: 100%;
+        padding-inline-start: 0;
+     }
+  }
+  .sidebar { // Hide the TOC sidebar in wide mode for this layout
+    @include breakpoint($large) {
+      display: none;
+    }
+  }
+}
