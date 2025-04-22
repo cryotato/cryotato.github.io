@@ -597,7 +597,7 @@
     /* Instantly apply target text styles */
     color: var(--light) !important;
     text-shadow: var(--d-shadow) !important;
-    /* Removed transition override */
+    transition: color 0s, text-shadow 0s; /* Override global transition for instant text change */
   }
 
   /* Apply hover animation and styles when parent li is active */
@@ -607,7 +607,7 @@
     /* Apply target text styles */
     color: var(--light) !important;
     text-shadow: var(--d-shadow) !important;
-    /* Removed transition override */
+    transition: color 0s, text-shadow 0s; /* Override global transition for instant text change */
   }
 
   /* Indentation rules (Keep as is) */
