@@ -585,28 +585,31 @@
     text-decoration: none !important; /* Keep this !important */
     /* Add base background and return animation */
     background: var(--bg-1); /* Start bg-1 */
-    animation: dark-to-light 200ms steps(8, start) forwards; /* Use steps for return */
+    color: var(--dark) !important; /* Explicit default color */
+    text-shadow: var(--l-shadow) !important; /* Explicit default shadow */
+    animation: dark-to-light 200ms linear forwards; /* Revert to linear */
     border: none; /* Keep border none */
+    /* transition: none !important; */ /* REMOVED */
   }
 
   /* Apply hover animation and INSTANT text styles directly to a:hover */
   a:hover {
     /* Apply light-to-dark animation on a:hover */
-    animation: light-to-dark 200ms steps(8, end) forwards; /* Use steps */
+    animation: light-to-dark 200ms linear forwards; /* Revert to linear */
     /* Instantly apply target text styles */
-    color: var(--light) !important;
-    text-shadow: var(--d-shadow) !important;
-    transition: none !important; /* Prevent text fading */
+    color: var(--light) !important; /* Explicit hover color */
+    text-shadow: var(--d-shadow) !important; /* Explicit hover shadow */
+    /* transition: none !important; */ /* REMOVED */
   }
 
   /* Apply hover animation and styles when parent li is active */
   li.active a {
     /* Apply light-to-dark animation */
-    animation: light-to-dark 200ms steps(8, end) forwards; /* Use steps */
+    animation: light-to-dark 200ms linear forwards; /* Revert to linear */
     /* Apply target text styles */
-    color: var(--light) !important;
-    text-shadow: var(--d-shadow) !important;
-    transition: none !important; /* Prevent text fading */
+    color: var(--light) !important; /* Explicit active color */
+    text-shadow: var(--d-shadow) !important; /* Explicit active shadow */
+    /* transition: none !important; */ /* REMOVED */
   }
 
   /* Indentation rules (Keep as is) */
