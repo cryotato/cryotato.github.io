@@ -603,7 +603,7 @@
   }
 
   /* Apply hover animation and styles when parent li is active */
-  li.active a {
+  li.active > a {
     /* Apply light-to-dark animation */
     animation: light-to-dark 300ms linear forwards;
     /* Apply target text styles */
