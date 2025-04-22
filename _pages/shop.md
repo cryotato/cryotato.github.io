@@ -58,6 +58,9 @@ This new way of interpreting vibrations opens up the door for a whole new unexpl
 ### Standby
 - Lasers stay dim until it hears something
 
+## What do these cool people think?
+> yeah man this thing rocks -- person.
+
 
 ## I want one!
 Pre-order:
@@ -76,7 +79,7 @@ Yes, we warrant against manufacturing defects for 30 days after you receive your
 ### You shouldn’t get one if…
 You need a perfectly polished sound. This project is a labour of love rather than a startup trying to sell millions. There may be some rough edges (literally). Things will get delayed. Some features will not be ready at launch. Things could break. Things could not last as long as you’d like. The only thing we can guarantee is that it will be awesome and a lot of fun!
 
-### Music to listen to while waiting for your Hex
+## Music to listen to while waiting for your Hex
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/0eUUQ4rly8Q8PyJPWLgde2?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/2ncj0SrtsnWzol4SWMk54b?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/0L6mZK9XFXYOVeayI1t4A5?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
