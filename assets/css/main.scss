@@ -371,6 +371,7 @@ p code, li code, h1 code, h2 code, h3 code, h4 code, h5 code, h6 code {
   position: relative;
   width: 100%; // Make buttons full width of dropdown
   text-align: center; // Center text
+  transition: none !important; /* Prevent global transition interference */
 
   /* Ensure icons inherit color correctly */
   i {
@@ -400,6 +401,7 @@ p code, li code, h1 code, h2 code, h3 code, h4 code, h5 code, h6 code {
     &::before {
         background: none !important;
     }
+    transition: none !important; /* Prevent global transition interference */
   }
 }
 
