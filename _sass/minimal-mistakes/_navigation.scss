@@ -587,8 +587,8 @@
     background: var(--bg-1); /* Start bg-1 */
     animation: dark-to-light 200ms linear forwards;
     border: none; /* Keep border none */
-    /* Removed explicit color/shadow/transition from base state */
-    &::before { background: none !important; } /* Prevent pseudo-element interference */
+    transition: none !important; /* Force disable ALL transitions */
+    /* Removed ::before override */
   }
 
   /* Apply hover animation and INSTANT text styles directly to a:hover */
@@ -598,8 +598,8 @@
     /* Instantly apply target text styles */
     color: var(--light) !important;
     text-shadow: var(--d-shadow) !important;
-    transition: color 0s, text-shadow 0s; /* Override global transition for instant text change */
-    &::before { background: none !important; } /* Prevent pseudo-element interference */
+    transition: none !important; /* Force disable ALL transitions */
+    /* Removed ::before override */
   }
 
   /* Apply hover animation and styles when parent li is active */
@@ -609,8 +609,8 @@
     /* Apply target text styles */
     color: var(--light) !important;
     text-shadow: var(--d-shadow) !important;
-    transition: color 0s, text-shadow 0s; /* Override global transition for instant text change */
-    &::before { background: none !important; } /* Prevent pseudo-element interference */
+    transition: none !important; /* Force disable ALL transitions */
+    /* Removed ::before override */
   }
 
   /* Indentation rules (Keep as is) */
