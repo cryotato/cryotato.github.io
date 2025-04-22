@@ -5,7 +5,7 @@ author_profile: false
 toc: true
 toc_label: "HEX"
 toc_icon: "hexagon-nodes"
-comments: true
+# comments: true
 ---
 
 ## The claustrophobia, the clinical bulk.
