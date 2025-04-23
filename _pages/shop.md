@@ -79,17 +79,17 @@ You open the door, to another door, to another door. In this unexplored territor
 
 # Features
 
-## Hexaphonique
+## Hexaphonics?
 - The Hex picks up each string individually, so each string can have its own effects chain
 - A single 6 string guitar transforms into an orchestra of opportunity
 - Pitch detection midi output!
 - peaks of each string interpreted as knobs
 
-### Optical "Sympathetic Resonance" / Cross-Modulation:
+<!-- ### Optical "Sympathetic Resonance" / Cross-Modulation:
 
     Since each string's sensor is independent, you could digitally route the amplitude (or brightness data) of one string's signal to modulate an effect (filter cutoff, gain, panning, laser intensity) on another string.
 
-    Implication: Plucking the low E string could make the high E string "shimmer" or get brighter/fuzzier only when the low E is vibrating strongly. This creates artificial sympathetic resonance effects or complex internal modulation textures impossible with mono pickups.
+    Implication: Plucking the low E string could make the high E string "shimmer" or get brighter/fuzzier only when the low E is vibrating strongly. This creates artificial sympathetic resonance effects or complex internal modulation textures impossible with mono pickups. -->
 
 ## Pocketability for gigs and nomads
 - Mounts onto any string instrument
@@ -99,9 +99,6 @@ You open the door, to another door, to another door. In this unexplored territor
 ## Compatibility for catguts
 - One for all the experimental string materials and niche instruments
 - Modular and secure attachment-style
-
-## Standby
-- Lasers stay dim until it hears something
 
 # What do these cool people think?
 > yeah man this thing rocks -- person.
