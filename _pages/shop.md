@@ -46,14 +46,14 @@ This new way of interpreting vibrations opens up the door for a whole new unexpl
 - Exposed photodiodes might be subtly influenced by ambient light conditions. While often seen as noise, this could be embraced, introducing glitches, noise bursts, or artifacts.
 
 
-**Emergent Phenomena :: Light-Matter**
+**Emergent Phenomena**
 
 [emergence](https://dictionary.cambridge.org/dictionary/english/emergence)
 /ɪˈmɜː.dʒəns/
 noun
 the development of particular patterns, properties, or behaviours in parts of complex systems that happen only when the parts of the system interact, and that the parts do not have on their own.
 
-The vector shifts. Vibration interpreted not through magnetic hysteresis, but diffracted light-quanta :: flows decoded from the flickering micro-shadows of matter under tension. A gate slams open onto unexplored sonic territory, where signal integrity dissolves into chaotic potentiality, machinic desire weaponized against acoustic familiarity. Emergence, not control. Process, not product.
+The vector shifts. Vibration interpreted through diffracted light-quanta :: flows decoded from the flickering micro-shadows of matter under tension. You open the door, to another door, to another door. Unexplored territory, where signal integrity dissolves into chaotic potentiality, machines weaponized against acoustic familiarity. Emergence, over control. Process, over product.
 
 **:: Emergent Distortion // Signal Meltdown Trajectories ::**
 
