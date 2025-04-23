@@ -38,8 +38,12 @@ This new way of interpreting vibrations opens up the door for a whole new unexpl
 - This creates an interesting pulsing visual effect
 - Flashy!
 
-## Emergent Rhythm
+## Emergent rhythm
 - MIDI or CV input can be used to gate the lasers creating rhythmic effects or sidechaining
+
+## Emergent noise
+
+- Exposed photodiodes might be subtly influenced by ambient light conditions. While often seen as noise, this could be embraced, introducing glitches, noise bursts, or artifacts.
 
 
 **Emergent Phenomena :: Light-Matter**
@@ -79,6 +83,14 @@ The vector shifts. Vibration interpreted not through magnetic hysteresis, but di
 ## Hexaphonique
 - The Hex picks up each string individually, so each string can have its own effects chain
 - A single 6 string guitar transforms into an orchestra of opportunity
+- Pitch detection midi output!
+- peaks of each string interpreted as knobs
+
+### Optical "Sympathetic Resonance" / Cross-Modulation:
+
+    Since each string's sensor is independent, you could digitally route the amplitude (or brightness data) of one string's signal to modulate an effect (filter cutoff, gain, panning, laser intensity) on another string.
+
+    Implication: Plucking the low E string could make the high E string "shimmer" or get brighter/fuzzier only when the low E is vibrating strongly. This creates artificial sympathetic resonance effects or complex internal modulation textures impossible with mono pickups.
 
 ## Pocketability for gigs and nomads
 - Mounts onto any string instrument
