@@ -1,6 +1,6 @@
 ---
 permalink: /shop/
-title: "the Kitterchord Hex is a shoegaze humbucker mounttachment that opens up new ways to experiment w/ sound using light."
+title: "the Kitterchord Hex is a shoegaze humbucker that opens up new ways to experiment w/ sound using light."
 author_profile: false
 # layout: wide
 toc: true
@@ -41,19 +41,18 @@ This new way of interpreting vibrations opens up the door for a whole new unexpl
 ## Emergent rhythm
 - MIDI or CV input can be used to gate the lasers creating rhythmic effects or sidechaining
 
-## Emergent noise
 
-- Exposed photodiodes might be subtly influenced by ambient light conditions. While often seen as noise, this could be embraced, introducing glitches, noise bursts, or artifacts.
-
-
-**Emergent Phenomena**
 
 [emergence](https://dictionary.cambridge.org/dictionary/english/emergence)
+
 /ɪˈmɜː.dʒəns/
-noun
+
+(noun)
+
 the development of particular patterns, properties, or behaviours in parts of complex systems that happen only when the parts of the system interact, and that the parts do not have on their own.
 
-The vector shifts. Vibration interpreted through diffracted light-quanta :: flows decoded from the flickering micro-shadows of matter under tension. You open the door, to another door, to another door. Unexplored territory, where signal integrity dissolves into chaotic potentiality, machines weaponized against acoustic familiarity. Emergence, over control. Process, over product.
+<!-- **Emergent Phenomena**
+You open the door, to another door, to another door. In this unexplored territory, machines are weaponized against acoustic familiarity. Emergence, over control. Process, over product.
 
 **:: Emergent Distortion // Signal Meltdown Trajectories ::**
 
@@ -76,7 +75,7 @@ The vector shifts. Vibration interpreted through diffracted light-quanta :: flow
 
 *   Exogenous Temporal Control // MIDI/CV Injection :: External clock signals modulate laser emitters. Rhythmic striation imposed directly onto the light-source. Vibrational continuity shattered by digital command pulses. Sidechaining becomes inter-process warfare, external triggers overriding immanent string dynamics. Sonic matter forced through rhythmic templates sculpted from pure voltage/data. The pulse colonizes the wave.
 
----
+--- -->
 
 # Features
 
