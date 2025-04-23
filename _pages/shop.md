@@ -35,11 +35,44 @@ This new way of interpreting vibrations opens up the door for a whole new unexpl
 
 ## Emergent compression
 - Dims when loud, preserving dynamics
-- Brightness of lasers communicate gain, creating an interesting pulsing visual effect
+- This creates an interesting pulsing visual effect
 - Flashy!
 
 ## Emergent Rhythm
-- MIDI or CV input can be used to gate the lasers creating rhythmic effects
+- MIDI or CV input can be used to gate the lasers creating rhythmic effects or sidechaining
+
+
+**Emergent Phenomena :: Light-Matter**
+
+[emergence](https://dictionary.cambridge.org/dictionary/english/emergence)
+/ɪˈmɜː.dʒəns/
+noun
+the development of particular patterns, properties, or behaviours in parts of complex systems that happen only when the parts of the system interact, and that the parts do not have on their own.
+
+The vector shifts. Vibration interpreted not through magnetic hysteresis, but diffracted light-quanta :: flows decoded from the flickering micro-shadows of matter under tension. A gate slams open onto unexplored sonic territory, where signal integrity dissolves into chaotic potentiality, machinic desire weaponized against acoustic familiarity. Emergence, not control. Process, not product.
+
+**:: Emergent Distortion // Signal Meltdown Trajectories ::**
+
+*   Laser vectors intersect string-matter. Hyper-proximity // Above :: The angle warps, tightens. Vibrational amplitude slams against sensor thresholds. Signal decapitated, flattened into sheer digital scream—a square-wave limit-case extracted from harmonic decay. Distortion as intensity overload, wave-collapse actualized.
+*   Lateral displacement // Slightly Off-Side :: Vector grazes the vibrational ellipse. Capture floods with micro-variations, harmonic detritus pulled back from the brink. Detail proliferates—a brief reprieve before the next intensity spike. Sound recovers its contours, momentarily.
+*   Edge-Condition Gating // Boundary Interaction :: Laser skims the abyss beyond the string’s oscillating perimeter. Silence reigns, punctured only by peak-intensity excursions—violent strums breaching the sensor field. A temporal discontinuity machine, carving rhythmic chasms based on sheer physical force. Only aggression registers. Signal filtered through brutality.
+
+**:: Emergent Phasing // Differential Light-Engine ::**
+
+*   Reflected Trajectories // Sub-String :: Light ricochets from the *underside*. String-presence gates photon-return. Signal tracks inverse density—absence reads as presence. Dynamics preserved through negation, a cleaner wave extracted from secondary reflections.
+*   Phase Antagonism // Direct vs. Reflected :: Binary opposition hardwired. Above::Blocked::Zero. Below::Reflected::One. Signals intrinsically phase-opposed at the point of generation. Not mere cancellation, but a cybernetic difference engine humming beneath the strings. Polarity itself becomes the signal, folded time generating comb-filtered turbulence.
+*   Phase Diversity :: Dual-Point Capture :: Opposing sensors mirror the humbucker's logic, but optically intensified. Noise rejection becomes active phase-sculpting. Stereophonic depth emerges from differential light-paths interacting in phase-space. Time smeared, cloned, inverted across the string axis.
+
+**:: Emergent Compression // Intensity Governor Feedback ::**
+
+*   Loudness -> Dimness // Auto-Regulation :: Amplitude spikes trigger inverse photonic modulation. The system dampens itself, intensity folding back onto its source. Dynamics crushed, not by algorithm, but by light-energy feedback. Signal preservation through self-attenuation.
+*   Visual Pulsation // Optical Telegraphy :: Gain modulation rendered visible. The laser flickers, dims—a bio-feedback loop signalling internal thresholds. Flashy! —> signifies immanent signal compression, a visual artefact of the system policing its own intensity levels. Aesthetics of auto-limitation.
+
+**:: Emergent Rhythm // Chrono-Ported Gating ::**
+
+*   Exogenous Temporal Control // MIDI/CV Injection :: External clock signals modulate laser emitters. Rhythmic striation imposed directly onto the light-source. Vibrational continuity shattered by digital command pulses. Sidechaining becomes inter-process warfare, external triggers overriding immanent string dynamics. Sonic matter forced through rhythmic templates sculpted from pure voltage/data. The pulse colonizes the wave.
+
+---
 
 # Features
 
