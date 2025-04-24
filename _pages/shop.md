@@ -28,10 +28,14 @@ You open the door, to another door, to another door. In this unexplored territor
 
 *   Total eclipse - Above :: With rays directly overhead, shadows harden and vibrations slam against sensor thresholds. The signal is clipped - decapitated into synthetic limit-cased square-wave screaming.
 *   Partial eclipse - Displacement :: Offset rays to graze the string-shadow from the Total to surgically target micro-variations. 
-*   First contact - beyond the Periphery :: Stray far enough and the string-shadow binary is flipped. Rays shine unobstructed skimming the string’s oscillating perimeter. Silence reigns, punctured only by peak-intensity excursions—violent strums breaching the sensor field.
+*   First contact - beyond the Periphery :: Stray far enough & rays shine unobstructed, skimming the string’s oscillating perimeter. Silence reigns, punctured only by peak-intensity excursions—violent strums breaching the sensor field.
 
 
 ## Emergent phasing
+
+*   Full moon - Sub-String :: Light scatters from the underside. String presence gates photon return, so the string-shadow binary is flipped. Compared to the overexposed readings from the sun, a cleaner wave can be extracted from the secondary reflections of the moon.
+*   Phase Antagonism // Direct vs. Reflected :: Binary opposition hardwired. Above::Blocked::Zero. Below::Reflected::One. Signals intrinsically phase-opposed at the point of generation. Not mere cancellation, but a cybernetic difference engine humming beneath the strings. Polarity itself becomes the signal, folded time generating comb-filtered turbulence.
+*   Phase Diversity :: Dual-Point Capture :: Opposing sensors mirror the humbucker's logic, but optically intensified. Noise rejection becomes active phase-sculpting. Stereophonic depth emerges from differential light-paths interacting in phase-space. Time smeared, cloned, inverted across the string axis.
 - Reflected lasers below the strings provide a cleaner sound and help preserve dynamics.
 - Because the signal from the direct and reflected lasers are opposed, together they phase (when string is still, the direct laser is blocked from reaching the photodiode - a 0, but the reflected laser relies on the string being in place to reflect into the photodiode at all - 1)
 - One of these per side create a humbucker-like phase diversity
@@ -58,11 +62,6 @@ the development of particular patterns, properties, or behaviours in parts of co
 
 
 
-**:: Emergent Phasing // Differential Light-Engine ::**
-
-*   Reflected Trajectories // Sub-String :: Light ricochets from the *underside*. String-presence gates photon-return. Signal tracks inverse density—absence reads as presence. Dynamics preserved through negation, a cleaner wave extracted from secondary reflections.
-*   Phase Antagonism // Direct vs. Reflected :: Binary opposition hardwired. Above::Blocked::Zero. Below::Reflected::One. Signals intrinsically phase-opposed at the point of generation. Not mere cancellation, but a cybernetic difference engine humming beneath the strings. Polarity itself becomes the signal, folded time generating comb-filtered turbulence.
-*   Phase Diversity :: Dual-Point Capture :: Opposing sensors mirror the humbucker's logic, but optically intensified. Noise rejection becomes active phase-sculpting. Stereophonic depth emerges from differential light-paths interacting in phase-space. Time smeared, cloned, inverted across the string axis.
 
 **:: Emergent Compression // Intensity Governor Feedback ::**
 
