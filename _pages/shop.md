@@ -33,7 +33,7 @@ You open the door, to another door, to another door. In this unexplored territor
 
 ## Emergent phasing
 
-*   Full moon - Sub-String :: Light scatters from the underside. String presence gates photon return, so the string-shadow binary is flipped. Compared to the overexposed readings from the sun, a cleaner wave can be extracted from the secondary reflections of the moon.
+*   Full moon - Sub-String :: Light scatters from a second sun on the underside. String presence gates photon return, & so the string-shadow binary is flipped. Compared to the overexposed readings from the sun, a cleaner wave can be extracted from the secondary reflections of the moon.
 *   Phase Antagonism // Direct vs. Reflected :: Binary opposition hardwired. Above::Blocked::Zero. Below::Reflected::One. Signals intrinsically phase-opposed at the point of generation. Not mere cancellation, but a cybernetic difference engine humming beneath the strings. Polarity itself becomes the signal, folded time generating comb-filtered turbulence.
 *   Phase Diversity :: Dual-Point Capture :: Opposing sensors mirror the humbucker's logic, but optically intensified. Noise rejection becomes active phase-sculpting. Stereophonic depth emerges from differential light-paths interacting in phase-space. Time smeared, cloned, inverted across the string axis.
 - Reflected lasers below the strings provide a cleaner sound and help preserve dynamics.
