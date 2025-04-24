@@ -43,10 +43,8 @@ below : reflected : one.
 velocity : design : comfort.
 
 Signals are intrinsically phase-opposed by nature. Polarity itself becomes the signal, blending & folding themselves onto each other
-*   Phase Diversity :: Dual-Point Capture :: Opposing sensors mirror the humbucker's logic, but optically intensified. Noise rejection becomes active phase-sculpting. Stereophonic depth emerges from differential light-paths interacting in phase-space. Time smeared, cloned, inverted across the string axis.
-- Reflected lasers below the strings provide a cleaner sound and help preserve dynamics.
-- Because the signal from the direct and reflected lasers are opposed, together they phase (when string is still, the direct laser is blocked from reaching the photodiode - a 0, but the reflected laser relies on the string being in place to reflect into the photodiode at all - 1)
-- One of these per side create a humbucker-like phase diversity
+
+*   Phase Diversity :: Dual-Point Capture :: One of these per side create a humbucker-like phase diversity, blending two tones together
 
 ## Emergent compression
 - Dims when loud, preserving dynamics
