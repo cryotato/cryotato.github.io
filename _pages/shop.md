@@ -21,12 +21,15 @@ Picture this. A laser pointer shines a beam of light at your guitar string. Righ
 Light doesn’t c­are if your strings are metal, nylon, or rubber bands—it works on anything that moves. Slide the pickup closer to the guitar’s body for warm, mellow tones, or near the neck for bright, twangy sounds. Feeling restless? Experiment with the lasers to make the sensors misread the light flickers, creating glitches, distortion, or warbles, all with nothing but physics. Whimsy! Take me away!
 
 # Emergent phenomena
-This new way of interpreting vibrations opens up the door for a whole new unexplored world of ways to shape sound
+You open the door, to another door, to another door. In this unexplored territory, machines are weaponized against acoustic familiarity. Emergence, over control. Process, over product.
+
+
 ## Emergent distortion
-- Direct lasers above the strings give the freedom to experiment with angle and position to manipulate the sound
-- Positioning them right above the strings clip the sound into a distorted squarewave-like shape
-- Positioning them slightly off to the side captures more of the vibrations resulting in a more detailed sound
-- Positioning them beyond the edge of the string can create a gating effect, where only loudest most aggressive strums are captured
+
+*   Total eclipse - Above :: With rays directly overhead, shadows harden and vibrations slam against sensor thresholds. The signal is clipped - decapitated into synthetic limit-cased square-wave screaming.
+*   Partial eclipse - Displacement :: Offset rays to graze the string-shadow from the Total to surgically target micro-variations. 
+*   First contact - beyond the Periphery :: Stray far enough and the string-shadow binary is flipped. Rays shine unobstructed skimming the string’s oscillating perimeter. Silence reigns, punctured only by peak-intensity excursions—violent strums breaching the sensor field.
+
 
 ## Emergent phasing
 - Reflected lasers below the strings provide a cleaner sound and help preserve dynamics.
@@ -51,14 +54,9 @@ This new way of interpreting vibrations opens up the door for a whole new unexpl
 
 the development of particular patterns, properties, or behaviours in parts of complex systems that happen only when the parts of the system interact, and that the parts do not have on their own.
 
-<!-- **Emergent Phenomena**
-You open the door, to another door, to another door. In this unexplored territory, machines are weaponized against acoustic familiarity. Emergence, over control. Process, over product.
+<!-- 
 
-**:: Emergent Distortion // Signal Meltdown Trajectories ::**
 
-*   Laser vectors intersect string-matter. Hyper-proximity // Above :: The angle warps, tightens. Vibrational amplitude slams against sensor thresholds. Signal decapitated, flattened into sheer digital scream—a square-wave limit-case extracted from harmonic decay. Distortion as intensity overload, wave-collapse actualized.
-*   Lateral displacement // Slightly Off-Side :: Vector grazes the vibrational ellipse. Capture floods with micro-variations, harmonic detritus pulled back from the brink. Detail proliferates—a brief reprieve before the next intensity spike. Sound recovers its contours, momentarily.
-*   Edge-Condition Gating // Boundary Interaction :: Laser skims the abyss beyond the string’s oscillating perimeter. Silence reigns, punctured only by peak-intensity excursions—violent strums breaching the sensor field. A temporal discontinuity machine, carving rhythmic chasms based on sheer physical force. Only aggression registers. Signal filtered through brutality.
 
 **:: Emergent Phasing // Differential Light-Engine ::**
 
