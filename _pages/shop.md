@@ -32,7 +32,7 @@ You open the door, to another door, to another door. In this unexplored territor
 
 *   Total eclipse - Above :: With rays directly overhead, shadows harden and vibrations slam against sensor thresholds. The signal is clipped - decapitated into synthetic limit-cased square-wave screaming.
 *   Partial eclipse - Displacement :: Offset rays to graze the string-shadow from the Total to surgically target micro-variations. 
-*   First contact - beyond the Periphery :: Stray far enough & rays shine unobstructed, skimming the string’s oscillating perimeter. Silence reigns, punctured only by peak-intensity excursions—violent strums breaching the sensor field.
+*   First contact - beyond the Periphery :: Stray far enough & rays shine unobstructed, skimming the string’s oscillating perimeter. Silence reigns, punctured only by violent strums breaching the sensor field.
 
 
 ## Emergent phasing
