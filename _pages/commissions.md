@@ -49,7 +49,7 @@ Soundtrack commissioned for an animated film
 ### Okaysage
  <iframe width="560" height="315" src="https://www.youtube.com/embed/KjwWEValX8M?si=3-JllfFP18cSJSVz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=2799883544/size=small/bgcol=ffffff/linkcol=0687f5/track=2598638364/transparent=true/" seamless><a href="https://ovxx.bandcamp.com/album/youre-overthinking-it">you&#39;re overthinking it by OVXX</a></iframe>
- My music has also been featured in various makeup vlogs by okaysage
+ My music has also been featured in various makeup vlogs by okaysage. Much of my earlier work should only ever be listened to hauntologically - otherwise I find it a little embarrassing
 
 ### Others
 Okay so this one is seriously incredibly bizarre but a lot of attention I got early on when I first started making tunes as a literal 13 year old came directly from [this vlog of Gle Marquez](https://youtu.be/wQ5AepXgHCs?si=2OTDyhyU-GTP6oOC&t=1199) talking about how her boyfriend died in an accident
