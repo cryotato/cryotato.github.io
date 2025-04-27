@@ -23,13 +23,9 @@ Light doesn’t c­are if your strings are metal, nylon, or rubber bands—it wo
 # Emergent phenomena
 You open the door, to another door, to another door. In this unexplored territory, machines are weaponized against acoustic familiarity. Emergence, over control. Everything is a reference to itself.
 
-[emergence](https://dictionary.cambridge.org/dictionary/english/emergence)
+> [emergence](https://dictionary.cambridge.org/dictionary/english/emergence) /ɪˈmɜː.dʒəns/ (noun)
 
-/ɪˈmɜː.dʒəns/
-
-(noun)
-
-the development of particular patterns, properties, or behaviours in parts of complex systems that happen only when the parts of the system interact, and that the parts do not have on their own.
+> the development of particular patterns, properties, or behaviours in parts of complex systems that happen only when the parts of the system interact, and that the parts do not have on their own.
 
 
 ## Emergent distortion
@@ -42,20 +38,17 @@ the development of particular patterns, properties, or behaviours in parts of co
 ## Emergent phasing
 
 *   Full moon - Sub-String :: Light scatters from a second sun on the underside. String presence gates photon return, & so the string-shadow binary is flipped. Compared to the overexposed readings from the sun, a cleaner wave can be extracted from the secondary reflections of the moon.
-*   Moonlight Eclipse cancellation :: Binary opposition is hardwired.
+*   Moonlight Eclipse cancellation :: Binary opposition is hardwired. Signals are intrinsically phase-opposed by nature. Polarity itself becomes the signal, blending & folding themselves onto each other
 
 above : blocked : zero.
 
 below : reflected : one.
 
-velocity : design : comfort.
-
-Signals are intrinsically phase-opposed by nature. Polarity itself becomes the signal, blending & folding themselves onto each other
 
 *   Phase Diversity :: Dual-Point Capture :: One of these per side create a humbucker-like phase diversity, blending two tones together
 
 ## Emergent compression
-*   Loudness -> Dimness - Preservation :: Amplitude spikes trigger systemic dampening modulated at its source. A new and completely unique method of downwards compression, not by algorithm, but by using analogue audio-visual feedback. 
+*   Loudness -> Dimness - Preservation :: Amplitude spikes trigger systemic dampening modulated at its source. A new and completely unique method of downwards compression, not by algorithm, but by using analogue audio-visual feedback. Everything is a reference to itself.
 *   Breathing - Pulsation :: Flashy! --> the visuality of the system policing its own intensity levels allows the mechanism itself to be immediately understood. Seeing is believing. 
 
 ## Emergent rhythm
