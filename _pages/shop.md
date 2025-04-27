@@ -20,23 +20,6 @@ Picture this. A laser pointer shines a beam of light at your guitar string. Righ
 
 Light doesn’t c­are if your strings are metal, nylon, or rubber bands—it works on anything that moves. Slide the pickup closer to the guitar’s body for warm, mellow tones, or near the neck for bright, twangy sounds. Feeling restless? Experiment with the lasers to make the sensors misread the light flickers, creating glitches, distortion, or warbles, all with nothing but physics. Whimsy! Take me away!
 
-**The Chad Hexaphonic Laser Pickup**
-
-*   **LASER PRECISION:** Sees vibration with pure light. Reads *each* string individually like a god.
-*   **UNIVERSAL DOMINANCE:** Doesn't care if strings are metal, nylon, or your mom's rubber bands. It just *works*.
-*   **EMERGENCE! INVITES CHAOS:** Physics itself creates distortion, phasing, compression. Bend light, bend reality. Total sonic control AND happy accidents.
-*   **SIX CHANNELS OF POWER:** Unleashes a per-string orchestra. Individual FX chains? MIDI/CV output per string? Effortless.
-*   **STREAMLINED ASCENSION:** Direct digital/CV/MIDI output potential via a single pathway. Clean. Elegant. Future.
-*   **NEO-FEEDBACK MACHINE:** Everything is a reference to itself. Ouroboros energy. Complete. Global. SATURATION.
-
-**The Cringe Incel Traditional / Legacy Pickups**
-
-*   **MONOPHONIC MUD:** Squeezes 6 strings into one flat, homogenized signal. Limits texture, potential crushed. So basic.
-*   **MAGNETIC RIGIDITY:** Cries if strings aren't metal. Rejects nylon players. Stuck in the past.
-*   **HEX COPE:** Abandoned 70s tech, tacky MIDI focus. OR requires proprietary cables, expensive breakout boxes ($$$$), complex hacks. "Premium audio solution" my ass. Clinical bulk.
-*   **OPTICAL OBLIVION:** Rare, expensive *whole guitars*, maybe picks up strums wrong? Still not truly hexaphonic. Niche dead end.
-*   **CABLE LABYRINTH:** Needs external interfaces, splitters, converters just to *pretend* it has Chad's flexibility. Pointlessly proprietary overpriced fever dream.
-*   **STALINIST RIGIDITY:** Fears innovation. Clings to "iconic tone" because it has nothing else. Boo! Let us play!
 
 <!-- 
 
@@ -55,7 +38,42 @@ Light doesn’t c­are if your strings are metal, nylon, or rubber bands—it wo
 *   **Invites CHAOS & EMERGENCE:** Bends physics for real-time, analog-source distortion, phasing, compression by playing with light and shadow. Whimsy!
 *   **Orchestra of Opportunity:** Per-string FX chains, pitch-to-MIDI/CV *built-in*. Guitar becomes a synth controller AND sound design weapon.
 *   **Neo-Feedback Machine:** Bridges analog feel and digital destruction. Everything is a reference to itself. Unlocks unexplored territory. Future is NOW.
---!>
+
+
+Chad Laser Pickup:
+
+    Shines literal LIGHT on the situation; futuristic, sees vibrations directly.
+
+    Empowers each string individually; true polyphony, respects their unique voices.
+
+    Inclusive King; works with ANY string material (nylon, steel, gut, doesn't care, vibes are vibes).
+
+    Direct connection via USB/CV; speaks the modern language fluently, no awkward translators needed.
+
+    Bends physics for fun; glitches and artifacts are just features, confident in experimentation.
+
+    Flexible positioning; slides anywhere along the strings to change perspective and tone effortlessly.
+
+    Potentially accessible price; disrupts the established order, shares the wealth.
+
+Incel Magnetic/Old Poly Pickups:
+
+    Clings to rusty magnets from the 70s; scared of progress, stuck in the past.
+
+    Forces strings into a single homogenized signal; demands conformity, insecure about individual differences.
+
+    Exclusive and picky; only works with specific metal strings, total material snob, rejects difference.
+
+    Needs awkward, expensive breakout boxes and proprietary cables; requires constant external validation and special treatment.
+
+    Terrified of anything that doesn't sound exactly like vintage tone #52; calls anything new "tacky" or "not authentic."
+
+    Rigidly fixed in one position; zero adaptability, complains when things change.
+
+    Often gatekeeps with high prices or complex, abandoned systems; whines about why nobody adopted it.
+
+
+-->
 
 # Emergent phenomena
 You open the door, to another door, to another door. In this unexplored territory, machines are weaponized against acoustic familiarity. Emergence, over control. Everything is a reference to itself.
