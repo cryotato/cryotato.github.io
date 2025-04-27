@@ -53,7 +53,11 @@ below : reflected : one.
 
 ## Emergent rhythm
 *   MIDI/CV Injected gating :: External clock signals interrupt laser emitters, inter-process sidechaining - imposed rhythm.
-- MIDI Dejected Symphony :: Everything is a reference to itself., Pitch detection turns the Hex into a moderator of MIDI chaos for external synths to feed. [Oroboros will be released... into the atmosphere.. ensuring... complete.... global... SATURATION](https://youtu.be/RxsSqDnNIo8?si=PNGQ6p6GJ570l9Ev)
+- MIDI Dejected Symphony :: Pitch detection turns the Hex into a moderator of MIDI chaos for external synths to feed.
+
+# Neo-feedback machine 
+Everything is a reference to itself.,
+[Oroboros will be released... into the atmosphere.. ensuring... complete.... global... SATURATION](https://youtu.be/RxsSqDnNIo8?si=PNGQ6p6GJ570l9Ev)
 
 
 
