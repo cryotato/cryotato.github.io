@@ -20,6 +20,43 @@ Picture this. A laser pointer shines a beam of light at your guitar string. Righ
 
 Light doesn’t c­are if your strings are metal, nylon, or rubber bands—it works on anything that moves. Slide the pickup closer to the guitar’s body for warm, mellow tones, or near the neck for bright, twangy sounds. Feeling restless? Experiment with the lasers to make the sensors misread the light flickers, creating glitches, distortion, or warbles, all with nothing but physics. Whimsy! Take me away!
 
+**The Chad Hexaphonic Laser Pickup**
+
+*   **LASER PRECISION:** Sees vibration with pure light. Reads *each* string individually like a god.
+*   **UNIVERSAL DOMINANCE:** Doesn't care if strings are metal, nylon, or your mom's rubber bands. It just *works*.
+*   **EMERGENCE! INVITES CHAOS:** Physics itself creates distortion, phasing, compression. Bend light, bend reality. Total sonic control AND happy accidents.
+*   **SIX CHANNELS OF POWER:** Unleashes a per-string orchestra. Individual FX chains? MIDI/CV output per string? Effortless.
+*   **STREAMLINED ASCENSION:** Direct digital/CV/MIDI output potential via a single pathway. Clean. Elegant. Future.
+*   **NEO-FEEDBACK MACHINE:** Everything is a reference to itself. Ouroboros energy. Complete. Global. SATURATION.
+
+**The Cringe Incel Traditional / Legacy Pickups**
+
+*   **MONOPHONIC MUD:** Squeezes 6 strings into one flat, homogenized signal. Limits texture, potential crushed. So basic.
+*   **MAGNETIC RIGIDITY:** Cries if strings aren't metal. Rejects nylon players. Stuck in the past.
+*   **HEX COPE:** Abandoned 70s tech, tacky MIDI focus. OR requires proprietary cables, expensive breakout boxes ($$$$), complex hacks. "Premium audio solution" my ass. Clinical bulk.
+*   **OPTICAL OBLIVION:** Rare, expensive *whole guitars*, maybe picks up strums wrong? Still not truly hexaphonic. Niche dead end.
+*   **CABLE LABYRINTH:** Needs external interfaces, splitters, converters just to *pretend* it has Chad's flexibility. Pointlessly proprietary overpriced fever dream.
+*   **STALINIST RIGIDITY:** Fears innovation. Clings to "iconic tone" because it has nothing else. Boo! Let us play!
+
+<!-- 
+
+**THE VIRGIN TRADITIONAL / EXISTING PICKUPS**
+
+*   **Incel Magnetic:** Squeezes all strings into one flat, boring signal. Can ONLY see metal strings. Rejected nylon. Stalinist rigidity.
+*   **Awkward Existing Hex:** Needs expensive ($400+) proprietary breakout boxes & special DIN cables. Complicated, abandoned tech from the 70s trying to cosplay as MIDI. Still requires *more* boxes for CV/Synth stuff.
+*   **Beta Optical:** Rare, weak signal from the side? Never even *tried* hexaphonic output. Basically a science project someone forgot about.
+*   Requires a **LABYRINTH** of cables, interfaces ($200-$700+!), and converters just to *maybe* touch a synth. Clinical bulk.
+*   Stuck in the past, selling "physicality" and "novelty" because practicality left long ago. Homogenized, predictable sound.
+
+**THE CHAD HEXAPHONIC LASER PICKUP**
+
+*   **Untangles strings:** 6 individual signals of pure data. Laser precision sees EVERYTHING: metal, nylon, rubber bands, whispers of the void.
+*   **Direct Output Power:** ONE cable for USB, MIDI, or CV. Plugs straight into DAW or modular. No extra boxes needed.
+*   **Invites CHAOS & EMERGENCE:** Bends physics for real-time, analog-source distortion, phasing, compression by playing with light and shadow. Whimsy!
+*   **Orchestra of Opportunity:** Per-string FX chains, pitch-to-MIDI/CV *built-in*. Guitar becomes a synth controller AND sound design weapon.
+*   **Neo-Feedback Machine:** Bridges analog feel and digital destruction. Everything is a reference to itself. Unlocks unexplored territory. Future is NOW.
+--!>
+
 # Emergent phenomena
 You open the door, to another door, to another door. In this unexplored territory, machines are weaponized against acoustic familiarity. Emergence, over control. Everything is a reference to itself.
 
