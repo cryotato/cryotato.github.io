@@ -21,7 +21,7 @@ Picture this. A laser pointer shines a beam of light at your guitar string. Righ
 Light doesn’t c­are if your strings are metal, nylon, or rubber bands—it works on anything that moves. Slide the pickup closer to the guitar’s body for warm, mellow tones, or near the neck for bright, twangy sounds. Feeling restless? Experiment with the lasers to make the sensors misread the light flickers, creating glitches, distortion, or warbles, all with nothing but physics. Whimsy! Take me away!
 
 # Emergent phenomena
-You open the door, to another door, to another door. In this unexplored territory, machines are weaponized against acoustic familiarity. Emergence, over control. Process, over product.
+You open the door, to another door, to another door. In this unexplored territory, machines are weaponized against acoustic familiarity. Emergence, over control. Everything is a reference to itself.
 
 [emergence](https://dictionary.cambridge.org/dictionary/english/emergence)
 
@@ -60,6 +60,7 @@ Signals are intrinsically phase-opposed by nature. Polarity itself becomes the s
 
 ## Emergent rhythm
 *   MIDI/CV Injected gating :: External clock signals interrupt laser emitters, inter-process sidechaining - imposed rhythm.
+- MIDI Dejected Symphony :: Everything is a reference to itself., Pitch detection turns the Hex into a moderator of MIDI chaos for external synths to feed. [Oroboros will be released... into the atmosphere.. ensuring... complete.... global... SATURATION](https://youtu.be/RxsSqDnNIo8?si=PNGQ6p6GJ570l9Ev)
 
 
 
