@@ -1,6 +1,6 @@
 ---
 permalink: /shop/
-title: "the Kitterchord Hex is a shoegaze humbucker that opens up new ways to experiment w/ sound using light."
+title: "the Kitterchord Hex is a hexaphotonic shoegaze humbucker that opens up new ways to manipulate sound using light."
 author_profile: false
 # layout: wide
 toc: true
@@ -22,6 +22,14 @@ Light doesn’t c­are if your strings are metal, nylon, or rubber bands—it wo
 
 # Emergent phenomena
 You open the door, to another door, to another door. In this unexplored territory, machines are weaponized against acoustic familiarity. Emergence, over control. Process, over product.
+
+[emergence](https://dictionary.cambridge.org/dictionary/english/emergence)
+
+/ɪˈmɜː.dʒəns/
+
+(noun)
+
+the development of particular patterns, properties, or behaviours in parts of complex systems that happen only when the parts of the system interact, and that the parts do not have on their own.
 
 
 ## Emergent distortion
@@ -47,38 +55,14 @@ Signals are intrinsically phase-opposed by nature. Polarity itself becomes the s
 *   Phase Diversity :: Dual-Point Capture :: One of these per side create a humbucker-like phase diversity, blending two tones together
 
 ## Emergent compression
-- Dims when loud, preserving dynamics
-- This creates an interesting pulsing visual effect
-- Flashy!
+*   Loudness -> Dimness - Preservation :: Amplitude spikes trigger systemic dampening modulated at its source. A new and completely unique method of downwards compression, not by algorithm, but by using analogue audio-visual feedback. 
+*   Breathing - Pulsation :: Flashy! --> the visuality of the system policing its own intensity levels allows the mechanism itself to be immediately understood. Seeing is believing. 
 
 ## Emergent rhythm
-- MIDI or CV input can be used to gate the lasers creating rhythmic effects or sidechaining
+*   MIDI/CV Injected gating :: External clock signals interrupt laser emitters, inter-process sidechaining - imposed rhythm.
 
 
 
-[emergence](https://dictionary.cambridge.org/dictionary/english/emergence)
-
-/ɪˈmɜː.dʒəns/
-
-(noun)
-
-the development of particular patterns, properties, or behaviours in parts of complex systems that happen only when the parts of the system interact, and that the parts do not have on their own.
-
-<!-- 
-
-
-
-
-**:: Emergent Compression // Intensity Governor Feedback ::**
-
-*   Loudness -> Dimness // Auto-Regulation :: Amplitude spikes trigger inverse photonic modulation. The system dampens itself, intensity folding back onto its source. Dynamics crushed, not by algorithm, but by light-energy feedback. Signal preservation through self-attenuation.
-*   Visual Pulsation // Optical Telegraphy :: Gain modulation rendered visible. The laser flickers, dims—a bio-feedback loop signalling internal thresholds. Flashy! —> signifies immanent signal compression, a visual artefact of the system policing its own intensity levels. Aesthetics of auto-limitation.
-
-**:: Emergent Rhythm // Chrono-Ported Gating ::**
-
-*   Exogenous Temporal Control // MIDI/CV Injection :: External clock signals modulate laser emitters. Rhythmic striation imposed directly onto the light-source. Vibrational continuity shattered by digital command pulses. Sidechaining becomes inter-process warfare, external triggers overriding immanent string dynamics. Sonic matter forced through rhythmic templates sculpted from pure voltage/data. The pulse colonizes the wave.
-
---- -->
 
 # Features
 
