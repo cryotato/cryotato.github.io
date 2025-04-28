@@ -208,9 +208,11 @@ p code, li code, h1 code, h2 code, h3 code, h4 code, h5 code, h6 code {
   }
 }
 
-/* Greedy Nav Mobile Toggle Icon */
+/* Greedy Nav Mobile Toggle Icon, Search Toggle, Theme Toggle */
+// Added .theme-toggle to the rule below
 .masthead .greedy-nav__toggle,
-.search__toggle {
+.search__toggle,
+.theme-toggle {
   padding: 0.25em 1em; // <<< REDUCED vertical padding (was 0.5em)
 }
 // ^ that is not what i asked for.
