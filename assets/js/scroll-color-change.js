@@ -80,7 +80,7 @@ document.addEventListener('DOMContentLoaded', () => {
     // Determine saturation and dark lightness based on theme mode
     let currentLightSaturation = isDarkMode ? 40 : lightSaturation;
     let currentDarkSaturation = isDarkMode ? 14 : darkSaturation;
-    let currentDarkLightness = isDarkMode ? 12 : darkLightness; // Adjust dark lightness in dark mode
+    let currentDarkLightness = isDarkMode ? 17 : darkLightness; // Adjust dark lightness in dark mode
 
     // Construct HSL color strings using CURRENT interpolated hues and determined values
     const newLightColor = `hsl(${currentLightHue}, ${currentLightSaturation}%, ${lightLightness}%)`;
