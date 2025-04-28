@@ -23,23 +23,6 @@ Light doesn’t c­are if your strings are metal, nylon, or rubber bands—it wo
 
 <!-- 
 
-**THE VIRGIN TRADITIONAL / EXISTING PICKUPS**
-
-*   **Incel Magnetic:** Squeezes all strings into one flat, boring signal. Can ONLY see metal strings. Rejected nylon. Stalinist rigidity.
-*   **Awkward Existing Hex:** Needs expensive ($400+) proprietary breakout boxes & special DIN cables. Complicated, abandoned tech from the 70s trying to cosplay as MIDI. Still requires *more* boxes for CV/Synth stuff.
-*   **Beta Optical:** Rare, weak signal from the side? Never even *tried* hexaphonic output. Basically a science project someone forgot about.
-*   Requires a **LABYRINTH** of cables, interfaces ($200-$700+!), and converters just to *maybe* touch a synth. Clinical bulk.
-*   Stuck in the past, selling "physicality" and "novelty" because practicality left long ago. Homogenized, predictable sound.
-
-**THE CHAD HEXAPHONIC LASER PICKUP**
-
-*   **Untangles strings:** 6 individual signals of pure data. Laser precision sees EVERYTHING: metal, nylon, rubber bands, whispers of the void.
-*   **Direct Output Power:** ONE cable for USB, MIDI, or CV. Plugs straight into DAW or modular. No extra boxes needed.
-*   **Invites CHAOS & EMERGENCE:** Bends physics for real-time, analog-source distortion, phasing, compression by playing with light and shadow. Whimsy!
-*   **Orchestra of Opportunity:** Per-string FX chains, pitch-to-MIDI/CV *built-in*. Guitar becomes a synth controller AND sound design weapon.
-*   **Neo-Feedback Machine:** Bridges analog feel and digital destruction. Everything is a reference to itself. Unlocks unexplored territory. Future is NOW.
-
-
 Chad Laser Pickup:
 
     Literally sees vibrations.
