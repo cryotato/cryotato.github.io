@@ -171,10 +171,13 @@ p code, li code, h1 code, h2 code, h3 code, h4 code, h5 code, h6 code {
 }
 
 
-/* Menu Items (Button Style with Animation) */
-.masthead .visible-links .masthead__menu-item a {
+/* Menu Items & Header Buttons (Button Style with Animation) */
+.masthead .visible-links .masthead__menu-item a,
+.masthead .search__toggle,
+.masthead .theme-toggle,
+.masthead .greedy-nav__toggle { /* Added icon buttons here */
   font-family: monospace;
-  display: inline-block;
+  display: inline-block; /* Ensure consistent display */
   padding: 0.25em 1em; // <<< REDUCED vertical padding (was 0.5em)
   font-weight: bold;
   border-radius: 0.5em;
@@ -208,15 +211,8 @@ p code, li code, h1 code, h2 code, h3 code, h4 code, h5 code, h6 code {
   }
 }
 
-/* Greedy Nav Mobile Toggle Icon, Search Toggle, Theme Toggle */
-// Added .theme-toggle to the rule below
-.masthead .greedy-nav__toggle,
-.search__toggle,
-.theme-toggle {
-  padding: 0.25em 1em; // <<< REDUCED vertical padding (was 0.5em)
-}
+/* Removed redundant rule block below */
 // ^ that is not what i asked for.
-
 .masthead .greedy-nav__toggle .navicon,
 .masthead .greedy-nav__toggle .navicon:before,
 .masthead .greedy-nav__toggle .navicon:after {

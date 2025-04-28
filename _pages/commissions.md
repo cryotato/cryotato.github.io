@@ -17,7 +17,7 @@ My most popular work happens to be music commissioned by ContraPoints - which wa
 <iframe width="560" height="315" src="https://www.youtube.com/embed/teqkK0RLNkI?si=UUUen4U7tJdj_KHN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=1507420990/size=small/bgcol=ffffff/linkcol=0687f5/track=3840458334/transparent=true/" seamless><a href="https://ovxx.bandcamp.com/album/hymns-contrapoints">hymns ५&#39;ContraPoints by OVXX</a></iframe>
-<!-- insert how much time this took to make so people have an idea of how much their project might cost them -->
+<!-- insert how much time this took to make so people have an idea of how much their project might cost them, the brief, etc -->
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=1507420990/size=small/bgcol=ffffff/linkcol=0687f5/track=1658746704/transparent=true/" seamless><a href="https://ovxx.bandcamp.com/album/hymns-contrapoints">hymns ५&#39;ContraPoints by OVXX</a></iframe>
 
 ### Envy
