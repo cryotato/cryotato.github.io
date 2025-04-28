@@ -35,11 +35,11 @@ Chad Laser Pickup:
 
     Polyglot; speaks CV, and analogue on top of DAW friendly USB
 
-    rhizomatic rizz. defies convention
+    rhizomatic rizz. defies convention.
 
     whimsy
 
-    Affordable and open source, not afraid to share.
+    open source, and programmable, not afraid to share.
 
     
 
