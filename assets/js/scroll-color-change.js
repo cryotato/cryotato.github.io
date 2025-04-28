@@ -1,5 +1,22 @@
 document.addEventListener('DOMContentLoaded', () => {
   const root = document.documentElement;
+  const body = document.body;
+  const themeToggleButton = document.getElementById('theme-toggle-button');
+  const prefersDarkScheme = window.matchMedia("(prefers-color-scheme: dark)"); // Check OS preference
+
+  // --- Theme State ---
+  let isDarkMode = localStorage.getItem('theme') === 'dark';
+
+  // Apply initial theme based on localStorage or OS preference
+  function applyInitialTheme() {
+    const storedTheme = localStorage.getItem('theme');
+    if (storedTheme) {
+      isDarkMode = storedTheme === 'dark';
+    } else {
+      isDarkMode = prefersDarkScheme.matches; // Default to OS preference if no storage
+    }
+    body.classList.toggle('dark-mode', isDarkMode);
+  }
 
   // Generate random starting hues (0-359)
   const randomLightStartHue = Math.floor(Math.random() * 360);
@@ -63,16 +80,25 @@ document.addEventListener('DOMContentLoaded', () => {
     const newLightColor = `hsl(${currentLightHue}, ${lightSaturation}%, ${lightLightness}%)`;
     const newDarkColor = `hsl(${currentDarkHue}, ${darkSaturation}%, ${darkLightness}%)`;
 
-    // Construct the full shadow strings using the new colors
-    const newLightShadow = `-1px -1px 0 ${newLightColor}, 0 -1px 0 ${newLightColor}, 1px -1px 0 ${newLightColor}, 1px 0 0 ${newLightColor}, 1px 1px 0 ${newLightColor}, 0 1px 0 ${newLightColor}, -1px 1px 0 ${newLightColor}, -1px 0 0 ${newLightColor}`;
-    const newDarkShadow = `-1px -1px 0 ${newDarkColor}, 0 -1px 0 ${newDarkColor}, 1px -1px 0 ${newDarkColor}, 1px 0 0 ${newDarkColor}, 1px 1px 0 ${newDarkColor}, 0 1px 0 ${newDarkColor}, -1px 1px 0 ${newDarkColor}, -1px 0 0 ${newDarkColor}`;
+    // Construct the full shadow strings using the calculated colors
+    let finalLightColor = newLightColor;
+    let finalDarkColor = newDarkColor;
+    let finalLightShadow = `-1px -1px 0 ${finalLightColor}, 0 -1px 0 ${finalLightColor}, 1px -1px 0 ${finalLightColor}, 1px 0 0 ${finalLightColor}, 1px 1px 0 ${finalLightColor}, 0 1px 0 ${finalLightColor}, -1px 1px 0 ${finalLightColor}, -1px 0 0 ${finalLightColor}`;
+    let finalDarkShadow = `-1px -1px 0 ${finalDarkColor}, 0 -1px 0 ${finalDarkColor}, 1px -1px 0 ${finalDarkColor}, 1px 0 0 ${finalDarkColor}, 1px 1px 0 ${finalDarkColor}, 0 1px 0 ${finalDarkColor}, -1px 1px 0 ${finalDarkColor}, -1px 0 0 ${finalDarkColor}`;
+
+    // --- Swap colors and shadows if in dark mode ---
+    if (isDarkMode) {
+      [finalLightColor, finalDarkColor] = [finalDarkColor, finalLightColor]; // Swap colors
+      [finalLightShadow, finalDarkShadow] = [finalDarkShadow, finalLightShadow]; // Swap shadows
+    }
+    // --- End Swap ---
 
     // Update CSS variables for colors AND shadows
-    root.style.setProperty('--light', newLightColor);
-    root.style.setProperty('--dark', newDarkColor);
-    root.style.setProperty('--l-shadow', newLightShadow);
-    root.style.setProperty('--d-shadow', newDarkShadow);
-    
+    root.style.setProperty('--light', finalLightColor);
+    root.style.setProperty('--dark', finalDarkColor);
+    root.style.setProperty('--l-shadow', finalLightShadow);
+    root.style.setProperty('--d-shadow', finalDarkShadow);
+
     // Keep the animation loop running
     requestAnimationFrame(updateColors);
   }
@@ -104,7 +130,19 @@ document.addEventListener('DOMContentLoaded', () => {
     isTouching = false;
   }
 
-  // --- Start the continuous animation loop --- 
+  // --- Theme Toggle Button Listener ---
+  if (themeToggleButton) {
+    themeToggleButton.addEventListener('click', () => {
+      isDarkMode = !isDarkMode; // Toggle the state
+      body.classList.toggle('dark-mode', isDarkMode); // Toggle the class
+      localStorage.setItem('theme', isDarkMode ? 'dark' : 'light'); // Save preference
+    });
+  }
+
+  // --- Apply initial theme ---
+  applyInitialTheme();
+
+  // --- Start the continuous animation loop ---
   requestAnimationFrame(updateColors);
 
   // Listen for wheel events to update the virtual scroll position

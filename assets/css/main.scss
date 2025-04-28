@@ -241,6 +241,18 @@ p code, li code, h1 code, h2 code, h3 code, h4 code, h5 code, h6 code {
   /* Hover state: Light icon */
   color: var(--light) !important; /* Use 'color' for Font Awesome */
 }
+/* Style the theme toggle icon like the search icon */
+.theme-toggle .fa-adjust {
+  /* Initial state: Dark icon (matching search icon) */
+  color: var(--dark) !important; /* Use 'color' for Font Awesome */
+  transition: color 300ms linear; /* Transition the 'color' property */
+}
+
+/* Select the theme toggle icon when the parent button is hovered */
+.theme-toggle:hover .fa-adjust {
+  /* Hover state: Light icon (matching search icon) */
+  color: var(--light) !important; /* Use 'color' for Font Awesome */
+}
 
 /* Optional: If the search button is also within .masthead */
 /* You might want to make the selectors more specific like this: */
