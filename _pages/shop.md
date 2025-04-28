@@ -42,35 +42,45 @@ Light doesn’t c­are if your strings are metal, nylon, or rubber bands—it wo
 
 Chad Laser Pickup:
 
-    Shines literal LIGHT on the situation; futuristic, sees vibrations directly.
+    Literally sees vibrations.
 
-    Empowers each string individually; true polyphony, respects their unique voices.
+    Empowers each string and respects their individuality 
 
-    Inclusive King; works with ANY string material (nylon, steel, gut, doesn't care, vibes are vibes).
+    Inclusive King; works with ANY string material (nylon, steel, catgut, doesn't care).
 
-    Direct connection via USB/CV; speaks the modern language fluently, no awkward translators needed.
+    Handles everything effortlessly via USB without middlemen
 
-    Bends physics for fun; glitches and artifacts are just features, confident in experimentation.
+    Polyglot; speaks CV, and analogue on top of DAW friendly USB
 
-    Flexible positioning; slides anywhere along the strings to change perspective and tone effortlessly.
+    rhizomatic confidence, defies convention
 
-    Potentially accessible price; disrupts the established order, shares the wealth.
+    whimsy
+
+    Affordable and open source, not afraid to share.
+
+    
 
 Incel Magnetic/Old Poly Pickups:
 
-    Clings to rusty magnets from the 70s; scared of progress, stuck in the past.
+    afraid of the future
 
-    Forces strings into a single homogenized signal; demands conformity, insecure about individual differences.
+    Forces strings into a single homogenized signal; demands conformity, 
 
-    Exclusive and picky; only works with specific metal strings, total material snob, rejects difference.
+    overweight
+    
+    "it's easy to hate the rich, but do you have the courage to hate the poor?"
 
-    Needs awkward, expensive breakout boxes and proprietary cables; requires constant external validation and special treatment.
+    probably racist 
+    
+    only works with specific metal strings
 
-    Terrified of anything that doesn't sound exactly like vintage tone #52; calls anything new "tacky" or "not authentic."
+    possessive and proprietary - refuses to co-operate with your friends
 
     Rigidly fixed in one position; zero adaptability, complains when things change.
 
     Often gatekeeps with high prices or complex, abandoned systems; whines about why nobody adopted it.
+
+    monolingual beta male
 
 
 -->
@@ -146,6 +156,7 @@ Everything is a reference to itself.,
 
 # I want one!
 Pre-order:
+
 
 or
 Build one yourself:
