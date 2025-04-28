@@ -77,13 +77,14 @@ document.addEventListener('DOMContentLoaded', () => {
     currentLightHue = lerpHue(currentLightHue, targetLightHue, easingFactor);
     currentDarkHue = lerpHue(currentDarkHue, targetDarkHue, easingFactor);
 
-    // Determine saturation based on theme mode
+    // Determine saturation and dark lightness based on theme mode
     let currentLightSaturation = isDarkMode ? 40 : lightSaturation;
-    let currentDarkSaturation = isDarkMode ? 20 : darkSaturation;
+    let currentDarkSaturation = isDarkMode ? 14 : darkSaturation;
+    let currentDarkLightness = isDarkMode ? 12 : darkLightness; // Adjust dark lightness in dark mode
 
-    // Construct HSL color strings using CURRENT interpolated hues and determined saturation
+    // Construct HSL color strings using CURRENT interpolated hues and determined values
     const newLightColor = `hsl(${currentLightHue}, ${currentLightSaturation}%, ${lightLightness}%)`;
-    const newDarkColor = `hsl(${currentDarkHue}, ${currentDarkSaturation}%, ${darkLightness}%)`;
+    const newDarkColor = `hsl(${currentDarkHue}, ${currentDarkSaturation}%, ${currentDarkLightness}%)`; // Use adjusted lightness
 
     // Construct the full shadow strings using the calculated colors
     let finalLightColor = newLightColor;
