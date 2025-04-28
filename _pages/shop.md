@@ -35,7 +35,7 @@ Chad Laser Pickup:
 
     Polyglot; speaks CV, and analogue on top of DAW friendly USB
 
-    rhizomatic confidence, defies convention
+    rhizomatic rizz. defies convention
 
     whimsy
 
@@ -49,15 +49,13 @@ Incel Magnetic/Old Poly Pickups:
 
     Forces strings into a single homogenized signal; demands conformity, 
 
-    overweight
+    may be a little overweight
     
     "it's easy to hate the rich, but do you have the courage to hate the poor?"
 
-    probably racist 
-    
-    only works with specific metal strings
+    probably racist, only works with specific metal strings
 
-    possessive and proprietary - refuses to co-operate with your friends
+    proprietary; possessive, insecure, and controlling - refuses to co-operate with your friends
 
     Rigidly fixed in one position; zero adaptability, complains when things change.
 
