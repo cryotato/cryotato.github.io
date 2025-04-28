@@ -109,27 +109,50 @@ Everything is a reference to itself.,
 
 
 
+# Hexaphonics?
 
-# Features
+hexaphonic
+/ˌhɛksəˈfɒnɪk/
+(of sound reproduction) In six channels.
 
-## Hexaphonics?
 - The Hex picks up each string individually, so each string can have its own effects chain
 - A single 6 string guitar transforms into an orchestra of opportunity
 - Pitch detection midi output!
 - peaks of each string interpreted as knobs
 
-<!-- ### Optical "Sympathetic Resonance" / Cross-Modulation:
+Here are just a few ideas for how this feature could be used:
 
-    Since each string's sensor is independent, you could digitally route the amplitude (or brightness data) of one string's signal to modulate an effect (filter cutoff, gain, panning, laser intensity) on another string.
+## Resonance 
+Since each string's sensor is independent, you could digitally route the amplitude (or brightness data) of one string's signal to modulate an effect (filter cutoff, gain, panning, laser intensity) on another string.
 
-    Implication: Plucking the low E string could make the high E string "shimmer" or get brighter/fuzzier only when the low E is vibrating strongly. This creates artificial sympathetic resonance effects or complex internal modulation textures impossible with mono pickups. -->
+Implication: Plucking the low E string could make the high E string "shimmer" or get brighter/fuzzier only when the low E is vibrating strongly. This creates artificial sympathetic resonance effects or complex internal modulation textures impossible with mono pickups.
 
-## Pocketability for gigs and nomads
+## Spatialization
+Wide Stereo Spread: You can pan each string to a unique position in the stereo field, resulting in a very wide and immersive sound. For instance, low E panned far left and high E far right, with other strings in between.
+
+3D Spatialization: Using ambisonics or surround sound setups, you could place each string in a specific location in 3D space, giving a new dimensionality to the guitar sound.
+
+Moving Strings: Automate panning so that the sound of individual strings moves around the stereo or surround field dynamically. Each string could "travel" as you play.
+
+## Instant guitar retuning / Pitch Shifting
+
+Per-String Pitch Shifting: You could shift the pitch of each string individually, effectively creating custom tunings in real-time. For instance, while playing in standard tuning, pitch shift the B and high E strings up by a few semitones for an instant open tuning effect.
+
+Harmonizers: Use harmonizing effects on certain strings. For example, you could add fifths or octaves only to specific strings, giving the appearance of multiple guitar parts being played simultaneously.
+
+Octave Splitting: Octave pedals could be applied only to lower strings to fatten up the bass range while keeping the higher strings unaffected for clearer melodies.
+
+
+
+
+
+
+# Pocketability for gigs and nomads
 - Mounts onto any string instrument
 - Built in audio interface provides unmatched 6-channel hexaphonic versatility out a single USB, MIDI, CV output, or switchable traditional audio output configurations
 - Option for pedalboard-less and DAW-focused effect chains
 
-## Compatibility for catguts
+# Compatibility for catguts
 - One for all the experimental string materials and niche instruments
 - Modular and secure attachment-style
 
