@@ -13,7 +13,8 @@ document.addEventListener('DOMContentLoaded', () => {
     if (storedTheme) {
       isDarkMode = storedTheme === 'dark';
     } else {
-      isDarkMode = prefersDarkScheme.matches; // Default to OS preference if no storage
+      // Default to light mode if no theme is stored
+      isDarkMode = false;
     }
     body.classList.toggle('dark-mode', isDarkMode);
   }
