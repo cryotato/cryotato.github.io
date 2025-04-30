@@ -132,9 +132,9 @@ Wide Stereo Spread: You can pan each string to a unique position in the stereo f
 
 Moving Strings: Automate panning so that the sound of individual strings moves around the stereo or surround field dynamically. Each string could "travel" as you play.
 
-## Instant guitar retuning / Pitch Shifting
+## Pseudo-12-String
 
-Per-String Pitch Shifting: You could shift the pitch of each string individually, effectively creating custom tunings in real-time. For instance, while playing in standard tuning, pitch shift the B and high E strings up by a few semitones for an instant open tuning effect.
+Per-String Pitch Shifting: You could shift the pitch of each string individually. you could effectively create custom tunings in real-time, or layer octaves for each string to get a 12-string-like effect. For instance, while playing in standard tuning, pitch shift the B and high E strings up by a few semitones for an instant open tuning effect, or have them shifted to an microtonal tuning.
 
 Harmonizers: Use harmonizing effects on certain strings. For example, you could add fifths or octaves only to specific strings, giving the appearance of multiple guitar parts being played simultaneously.
 
