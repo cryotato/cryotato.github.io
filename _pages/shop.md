@@ -67,7 +67,7 @@ Incel Magnetic/Old Poly Pickups:
 -->
 
 # Emergent phenomena
-You open the door, to another door, to another door. In this unexplored territory, machines are weaponized against acoustic familiarity. Emergence, over control. Everything is a reference to itself.
+You open the door, to another door, to another door. In this unexplored territory, machines are weaponized against familiarity.
 
 > [emergence](https://dictionary.cambridge.org/dictionary/english/emergence) /ɪˈmɜː.dʒəns/ (noun)
 
