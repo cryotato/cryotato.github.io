@@ -108,12 +108,12 @@ Everything is a reference to itself.,
 
 
 # Hexaphonics?
+A single guitar unfolds into 6 - an orchestra. String peaks themselves become living knobs, allowing for vast unprecedented sonique-freedom
 
-hexaphonic
-/ˌhɛksəˈfɒnɪk/
-(of sound reproduction) In six channels.
+> hexaphonic /ˌhɛksəˈfɒnɪk/ (adjective)
+>(of sound reproduction) In six channels.
 
-- The Hex picks up each string individually, so each string can have its own effects chain
+<!-- - The Hex picks up each string individually, so each string can have its own effects chain
 - A single 6 string guitar transforms into an orchestra of opportunity
 - peaks of each string interpreted as knobs
 
@@ -128,8 +128,17 @@ You can pan each string to a unique position in the stereo field, resulting in a
 
 ## Pseudo-12-String
 
-You could shift the pitch of each string individually to effectively create microtonal tunings in real-time, or layer octaves/fifths for each string to get a 12-string-like effect.
+You could shift the pitch of each string individually to effectively create microtonal tunings in real-time, or layer octaves/fifths for each string to get a 12-string-like effect. -->
 
+## Impliques & possibilities
+### Artificial Resonance
+Reconstruct strings together, for one to digitally ignite effects on another. Play god and wire your guitars sympathetic nervous system. Make it meow. :3
+### Landscape architecture
+Pan and explode the each string outwards to its own coordinates within stereo-space. Strategize constructed confields[^1]. Hyper-Spatialization.
+### Pseudo-12-Stringification
+Pitch-bend per-string for instant microtonal detunings, or stacked octaves and harmonies for infinite-string density. Forge new instruments from light.
+
+[^1]: Landscape [Autechre](https://autechre.bandcamp.com/album/confield).. kikikikikiki
 
 # Pocketability for gigs and nomads
 - Mounts onto any string instrument
