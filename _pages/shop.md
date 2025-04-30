@@ -115,34 +115,20 @@ hexaphonic
 
 - The Hex picks up each string individually, so each string can have its own effects chain
 - A single 6 string guitar transforms into an orchestra of opportunity
-- Pitch detection midi output!
 - peaks of each string interpreted as knobs
 
 Here are just a few ideas for how this feature could be used:
 
-## Resonance 
-Since each string's sensor is independent, you could digitally route the amplitude (or brightness data) of one string's signal to modulate an effect (filter cutoff, gain, panning, laser intensity) on another string.
 
-Implication: Plucking the low E string could make the high E string "shimmer" or get brighter/fuzzier only when the low E is vibrating strongly. This creates artificial sympathetic resonance effects or complex internal modulation textures impossible with mono pickups.
+## Resonance 
+Since each string's sensor is independent, you could digitally route the amplitude of one string's signal as any other knob to modulate an effect on another string. This creates artificial sympathetic resonance effects or complex internal modulation textures impossible with mono pickups.
 
 ## Spatialization
-Wide Stereo Spread: You can pan each string to a unique position in the stereo field, resulting in a very wide and immersive sound. For instance, low E panned far left and high E far right, with other strings in between.
-
-3D Spatialization: Using ambisonics or surround sound setups, you could place each string in a specific location in 3D space, giving a new dimensionality to the guitar sound.
-
-Moving Strings: Automate panning so that the sound of individual strings moves around the stereo or surround field dynamically. Each string could "travel" as you play.
+You can pan each string to a unique position in the stereo field, resulting in a very wide and immersive sound. For instance, low E panned far left and high E far right, with other strings in between.
 
 ## Pseudo-12-String
 
-Per-String Pitch Shifting: You could shift the pitch of each string individually. you could effectively create custom tunings in real-time, or layer octaves for each string to get a 12-string-like effect. For instance, while playing in standard tuning, pitch shift the B and high E strings up by a few semitones for an instant open tuning effect, or have them shifted to an microtonal tuning.
-
-Harmonizers: Use harmonizing effects on certain strings. For example, you could add fifths or octaves only to specific strings, giving the appearance of multiple guitar parts being played simultaneously.
-
-Octave Splitting: Octave pedals could be applied only to lower strings to fatten up the bass range while keeping the higher strings unaffected for clearer melodies.
-
-
-
-
+You could shift the pitch of each string individually to effectively create microtonal tunings in real-time, or layer octaves/fifths for each string to get a 12-string-like effect.
 
 
 # Pocketability for gigs and nomads
