@@ -21,7 +21,7 @@ Picture this. A laser pointer shines a beam of light at your guitar string. Righ
 Light doesn’t c­are if your strings are metal, nylon, or rubber bands—it works on anything that moves. Slide the pickup closer to the guitar’s body for warm, mellow tones, or near the neck for bright, twangy sounds. Feeling restless? Experiment with the lasers to make the sensors misread the light flickers, creating glitches, distortion, or warbles, all with nothing but physics. Whimsy! Take me away!
 
 # Emergent phenomena
-You open the door, to another door, to another door. In this unexplored territory, machines are weaponized against acoustic familiarity. Emergence, over control. Everything is a reference to itself.
+You open the door, to another door, to another door. In this unexplored territory, machines are weaponized against familiarity.
 
 > [emergence](https://dictionary.cambridge.org/dictionary/english/emergence) /ɪˈmɜː.dʒəns/ (noun)
 
