@@ -94,10 +94,11 @@ Pitch-bend per-string for instant microtonal detunings, or stacked octaves and h
 How do these machines interact to create a BwO? Everything is a reference to itself.,
 [Oroboros will be released... into the atmosphere.. ensuring... complete.... global... SATURATION](https://youtu.be/RxsSqDnNIo8?si=PNGQ6p6GJ570l9Ev) -->
 
+# Body
+All this packed in a single compact package. No split boxes. No 16 channel XLR audio interfaces. No propritary trip hazards. No compromise. Just one wire out USB, with switchable traditional analog output configurations if you change your mind.
 
-# Pocketability for gigs and nomads
-- Mounts onto any string instrument
-- Built in audio interface provides unmatched 6-channel hexaphonic versatility out a single USB, MIDI, CV output, or switchable traditional audio output configurations
+## Pocketability for gigs and nomads
+- Built in audio interface provides unmatched 6-channel hexaphonic versatility out a single USB, or switchable traditional audio output configurations (traditional mono all signals go into one, all strings into one stereo jack with 3 strings on left and right, fully hexaphonic through 3 stereo jacks)
 - Option for pedalboard-less and DAW-focused effect chains
 
 # Compatibility for catguts
@@ -122,10 +123,10 @@ Sign up for updates:
 
 # FAQ:
 ## Is there a warranty?
-Yes, we warrant against manufacturing defects for 30 days after you receive your order. Ship us the defective pickup, and after we receive it back, we will ship (no charge) you a replacement. Full legalese warranty will be posted later.
+Yes – we cover manufacturing defects for 30 days from the date you receive your order. Just send the defective pickup back to us, and once it arrives, we’ll ship you a replacement at no extra cost. The full legal warranty will be posted soon.
 
 ## You shouldn’t get one if…
-You need a perfectly polished sound. This project is a labour of love rather than a startup trying to sell millions. There may be some rough edges (literally). Things will get delayed. Some features will not be ready at launch. Things could break. Things could not last as long as you’d like. The only thing we can guarantee is that it will be awesome and a lot of fun!
+You’re after a flawlessly polished, mass-produced product. This is a labour of love, not a startup chasing scale. Expect a few rough edges (literally). Delays may happen. Some features won’t be ready at launch. Things might break, or not last as long as you’d hope. The only thing we can promise? It’ll be awesome – and a whole lot of fun.
 
 # Music to listen to while waiting for your Hex
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/0eUUQ4rly8Q8PyJPWLgde2?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
