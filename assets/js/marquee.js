@@ -20,7 +20,7 @@ document.addEventListener('DOMContentLoaded', function() {
   ];
 
   // --- Configuration ---
-  const pixelsPerSecond = 50; // Adjust speed here
+  const pixelsPerSecond = 30; // Adjust speed here
 
   // --- State Variables ---
   let currentPosition = 0;
