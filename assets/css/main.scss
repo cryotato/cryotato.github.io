@@ -147,6 +147,7 @@ p code, li code, h1 code, h2 code, h3 code, h4 code, h5 code, h6 code {
   display: block; /* Treat the marquee element as a block */
   font-family: monospace; /* Match the site's font */
   font-size: 0.7em; /* Adjust font size if needed */
+  font-weight: bold;
   /* You might want to adjust line-height or other properties */
 }
 /* ==========================================================================
