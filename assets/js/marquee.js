@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', function() {
     "POWER IN MISERY TRAVERSING THE GRID OF DEATH",
     "MACHINE GUN MACHINE FUN!!",
     "NO!! RAT!!! YOU DON'T HAVE TO DO THIS!"
-    // Add more messages here if you like
+
   ];
 
   // --- Configuration ---
