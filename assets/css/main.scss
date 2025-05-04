@@ -148,7 +148,7 @@ p code, li code, h1 code, h2 code, h3 code, h4 code, h5 code, h6 code {
 .seamless-marquee__content {
   display: inline-block; /* Allow animation */
   /* padding-left: 100%; Removed for 4-copy version */
-  animation: seamless-scroll 40s linear infinite; /* Increased duration for 4 copies */
+  animation: seamless-scroll linear infinite; /* Duration set by JS */
   font-family: monospace; /* Match the site's font */
   font-size: 0.7em; /* Adjust font size if needed */
   font-weight: bold;
