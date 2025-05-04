@@ -170,7 +170,8 @@ after_footer_scripts:
   - /assets/js/cursor.js
   - /assets/js/scroll-color-change.js
   # - /assets/js/smooth-scroll.js
-
+  - /assets/js/marquee.js
+  
 collections:
   portfolio:
     output: true
