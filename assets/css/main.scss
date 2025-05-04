@@ -141,13 +141,37 @@ p code, li code, h1 code, h2 code, h3 code, h4 code, h5 code, h6 code {
   width: 100%;             /* Ensure it spans the full width */
   box-sizing: border-box;  /* Include padding/border in the element's total width */
   overflow: hidden;        /* Hide anything that might overflow horizontally */
+  white-space: nowrap;     /* Prevent text wrapping for animation */
 }
 
-.masthead__marquee marquee {
-  display: block; /* Treat the marquee element as a block */
+/* New styles for seamless animation */
+.seamless-marquee__content {
+  display: inline-block; /* Allow animation */
+  padding-left: 100%;    /* Start the second text off-screen */
+  animation: seamless-scroll 20s linear infinite; /* Adjust duration as needed */
   font-family: monospace; /* Match the site's font */
   font-size: 0.7em; /* Adjust font size if needed */
   font-weight: bold;
+}
+
+.marquee-text {
+  display: inline-block; /* Keep texts on the same line */
+  /* Spacing is added via JS (\u00A0) */
+}
+
+/* Stop animation on hover */
+.masthead__marquee:hover .seamless-marquee__content {
+  animation-play-state: paused;
+}
+
+/* Keyframes for the seamless scroll */
+@keyframes seamless-scroll {
+  0% {
+    transform: translateX(0%);
+  }
+  100% {
+    transform: translateX(-100%); /* Move left by the width of one text block */
+  }
   /* You might want to adjust line-height or other properties */
 }
 /* ==========================================================================

@@ -1,8 +1,10 @@
-// --- Random Marquee Text ---
+// --- Seamless Random Marquee Text ---
 document.addEventListener('DOMContentLoaded', function() {
-  const marqueeElement = document.getElementById('random-marquee');
+  const marqueeText1 = document.getElementById('marquee-text-1');
+  const marqueeText2 = document.getElementById('marquee-text-2');
 
-  if (marqueeElement) { // Check if the element exists on the page
+  // Ensure both elements exist before proceeding
+  if (marqueeText1 && marqueeText2) {
     const marqueeMessages = [
       "Welcome to the cryotato site!", // Example message 1
       "Check out the latest portfolio items!", // Example message 2
@@ -16,7 +18,10 @@ document.addEventListener('DOMContentLoaded', function() {
     const randomIndex = Math.floor(Math.random() * marqueeMessages.length);
     const randomMessage = marqueeMessages[randomIndex];
 
-    // Set the marquee text
-    marqueeElement.textContent = randomMessage;
+    // Set the text content for both spans
+    marqueeText1.textContent = randomMessage + "\u00A0\u00A0\u00A0"; // Add spacing after text
+    marqueeText2.textContent = randomMessage + "\u00A0\u00A0\u00A0"; // Add spacing after text
+  } else {
+    console.error("Marquee text span elements not found!");
   }
 });
