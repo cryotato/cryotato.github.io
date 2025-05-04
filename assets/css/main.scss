@@ -148,7 +148,7 @@ p code, li code, h1 code, h2 code, h3 code, h4 code, h5 code, h6 code {
 .seamless-marquee__content {
   display: inline-block; /* Allow animation */
   /* padding-left: 100%; Removed for 4-copy version */
-  animation: seamless-scroll linear infinite; /* Duration set by JS */
+  /* Animation handled by JS */
   font-family: monospace; /* Match the site's font */
   font-size: 0.7em; /* Adjust font size if needed */
   font-weight: bold;
@@ -160,18 +160,8 @@ p code, li code, h1 code, h2 code, h3 code, h4 code, h5 code, h6 code {
 }
 
 /* Stop animation on hover */
-.masthead__marquee:hover .seamless-marquee__content {
-  animation-play-state: paused;
-}
-
-/* Keyframes for the seamless scroll */
-@keyframes seamless-scroll {
-  0% {
-    transform: translateX(0%);
-  }
-  100% {
-    transform: translateX(-50%); /* Move left by half the total width (2 text blocks) */
-  }
+/* Hover handled by JS */
+/* Keyframes removed, handled by JS */
   /* You might want to adjust line-height or other properties */
 }
 /* ==========================================================================
