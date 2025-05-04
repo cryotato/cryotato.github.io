@@ -19,7 +19,10 @@ document.addEventListener('DOMContentLoaded', function() {
     "つけまつけま つけまつける ぱちぱち つけまつけて    つけまつけま つけまつける ぱちぱち つけまつけて    つけまつけま つけまつける ぱちぱち つけまつけて    つけまつけま つけまつける ぱちぱち つけまつけて    つけまつけま つけまつける ぱちぱち つけまつけて    つけまつけま つけまつける ぱちぱち つけまつけて    つけまつけま つけまつける ぱちぱち つけまつけて",
     "CONSUME 抏 CONSUME 抏 CONSUME 抏 CONSUME 抏 CONSUME 抏 CONSUME 抏 CONSUME 抏 CONSUME 抏 CONSUME 抏 CONSUME 抏 CONSUME 抏 CONSUME 抏 CONSUME 抏 CONSUME 抏 CONSUME 抏 CONSUME 抏 CONSUME 抏 CONSUME 抏 ",
     "YOU HAVE REACHED A PUPPY 4 PUPPY ZONE. ALL CATS ARE BEAUTIFUL. ALL PIGS DIE.   YOU HAVE REACHED A PUPPY 4 PUPPY ZONE. ALL CATS ARE BEAUTIFUL. ALL PIGS DIE.   YOU HAVE REACHED A PUPPY 4 PUPPY ZONE. ALL CATS ARE BEAUTIFUL. ALL PIGS DIE.",
-    "WELCOME TO MY ISLAND 蒞吾嶼 SEE THE PALM TREES WAVE IN THE WIND 觀棕櫚兮風中搖 WELCOME TO MY ISLAND 蒞吾嶼 HOPE YOU LIKE ME, YOU AIN'T LEAVIN' 願君悅我，無由離此   WELCOME TO MY ISLAND 蒞吾嶼 SEE THE PALM TREES WAVE IN THE WIND 觀棕櫚兮風中搖 WELCOME TO MY ISLAND 蒞吾嶼 HOPE YOU LIKE ME, YOU AIN'T LEAVIN' 願君悅我，無由離此   "
+    "WELCOME TO MY ISLAND 蒞吾嶼 SEE THE PALM TREES WAVE IN THE WIND 觀棕櫚兮風中搖 WELCOME TO MY ISLAND 蒞吾嶼 HOPE YOU LIKE ME, YOU AIN'T LEAVIN' 願君悅我，無由離此   WELCOME TO MY ISLAND 蒞吾嶼 SEE THE PALM TREES WAVE IN THE WIND 觀棕櫚兮風中搖 WELCOME TO MY ISLAND 蒞吾嶼 HOPE YOU LIKE ME, YOU AIN'T LEAVIN' 願君悅我，無由離此",
+    "나는 빠리의 택시운전사다 어쩌고저쩌고 어쩌고저쩌고 어쩌고저쩌고 빠리의 택시 운전사 나는 빠리의 택시운전사다 어쩌고저쩌고 어쩌고저쩌고 어쩌고저쩌고 빠리의 택시 운전사 나는 빠리의 택시운전사다 어쩌고저쩌고 어쩌고저쩌고 어쩌고저쩌고 빠리의 택시 운전사",
+    "好きよ好きやよ好きやよ好きよあなたの事が大好きよなんでこんな事になってしもてたんやろなんでこんな事になってしもてたんやろなんでこんな事になってしもてたんやろなんでこんな事になってしもてたんやろ 朝、ひらく、私は、夜、育つ。枯渇した、脳を構築していく。ずるずるといっつまでも、私は、凡庸、凡庸、茫洋です。",
+    "YEAH, I JUST POPPED A BEAN, WATCH MY EYES GROW 噫，吾方吞靈丹，觀我目張 SIPPIN' HELLA LEAN, SMOKIN' HYDRO (YUH) 飲瓊漿兮復吸嘉禾 WHEN I HIT THE REEF, TURN IT TIDAL 及吾觸礁石，波濤頓起 GARY IS MY SHADOW, BITCH, HE GO WHEREVER I GO 加里隨我影，彼從吾所之 MEOW, MEOW, MEOW 喵，喵，喵 HA, GARY HIT 'EM WITH THE 哈，加里擊之以 MEOW, MEOW, MEOW 喵，喵，喵 HA, GARY HIT 'EM WITH THE 哈，加里擊之以 MEOW, MEOW, MEOW 喵，喵，喵 HA, GARY HIT 'EM WITH THE 哈，加里擊之以 MEOW, MEOW, MEOW (OOH, AHHH) 喵，喵，喵 (嗚，啊)"
   ];
 
   // --- Configuration ---
