@@ -57,17 +57,17 @@ plugins:
   - jekyll-archives
 
 author:
-  name   : "Ryan Leo Tz-Tzen"
+  name   : "Ryan Leo Tz-Tzen [廖子程]"
   avatar : "/assets/images/IMG-20240220-WA0001.jpg"
   bio    : "developer of innovative sonic weapons as OVXX, CEO reptilian of KitterChord, comrade of Twinknation,. ϑ'self does nøt lie passively in wait for us to discover it ︻╦̵̵͇̿̿̿̿══╤─"
   links:
-    - label: "φꙩtꙩptiques"
+    - label: "圖 φꙩtꙩptiques"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/cryotato"
-    - label: "corproart"
+    - label: "畫 corproart"
       icon: "fab fa-fw fa-behance"
       url: "https://www.behance.net/ryanmeow"
-    - label: "slayvery"
+    - label: "工 slayvery"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/ovxx/"   
     - label: "pirate OVXX"
@@ -171,7 +171,7 @@ after_footer_scripts:
   - /assets/js/scroll-color-change.js
   # - /assets/js/smooth-scroll.js
   - /assets/js/marquee.js
-  
+
 collections:
   portfolio:
     output: true
