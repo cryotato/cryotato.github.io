@@ -133,7 +133,7 @@ p code, li code, h1 code, h2 code, h3 code, h4 code, h5 code, h6 code {
    Masthead Marquee Styles
    ========================================================================== */
 .masthead__marquee {
-  background: var(--bg-3); /* Use the bg-3 dither pattern */
+  background: var(--bg-2); /* Use the bg-3 dither pattern */
   color: var(--dark);      /* Use the dark color for text */
   text-shadow: var(--l-shadow); /* Apply the light text shadow */
   padding: 0.25em 0;       /* Add some vertical padding */
@@ -146,7 +146,7 @@ p code, li code, h1 code, h2 code, h3 code, h4 code, h5 code, h6 code {
 .masthead__marquee marquee {
   display: block; /* Treat the marquee element as a block */
   font-family: monospace; /* Match the site's font */
-  font-size: 1em; /* Adjust font size if needed */
+  font-size: 0.7em; /* Adjust font size if needed */
   /* You might want to adjust line-height or other properties */
 }
 /* ==========================================================================
