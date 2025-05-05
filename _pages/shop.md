@@ -9,9 +9,10 @@ toc_icon: "hexagon-nodes"
 # comments: true
 ---
 
-![LOVELESS REFERENCE](/assets/images/artifactlovelesshex.jpeg)
-
 BEND LIGHT, WARP SOUND. JOIN THE ANTI-MAGNOMUSH MOVEMENT
+
+
+![LOVELESS REFERENCE](/assets/images/artifactlovelesshex.jpeg)
 
 # The claustrophobia, the clinical bulk.
 “Premium audio solutions”. By squeezing all the strings into a flat homogenized signal, conventional guitar pickups limit possibilities for texture. I’m not trying to be cute when I say existing setups to fix this require a labyrinth of cables, it’s a pointlessly proprietary overpriced fever dream - not to mention the external interfaces, splitters, and complex MIDI or CV converters they expect of you. All the while traditional magnetic systems reject nylon or unconventional instruments entirely. Stalinist rigidity? Boo! What about those of us that want to play? 
