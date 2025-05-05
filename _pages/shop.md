@@ -9,8 +9,11 @@ toc_icon: "hexagon-nodes"
 # comments: true
 ---
 
+![LOVELESS REFERENCE](/assets/images/lovelesshex.png)
+
+
 # The claustrophobia, the clinical bulk.
-“Premium audio solutions”. By squeezing all the strings into a flat homogenized signal, conventional guitar pickups limit possibilities for texture. I’m not trying to be cute when I say existing setups to fix this require a labyrinth of cables, it’s a pointlessly proprietary overpriced fever dream - not to mention the external interfaces, splitters, and complex MIDI or CV converters they expect of you. All the while traditional magnetic systems reject nylon or unconventional instruments entirely. Stalinist rigidity? And what of the surgery! Once you’ve drilled into your baby, pickup positions are fixed, and fixed its personality will be until the miserable day it reaches a landfill. Boo! What about those of us that want to play? 
+“Premium audio solutions”. By squeezing all the strings into a flat homogenized signal, conventional guitar pickups limit possibilities for texture. I’m not trying to be cute when I say existing setups to fix this require a labyrinth of cables, it’s a pointlessly proprietary overpriced fever dream - not to mention the external interfaces, splitters, and complex MIDI or CV converters they expect of you. All the while traditional magnetic systems reject nylon or unconventional instruments entirely. Stalinist rigidity? Boo! What about those of us that want to play? 
 
 # The prescription? Invite chaos!
 Emergence! By untangling and picking up each string separately we can knit them into new warm blankets of noise with per-string FX processing – powered and contained neatly in DAWs or modular synths via a single USB, CV, or MIDI output. It’s literal laser precision allows you to pick at the sands and grit, while the clip-on design introduces the flexibility to terrain through soundscapes and explore different tones along any type of string without mods or surgery.
