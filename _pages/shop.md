@@ -9,7 +9,7 @@ toc_icon: "hexagon-nodes"
 # comments: true
 ---
 
-![LOVELESS REFERENCE](/assets/images/lovelesshex.png)
+![LOVELESS REFERENCE](/assets/images/artifactlovelesshex.jpeg)
 
 
 # The claustrophobia, the clinical bulk.
