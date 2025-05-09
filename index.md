@@ -4,6 +4,7 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: single
 author_profile: true
+comments: true
 ---
 hi ( •ω•ฅ）.｡.:*♡ ïm Ryan. everyϑiŋ ï do iꝬ to declare my identity ⅋ut ï døn't really have on̅e. ï aspire to be a [Concept](https://cryotato.github.io/blog/). ïm a schizor𖹭mantic iṋ ϑat way. 
 
@@ -17,3 +18,6 @@ hi ( •ω•ฅ）.｡.:*♡ ïm Ryan. everyϑiŋ ï do iꝬ to declare my iden
 </div>
 
 <!-- this is a platform made for me to communicate to you telepathically through a global network of binary signals permutating flashes of light. -->
+
+
+PLEASE SAY HI [聊]
