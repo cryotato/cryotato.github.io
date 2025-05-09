@@ -1,6 +1,6 @@
 ---
 permalink: /shop/
-title: "the Kitterchord Hex is a hexaphotonic shoegaze humbucker that opens up new ways to manipulate sound using light."
+title: "the Kitterchord Hex is a hexaphotonic shoegaze pick-up that opens up new ways to manipulate sound using light."
 author_profile: false
 # layout: wide
 toc: true
@@ -137,7 +137,8 @@ You’re after a flawlessly polished, mass-produced product. This is a labour of
 
 # Music to listen to while waiting for your Hex
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/0eUUQ4rly8Q8PyJPWLgde2?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/2ncj0SrtsnWzol4SWMk54b?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<!-- <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/2ncj0SrtsnWzol4SWMk54b?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe> -->
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/5pqUqmwvL3WttryAIrBPYa?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/0L6mZK9XFXYOVeayI1t4A5?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 <!-- <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=4285996994/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://yeule.bandcamp.com/album/glitch-princess">Glitch Princess by yeule</a></iframe>
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=3273720229/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://bravelittleabacushampshire.bandcamp.com/album/just-got-back-from-the-discomfort-were-alright">Just Got Back From The Discomfort - We&#39;re Alright by Brave Little Abacus</a></iframe>
