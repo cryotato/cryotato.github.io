@@ -5,6 +5,14 @@
 layout: single
 author_profile: true
 comments: true
+sidebar:
+  - title: "TOMB"
+    # image: "/assets/images/your-image.jpg"
+    # image_alt: "image"
+    text: "Some text here."
+  - title: "Another Title"
+    text: "More text here."
+    nav: sidebar-sample
 ---
 hi ( •ω•ฅ）.｡.:*♡ ïm Ryan. everyϑiŋ ï do iꝬ to declare my identity ⅋ut ï døn't really have on̅e. ï aspire to be a [Concept](https://cryotato.github.io/blog/). ïm a schizor𖹭mantic iṋ ϑat way. 
 

@@ -25,7 +25,8 @@ document.addEventListener('DOMContentLoaded', function() {
     "YEAH, I JUST POPPED A BEAN, WATCH MY EYES GROW 噫，吾方吞靈丹，觀我目張 SIPPIN' HELLA LEAN, SMOKIN' HYDRO (YUH) 飲瓊漿兮復吸嘉禾 WHEN I HIT THE REEF, TURN IT TIDAL 及吾觸礁石，波濤頓起 GARY IS MY SHADOW, BITCH, HE GO WHEREVER I GO 加里隨我影，彼從吾所之 MEOW, MEOW, MEOW 喵，喵，喵 HA, GARY HIT 'EM WITH THE 哈，加里擊之以 MEOW, MEOW, MEOW 喵，喵，喵 HA, GARY HIT 'EM WITH THE 哈，加里擊之以 MEOW, MEOW, MEOW 喵，喵，喵 HA, GARY HIT 'EM WITH THE 哈，加里擊之以 MEOW, MEOW, MEOW (OOH, AHHH) 喵，喵，喵 (嗚，啊)",
     "¸¸♬·¯·♩¸¸♪·¯·♫¸¸¸♬·¯·♩¸¸♪·¯·♫¸¸♬·¯·♩¸¸♪·¯·♫¸¸¸♬·¯·♩¸¸♪·¯·♫¸¸♬·¯·♩¸¸♪·¯·♫¸¸¸♬·¯·♩¸¸♪·¯·♫¸¸♬·¯·♩¸¸♪·¯·♫¸¸¸♬·¯·♩¸¸♪·¯·♫¸¸♬·¯·♩¸¸♪·¯·♫¸¸¸♬·¯·♩¸¸♪·¯·♫¸¸♬·¯·♩¸¸♪·¯·♫¸¸¸♬·¯·♩¸¸♪·¯·♫¸¸♬·¯·♩¸¸♪·¯·♫¸¸¸♬·¯·♩¸¸♪·¯·♫¸¸♬·¯·♩¸¸♪·¯·♫¸¸¸♬·¯·♩¸¸♪·¯·♫¸¸♬·¯·♩¸¸♪·¯·♫¸¸¸♬·¯·♩¸¸♪·¯·♫¸¸♬·¯·♩¸¸♪·¯·♫¸¸¸♬·¯·♩¸¸♪·¯·♫¸¸♬·¯·♩¸¸♪·¯·♫¸¸¸♬·¯·♩¸¸♪·¯·♫¸¸♬·¯·♩¸¸♪·¯·♫¸¸¸♬·¯·♩¸¸♪·¯·♫",
     "왜 깼는지 머리맡 톱니바퀴 깨졌는지 안개밟고… 어두워도 희미해도 검은 막 뒤 가려진 天地 손을 건넬지? 오 안개밟고 안개밟고 해는 뜨고 흘러 떠내려가 썰물이 빠져나가듯 묽혀진 記憶 밤길을 向해 떠내려 보내 호젓함 오 호젓함, 느낄 수 있니? 이것조차 희미하니? 왜 깼는지 머리맡 톱니바퀴 깨졌는지 안개밟고… 어두워도 희미해도 검은 막 뒤 가려진 天地 손을 건넬지? 오 안개밟고 안개밟고 해는 뜨고 흘러 떠내려가 썰물이 빠져나가듯 묽혀진 記憶 밤길을 向해 떠내려 보내 호젓함 오 호젓함, 느낄 수 있니? 이것조차 희미하니?",
-    "OVXX ON BANDCAMP, NOW 100% OFF!! 可免費下載の音樂 OVXX ON BANDCAMP, NOW 100% OFF!! 可免費下載の音樂 OVXX ON BANDCAMP, NOW 100% OFF!! 可免費下載の音樂 OVXX ON BANDCAMP, NOW 100% OFF!! 可免費下載の音樂 OVXX ON BANDCAMP, NOW 100% OFF!! 可免費下載の音樂 OVXX ON BANDCAMP, NOW 100% OFF!! 可免費下載の音樂"
+    "OVXX ON BANDCAMP, NOW 100% OFF!! 可免費下載の音樂 OVXX ON BANDCAMP, NOW 100% OFF!! 可免費下載の音樂 OVXX ON BANDCAMP, NOW 100% OFF!! 可免費下載の音樂 OVXX ON BANDCAMP, NOW 100% OFF!! 可免費下載の音樂 OVXX ON BANDCAMP, NOW 100% OFF!! 可免費下載の音樂 OVXX ON BANDCAMP, NOW 100% OFF!! 可免費下載の音樂",
+    "无产阶级文化大革命万岁 无产阶级文化大革命万岁 无产阶级文化大革命万岁 无产阶级文化大革命万岁 无产阶级文化大革命万岁 无产阶级文化大革命万岁 无产阶级文化大革命万岁 无产阶级文化大革命万岁 无产阶级文化大革命万岁 无产阶级文化大革命万岁 无产阶级文化大革命万岁 无产阶级文化大革命万岁 无产阶级文化大革命万岁 无产阶级文化大革命万岁 无产阶级文化大革命万岁"
   ];
 
   // --- Configuration ---
