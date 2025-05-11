@@ -16,7 +16,7 @@ comments: true
 ---
 <b>
 　　　　 ＿＿ _＿<br>
-　　　／| ∧_∧   |     welcome !!!<br>
+　　　／| ∧__∧   |     welcome !!!<br>
 　　　||.(•ω• ) |　　come iṋ !! .｡.:*♡<br>
 　　　||oと.　   |<br>
 　　　||　|（__ |<br>
