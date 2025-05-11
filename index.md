@@ -20,6 +20,8 @@ hi ( •ω•ฅ）.｡.:*♡ ïm Ryan 淼子尘[^1]. everyϑiŋ ï do iꝬ to d
 
 [^2]: as "xͤplained" iṋ Deleuze & Guattari's Anti-Œdipus "No chain is homogeneous; all of them resemble, rather, a succession of characters from different alphabets in which an ideogram, a pictogram, a tiny image of an elephant passing by, or a rising sun may suddenly make its appearance. In a chain that mixes together phonemes, morphemes, etc., without combining them, papa's mustache, mama's upraised arm, a ribbon, a little girl, a cop, a shoe suddenly turn up. Each chain captures fragments of other chains from which it "extracts" a surplus value, just as the orchid code "attracts" the figure of a wasp: both phenomena demonstrate the surplus value of a code. [...] Schizzes have to do with heterogeneous chains, and as their basic unit use detachable segments or mobile stocks resembling building blocks or flying bricks. We must conceive of each brick as having been launched from a distance and as being composed of heterogeneous elements: containing within it not only an inscription with signs from different alphabets, but also various figures, plus one or several straws, and perhaps a corpse."
 
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡀⠀⠀⠀⠀ ⠀⠀⠀⠀⢀⡴⣆⠀⠀⠀⠀⠀⣠⡀⠀⠀⠀⠀⠀⠀⣼⣿⡗⠀⠀⠀⠀ ⠀⠀⠀⣠⠟⠀⠘⠷⠶⠶⠶⠾⠉⢳⡄⠀⠀⠀⠀⠀⣧⣿⠀⠀⠀⠀⠀ ⠀⠀⣰⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢻⣤⣤⣤⣤⣤⣿⢿⣄⠀⠀⠀⠀ ⠀⠀⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣧⠀⠀⠀⠀⠀⠀⠙⣷⡴⠶⣦ ⠀⠀⢱⡀⠀⠉⠉⠀⠀⠀⠀⠛⠃⠀⢠⡟⠀⠀⠀⢀⣀⣠⣤⠿⠞⠛⠋ ⣠⠾⠋⠙⣶⣤⣤⣤⣤⣤⣀⣠⣤⣾⣿⠴⠶⠚⠋⠉⠁⠀⠀⠀⠀⠀⠀ ⠛⠒⠛⠉⠉⠀⠀⠀⣴⠟⢃⡴⠛⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠛⠛⠋⠁⠀⠀⠀⠀⠀⠀⠀
+
 
 <!-- ![](/assets/images/artifactspain.jpeg) -->
 <div align="right">
