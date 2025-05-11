@@ -15,13 +15,13 @@ comments: true
 
 ---
 <b>
-`　　　　 ＿＿ ＿<br>
+　　　　 ＿＿ ＿<br>
 　　　／| ∧＿∧  |     welcome !!!<br>
 　　　||.(•ω• ) |　　come iṋ !! .｡.:*♡<br>
 　　　||oと.　   |<br>
 　　　||　|（__ |<br>
 　　　||／彡￣<br>
-`
+
 </b>
 
 ïm Ryan 淼子尘[^1]. everyϑiŋ ï do iꝬ to declare my identity ⅋ut ï døn't really have on̅e. ï aspire to be a [Concept](https://cryotato.github.io/blog/), ïm a schizor𖹭mantic iṋ ϑat way. ïm from everywhere ⅋ nøwhere. hold ᴜ̊r breath c∵z ï diffuse iṋto ϑin air! ï am a ʃhort circuit!!
