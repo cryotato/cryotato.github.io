@@ -6,12 +6,12 @@ layout: single
 author_profile: true
 comments: true
 # docs:
-#   - title: Corner
-#     children:
-#       - title: 龕 ʃhrine
-#         url: /docs/shrine/
-#       - title: Neighbours 
-#         url: /docs/neighbours/
+  - title: 旮旯
+    children:
+      - title: 龕 ʃhrine
+        url: /docs/shrine/
+      - title: 邑 neighbours 
+        url: /docs/neighbours/
 
 ---
 <b>
