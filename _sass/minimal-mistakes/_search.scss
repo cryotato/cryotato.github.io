@@ -9,7 +9,7 @@
 }
 
 .search__toggle {
-  margin-inline: 1rem;
+  /* margin handled globally in _masthead.scss */
   border: 0;
   outline: none;
   color: $primary-color;
