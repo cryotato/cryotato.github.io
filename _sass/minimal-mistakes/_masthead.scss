@@ -96,7 +96,7 @@
   display: inline-block; /* Revert from inline-flex */
   /* align-items and justify-content removed, handled specifically below */
   vertical-align: middle; /* Align buttons vertically */
-  margin-inline-start: 1rem; /* Add space between buttons */
+  /* margin-inline-start removed, handled by adjacent sibling selectors below */
   padding: 0; /* Remove default padding if any */
   height: $nav-height; /* Match nav item height */
   width: $nav-height; /* Match nav item height for square buttons */
@@ -120,3 +120,9 @@
   justify-content: center;
 }
 /* Spacing is now handled consistently by the common rule above */
+
+/* Add margin only between adjacent action buttons */
+.search__toggle + .theme-toggle,
+.theme-toggle + .greedy-nav__toggle {
+  margin-inline-start: 1rem;
+}
