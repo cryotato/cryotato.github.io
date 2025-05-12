@@ -93,9 +93,10 @@
 .search__toggle,
 .theme-toggle,
 .greedy-nav__toggle {
-  display: inline-block; /* Revert from inline-flex */
-  /* align-items and justify-content removed, handled specifically below */
-  vertical-align: middle; /* Align buttons vertically */
+  display: inline-flex; /* Use flex to center content (icon/navicon) */
+  align-items: center; /* Vertically center content */
+  justify-content: center; /* Horizontally center content */
+  vertical-align: middle; /* Align buttons vertically with text/other inline elements */
   /* margin-inline-start removed, handled by adjacent sibling selectors below */
   padding: 0; /* Remove default padding if any */
   height: $nav-height; /* Match nav item height */
@@ -112,13 +113,6 @@
   }
 }
 
-/* Apply flex centering only to search and theme toggles */
-.search__toggle,
-.theme-toggle {
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-}
 /* Spacing is now handled consistently by the common rule above */
 
 /* Add margin only between adjacent action buttons */
