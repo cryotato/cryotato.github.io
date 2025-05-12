@@ -42,8 +42,7 @@ PLEASE SAY HI [聊] -->
 
 <!--
 to-do:
-- random picture of me on this page when refreshed!
-- moon icon when in light mode and sun icon when in dark mode for theme icon
+- random picture of me as avatar whenever refreshed? like tom7. it can have like the thick square border or maybe just picture on this page?
 - a script where they cursor can push around characters in text and everything sounds fun
 - make header sticky but hides when you scroll down.
 - scrobbles widget "playing now" or last played song or current "obsession" on the right sidebar of index page.
