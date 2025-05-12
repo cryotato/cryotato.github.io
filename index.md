@@ -5,14 +5,8 @@
 layout: single
 author_profile: true
 comments: true
-docs:
-  - title: 旮旯
-    children:
-      - title: 龕 ʃhrine
-        url: /docs/shrine/
-      - title: 邑 neighbours 
-        url: /docs/neighbours/
-
+sidebar:
+  nav: "docs"
 ---
 <b>
 　　　　 ＿＿ ＿<br>

@@ -15,3 +15,11 @@ main:
   # - title: "Me"
   #   url: /me/
   # actually i could make the index homepage the me page with all the links..
+
+docs:
+  - title: 旮旯
+    children:
+      - title: 龕 ʃhrine
+        url: /docs/shrine/
+      - title: 邑 neighbours 
+        url: /docs/neighbours/
