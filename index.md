@@ -54,6 +54,8 @@ to-do:
 - figure out SEO stuff in docs
 - fix up in experience page, add thumbnails, remove unwanted breaks in between pictures., autoplay youtube video muted. at HD, maybe dont use youtube embed
 - maybe fix the structure of how the pages are managed in general? so in experience and lapses can be intertwined with each tag having its own page? 
+- kaomoglish translator
+- language changing button?
 
 
 -->
