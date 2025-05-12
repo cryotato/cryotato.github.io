@@ -207,7 +207,7 @@
 
   &__toggle {
     -ms-flex-item-align: center;
-    /* align-self handled globally */
+    align-self: center; /* Restore vertical alignment within masthead */
     /* height handled globally */
     /* border handled globally */
     /* outline handled globally */

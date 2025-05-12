@@ -93,9 +93,9 @@
 .search__toggle,
 .theme-toggle,
 .greedy-nav__toggle {
-  display: inline-flex; /* Use flex to center icon */
-  align-items: center; /* Vertically center icon */
-  justify-content: center; /* Horizontally center icon */
+  display: inline-block; /* Revert from inline-flex */
+  /* align-items and justify-content removed, handled specifically below */
+  vertical-align: middle; /* Align buttons vertically */
   margin-inline-start: 1rem; /* Add space between buttons */
   padding: 0; /* Remove default padding if any */
   height: $nav-height; /* Match nav item height */
@@ -112,4 +112,11 @@
   }
 }
 
+/* Apply flex centering only to search and theme toggles */
+.search__toggle,
+.theme-toggle {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
 /* Spacing is now handled consistently by the common rule above */
