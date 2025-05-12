@@ -98,8 +98,8 @@
   justify-content: center; /* Horizontally center icon */
   margin-inline-start: 1rem; /* Add space between buttons */
   padding: 0; /* Remove default padding if any */
-  height: 2rem; /* Consistent height */
-  width: 2rem; /* Consistent width */
+  height: $nav-height; /* Match nav item height */
+  width: $nav-height; /* Match nav item height for square buttons */
   border: 0;
   outline: none;
   background-color: transparent;
