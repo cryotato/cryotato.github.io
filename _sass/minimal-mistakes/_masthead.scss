@@ -96,7 +96,7 @@
   display: inline-flex; /* Use flex to center content (icon/navicon) */
   align-items: center; /* Vertically center content */
   justify-content: center; /* Horizontally center content */
-  vertical-align: middle; /* Align buttons vertically with text/other inline elements */
+  /* vertical-align: middle; removed as flex properties should handle alignment */
   /* margin-inline-start removed, handled by adjacent sibling selectors below */
   padding: 0; /* Remove default padding if any */
   height: $nav-height; /* Match nav item height */
