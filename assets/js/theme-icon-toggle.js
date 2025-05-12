@@ -9,7 +9,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
   // Function to update the icon based on the current theme
   const updateIcon = () => {
-    const isDarkMode = document.documentElement.classList.contains('dark');
+    const isDarkMode = document.body.classList.contains('dark-mode');
     // Use 'far fa-moon' for light mode and 'fas fa-sun' for dark mode
     themeIcon.className = isDarkMode ? 'fas fa-sun' : 'far fa-moon';
     // Update the title attribute as well
@@ -37,7 +37,7 @@ document.addEventListener('DOMContentLoaded', () => {
   });
 
   // Observe changes to the class attribute of the <html> element
-  observer.observe(document.documentElement, { attributes: true });
+  observer.observe(document.body, { attributes: true, childList: false, subtree: false });
 
   // Optional: Disconnect observer if the button is removed (unlikely but good practice)
   // You might need a more sophisticated way to handle DOM changes if the button can be dynamically removed/added.
