@@ -207,12 +207,65 @@
 
   &__toggle {
     -ms-flex-item-align: center;
-    align-self: center;
-    height: $nav-toggle-height;
-    border: 0;
-    outline: none;
-    background-color: transparent;
-    cursor: pointer;
+    /* align-self handled globally */
+    /* height handled globally */
+    /* border handled globally */
+    /* outline handled globally */
+    /* background-color handled globally */
+    /* cursor handled globally */
+
+    /* Keep navicon styles specific */
+    .navicon {
+      position: relative;
+      width: $navicon-width;
+      height: $navicon-height;
+      background: $masthead-link-color;
+      border-radius: $border-radius;
+      transition: background 0.2s ease-out;
+
+      &::before,
+      &::after {
+        content: "";
+        position: absolute;
+        left: 0;
+        width: $navicon-width;
+        height: $navicon-height;
+        background: $masthead-link-color;
+        border-radius: $border-radius;
+        transition: transform 0.2s ease-out, background 0.2s ease-out;
+      }
+
+      &::before {
+        top: ($navicon-height * 2);
+      }
+
+      &::after {
+        top: -($navicon-height * 2);
+      }
+    }
+
+    &:hover {
+      .navicon,
+      .navicon::before,
+      .navicon::after {
+        background: $masthead-link-color-hover;
+      }
+    }
+
+    /* Navicon animation */
+    &.active {
+      .navicon {
+        background: transparent; /* hide middle line */
+
+        &::before {
+          transform: translateY(-($navicon-height * 2)) rotate(-45deg);
+        }
+
+        &::after {
+          transform: translateY($navicon-height * 2) rotate(45deg);
+        }
+      }
+    }
   }
 
   .visible-links {

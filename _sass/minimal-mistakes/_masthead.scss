@@ -89,3 +89,40 @@
     font-weight: 700;
   }
 }
+/* Common styles for masthead action buttons */
+.search__toggle,
+.theme-toggle,
+.greedy-nav__toggle {
+  display: inline-flex; /* Use flex to center icon */
+  align-items: center; /* Vertically center icon */
+  justify-content: center; /* Horizontally center icon */
+  margin-inline-start: 1rem; /* Add space between buttons */
+  padding: 0; /* Remove default padding if any */
+  height: 2rem; /* Consistent height */
+  width: 2rem; /* Consistent width */
+  border: 0;
+  outline: none;
+  background-color: transparent;
+  color: $masthead-link-color; /* Use masthead link color */
+  cursor: pointer;
+  transition: color 0.2s ease-out;
+
+  &:hover {
+    color: $masthead-link-color-hover;
+  }
+}
+
+/* Remove margin from the first button if it's the search toggle */
+.visible-links + .search__toggle {
+  margin-inline-start: 0;
+}
+
+/* Ensure theme toggle also has margin if search is disabled */
+.visible-links + .theme-toggle {
+   margin-inline-start: 1rem;
+}
+
+/* Specific override for greedy-nav toggle if it's the first/only button */
+.visible-links + .greedy-nav__toggle {
+   margin-inline-start: 1rem;
+}
