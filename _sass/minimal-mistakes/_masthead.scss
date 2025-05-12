@@ -112,17 +112,4 @@
   }
 }
 
-/* Remove margin from the first button if it's the search toggle */
-.visible-links + .search__toggle {
-  margin-inline-start: 0;
-}
-
-/* Ensure theme toggle also has margin if search is disabled */
-.visible-links + .theme-toggle {
-   margin-inline-start: 1rem;
-}
-
-/* Specific override for greedy-nav toggle if it's the first/only button */
-.visible-links + .greedy-nav__toggle {
-   margin-inline-start: 1rem;
-}
+/* Spacing is now handled consistently by the common rule above */
