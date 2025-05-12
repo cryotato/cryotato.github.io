@@ -4,9 +4,9 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: single
 author_profile: true
-comments: true
-sidebar:
-  nav: "docs"
+# comments: true
+# sidebar:
+#   nav: "docs"
 ---
 <b>
 　　　　 ＿＿ ＿<br>

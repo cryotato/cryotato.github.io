@@ -6,9 +6,9 @@ main:
     url: /blog/ 
   - title: "iṋ experience"
     url: /portfolio/
-  - title: "HEX. COMING SOON"
-    url: /shop/
-  - title: "commission me!"
+  # - title: "HEX. COMING SOON"
+  #   url: /shop/
+  - title: "commissions: open"
     url: /commissions/
   - title: "ᴜ̊'ve got mail"
     url: /mail/
@@ -16,10 +16,10 @@ main:
   #   url: /me/
   # actually i could make the index homepage the me page with all the links..
 
-docs:
-  - title: 旮旯
-    children:
-      - title: 龕 ʃhrine
-        url: /docs/shrine/
-      - title: 邑 neighbours 
-        url: /docs/neighbours/
+# docs:
+#   - title: 旮旯
+#     children:
+#       - title: 龕 ʃhrine
+#         url: /docs/shrine/
+#       - title: 邑 neighbours 
+#         url: /docs/neighbours/
