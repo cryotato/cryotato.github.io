@@ -5,7 +5,7 @@
 layout: single
 author_profile: true
 comments: true
-# docs:
+docs:
   - title: 旮旯
     children:
       - title: 龕 ʃhrine
