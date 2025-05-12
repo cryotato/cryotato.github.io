@@ -11,7 +11,7 @@ document.addEventListener('DOMContentLoaded', () => {
   const updateIcon = () => {
     const isDarkMode = document.body.classList.contains('dark-mode');
     // Use 'far fa-moon' for light mode and 'fas fa-sun' for dark mode
-    themeIcon.className = isDarkMode ? 'fas fa-sun' : 'far fa-moon';
+    themeIcon.className = isDarkMode ? 'fas fa-sun' : 'fas fa-moon';
     // Update the title attribute as well
     themeToggleButton.title = isDarkMode ? 'Switch to light mode' : 'Switch to dark mode';
   };
