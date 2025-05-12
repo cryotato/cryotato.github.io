@@ -69,7 +69,7 @@ author:
       url: "https://www.behance.net/ryanmeow"
     # - label: "slayvery 工"
     #   icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/ovxx/"   
+    #   url: "https://www.linkedin.com/in/ovxx/"
     - label: "pirate OVXX 竊"
       icon: "fab fa-fw fa-bandcamp"
       url: "https://ovxx.bandcamp.com/"
@@ -171,6 +171,7 @@ after_footer_scripts:
   - /assets/js/scroll-color-change.js
   # - /assets/js/smooth-scroll.js
   - /assets/js/marquee.js
+  - /assets/js/theme-icon-toggle.js
 
 collections:
   portfolio:
