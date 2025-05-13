@@ -42,17 +42,15 @@ PLEASE SAY HI [聊] -->
 
 <!--
 to-do:
-- OVXX music archive!
+- fix up in experience page, add thumbnails, remove unwanted breaks in between pictures., autoplay youtube video muted. at HD, maybe dont use youtube embed
 - make header and author profile sticky but hides when you scroll down and comes back up when you scroll up.
 - scrobbles widget "playing now" or last played song or current "obsession" on the right sidebar of index page.
 - make lamby my neihboure
 - shrine -- PIU, what else?
-- kaomojis page?
+- kaomojis n kaomoglish translator, kaomoglish dictionary
 - RYM stats and reviews page?? and goodreads too? currently reading?
 - figure out SEO stuff in docs
-- fix up in experience page, add thumbnails, remove unwanted breaks in between pictures., autoplay youtube video muted. at HD, maybe dont use youtube embed
 - maybe fix the structure of how the pages are managed in general? so in experience and lapses can be intertwined with each tag having its own page? 
-- kaomoglish translator
 - language changing button?
 
 
