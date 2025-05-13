@@ -1,8 +1,6 @@
 ---
 
 ---
-
-
 @charset "utf-8";
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
@@ -751,4 +749,14 @@ button:hover, .btn:hover {
   .sidebar__right {
     display: none;
   }
+}
+/* Custom Avatar Caption Styles */
+.author__avatar-caption {
+  display: block; /* Ensure it takes its own line */
+  font-style: italic;
+  font-size: 0.7em; 
+  text-align: right; 
+  margin-bottom: 0.5em; /* Add some space below the caption, before the image */
+  color: var(--dark); /* Match your dark text color */
+  text-shadow: var(--l-shadow); /* Match your light text shadow */
 }
