@@ -29,7 +29,7 @@ document.addEventListener('DOMContentLoaded', function() {
     { src: '/assets/images/my_avatars/20250507_131734.jpg', caption: 'May 7, 2025 (2)' },
     { src: '/assets/images/my_avatars/20250507_220022.jpg', caption: 'May 7, 2025 (3)' },
     { src: '/assets/images/my_avatars/20250512_112719.jpg', caption: 'May 12, 2025' },
-    { src: '/assets/images/my_avatars/BeautyPlus_20241009014259015_save.jpg', caption: 'BeautyPlus Edit' },
+    { src: '/assets/images/my_avatars/BeautyPlus_20241009014259015_save.jpg', caption: 'KitterChord Thing' },
     { src: '/assets/images/my_avatars/DSC_1055.jpg', caption: 'DSC 1055' },
     { src: '/assets/images/my_avatars/DSC_1058.jpg', caption: 'DSC 1058' },
     { src: '/assets/images/my_avatars/DSC_1063.jpg', caption: 'DSC 1063' },
@@ -42,10 +42,10 @@ document.addEventListener('DOMContentLoaded', function() {
     { src: '/assets/images/my_avatars/IMG_6532.jpg', caption: 'IMG 6532' },
     { src: '/assets/images/my_avatars/IMG_20210629_074704.jpg', caption: 'Jun 29, 2021' },
     { src: '/assets/images/my_avatars/IMG_20231024_162542_274-01.jpeg', caption: 'Oct 24, 2023' },
-    { src: '/assets/images/my_avatars/IMG-20190513-WA0001.jpg', caption: 'May 13, 2019 (WhatsApp)' },
-    { src: '/assets/images/my_avatars/IMG-20221230-WA0007-02.jpeg', caption: 'Dec 30, 2022 (WhatsApp)' },
-    { src: '/assets/images/my_avatars/MVIMG_20211018_142459.jpg', caption: 'Oct 18, 2021 (Motion)' },
-    { src: '/assets/images/my_avatars/MVIMG_20220817_025823.jpg', caption: 'Aug 17, 2022 (Motion)' },
+    { src: '/assets/images/my_avatars/IMG-20190513-WA0001.jpg', caption: 'May 13, 2019' },
+    { src: '/assets/images/my_avatars/IMG-20221230-WA0007-02.jpeg', caption: 'Dec 30, 2022' },
+    { src: '/assets/images/my_avatars/MVIMG_20211018_142459.jpg', caption: 'Oct 18, 2021' },
+    { src: '/assets/images/my_avatars/MVIMG_20220817_025823.jpg', caption: 'Aug 17, 2022' },
     { src: '/assets/images/my_avatars/Screenshot_20230903_013954_Grindr-01.jpeg', caption: 'Screenshot Sep 3, 2023' },
     { src: '/assets/images/my_avatars/tmp_754f5459-353e-443d-98f0-fb524a796579.png', caption: 'Temporary Image' }
   ];

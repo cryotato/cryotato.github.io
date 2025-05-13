@@ -42,9 +42,8 @@ PLEASE SAY HI [聊] -->
 
 <!--
 to-do:
-- random picture of me as avatar whenever refreshed? like tom7. it can have like the thick square border or maybe just picture on this page?
 - a script where they cursor can push around characters in text and everything sounds fun
-- make header sticky but hides when you scroll down.
+- make header and author profile sticky but hides when you scroll down and comes back up when you scroll up.
 - scrobbles widget "playing now" or last played song or current "obsession" on the right sidebar of index page.
 - make lamby my neihboure
 - shrine -- PIU, what else?
