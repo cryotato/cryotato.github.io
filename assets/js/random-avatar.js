@@ -19,7 +19,7 @@ document.addEventListener('DOMContentLoaded', function() {
     '/assets/images/my_avatars/20250219_200352.jpg',
     '/assets/images/my_avatars/20250225_120146.jpg',
     '/assets/images/my_avatars/20250227_210340.jpg',
-    '/assets/images/my_avatars/20250305_141154-ANIMATION.gif',
+    // '/assets/images/my_avatars/20250305_141154-ANIMATION.gif',
     '/assets/images/my_avatars/20250327_143251.jpg',
     '/assets/images/my_avatars/20250409_114652.jpg',
     '/assets/images/my_avatars/20250420_153011.jpg',
