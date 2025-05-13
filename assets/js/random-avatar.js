@@ -27,7 +27,7 @@ document.addEventListener('DOMContentLoaded', function() {
     { originalSrc: '/assets/images/my_avatars/20250429_105039.jpg', ditheredSrc: '/assets/images/my_avatars/dithered/dither_it_20250429_105039.jpg', caption: '20250429 105039' },
     // { src: '/assets/images/my_avatars/20250507_130538.jpg', caption: '20250507 130538' },
     // { src: '/assets/images/my_avatars/20250507_131734.jpg', caption: '20250507 131734' },
-    { originalSrc: '/assets/images/my_avatars/arcade_20230903_013954.jpeg', ditheredSrc: '/assets/images/my_avatars/dithered/dither_it_arcade_20230903_013954.jpeg', caption: 'Arcade 20230903 013954' },
+    { originalSrc: '/assets/images/my_avatars/arcade_20230903_013954.jpg', ditheredSrc: '/assets/images/my_avatars/dithered/dither_it_arcade_20230903_013954.jpg', caption: 'Arcade 20230903 013954' },
     { originalSrc: '/assets/images/my_avatars/biker.jpg', ditheredSrc: '/assets/images/my_avatars/dithered/dither_it_biker.jpg', caption: 'Biker' },
     // { src: '/assets/images/my_avatars/blender_20211018_142459.jpg', caption: 'Blender 20211018 142459' },
     { originalSrc: '/assets/images/my_avatars/coffee.jpg', ditheredSrc: '/assets/images/my_avatars/dithered/dither_it_coffee.jpg', caption: 'Coffee' },
@@ -41,13 +41,13 @@ document.addEventListener('DOMContentLoaded', function() {
     { originalSrc: '/assets/images/my_avatars/husbant_5942.jpg', ditheredSrc: '/assets/images/my_avatars/dithered/dither_it_husbant_5942.jpg', caption: 'Husbant' },
     { originalSrc: '/assets/images/my_avatars/iceskate-20190513-WA0001.jpg', ditheredSrc: '/assets/images/my_avatars/dithered/dither_it_iceskate-20190513-WA0001.jpg', caption: 'Iceskate 20190513 Wa0001' },
     // { src: '/assets/images/my_avatars/kitterchord_20241009014259015.jpg', caption: 'Kitterchord 20241009014259015' },
-    { originalSrc: '/assets/images/my_avatars/liberal_20231024_162542_274-01.jpeg', ditheredSrc: '/assets/images/my_avatars/dithered/dither_it_liberal_20231024_162542_274-01.jpeg', caption: 'Liberal 20231024 162542 274 01' },
+    { originalSrc: '/assets/images/my_avatars/liberal_20231024_162542_274-01.jpg', ditheredSrc: '/assets/images/my_avatars/dithered/dither_it_liberal_20231024_162542_274-01.jpg', caption: 'Liberal 20231024 162542 274 01' },
     // { src: '/assets/images/my_avatars/meeper_20250507_220022.jpg', caption: 'Meeper 20250507 220022' },
     { originalSrc: '/assets/images/my_avatars/prayer_6529.jpg', ditheredSrc: '/assets/images/my_avatars/dithered/dither_it_prayer_6529.jpg', caption: 'Prayer 6529' },
     { originalSrc: '/assets/images/my_avatars/slouchy.jpg', ditheredSrc: '/assets/images/my_avatars/dithered/dither_it_slouchy.jpg', caption: 'Slouchy' },
     { originalSrc: '/assets/images/my_avatars/thesadness_20210629_074704.jpg', ditheredSrc: '/assets/images/my_avatars/dithered/dither_it_thesadness_20210629_074704.jpg', caption: 'Thesadness 20210629 074704' },
     // { src: '/assets/images/my_avatars/toothbrush_20220817_025823.jpg', caption: 'Toothbrush 20220817 025823' },
-    { originalSrc: '/assets/images/my_avatars/vr-20221230-WA0007-02.jpeg', ditheredSrc: '/assets/images/my_avatars/dithered/dither_it_vr-20221230-WA0007-02.jpeg', caption: 'Vr 20221230 Wa0007 02' }
+    { originalSrc: '/assets/images/my_avatars/vr-20221230-WA0007-02.jpg', ditheredSrc: '/assets/images/my_avatars/dithered/dither_it_vr-20221230-WA0007-02.jpg', caption: 'Vr 20221230 Wa0007 02' }
   ];
 
   const randomIndex = Math.floor(Math.random() * avatarData.length);
