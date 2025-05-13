@@ -135,12 +135,9 @@
 
   img {
     max-width: 100%;
-    border-radius: 0; /* Remove roundness */
-
-    // @include breakpoint($large) {
-    //   padding: 0; /* Remove padding */
-    //   border: none; /* Remove border */
-    // }
+    border-radius: 0; /* Ensure no roundness */
+    border: var(--border-standard); /* Apply your custom border */
+    padding: 3px; /* Add a small padding around the image inside the border */
   }
 }
 
