@@ -760,13 +760,13 @@ button:hover, .btn:hover {
   color: var(--dark); /* Match your dark text color */
   text-shadow: var(--l-shadow); /* Match your light text shadow */
 }
-/* Prevent FOUC for random avatar */
-.author__avatar img.u-photo,
-.author__avatar .author__avatar-caption {
-  visibility: hidden; /* Initially hide them */
-}
+// /* Prevent FOUC for random avatar */
+// .author__avatar img.u-photo,
+// .author__avatar .author__avatar-caption {
+//   visibility: hidden; /* Initially hide them */
+// }
 
-.author__avatar.avatar-loaded img.u-photo,
-.author__avatar.avatar-loaded .author__avatar-caption {
-  visibility: visible; /* Show them once JS has loaded the content */
-}
+// .author__avatar.avatar-loaded img.u-photo,
+// .author__avatar.avatar-loaded .author__avatar-caption {
+//   visibility: visible; /* Show them once JS has loaded the content */
+// }
