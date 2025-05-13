@@ -172,6 +172,7 @@ after_footer_scripts:
   # - /assets/js/smooth-scroll.js
   - /assets/js/marquee.js
   - /assets/js/theme-icon-toggle.js
+  - /assets/js/random-avatar.js
 
 collections:
   portfolio:
