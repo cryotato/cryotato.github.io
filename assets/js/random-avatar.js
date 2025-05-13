@@ -22,7 +22,7 @@ document.addEventListener('DOMContentLoaded', function() {
     { src: '/assets/images/my_avatars/20250305_141154-ANIMATION.gif', caption: '20250305 141154 Animation' },
     // { src: '/assets/images/my_avatars/20250327_143251.jpg', caption: '20250327 143251' },
     // { src: '/assets/images/my_avatars/20250409_114652.jpg', caption: '20250409 114652' },
-    { src: '/assets/images/my_avatars/20250420_153011.jpg', caption: '20250420 153011' },
+    // { src: '/assets/images/my_avatars/20250420_153011.jpg', caption: '20250420 153011' },
     // { src: '/assets/images/my_avatars/20250420_191810.jpg', caption: '20250420 191810' },
     { src: '/assets/images/my_avatars/20250429_105039.jpg', caption: '20250429 105039' },
     // { src: '/assets/images/my_avatars/20250507_130538.jpg', caption: '20250507 130538' },
