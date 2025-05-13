@@ -134,13 +134,13 @@
   }
 
   img {
-    max-width: 110px;
+    max-width: 100%;
     border-radius: 0; /* Remove roundness */
 
-    @include breakpoint($large) {
-      padding: 0; /* Remove padding */
-      border: none; /* Remove border */
-    }
+    // @include breakpoint($large) {
+    //   padding: 0; /* Remove padding */
+    //   border: none; /* Remove border */
+    // }
   }
 }
 
