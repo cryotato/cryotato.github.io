@@ -38,7 +38,7 @@ document.addEventListener('DOMContentLoaded', function() {
     { src: '/assets/images/my_avatars/divinity_6532.jpg', caption: 'Divinity 6532' },
     { src: '/assets/images/my_avatars/dj.png', caption: 'Dj' },
     { src: '/assets/images/my_avatars/fire walk with me_20250512_112719.jpg', caption: 'Fire Walk With Me 20250512 112719' },
-    { src: '/assets/images/my_avatars/husbant_5942.jpg', caption: 'Husbant 5942' },
+    { src: '/assets/images/my_avatars/husbant_5942.jpg', caption: 'Husbant' },
     { src: '/assets/images/my_avatars/iceskate-20190513-WA0001.jpg', caption: 'Iceskate 20190513 Wa0001' },
     { src: '/assets/images/my_avatars/kitterchord_20241009014259015.jpg', caption: 'Kitterchord 20241009014259015' },
     { src: '/assets/images/my_avatars/liberal_20231024_162542_274-01.jpeg', caption: 'Liberal 20231024 162542 274 01' },
