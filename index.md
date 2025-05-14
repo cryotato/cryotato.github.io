@@ -25,13 +25,13 @@ author_profile: true
 
 
 <!-- ![](/assets/images/artifactspain.jpeg) -->
-<div align="right">
+<!-- <div align="right">
     <img src="/assets/images/artifactspain.jpeg" alt="consumption" width="400"/>
 </div>
 
 <div align="right">
     endless consumption - 20250227
-</div>
+</div> -->
 
 
 <!-- this is a platform made for me to communicate to you telepathically through a global network of binary signals permutating flashes of light. -->
