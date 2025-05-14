@@ -29,6 +29,8 @@ it wůldn't have changed ϑ'pervasive bleakness ï faced ϑrůout my teenage yea
 
 >> The current ruling ontology denies any possibility of a social causation of mental illness. The chemico-biologization of mental illness is of course strictly commensurate with its depoliticization. Considering mental illness an individual chemico-biological problem has enormous benefits for capitalism. First, it reinforces Capital’s drive towards atomistic individualization (you are sick because of your brain chemistry). Second, it provides an enormously lucrative market in which multinational pharmaceutical companies can peddle their pharmaceuticals (we can cure you with our SSRIs). It goes without saying that all mental illnesses are neurologically instantiated, but this says nothing about their causation. If it is true, for instance, that depression is constituted by low serotonin levels, what still needs to be explained is why particular individuals have low levels of serotonin. This requires a social and political explanation; and the task of repoliticizing mental illness is an urgent one if the left wants to challenge capitalist realism.
 
+## a model for ϑ'Enviro-mentalist dialectic
+
 ϑere seems to ∃xist ϑis triangular relationship of our environments, our insanity & our philosophies. ï døn't ϑink itꝬ fair to ever consider on̅e w/ø ϑ'oϑer. it iꝬ tempting to pit ϑem against eachoϑer, for example w/ philosophy o͡ver insanity & say "ïm killiŋ⌐╦̵̵̿ᡁ᠊╾━myself. ïm nøt ill. ϑere iꝬ nøϑiŋ wrøŋ. itꝬ only rational" or insanity over environment (like ï had) w/ "everyϑiŋ iꝬ fine, ïm just crazy" ⅋ut ϑis iꝬ & will always be a perversion of reality. 
 
 ï have nø decent way to end ϑis except to sꜽ ïm tired! 
