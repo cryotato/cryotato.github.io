@@ -583,7 +583,8 @@
     color: var(--dark) !important; /* Default dark text */
     text-shadow: var(--l-shadow) !important; /* Default WITH light shadow */
     font-weight: bold; /* Keep original bold weight */
-    font-family: monospace; /* Set font to monospace */
+    font-family: monospace, "Fairfax HD"; /* Set font to monospace */
+    font-size-adjust: from-font;
     text-decoration: none !important; /* Keep this !important */
     /* Add base background and return animation */
     background: var(--bg-1); /* Start bg-1 */
