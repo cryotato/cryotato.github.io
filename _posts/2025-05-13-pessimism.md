@@ -1,5 +1,5 @@
 ---
-title: "post-depessimism on life as art"
+title: "post-depessimism on life as art & ϑ'real"
 date: 2025-05-13T02:58:27.548+0000
 categories: [""]
 tags: ["politics","philosophy"]
