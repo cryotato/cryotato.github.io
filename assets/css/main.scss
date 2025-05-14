@@ -79,7 +79,7 @@
 body {
   background: var(--bg-0) !important;
   color: var(--dark) !important;
-  font-family: "Fairfax HD", monospace;
+  font-family: monospace, "Fairfax HD";
   font-size: 16px;
   text-shadow: var(--l-shadow) !important;
 }
@@ -92,7 +92,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Fairfax HD", monospace; // <<< CHANGED font stack
+  font-family: monospace, "Fairfax HD"; // <<< CHANGED font stack
   color: var(--dark) !important;
   text-shadow: var(--l-shadow) !important;
 }
@@ -117,7 +117,7 @@ blockquote p {
 }
 
 pre {
-  font-family: "Fairfax HD", monospace; // <<< CHANGED font stack
+  font-family: monospace, "Fairfax HD"; // <<< CHANGED font stack
   background: var(--bg-2);
   border: var(--border-standard); // Uses the new 1px border
   padding: 1em;
@@ -127,7 +127,7 @@ pre {
 }
 
 p code, li code, h1 code, h2 code, h3 code, h4 code, h5 code, h6 code {
-  font-family: "Fairfax HD", monospace; // <<< CHANGED font stack
+  font-family: monospace, "Fairfax HD"; // <<< CHANGED font stack
   background: var(--bg-1);
   border: 1px solid var(--dark); // Explicit 1px border here already
   padding: 0.1em 0.4em;
@@ -156,7 +156,7 @@ p code, li code, h1 code, h2 code, h3 code, h4 code, h5 code, h6 code {
   display: inline-block; /* Allow animation */
   /* padding-left: 100%; Removed for 4-copy version */
   /* Animation handled by JS */
-  font-family: "Fairfax HD", monospace; /* Match the site's font */
+  font-family: monospace, "Fairfax HD"; /* Match the site's font */
   font-size: 0.7em; /* Adjust font size if needed */
   font-weight: bold;
 }
@@ -170,7 +170,7 @@ p code, li code, h1 code, h2 code, h3 code, h4 code, h5 code, h6 code {
    Masthead (Header) Styles
    ========================================================================== */
 .masthead {
-  font-family: "Fairfax HD", monospace;
+  font-family: monospace, "Fairfax HD";
   background: var(--bg-7);
   color: var(--light);
   // border-bottom: var(--border-standard);
@@ -191,7 +191,7 @@ p code, li code, h1 code, h2 code, h3 code, h4 code, h5 code, h6 code {
 /* No height changes needed here typically */
 .masthead nav#site-nav a.site-title,
 .masthead .search__toggle {
-  font-family: "Fairfax HD", monospace;
+  font-family: monospace, "Fairfax HD";
   color: var(--light) !important;
   text-shadow: var(--d-shadow) !important;
   text-decoration: none;
@@ -210,7 +210,7 @@ p code, li code, h1 code, h2 code, h3 code, h4 code, h5 code, h6 code {
 
 /* Menu Items (Button Style with Animation) */
 .masthead .visible-links .masthead__menu-item a {
-  font-family: "Fairfax HD", monospace;
+  font-family: monospace, "Fairfax HD";
   display: inline-block;
   padding: 0.25em 1em; // <<< REDUCED vertical padding (was 0.5em)
   font-weight: bold;
@@ -311,7 +311,7 @@ p code, li code, h1 code, h2 code, h3 code, h4 code, h5 code, h6 code {
    Hidden Links (Greedy Nav Dropdown) Styles
    ========================================================================== */
 .hidden-links {
-  font-family: "Fairfax HD", monospace !important; // Ensure "Fairfax HD", monospace font
+  font-family: monospace, "Fairfax HD" !important; // Ensure monospace, "Fairfax HD" font
   background: var(--bg-3) !important; // Use bg-3 background
   border: 3px solid var(--dark) !important; // Thick dark border like TOC
   border-radius: 0 !important; // Remove default border-radius
@@ -327,7 +327,7 @@ p code, li code, h1 code, h2 code, h3 code, h4 code, h5 code, h6 code {
 }
 
 .hidden-links li {
-  font-family: "Fairfax HD", monospace !important;
+  font-family: monospace, "Fairfax HD" !important;
   border-bottom: none !important; // Remove default separators
   margin-bottom: 0.5em; // Add space between items
 
@@ -338,7 +338,7 @@ p code, li code, h1 code, h2 code, h3 code, h4 code, h5 code, h6 code {
 
 /* Style hidden links like header buttons */
 .hidden-links a {
-  font-family: "Fairfax HD", monospace !important;
+  font-family: monospace, "Fairfax HD" !important;
   display: inline-block;
   padding: 0.25em 1em;
   font-weight: bold;
@@ -379,7 +379,7 @@ p code, li code, h1 code, h2 code, h3 code, h4 code, h5 code, h6 code {
    Author URLs (Sidebar Links) Styles - Matching Hidden Links
    ========================================================================== */
 .author__urls {
-  font-family: "Fairfax HD", monospace !important;
+  font-family: monospace, "Fairfax HD" !important;
   background: var(--bg-3) !important; // Use bg-3 background
   border: 3px solid var(--dark) !important; // Thick dark border like TOC
   border-radius: 0 !important; // Remove default border-radius
@@ -395,7 +395,7 @@ p code, li code, h1 code, h2 code, h3 code, h4 code, h5 code, h6 code {
 }
 
 .author__urls li {
-  font-family: "Fairfax HD", monospace !important;
+  font-family: monospace, "Fairfax HD" !important;
   border-bottom: none !important; // Remove default separators if any
   margin-bottom: 0.5em; // Add space between items
 
@@ -406,7 +406,7 @@ p code, li code, h1 code, h2 code, h3 code, h4 code, h5 code, h6 code {
 
 /* Style author links like header/hidden buttons */
 .author__urls a {
-  font-family: "Fairfax HD", monospace !important;
+  font-family: monospace, "Fairfax HD" !important;
   display: inline-block;
   padding: 0.25em 1em;
   font-weight: bold;
@@ -461,7 +461,7 @@ p code, li code, h1 code, h2 code, h3 code, h4 code, h5 code, h6 code {
    Sidebar (Author) Styles
    ========================================================================== */
 .sidebar {
-  font-family: "Fairfax HD", monospace; // <<< CHANGED font stack
+  font-family: monospace, "Fairfax HD"; // <<< CHANGED font stack
   background: var(--bg-0);
   // border: var(--border-standard); // Uses the new 1px border
   padding: 1em;
@@ -477,7 +477,7 @@ p code, li code, h1 code, h2 code, h3 code, h4 code, h5 code, h6 code {
 .sidebar .author__bio,
 .sidebar .author__urls-label,
 .sidebar a {
-  font-family: "Fairfax HD", monospace; // <<< CHANGED font stack
+  font-family: monospace, "Fairfax HD"; // <<< CHANGED font stack
   color: var(--dark) !important;
   text-shadow: var(--l-shadow) !important;
 }
@@ -494,7 +494,7 @@ p code, li code, h1 code, h2 code, h3 code, h4 code, h5 code, h6 code {
    Footer Styles
    ========================================================================== */
 .page__footer {
-  font-family: "Fairfax HD", monospace; // <<< CHANGED font stack
+  font-family: monospace, "Fairfax HD"; // <<< CHANGED font stack
   background: var(--bg-2);
   border-top: var(--border-standard); // Uses the new 1px border
   padding: 0.1em 1em; // <<< REDUCED vertical padding (was 0.5em)
@@ -507,7 +507,7 @@ p code, li code, h1 code, h2 code, h3 code, h4 code, h5 code, h6 code {
 .page__footer span,
 .page__footer li,
 .page__footer a {
-  font-family: "Fairfax HD", monospace; // <<< CHANGED font stack
+  font-family: monospace, "Fairfax HD"; // <<< CHANGED font stack
   color: var(--dark) !important;
   text-shadow: var(--l-shadow) !important;
 }
@@ -524,7 +524,7 @@ p code, li code, h1 code, h2 code, h3 code, h4 code, h5 code, h6 code {
    Button Styles (.btn, button) - Using Header Menu Animation
    ========================================================================== */
 button, .btn {
-  font-family: "Fairfax HD", monospace;
+  font-family: monospace, "Fairfax HD";
   display: inline-block; // Needed for padding/sizing
   padding: 0.5em 1em; // Default padding
   font-weight: bold;
@@ -588,7 +588,7 @@ button:hover, .btn:hover {
    ========================================================================== */
 .search-input,
 .search-input::placeholder {
-  font-family: "Fairfax HD", monospace; // <<< CHANGED font stack
+  font-family: monospace, "Fairfax HD"; // <<< CHANGED font stack
 }
 .search-input {
   background: var(--bg-0);
@@ -622,7 +622,7 @@ button:hover, .btn:hover {
 
 .entries-list,
 .entries-list * { // Selects the container and all elements inside it
-  font-family: "Fairfax HD", monospace !important;
+  font-family: monospace, "Fairfax HD" !important;
 }
 
 /* Sticky Music Player Styles */
@@ -660,15 +660,15 @@ button:hover, .btn:hover {
     opacity: 0;
   }
 }
-/* Apply "Fairfax HD", monospace font to specific archive titles */
+/* Apply monospace, "Fairfax HD" font to specific archive titles */
 .archive__item-title {
-  font-family: "Fairfax HD", monospace;
+  font-family: monospace, "Fairfax HD";
 }
 /* ==========================================================================
    Pagination Pager Button Styles (Matching General Buttons)
    ========================================================================== */
 .pagination--pager {
-  font-family: "Fairfax HD", monospace;
+  font-family: monospace, "Fairfax HD";
   display: inline-block; // Needed for padding/sizing
   padding: 0.5em 1em; // Default padding
   font-weight: bold;
