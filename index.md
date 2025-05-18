@@ -43,6 +43,8 @@ PLEASE SAY HI [聊] -->
 
 <!--
 to-do:
+- change mail header into a logo
+- move commission status: open to index instead of having it in the header, maybe finish describing details of commissions
 - fix up in experience page, add thumbnails, remove unwanted breaks in between pictures., autoplay youtube video muted. at HD, maybe dont use youtube embed
 - make header and author profile sticky but hides when you scroll down and comes back up when you scroll up.
 - scrobbles widget "playing now" or last played song or current "obsession" on the right sidebar of index page.
