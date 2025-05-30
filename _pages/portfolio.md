@@ -11,7 +11,7 @@ classes: wide
 sort_order: reverse # forward (default), reverse
 ---
 
-<style>
+<!-- <style>
   /* --- Font Import --- */
   @font-face {
     font-family: 'Tuner';
@@ -28,124 +28,13 @@ sort_order: reverse # forward (default), reverse
     /* Add a fallback font stack */
     line-height: 1.5; /* Adjust for readability with Tuner */
   }
-
-  /* --- Layout Styling --- */
-  .resume-header {
-    margin-bottom: 20px;
-  }
-  .resume-header .name-line {
-    font-size: 1.8em; /* Adjust as needed */
-    font-weight: bold;
-    display: flex;
-    align-items: center;
-    flex-wrap: wrap; /* Allow wrapping for smaller screens */
-  }
-  .resume-header .name-line > * {
-    margin-right: 0.5em; /* Spacing between elements */
-  }
-  .resume-header .sign-name-svg {
-    height: 1.2em; /* Adjust size of SVG */
-    vertical-align: middle; /* Align with text */
-    display: inline-block;
-  }
-  .resume-header .pronunciation {
-    font-size: 0.8em;
-    color: #555; /* Lighter text for pronunciation */
-    display: block; /* On its own line */
-    margin-bottom: 5px;
-  }
-  .resume-header .title {
-    font-size: 1.3em;
-    font-weight: bold;
-    margin-top: 0.2em;
-  }
-
-  .resume-intro {
-    margin-bottom: 30px;
-  }
-
-  .resume-grid {
-    display: grid;
-    grid-template-columns: 2fr 1fr; /* Left column wider than right */
-    gap: 30px; /* Space between columns */
-  }
-
-  /* Responsive: Stack columns on smaller screens */
-  @media (max-width: 768px) {
-    .resume-grid {
-      grid-template-columns: 1fr; /* Single column */
-    }
-  }
-
-  .resume-section-title {
-    font-weight: bold;
-    font-size: 1.2em;
-    margin-top: 20px;
-    margin-bottom: 10px;
-    /* Optional: if you want a line similar to the original image */
-    /* border-bottom: 2px solid #ccc; */
-    /* padding-bottom: 5px; */
-    /* display: inline-block; */
-  }
-
-  .resume-subsection-title {
-    font-weight: bold;
-    font-size: 1.1em;
-    margin-top: 15px;
-    margin-bottom: 5px;
-  }
-
-  .resume-list {
-    list-style-type: none;
-    padding-left: 0;
-  }
-  .resume-list li {
-    margin-bottom: 4px;
-  }
-
-  .work-item, .academic-item {
-    margin-bottom: 15px;
-  }
-  .work-item p, .academic-item p {
-    margin: 2px 0;
-    font-size: 0.95em;
-  }
-  .work-item .details {
-    font-style: italic;
-    font-size: 0.9em;
-    padding-left: 15px; /* Indent details */
-    color: #333; /* Slightly darker for emphasis */
-  }
-
-  .contact-info p {
-    margin: 3px 0;
-  }
-
-  .qr-code-container {
-    margin-top: 15px;
-    /* text-align: right; /* Or center, depending on preference */
-  }
-  .qr-code-container img {
-    max-width: 100px; /* Adjust size */
-    display: block; /* Or inline-block if you want text next to it differently */
-    margin-bottom: 5px;
-  }
-  .qr-code-container .peek-text {
-    font-size: 0.8em;
-    display: block; /* Or inline */
-    text-align: center; /* If QR is centered */
-  }
-</style>
-
-<div class="resume-custom-font-area">
-
-  <p class="resume-intro">
+</style> -->
+<!-- <div class="resume-custom-font-area"> -->
+<div> 
     As a multidisciplinary art academic & maker, I'm always eager to learn something new –
     my ability to draw inspiration from anywhere fuels my passion & ambition, while my flexible work
     style keeps me adaptable & reliable in a team. So, here's to exploring new horizons!
   </p>
-
-  <div class="resume-grid">
     <!-- Left Column -->
     <div class="left-column">
       <h3 class="resume-section-title">力 SKILLS</h3>
@@ -252,21 +141,6 @@ sort_order: reverse # forward (default), reverse
         <li>C++</li>
         <li>C#</li>
       </ul>
-      <h3 class="resume-section-title">CONTACT & PORTFOLIO 圖</h3>
-      <div class="contact-info">
-        <p>ryovxx@gmail.com</p>
-        <p><a href="http://be.net/ryanmeow" target="_blank" rel="noopener noreferrer">be.net/ryanmeow</a></p>
-        <p>+44 7466 132733</p>
-      </div>
-      <div class="qr-code-container">
-        <!-- 
-          Generate your QR code pointing to your portfolio (e.g., be.net/ryanmeow)
-          and replace 'path/to/your/qr-code.png' with the actual path to the image.
-          You can upload the QR code image to your GitHub repo, e.g., in 'assets/images/'.
-        -->
-        <img src="https://api.qrserver.com/v1/create-qr-code/?size=100x100&data=https://be.net/ryanmeow" alt="QR Code for Portfolio">
-        <span class="peek-text">peek</span>
-      </div>
     </div>
   </div>
 </div>
