@@ -58,29 +58,6 @@ As a multidisciplinary art academic & maker, I'm always eager to learn something
         Music Production & Composition<br>
         Mixing & Mastering<br>
         DJing, Curation & Journalism
-    <br><br><br>
-    <strong>聿 ACADEMICS</strong><br><br>
-    <strong>Product Design Technology</strong><br>
-        BSc(Hons) (2023+)<br>
-        University of the West of England<br><br>
-    <strong>Digital Media Design</strong><br>
-        Diploma (2019 - 23)<br>
-        The One Academy<br><br>
-    <strong>Music Technology</strong><br>
-        Diploma (2018 - 19)<br>
-        Limkokwing University
-    <br><br><br>
-    <strong>I WORK EXPERIENCE</strong><br><br>
-    <strong>Front-of-House Restaurant Coordinator</strong><br>
-        Xing Long 興隆 (2024+)<br><br>
-    <strong>Gallery Assistant & Projection Mapper</strong><br>
-        Digital Art Gallery by Filamen (2023)<br><br>
-    <strong>Music Journalist</strong><br>
-        Shawn Zod (2022 - 23)<br><br>
-    <strong>Music Producer & Composer</strong><br>
-        ContraPoints (2019 - 21)<br>
-        *on films “Envy”, “Opulence”,*<br>
-        *“Transtrenders”, & “Men”*
   </div>
 
   <!-- Right Column -->
@@ -107,6 +84,34 @@ As a multidisciplinary art academic & maker, I'm always eager to learn something
     Microsoft 365<br>
     Linux
     <br><br><br>
+    </div>
+
+  <div style="display: flex; width: 100%; align-items: flex-start;">  
+    <strong>聿 ACADEMICS</strong><br><br>
+    <strong>Product Design Technology</strong><br>
+        BSc(Hons) (2023+)<br>
+        University of the West of England<br><br>
+    <strong>Digital Media Design</strong><br>
+        Diploma (2019 - 23)<br>
+        The One Academy<br><br>
+    <strong>Music Technology</strong><br>
+        Diploma (2018 - 19)<br>
+        Limkokwing University
+    <br><br><br>
+    <strong>I WORK EXPERIENCE</strong><br><br>
+    <strong>Front-of-House Restaurant Coordinator</strong><br>
+        Xing Long 興隆 (2024+)<br><br>
+    <strong>Gallery Assistant & Projection Mapper</strong><br>
+        Digital Art Gallery by Filamen (2023)<br><br>
+    <strong>Music Journalist</strong><br>
+        Shawn Zod (2022 - 23)<br><br>
+    <strong>Music Producer & Composer</strong><br>
+        ContraPoints (2019 - 21)<br>
+        *on films “Envy”, “Opulence”,*<br>
+        *“Transtrenders”, & “Men”*
+  </div>
+
+  <div style="width: 45%; text-align: right;">
     <strong>LANGUAGES 言</strong><br><br>
     English<br>
     Mandarin 華語<br>
@@ -118,6 +123,7 @@ As a multidisciplinary art academic & maker, I'm always eager to learn something
     C#
   </div>
 </div>
+
 ***
 
 
