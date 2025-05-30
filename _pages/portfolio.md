@@ -4,7 +4,7 @@ layout: collection
 permalink: /portfolio/
 collection: portfolio
 entries_layout: grid
-# classes: wide
+classes: wide
 # author_profile: true
 # show_excerpts: # true (default), false
 # sort_by: # date (default), title or any metadata key added to the collection's documents
@@ -138,20 +138,6 @@ sort_order: reverse # forward (default), reverse
 </style>
 
 <div class="resume-custom-font-area">
-
-  <div class="resume-header">
-    <div class="pronunciation">/ljaʊ dz tsən/</div>
-    <div class="name-line">
-      <span>RYAN LEO</span>
-      <span>|</span>
-      <span>廖子呈</span>
-      <span>|</span>
-      <img src="signname.svg" alt="Ryan Leo Sign Name" class="sign-name-svg">
-      <span>|</span>
-      <span>"OVXX"</span>
-    </div>
-    <div class="title">Product & Sound Designer.</div>
-  </div>
 
   <p class="resume-intro">
     As a multidisciplinary art academic & maker, I'm always eager to learn something new –
