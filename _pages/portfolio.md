@@ -11,11 +11,7 @@ author_profile: true
 sort_order: reverse # forward (default), reverse
 ---
 
-<!DOCTYPE html>
-<html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Ryan Leo - Product & Sound Designer</title>
     <style>
         body {
@@ -150,11 +146,9 @@ sort_order: reverse # forward (default), reverse
             <h1 class="name-line">RYAN LEO | 廖子呈 | <span class="icon" title="Media/Film Icon">🎬</span> | "OVXX"</h1>
             <p class="subtitle">Product & Sound Designer.</p>
         </header>
-
         <section class="about-me">
             <p>As a multidisciplinary art academic & maker, I'm always eager to learn something new – my ability to draw inspiration from anywhere fuels my passion & ambition, while my flexible work style keeps me adaptable & reliable in a team. So, here's to exploring new horizons!</p>
         </section>
-
         <div class="main-content">
             <div class="left-column">
                 <section class="skills section">
@@ -186,7 +180,6 @@ sort_order: reverse # forward (default), reverse
                         <li>DJing, Curation & Journalism</li>
                     </ul>
                 </section>
-
                 <section class="academics section">
                     <h2>聿 ACADEMICS</h2>
                     <div class="academic-item">
@@ -205,7 +198,6 @@ sort_order: reverse # forward (default), reverse
                         <span class="institution-dates">Limkokwing University</span>
                     </div>
                 </section>
-
                 <section class="work-experience section">
                     <h2>I WORK EXPERIENCE</h2>
                     <div class="work-item">
@@ -227,7 +219,6 @@ sort_order: reverse # forward (default), reverse
                     </div>
                 </section>
             </div>
-
             <div class="right-column">
                 <section class="toolkit section">
                     <h2>鼎 TOOLKIT</h2>
@@ -254,7 +245,6 @@ sort_order: reverse # forward (default), reverse
                         <li>Linux</li>
                     </ul>
                 </section>
-
                 <section class="languages section">
                     <h2>言 LANGUAGES</h2>
                     <ul class="languages-list">
@@ -268,7 +258,6 @@ sort_order: reverse # forward (default), reverse
                         <li>C#</li>
                     </ul>
                 </section>
-
                 <section class="contact-portfolio section contact-info">
                     <h2>圖 CONTACT & PORTFOLIO</h2>
                     <p>Email: <a href="mailto:ryovxx@gmail.com">ryovxx@gmail.com</a></p>
@@ -280,11 +269,8 @@ sort_order: reverse # forward (default), reverse
         </div>
     </div>
 </body>
-</html>
+
 This section is still in the works, it might make more sense to go to my [Behance](https://www.behance.net/ryanmeow)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/g9JDMQ1mcVI?si=RQnQ6qZswMxTkfUq&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-***
-
-<!-- change this to a CV stuff -->
