@@ -86,6 +86,8 @@ As a multidisciplinary art academic & maker, I'm always eager to learn something
     <br><br><br>
     </div>
 
+***
+
   <div style="display: flex; width: 100%; align-items: flex-start;">  
     <strong>聿 ACADEMICS</strong><br><br>
     <strong>Product Design Technology</strong><br>
