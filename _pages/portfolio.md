@@ -1,13 +1,13 @@
 ---
-<!-- title: corproart -->
+# title: corproart
 layout: collection
 permalink: /portfolio/
 collection: portfolio
 entries_layout: grid
-classes: wide
-author_profile: true
-<!-- # show_excerpts: # true (default), false
-# sort_by: # date (default), title or any metadata key added to the collection's documents -->
+# classes: wide
+# author_profile: true
+# show_excerpts: # true (default), false
+# sort_by: # date (default), title or any metadata key added to the collection's documents
 sort_order: reverse # forward (default), reverse
 ---
 
