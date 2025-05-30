@@ -30,120 +30,101 @@ sort_order: reverse # forward (default), reverse
   }
 </style> -->
 <!-- <div class="resume-custom-font-area"> -->
-<div> 
-    As a multidisciplinary art academic & maker, I'm always eager to learn something new –
-    my ability to draw inspiration from anywhere fuels my passion & ambition, while my flexible work
-    style keeps me adaptable & reliable in a team. So, here's to exploring new horizons!
-  </p>
-    <!-- Left Column -->
-    <div class="left-column">
-      <h3 class="resume-section-title">力 SKILLS</h3>
-      <div>
-        <h4 class="resume-subsection-title">Digital Fabrication</h4>
-        <ul class="resume-list">
-          <li>Computer-Aided Design (CAD)</li>
-          <li>3D Prototyping & Printing</li>
-          <li>Product Design</li>
-          <li>Programming</li>
-          <li>PCB Design</li>
-          <li>Design for Manufacture</li>
-        </ul>
-      </div>
-      <div>
-        <h4 class="resume-subsection-title">Multimedia Art</h4>
-        <ul class="resume-list">
-          <li>VR, Game & Web Development</li>
-          <li>Interaction Design & UIUX</li>
-          <li>3D Modelling & Motion</li>
-          <li>Graphics & Typography</li>
-          <li>Video Production & Editing</li>
-          <li>Projection Mapping & VDJing</li>
-          <li>Creative Strategy Marketing</li>
-          <li>Art Direction</li>
-        </ul>
-      </div>
-      <div>
-        <h4 class="resume-subsection-title">Sound Design</h4>
-        <ul class="resume-list">
-          <li>Music Production & Composition</li>
-          <li>Mixing & Mastering</li>
-          <li>DJing, Curation & Journalism</li>
-        </ul>
-      </div>
-      <h3 class="resume-section-title">聿 ACADEMICS</h3>
-      <div class="academic-item">
-        <h4 class="resume-subsection-title">Product Design Technology</h4>
-        <p>BSc(Hons) (2023+)</p>
-        <p>University of the West of England</p>
-      </div>
-      <div class="academic-item">
-        <h4 class="resume-subsection-title">Digital Media Design</h4>
-        <p>Diploma (2019 - 23)</p>
-        <p>The One Academy</p>
-      </div>
-      <div class="academic-item">
-        <h4 class="resume-subsection-title">Music Technology</h4>
-        <p>Diploma (2018 - 19)</p>
-        <p>Limkokwing University</p>
-      </div>
-      <h3 class="resume-section-title">I WORK EXPERIENCE</h3>
-      <div class="work-item">
-        <h4 class="resume-subsection-title">Front-of-House Restaurant Coordinator</h4>
-        <p>Xing Long 興隆 (2024+)</p>
-      </div>
-      <div class="work-item">
-        <h4 class="resume-subsection-title">Gallery Assistant & Projection Mapper</h4>
-        <p>Digital Art Gallery by Filamen (2023)</p>
-      </div>
-      <div class="work-item">
-        <h4 class="resume-subsection-title">Music Journalist</h4>
-        <p>Shawn Zod (2022 - 23)</p>
-      </div>
-      <div class="work-item">
-        <h4 class="resume-subsection-title">Music Producer & Composer</h4>
-        <p>ContraPoints (2019 - 21)</p>
-        <p class="details">on films “Envy”, “Opulence”, “Transtrenders” & “Men”</p>
-      </div>
-    </div>
-    <!-- Right Column -->
-    <div class="right-column">
-      <h3 class="resume-section-title">TOOLKIT 鼎</h3>
-      <ul class="resume-list">
-        <li>Arduino</li>
-        <li>Rhinoceros 3D</li>
-        <li>Solidworks</li>
-        <li>Fusion 360</li>
-        <li>Luxion Keyshot</li>
-        <li>UltiMaker Cura</li>
-        <li>Inventables Easel</li>
-        <li>Unity</li>
-        <li>Blender</li>
-        <li>Cinema 4D</li>
-        <li>Adobe Illustrator</li>
-        <li>Adobe Photoshop</li>
-        <li>Adobe After Effects</li>
-        <li>Adobe Premiere Pro</li>
-        <li>Adobe XD & InDesign</li>
-        <li>Touchdesigner</li>
-        <li>Resolume Arena</li>
-        <li>FL Studio</li>
-        <li>Microsoft 365</li>
-        <li>Linux</li>
-      </ul>
-      <h3 class="resume-section-title">LANGUAGES 言</h3>
-      <ul class="resume-list">
-        <li>English</li>
-        <li>Mandarin 華語</li>
-        <li>British Sign</li>
-        <li>Malay ساب</li>
-        <li>OpenSCAD</li>
-        <li>HTML/CSS</li>
-        <li>C++</li>
-        <li>C#</li>
-      </ul>
-    </div>
-  </div>
-</div>
+As a multidisciplinary art academic & maker, I'm always eager to learn something new –
+my ability to draw inspiration from anywhere fuels
+my passion & ambition, while my flexible work
+style keeps me adaptable & reliable in a team.
+So, here's to exploring new horizons!
+
+<br>
+
+<table>
+  <tr>
+    <td style="vertical-align: top; padding-right: 30px; width: 55%;">
+      <strong>力 SKILLS</strong><br><br>
+      <strong>Digital Fabrication</strong><br>
+      Computer-Aided Design (CAD)<br>
+      3D Prototyping & Printing<br>
+      Product Design<br>
+      Programming<br>
+      PCB Design<br>
+      Design for Manufacture<br><br>
+      <strong>Multimedia Art</strong><br>
+      VR, Game & Web Development<br>
+      Interaction Design & UIUX<br>
+      3D Modelling & Motion<br>
+      Graphics & Typography<br>
+      Video Production & Editing<br>
+      Projection Mapping & VDJing<br>
+      Creative Strategy Marketing<br>
+      Art Direction<br><br>
+      <strong>Sound Design</strong><br>
+      Music Production & Composition<br>
+      Mixing & Mastering<br>
+      DJing, Curation & Journalism
+    </td>
+    <td style="vertical-align: top; width: 45%;">
+      <strong>TOOLKIT 鼎</strong><br><br>
+      Arduino<br>
+      Rhinoceros 3D<br>
+      Solidworks<br>
+      Fusion 360<br>
+      Luxion Keyshot<br>
+      UltiMaker Cura<br>
+      Inventables Easel<br>
+      Unity<br>
+      Blender<br>
+      Cinema 4D<br>
+      Adobe Illustrator<br>
+      Adobe Photoshop<br>
+      Adobe After Effects<br>
+      Adobe Premiere Pro<br>
+      Adobe XD & InDesign<br>
+      Touchdesigner<br>
+      Resolume Arena<br>
+      FL Studio<br>
+      Microsoft 365<br>
+      Linux
+    </td>
+  </tr>
+  <tr>
+    <td style="vertical-align: top; padding-right: 30px;">
+      <br><strong>聿 ACADEMICS</strong><br><br>
+      <strong>Product Design Technology</strong><br>
+      BSc(Hons) (2023+)<br>
+      University of the West of England<br><br>
+      <strong>Digital Media Design</strong><br>
+      Diploma (2019 - 23)<br>
+      The One Academy<br><br>
+      <strong>Music Technology</strong><br>
+      Diploma (2018 - 19)<br>
+      Limkokwing University
+    </td>
+    <td style="vertical-align: top;">
+      <br><strong>LANGUAGES 言</strong><br><br>
+      English<br>
+      Mandarin 華語<br>
+      British Sign 🤟<sup>+</sup>🧏<br>
+      Malay ساب<br>
+      OpenSCAD<br>
+      HTML/CSS<br>
+      C++<br>
+      C#
+    </td>
+  </tr>
+</table>
+
+<br>
+<strong>I WORK EXPERIENCE</strong><br><br>
+<strong>Front-of-House Restaurant Coordinator</strong><br>
+Xing Long 興隆 (2024+)<br><br>
+<strong>Gallery Assistant & Projection Mapper</strong><br>
+Digital Art Gallery by Filamen (2023)<br><br>
+<strong>Music Journalist</strong><br>
+Shawn Zod (2022 - 23)<br><br>
+<strong>Music Producer & Composer</strong><br>
+ContraPoints (2019 - 21)<br>
+*on films “Envy”, “Opulence”, “Transtrenders”, & “Men”*
 
 This section is still in the works, it might make more sense to go to my [Behance](https://www.behance.net/ryanmeow)
 
