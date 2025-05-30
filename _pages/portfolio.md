@@ -43,51 +43,51 @@ So, here's to exploring new horizons!
   <div style="width: 55%; padding-right: 30px;">
     <strong>力 SKILLS</strong><br>
     <strong>    Digital Fabrication</strong><br>
-            Computer-Aided Design (CAD)<br>
-            3D Prototyping & Printing<br>
-            Product Design<br>
-            Programming<br>
-            PCB Design<br>
-            Design for Manufacture<br>
+            Computer-Aided Design (CAD)<br>
+            3D Prototyping & Printing<br>
+            Product Design<br>
+            Programming<br>
+            PCB Design<br>
+            Design for Manufacture<br>
     <strong>    Multimedia Art</strong><br>
-            VR, Game & Web Development<br>
-            Interaction Design & UIUX<br>
-            3D Modelling & Motion<br>
-            Graphics & Typography<br>
-            Video Production & Editing<br>
-            Projection Mapping & VDJing<br>
-            Creative Strategy Marketing<br>
-            Art Direction<br>
+            VR, Game & Web Development<br>
+            Interaction Design & UIUX<br>
+            3D Modelling & Motion<br>
+            Graphics & Typography<br>
+            Video Production & Editing<br>
+            Projection Mapping & VDJing<br>
+            Creative Strategy Marketing<br>
+            Art Direction<br>
     <strong>    Sound Design</strong><br>
-            Music Production & Composition<br>
-            Mixing & Mastering<br>
-            DJing, Curation & Journalism
+            Music Production & Composition<br>
+            Mixing & Mastering<br>
+            DJing, Curation & Journalism
     <br>
     <strong>聿 ACADEMICS</strong><br>
     <strong>    Product Design Technology</strong><br>
-            BSc(Hons) (2023+)<br>
-            University of the West of England<br>
+            BSc(Hons) (2023+)<br>
+            University of the West of England<br>
     <strong>    Digital Media Design</strong><br>
-            Diploma (2019 - 23)<br>
-            The One Academy<br>
+            Diploma (2019 - 23)<br>
+            The One Academy<br>
     <strong>    Music Technology</strong><br>
-            Diploma (2018 - 19)<br>
-            Limkokwing University
+            Diploma (2018 - 19)<br>
+            Limkokwing University
     <br>
     <strong>工 WORK EXPERIENCE</strong><br>
     <strong>    Front-of-House Restaurant Coordinator</strong><br>
-            Xing Long 興隆 (2024+)<br>
+            Xing Long 興隆 (2024+)<br>
     <strong>    Gallery Assistant & Projection Mapper</strong><br>
-            Digital Art Gallery by Filamen (2023)<br>
+            Digital Art Gallery by Filamen (2023)<br>
     <strong>    Music Journalist</strong><br>
-            Shawn Zod (2022 - 23)<br>
+            Shawn Zod (2022 - 23)<br>
     <strong>    Music Producer & Composer</strong><br>
-            ContraPoints (2019 - 21)<br>
+            ContraPoints (2019 - 21)<br>
   </div>
 
   <!-- Right Column -->
   <div style="width: 45%; text-align: right;">
-    <strong>TOOLKIT 鼎</strong><br><br>
+    <strong>TOOLKIT 鼎</strong><br>
         Arduino<br>
         Rhinoceros 3D<br>
         Solidworks<br>
@@ -108,11 +108,11 @@ So, here's to exploring new horizons!
         FL Studio<br>
         Microsoft 365<br>
         Linux
-    <br><br><br>
-    <strong>LANGUAGES 言</strong><br><br>
+    <br>
+    <strong>LANGUAGES 言</strong><br>
         English<br>
         Mandarin 華語<br>
-        British Sign 🤟<sup>+</sup>🧏<br>
+        British Sign<br>
         Malay ساب<br>
         OpenSCAD<br>
         HTML/CSS<br>
@@ -121,6 +121,7 @@ So, here's to exploring new horizons!
   </div>
 </div>
 
+***
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/g9JDMQ1mcVI?si=RQnQ6qZswMxTkfUq&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
