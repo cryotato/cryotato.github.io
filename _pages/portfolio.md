@@ -33,7 +33,7 @@ sort_order: reverse # forward (default), reverse
 
 As a multidisciplinary art academic & maker, I'm always eager to learn something new – my ability to draw inspiration from anywhere fuels my passion & ambition, while my flexible work style keeps me adaptable & reliable in a team. So, here's to exploring new horizons!
 
-
+<div>
 <div style="display: flex; width: 100%; align-items: flex-start;">
   <!-- Left Column -->
   <div style="width: 55%; padding-right: 30px;">
@@ -84,9 +84,9 @@ As a multidisciplinary art academic & maker, I'm always eager to learn something
     Microsoft 365<br>
     Linux
     <br><br><br>
-    </div>
+  </div>
 
-***
+</div>
 
   <div style="display: flex; width: 100%; align-items: flex-start;">  
     <strong>聿 ACADEMICS</strong><br><br>
