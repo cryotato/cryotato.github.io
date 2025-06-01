@@ -11,26 +11,6 @@ classes: wide
 sort_order: reverse # forward (default), reverse
 ---
 
-<!-- <style>
-  /* --- Font Import --- */
-  @font-face {
-    font-family: 'Tuner';
-    /* Adjust paths if your font files are located elsewhere or have different names */
-    src: url('/assets/fonts/Tuner.woff2') format('woff2'), /* Modern Browsers */
-         url('/assets/fonts/Tuner.woff') format('woff');   /* Older Browsers */
-    font-weight: normal;
-    font-style: normal;
-  }
-
-  /* --- Apply Tuner Font to the Resume Content --- */
-  .resume-custom-font-area {
-    font-family: 'Tuner', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-    /* Add a fallback font stack */
-    line-height: 1.5; /* Adjust for readability with Tuner */
-  }
-</style> -->
-<!-- <div class="resume-custom-font-area"> -->
-
 As a multidisciplinary art academic & maker, I'm always eager to learn something new – my ability to draw inspiration from anywhere fuels my passion & ambition, while my flexible work style keeps me adaptable & reliable in a team. So, here's to exploring new horizons!
 
 
