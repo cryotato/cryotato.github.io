@@ -14,7 +14,7 @@ sort_order: reverse # forward (default), reverse
 As a multidisciplinary art academic & maker, I'm always eager to learn something new – my ability to draw inspiration from anywhere fuels my passion & ambition, while my flexible work style keeps me adaptable & reliable in a team. So, here's to exploring new horizons!
 
 
-<video autoplay muted loop playsinline width= 100% style="object-fit: cover;">
+<video autoplay muted loop playsinline width= "100%" style="object-fit: cover;">
   <source src="/assets/videos/2022showreel.mp4" type="video/mp4">
   <!-- <source src="your-video.webm" type="video/webm"> -->
   your browser doesn't support embedded videos xd
