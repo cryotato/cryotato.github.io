@@ -233,3 +233,23 @@ $(document).ready(function () {
   }
 });
 
+
+(function() {
+  var masthead = document.getElementById('masthead');
+  if (!masthead) return;
+
+  var lastScrollTop = 0;
+  var mastheadHeight = masthead.offsetHeight;
+
+  window.addEventListener('scroll', function() {
+    var currentScroll = window.pageYOffset || document.documentElement.scrollTop;
+
+    if (currentScroll > lastScrollTop && currentScroll > mastheadHeight) {
+      masthead.classList.add('masthead--hidden');
+    } else if (currentScroll < lastScrollTop) {
+      masthead.classList.remove('masthead--hidden');
+    }
+
+    lastScrollTop = currentScroll <= 0 ? 0 : currentScroll;
+  }, false);
+})();
