@@ -7,7 +7,7 @@ author_profile: true
 tags: ["Rhino 3D","Keyshot", "Product Design"]
 categories: ["art"]
 toc: false
-layout: wide
+classes: wide
 ---
 
 [![product design  industrial product cad industrial design  Render keyshot Rhino 3d modeling cute](https://mir-s3-cdn-cf.behance.net/project_modules/1400/a1769b183774759.65b58b4e1fa37.png)](https://www.behance.net/gallery/183774759/OConnell-th-Modular-Bottle-/modules/1075061255)
