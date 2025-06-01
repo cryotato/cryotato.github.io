@@ -4,9 +4,8 @@ date: 2023-02-20T02:58:27.548+0000
 categories: ["art"]
 tags: ["product design"]
 author_profile: true
-toc: true
-toc_label: "corproart"
-toc_icon: "hexagon-nodes"  # corresponding Font Awesome icon name (without fa prefix)
+toc: false
+layout: wide
 excerpt: If there's no such thing as a "wrong note" then why do I still suck at music? Memorizing abstract theory? Practicing for hours a day? I thought music was supposed to be fun!
 
 header:
