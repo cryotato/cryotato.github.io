@@ -1,5 +1,5 @@
 ---
-title: "KittyChord Bass ᵖʳᵒᵈᵘᶜᵗ ᵈᵉˢᶦᵍⁿ"
+title: "KitterChord Thing ᵖʳᵒᵈᵘᶜᵗ ᵈᵉˢᶦᵍⁿ"
 date: 2023-02-20T02:58:27.548+0000
 categories: ["art"]
 tags: ["product design"]
