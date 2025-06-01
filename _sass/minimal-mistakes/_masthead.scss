@@ -3,23 +3,13 @@
    ========================================================================== */
 
 .masthead {
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 100%;
+  position: relative;
   border-bottom: 1px solid $border-color;
   -webkit-animation: $intro-transition;
   animation: $intro-transition;
   -webkit-animation-delay: 0.15s;
   animation-delay: 0.15s;
   z-index: 20;
-  transition: transform 0.3s ease-out;
-  background-color: var(--masthead-background-color, #fff); /* Fallback to white if not defined */
-  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Optional: add a subtle shadow */
-}
-
-.masthead--hidden {
-  transform: translateY(-100%); /* Hide by moving it up by its full height */
 
   &__inner-wrap {
     @include clearfix;
