@@ -8,6 +8,7 @@ classes: wide
 # author_profile: true
 # show_excerpts: # true (default), false
 # sort_by: # date (default), title or any metadata key added to the collection's documents
+sort_by: order
 sort_order: reverse # forward (default), reverse
 ---
 
