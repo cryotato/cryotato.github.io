@@ -7,7 +7,7 @@ author_profile: true
 toc: false
 classes: wide
 excerpt: If there's no such thing as a "wrong note" then why do I still suck at music? Memorizing abstract theory? Practicing for hours a day? I thought music was supposed to be fun!
-order: 2
+order: 99
 header:
   teaser: /assets/images/thumbnails/kittychord.png
 ---
