@@ -6,7 +6,7 @@ toc: true
 toc_label: "⊹₊⟡⋆"
 toc_icon: "heart"  # corresponding Font Awesome icon name (without fa prefix)
 ---
-♪ ༘⋆ while all my music is free to download and use in non-commercial contexts with attribution, if you're looking for something specific, my commissions are currently open! i do music and audio related work of any kind!
+♪ ༘⋆ While all my music is free to download and use in non-commercial contexts with attribution, if you're looking for something specific, my commissions are currently open! I do music and audio related work of any kind! For commercial use of my existing work, I offer [licenses](/licenses).
 
 ***
 
