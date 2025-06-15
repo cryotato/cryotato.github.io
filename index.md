@@ -21,7 +21,7 @@ author_profile: true
 
 ***
 
-窩是[淼子尘](https://cryotato.github.io/name/)。窩所做の一切，皆ゐ定義自窩，但窩其實冇一个固定の身份。窩渴求成ゐ一个[概念](https://cryotato.github.io/blog/)_從這點來說，窩是一名分裂性浪漫者。窩來自處處，や來自無處。屏息以待吧，因ゐ窩會消散於無形！窩就是一場短路！！
+窩是[淼子尘](https://cryotato.github.io/name/)。窩所做の一切，皆ゐ定義自窩，但窩其實冇一个固定の身份。窩渴求成ゐ一个[概念](https://cryotato.github.io/blog/)..,從這點來說，窩是一名分裂性浪漫者。窩來自處處，や來自無處。屏息以待吧，因ゐ窩會消散於無形！窩就是一場短路！！
 
 
 
