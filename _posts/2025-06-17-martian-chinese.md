@@ -1,6 +1,6 @@
 huoonty martian reform
 
-# temperamental 我
+# 窝/窩 - temperamental 我
 i like using 窝/窩 in place of 我 (meaning I or me) b∵c it lꙭks more like a person. w/ ϑ'simplified 窝 it lꙭks like a face with a ૮ ,◕ ﻌ ◕ა-type nose and a mustache.
 ϑ'traditional character 窩 can simultaneously be used to express discontent, ϑa̍ňk̍s to the top part resembling ϑe 囧 agony emoticon... just except ϑeyԙ wearing a lil hat 宀. Iṋ writing ï prefer to replace ϑ'bottom bit 咼 with a 骨 body, ⅋ut unicode for chinese characters has itꝬ limits (sometimes ï wiʃh we cůld construct characters like w/ hangul somehow).
 我 iꝬ actually an ancient pictogram depicting a barrier of swords or someϑiŋ similar which iꝬ cool, ⅋ut ï find ϑ'adoption of it to use for ϑ'most common pronoun of all time as a phoneme quite uninspired. So non-bidenary of me.
