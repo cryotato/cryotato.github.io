@@ -23,15 +23,11 @@ Iṋ writing ï prefer to replace ϑ'bottom bit 咼 with a 骨 body, ⅋ut unico
 # 草書
 Speaking of 草書, ϑ'only cursive script characters we ԙ able to use remain culturally exclusive to Japan ϑa̍ňk̍s to ϑeir adoption of rushed characters as hirigana. Lets make use of what we have. We can't be letting ϑem have all ϑ'fun, ï mean ゐ什麼日本人可以用草書字但是窩用の事後你們叫窩一个 traitor. 窩ふ要給窩の婆婆 ww2 flashbacks 但是やふ窩の錯 technology killed ϑ'whimsy out of writing. Ahem.. Anyway, ϑere are plenty (& even more if ᴜ̊ count ϑ'unicodes for hentaigana) ⅋ut ϑese seem to be ϑ'most legible:
 
-ゐ - 為
-
-ふ - 不
-
-や - 也
-
-も - 毛
-
-わ - 和
+- ゐ - 為
+- ふ - 不
+- わ - 和
+- や - 也 (personally helps me distinguish between 也 & 世)
+- も - 毛 (distinguish twix 毛 & 手)
 
 # Alternative Characters
 ï also have a soft spot for certain variations of characters. On̅e example would be 髙 for 高 meaning high, b∵c it has a ladder.
