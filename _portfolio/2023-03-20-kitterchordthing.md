@@ -1,5 +1,5 @@
 ---
-title: "KitterChord Thing ᵖʳᵒᵈᵘᶜᵗ ᵈᵉˢᶦᵍⁿ"
+title: "ϑ'KitterChord Thing 喵鬍の東西 ᵖʳᵒᵈᵘᶜᵗ ᵈᵉˢᶦᵍⁿ"
 date: 2023-02-20T02:58:27.548+0000
 categories: ["art"]
 tags: ["product design"]
