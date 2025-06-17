@@ -13,7 +13,7 @@ i like using 窝/窩 in place of 我 (meaning I or me) b∵c it lꙭks more like
 ϑis ones a raϑer low hanging fruit since itꝬ already widely used & even legally recognised in Hong Kong. From my understanding, itꝬ used as a 草書 cursive script rendering of the bopomo character ㄉ. 的 has been on̅e of ϑ'most baffling characters to people trying to understand chinese writing logograφically. ItꝬ used 99.9% of ϑ' time as ϑ'possessive particle "de" ⅋ut b∵c it was adopted as a phoneme like 我, ϑ'character suggests it's related to l̗i̗gh̖t̖ - 白 means white and 勺 iꝬ a ladle w/ someϑiŋ iṋ it. When used as "dì" (instead of de) meaning aim or clear, ϑis makes total sense, ⅋ut oϑerwise... nøt so muɕh.
 
 # 草書
-Speaking of 草書, ϑ'only cursive script characters we ԙ able to use remain culturally exclusive to Japan ϑa̍ňk̍s to ϑeir adoption of rushed characters as hirigana. Lets make use of what we have, we can't be letting ϑem have all ϑ'fun, ï mean ゐ什麼日本人可以用草書字但是窩用の事後你們叫窩一个 traitor. 窩ふ要給窩の婆婆 ww2 flashbacks 但是やふ窩の錯 technology killed ϑ'whimsy out of writing. Ahem.. Anyway, ϑere are plenty (& even more if ᴜ̊ count ϑ'unicodes for hentaigana) ⅋ut ϑese seem to be ϑ'most legible:
+Speaking of 草書, ϑ'only cursive script characters we ԙ able to use remain culturally exclusive to Japan ϑa̍ňk̍s to ϑeir adoption of rushed characters as hirigana. Lets make use of what we have. We can't be letting ϑem have all ϑ'fun, ï mean ゐ什麼日本人可以用草書字但是窩用の事後你們叫窩一个 traitor. 窩ふ要給窩の婆婆 ww2 flashbacks 但是やふ窩の錯 technology killed ϑ'whimsy out of writing. Ahem.. Anyway, ϑere are plenty (& even more if ᴜ̊ count ϑ'unicodes for hentaigana) ⅋ut ϑese seem to be ϑ'most legible:
 
 ゐ - 為
 
