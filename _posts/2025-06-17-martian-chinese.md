@@ -1,6 +1,6 @@
 ---
 
-title: Huoonty Martian Reform
+title: Huoonty Martian Chinese - 魂體火星文
 
 ---
 
