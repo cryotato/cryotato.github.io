@@ -1,6 +1,6 @@
 ---
 
-title: huoonty martian reform
+title: Huoonty Martian Reform
 
 ---
 
