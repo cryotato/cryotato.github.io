@@ -26,7 +26,7 @@ Speaking of 草書, ϑ'only cursive script characters we ԙ able to use remain c
 - ゐ - 為
 - ふ - 不
 - わ - 和
-- や - 也 (personally helps me distinguish between 也 & 世)
+- や - 也 (personally helps me distinguish 也 & 世)
 - も - 毛 (distinguish twix 毛 & 手)
 
 # Alternative Characters
