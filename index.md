@@ -35,6 +35,10 @@ Sign up for sparse biennialish KitterChord & OVXX updates here:
 
 ***
 
+<a href="https://www.last.fm/user/cryopotato"><img src="https://lastfm-recently-played.vercel.app/api?user=cryopotato" height="auto" width="350px"/></a>
+
+***
+
 <div style="display: flex; align-items: center; gap: 10px;"> <!-- Added wrapper div with flex styling and gap -->
   <script src="https://silly.possiblyaxolotl.com/ring/webstring.js"></script>
   <div style="width:104px">
