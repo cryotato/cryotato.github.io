@@ -16,7 +16,7 @@ header:
 
 If there's no such thing as a "wrong note" then why do I still suck at music? Memorizing abstract theory? Practicing for hours a day? I thought music was supposed to be fun!
 
-Introducing: the Omni-Kitty Chroma-Chord Candy Bar Bass (or KittyChord Bass for short) - the instrument that loves you back!
+Introducing: the Omni-Kitty Chroma-Chord Candy Bar Bass (or KitterChord Thing for short) - the instrument that loves you back! {:.drop-cap}
 
 <iframe src="https://www.youtube.com/embed/hOqqhYsUClU?controls=0" title="Project Embed Content" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-pointer-lock allow-forms" loading="lazy" fetchpriority="auto"></iframe>
 
