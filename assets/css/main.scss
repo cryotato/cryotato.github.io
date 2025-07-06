@@ -12,6 +12,13 @@
     url("https://db.onlinewebfonts.com/t/76d4698d8bff95084f61e0b9bb20f2bf.ttf")format("truetype"),
     url("https://db.onlinewebfonts.com/t/76d4698d8bff95084f61e0b9bb20f2bf.svg#Fairfax HD")format("svg");
 } 
+@font-face {
+  font-family: "PPMondwest";
+  src: url('../fonts/mondwest.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
@@ -93,7 +100,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: monospace, "Fairfax HD"; // <<< CHANGED font stack
+  font-family: "PPMondwest", "Fairfax HD"; // <<< CHANGED font stack
   color: var(--dark) !important;
   font-size-adjust: from-font;
   text-shadow: var(--l-shadow) !important;

@@ -89,6 +89,7 @@ to-do:
 - figure out SEO stuff in docs
 - maybe fix the structure of how the pages are managed in general? so in experience and lapses can be intertwined with each tag having its own page? 
 - language changing button?
+- it woudle be cool if the first letter of each of my writings started with a big fancy letter of this font https://fontsinuse.com/typefaces/240702/saint
 
 
 -->
