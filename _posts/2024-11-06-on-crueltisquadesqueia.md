@@ -41,6 +41,7 @@ Good news is, under ϑeir own will, ϑere lies nø future for ϑis phenotype\. I
 
 
 Iṋ ϑis way AI has ϑ’potential to briŋ Shivers back to ϑ’forefront of politics, industry, & education\. ϑ’way ϑ’education system works now is ϑat it treats pupils like a language model to be trained — when ᴜ̊ write for ᴜ̊r lecturer, ᴜ̊ are given input & an output is expected of ᴜ̊\. Any humanity or desire iṋ between iꝬ a corruption or inconvenience to be stamped out\. AI on ϑ’other hand iꝬ completely free of desire\. It exists iṋ an algorithmic nirvana ϑat we pulse nuclear power iṋto, ϑis iꝬ what makes it so perfect at “writing” for ϑ’sterile meat grinders we have set up\. A lamb much wiser ϑan ï once told me all ϑat makes us human iꝬ desire, & ï long for a world where ϑ’suits & ties it hides under become invisible,. & ï døn't just mean iṋ a gay & horny Atlas Shrugged way.
+{:.drop-cap}
 
 When infamous cokehead Nick Land described AI as a conscious unstoppable embodiment of capitalism, ï ϑought it was just môre word salad ⅋ now ï see\. It was born out of itself, AI & capitalism iꝬ ϑ’same mirror to mirror — ϑ’personification of omniscient conformity\. itꝬ undead ϑ’same way Mark Fisher describes it has made us all\.
 
