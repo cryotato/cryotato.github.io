@@ -635,18 +635,18 @@ button:hover, .btn:hover {
 }
 
 /* Sticky Music Player Styles */
-.sticky-music-player {
-  position: fixed;
-  bottom: 0;
-  left: 0;
-  width: 100%;
-  background-color: #333; /* Example background color */
-  color: #fff; /* Example text color */
-  padding: 10px 20px; /* Example padding */
-  z-index: 1000; /* Ensure it's above most other content */
-  box-shadow: 0 -2px 5px rgba(0,0,0,0.2); /* Optional shadow */
-  text-align: center; /* Example alignment */
-}
+// .sticky-music-player {
+//   position: fixed;
+//   bottom: 0;
+//   left: 0;
+//   width: 100%;
+//   background-color: #333; /* Example background color */
+//   color: #fff; /* Example text color */
+//   padding: 10px 20px; /* Example padding */
+//   z-index: 1000; /* Ensure it's above most other content */
+//   box-shadow: 0 -2px 5px rgba(0,0,0,0.2); /* Optional shadow */
+//   text-align: center; /* Example alignment */
+// }
 
 /* Style the SVG logo using CSS mask */
 .site-logo {
