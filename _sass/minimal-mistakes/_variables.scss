@@ -46,16 +46,16 @@ $type-size-6: 0.75em !default; // ~12px
 $type-size-7: 0.6875em !default; // ~11px
 $type-size-8: 0.625em !default; // ~10px
 
-// 1. Define your scaling factor
-$header-scale-factor: 3; // 1.0 is normal, 1.6 is 60% larger
+// // 1. Define your scaling factor
+// $header-scale-factor: 3; // 1.0 is normal, 1.6 is 60% larger
 
 /* headline scale */
-$h-size-1: 1.563em * $header-scale-factor;
-$h-size-2: 1.25em * $header-scale-factor;
-$h-size-3: 1.125em * $header-scale-factor;
-$h-size-4: 1.0625em * $header-scale-factor;
-$h-size-5: 1.03125em * $header-scale-factor;
-$h-size-6: 1em * $header-scale-factor;
+$h-size-1: 3.5em;
+$h-size-2: 1.5em;
+$h-size-3: 1.125em;
+$h-size-4: 1.0625em;
+$h-size-5: 1.03125em;
+$h-size-6: 1em;
 
 /*
    Colors
