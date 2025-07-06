@@ -32,7 +32,7 @@ Sign up for sparse biennialish KitterChord & OVXX updates here:
 ***
 
 <div id="gr_quote_body">&quot;To read too many books is harmful.&quot;&mdash; <a title="Mao Zedong quotes" href="https://www.goodreads.com/author/quotes/4797485.Mao_Zedong">Mao Zedong</a><br/><br/></div><script src="https://www.goodreads.com/quotes/widget/114414047-mybussywroteathesisoncolonialism?v=2" type="text/javascript"></script><br/>
-<div style="text-align: right";><h3><a href="https://www.goodreads.com/user/show/114414047-mybussywroteathesisoncolonialism" rel="nofollow">silly quote corner</a></h3></div>
+<div style="text-align: right;"><h3><a href="https://www.goodreads.com/user/show/114414047-mybussywroteathesisoncolonialism" rel="nofollow">silly quote corner</a></h3></div>
 
 ***
 　　 　 　∧_,,∧<br>
