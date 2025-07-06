@@ -7,6 +7,7 @@ title: Kaomojified Huoonty Chinese - 魂體火星文
 
 # 窝/窩 - temperamental 我
 ï like using 窝/窩 in place of 我 (meaning I or me) b∵c it lꙭks more like a person. w/ ϑ'simplified 窝 it lꙭks like a face with a ૮ ,◕ ﻌ ◕ა-type nose and a mustache. ϑ'traditional character 窩 can simultaneously be used to express discontent, ϑa̍ňk̍s to the top part resembling ϑe 囧 agony emoticon... just except ϑeyԙ wearing a lil hat 宀. For example:
+{:.drop-cap}
 
 - 窩餓死了！(ïm starving 囧)
 - 窝覺得牛肉麵最好吃の~ (ï ϑink beef noodle soup tastes ϑ'best :3)
@@ -22,6 +23,7 @@ Iṋ writing ï prefer to replace ϑ'bottom bit 咼 with a 骨 body, ⅋ut unico
 
 # 草書
 Speaking of 草書, ϑ'only cursive script characters we ԙ able to use remain culturally exclusive to Japan ϑa̍ňk̍s to ϑeir adoption of rushed characters as hirigana. Lets make use of what we have. We can't be letting ϑem have all ϑ'fun, ï mean ゐ什麼日本人可以用草書字但是窩用の事後你們叫窩一个 traitor. 窩ふ要給窩の婆婆 ww2 flashbacks 但是やふ窩の錯 technology killed ϑ'whimsy out of writing. Ahem.. Anyway, ϑere are plenty (& even more if ᴜ̊ count ϑ'unicodes for 變體假名 hentaigana) ⅋ut ϑese seem to be ϑ'most legible:
+{:.drop-cap}
 
 - ゐ - 為
 - ふ - 不
