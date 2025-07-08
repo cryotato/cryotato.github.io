@@ -42,7 +42,7 @@ it wůldn't have changed ϑ'pervasive bleakness ï faced ϑrůout my teenage yea
 
 ϑere seems to ∃xist ϑis triangular relationʃhip of our environments, our insanity & our φilosoφies. ï døn't ϑink itꝬ fair to ever consider on̅e w/ø ϑ'oϑer. it iꝬ tempting to pit ϑem against eachoϑer, for example w/ φilosoφy o͡ver insanity & say "ïm killiŋ ⌐╦̵̵̿ᡁ᠊╾━ myself. ïm nøt ill. ϑere iꝬ nøϑiŋ wrøŋ. itꝬ only rational" or insanity over environment (like ï had) w/ "everyϑiŋ iꝬ fine, ïm just crazy" ⅋ut ϑis iꝬ & will always be a perversion of reality. 
 
-iṋ The Myth of Normal, this world to mind to world relationship iꝬ described by  Gabor Maté under ϑ'study of "psychoneuroimmunoendocrinology"
+iṋ The Myth of Normal, ϑis world to mind to world relationʃhip iꝬ described by Gabor Maté under ϑ'study of "psychoneuroimmunoendocrinology"
 
 > Here’s what the Buddha left out, if I may be so bold: before the mind can create the world, the world creates our minds. Trauma, especially severe trauma, imposes a worldview tinged with pain, fear, and suspicion: a lens that both distorts and determines our view of how things are. Or it may, through the sheer force of denial, engender a naively rosy perspective that blinds us to real and present dangers—a veneer concealing fears we dare not acknowledge. One may also come to dismiss painful realities by habitually lying to oneself and others.
 
