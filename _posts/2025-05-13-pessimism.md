@@ -50,10 +50,6 @@ iṋ The Myth of Normal, ϑis world to mind to world relationʃhip iꝬ describe
 
 ϑ'way ϑis iꝬ described can almost be understood as a rediscovery of ϑ'body w/ø organs
 
-> That evolution has furnished us with instincts, emotions, complex behaviors, and individuated organs and systems does not, in the slightest way, diminish this unity.
-
-i cůld go on
-
 > Candace Pert envisioned the mind as involving the unconscious flow of information “among the cells, organs and systems of the body . . . occurring below the level of awareness.” Thus, she asserted, “the mind as we experience it is immaterial, yet it has a physical substrate, which is both the body and the brain.” By “immaterial” she did not mean the word’s usual connotation of insignificant or irrelevant but—on the contrary—that the mind, unlike the brain, is not a material thing: we cannot get a hold of it, put it in a test tube or petri dish, or even “see” it directly. Its impacts and consequences, however, are material indeed.
 
 ï have nø decent way to end ϑis except to sꜽ ïm tired. Parents: how to tell ϑem itꝬ too late & ϑat ϑey've ruined me; how to forgive w̃ ï know ï will never recover. Maté iṋ his wisdom tells me quite gently in a voice ϑat feels universal ϑat hꙩpe iꝬ nøt lost!!!
