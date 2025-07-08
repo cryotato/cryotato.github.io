@@ -48,7 +48,11 @@ iṋ The Myth of Normal, this world to mind to world relationship iꝬ described
 
 > Even “connection” is a misleading word: only entities distinct from each other can be connected, whereas reality knows only oneness.
 
-ï have nø decent way to end ϑis except to sꜽ ïm tired! 
+ϑ'way ϑis iꝬ described can almost be understood as a rediscovery of ϑ'body w/ø organs
+
+> That evolution has furnished us with instincts, emotions, complex behaviors, and individuated organs and systems does not, in the slightest way, diminish this unity.
+
+ï have nø decent way to end ϑis except to sꜽ ïm tired. Parents: how to tell ϑem itꝬ too late & ϑat ϑey've ruined me; how to forgive w̃ ï know ï will never recover. Maté iṋ his wisdom tells me quite gently in a voice ϑat feels universal ϑat hꙩpe iꝬ nøt lost!!!
 
 [^1]: ᴜ̊ԙ listening to... Car Seat Headrest! my conscience cůld nøt escape ϑis particular soŋ around my tweendom.
 
