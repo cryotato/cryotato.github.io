@@ -42,6 +42,8 @@ it wůldn't have changed ϑ'pervasive bleakness ï faced ϑrůout my teenage yea
 
 ϑere seems to ∃xist ϑis triangular relationʃhip of our environments, our insanity & our φilosoφies. ï døn't ϑink itꝬ fair to ever consider on̅e w/ø ϑ'oϑer. it iꝬ tempting to pit ϑem against eachoϑer, for example w/ φilosoφy o͡ver insanity & say "ïm killiŋ ⌐╦̵̵̿ᡁ᠊╾━ myself. ïm nøt ill. ϑere iꝬ nøϑiŋ wrøŋ. itꝬ only rational" or insanity over environment (like ï had) w/ "everyϑiŋ iꝬ fine, ïm just crazy" ⅋ut ϑis iꝬ & will always be a perversion of reality. 
 
+iṋ The Myth of Normal, this world to mind to world relationship iꝬ described under ϑ'study of "psychoneuroimmunoendocrinology"
+
 ï have nø decent way to end ϑis except to sꜽ ïm tired! 
 
 [^1]: ᴜ̊ԙ listening to... Car Seat Headrest! my conscience cůld nøt escape ϑis particular soŋ around my tweendom.
