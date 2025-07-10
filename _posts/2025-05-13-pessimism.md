@@ -42,7 +42,17 @@ it wůldn't have changed ϑ'pervasive bleakness ï faced ϑrůout my teenage yea
 
 ϑere seems to ∃xist ϑis triangular relationʃhip of our environments, our insanity & our φilosoφies. ï døn't ϑink itꝬ fair to ever consider on̅e w/ø ϑ'oϑer. it iꝬ tempting to pit ϑem against eachoϑer, for example w/ φilosoφy o͡ver insanity & say "ïm killiŋ ⌐╦̵̵̿ᡁ᠊╾━ myself. ïm nøt ill. ϑere iꝬ nøϑiŋ wrøŋ. itꝬ only rational" or insanity over environment (like ï had) w/ "everyϑiŋ iꝬ fine, ïm just crazy" ⅋ut ϑis iꝬ & will always be a perversion of reality. 
 
-ï have nø decent way to end ϑis except to sꜽ ïm tired! 
+iṋ The Myth of Normal, ϑis world to mind to world relationʃhip iꝬ described by Gabor Maté under ϑ'study of "psychoneuroimmunoendocrinology"
+
+> Here’s what the Buddha left out, if I may be so bold: before the mind can create the world, the world creates our minds. Trauma, especially severe trauma, imposes a worldview tinged with pain, fear, and suspicion: a lens that both distorts and determines our view of how things are. Or it may, through the sheer force of denial, engender a naively rosy perspective that blinds us to real and present dangers—a veneer concealing fears we dare not acknowledge. One may also come to dismiss painful realities by habitually lying to oneself and others.
+
+> Even “connection” is a misleading word: only entities distinct from each other can be connected, whereas reality knows only oneness.
+
+ϑ'way ϑis iꝬ described can almost be understood as a rediscovery of ϑ'body w/ø organs
+
+> Candace Pert envisioned the mind as involving the unconscious flow of information “among the cells, organs and systems of the body . . . occurring below the level of awareness.” Thus, she asserted, “the mind as we experience it is immaterial, yet it has a physical substrate, which is both the body and the brain.” By “immaterial” she did not mean the word’s usual connotation of insignificant or irrelevant but—on the contrary—that the mind, unlike the brain, is not a material thing: we cannot get a hold of it, put it in a test tube or petri dish, or even “see” it directly. Its impacts and consequences, however, are material indeed.
+
+ï have nø decent way to end ϑis except to sꜽ ïm tired. Parents: how to tell ϑem itꝬ too late & ϑat ϑey've ruined me; how to forgive w̃ ï know ï will never recover. Maté iṋ his wisdom tells me quite gently in a voice ϑat feels universal., hꙩpe iꝬ nøt lost!!!
 
 [^1]: ᴜ̊ԙ listening to... Car Seat Headrest! my conscience cůld nøt escape ϑis particular soŋ around my tweendom.
 
