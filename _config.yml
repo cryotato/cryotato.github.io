@@ -55,6 +55,7 @@ plugins:
   - jemoji
   - jekyll-include-cache
   - jekyll-archives
+  - jekyll-seo-tag
 
 author:
   name   : "Rhyo Leo [子尘]"
@@ -195,3 +196,9 @@ logo: "/assets/images/ryanlogo.svg"
 masthead_title: " "
 
 google_site_verification: "wD_He710YLoaY_ipLzU7dMxL1rPo_FkZwSNzyvBkWfY"
+
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-PM7JR6257Z"
+    anonymize_ip: false # default
