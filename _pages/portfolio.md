@@ -12,7 +12,8 @@ sort_by: order
 sort_order: reverse # forward (default), reverse
 ---
 
-<h2>As a multidisciplinary art academic & maker, I'm always eager to learn something new – my ability to draw inspiration from anywhere fuels my passion & ambition, while my flexible work style keeps me adaptable & reliable in a team. So, here's to exploring new horizons!</h2> 
+<h2> A design-first creative technologist bridging physical & digital realms. With end-to-end experience leading projects from experimental hardware to VR, my expertise lies in translating ambitious ideas into intuitive, tangible experiences.
+</h2> 
 
 
 <video autoplay muted loop playsinline width= "100%" style="object-fit: cover;">
