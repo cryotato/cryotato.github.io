@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Rhyo Leo [子尘]"
   avatar : "/assets/images/magikarp.gif"
-  bio    : "developer of innovative sonic weapons as OVXX, CEO reptilian of KitterChord, comrade of Twinknation,.︻╦̵̵͇̿̿̿̿══╤─"
+  bio    : "developer of innovative sonic weapons as OVXX & KitterChord"
   links:
     - label: "φꙩtꙩptiques 圖"
       icon: "fab fa-fw fa-instagram"
@@ -202,3 +202,5 @@ analytics:
   google:
     tracking_id: "G-PM7JR6257Z"
     anonymize_ip: false # default
+
+# "developer of innovative sonic weapons as OVXX, CEO reptilian of KitterChord, comrade of Twinknation,.︻╦̵̵͇̿̿̿̿══╤─"
