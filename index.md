@@ -53,8 +53,9 @@ Sign up for sparse biennialish KitterChord & OVXX updates here:
     <a href="//mr.jhorn.net/prev.php?slug=cryo">prev</a>
     <a href="//mr.jhorn.net/rand.php">rand</a>
     <a href="//mr.jhorn.net/next.php?slug=cryo">next</a>
-<script src="https://transring.neocities.org/ring.js"></script>
 </div>
+<script src="https://transring.neocities.org/ring.js"></script>
+
 
   <!-- 
   <a href='https://webring.dinhe.net/prev/cryotato.github.io'>Previous</a>
