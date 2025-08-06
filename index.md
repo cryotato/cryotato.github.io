@@ -23,7 +23,7 @@ author_profile: false
 
 ***
 
-xenogenders - geoist; communist; spiritually post-structuralist (reduce me to nøϑiŋness); cyber-schizoid; neuroarchitect; 99 kiss machines; radical authenticitist
+xenogenders - geoist; communist; spiritually post-structuralist (reduce me to nøϑiŋness); cyber-schizoid; neuroarchitect; 99 kiss machines
 
 ***
 
