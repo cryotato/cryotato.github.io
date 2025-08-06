@@ -27,7 +27,7 @@ xenogenders - geoist; communist; spiritually post-structuralist (reduce me to n�
 
 ***
 
-異類性別 - 喬治主義者；共產主義者；靈性後結構主義者（將窝化ゐ虛無）；賽博精神分裂；神經架構師；九十九座親吻機器
+異類性別 - 喬治主義者; 共產主義者; 靈性後結構主義者(將窝化ゐ虛無); 賽博精神分裂; 神經架構師; 九十九座親吻機器
 
 ***
 
