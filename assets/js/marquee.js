@@ -125,3 +125,5 @@ document.addEventListener('DOMContentLoaded', function() {
   setupMarquee();
 
 });
+
+// FILTH LYRISCS WOULD BE FUNNY

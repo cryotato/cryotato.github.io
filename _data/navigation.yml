@@ -1,7 +1,10 @@
 main:
   # - title: "OVXX"
   # url: /ovxx/
-
+  - title: "HEX"
+    url: /shop/ 
+  - title: "THING"
+    url: /portfolio/2023-03-20-kitterchordthing/
   - title: "lapses"
     url: /blog/ 
   - title: "iṋ experience"
