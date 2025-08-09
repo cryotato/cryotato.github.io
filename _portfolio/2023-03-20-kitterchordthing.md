@@ -1,5 +1,5 @@
 ---
-title: "ϑ'KitterChord Synthesthesia 喵鬍の合感"
+title: "ϑ'KitterChord SYNthesthesia 喵鬍の合感 ᵐⁱᵈⁱ ʲᵃᶻᶻ ᵒᵐⁿⁱᶜʰᵒʳᵈ ᵍᵘⁱᵗᵃʳ"
 date: 2023-02-20T02:58:27.548+0000
 categories: ["art"]
 tags: ["product design"]
