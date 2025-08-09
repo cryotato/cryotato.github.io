@@ -61,6 +61,7 @@ author:
   name   : "Rhyo Leo [子尘]"
   avatar : "/assets/images/magikarp.gif"
   bio    : "developer of innovative sonic weapons as OVXX & KitterChord"
+  home: "/about/"
   links:
     - label: "φꙩtꙩptiques 圖"
       icon: "fab fa-fw fa-instagram"
