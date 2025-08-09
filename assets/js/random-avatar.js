@@ -41,7 +41,7 @@ document.addEventListener('DOMContentLoaded', function() {
     { originalSrc: '/assets/images/my_avatars/husbant_5942.jpg', ditheredSrc: '/assets/images/my_avatars/dithered/dither_it_husbant_5942.jpg', caption: 'husbant' },
     { originalSrc: '/assets/images/my_avatars/iceskate-20190513-WA0001.jpg', ditheredSrc: '/assets/images/my_avatars/dithered/dither_it_iceskate-20190513-WA0001.jpg', caption: 'iceskate 20190513 Wa0001' },
     // { src: '/assets/images/my_avatars/kitterchord_20241009014259015.jpg', caption: 'Kitterchord 20241009014259015' },
-    { originalSrc: '/assets/images/my_avatars/liberal_20231024_162542_274-01.jpg', ditheredSrc: '/assets/images/my_avatars/dithered/dither_it_liberal_20231024_162542_274-01.jpg', caption: 'liberal 20231024 162542 274 01' },
+    // { originalSrc: '/assets/images/my_avatars/liberal_20231024_162542_274-01.jpg', ditheredSrc: '/assets/images/my_avatars/dithered/dither_it_liberal_20231024_162542_274-01.jpg', caption: 'liberal 20231024 162542 274 01' },
     // { src: '/assets/images/my_avatars/meeper_20250507_220022.jpg', caption: 'Meeper 20250507 220022' },
     { originalSrc: '/assets/images/my_avatars/prayer_6529.jpg', ditheredSrc: '/assets/images/my_avatars/dithered/dither_it_prayer_6529.jpg', caption: 'prayer 6529' },
     { originalSrc: '/assets/images/my_avatars/slouchy.jpg', ditheredSrc: '/assets/images/my_avatars/dithered/dither_it_slouchy.jpg', caption: 'slouchy' },
