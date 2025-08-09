@@ -56,12 +56,6 @@ Sign up for sparse biennialish KitterChord & OVXX updates here:
 
 <div style="display: flex; align-items: center; gap: 10px;"> <!-- Added wrapper div with flex styling and gap -->
   <script src="https://silly.possiblyaxolotl.com/ring/webstring.js"></script>
-  <div style="width:104px">
-    <a href="//mr.jhorn.net/index.php"><img src="//mr.jhorn.net/assets/button.gif"></a>
-    <a href="//mr.jhorn.net/prev.php?slug=cryo">prev</a>
-    <a href="//mr.jhorn.net/rand.php">rand</a>
-    <a href="//mr.jhorn.net/next.php?slug=cryo">next</a>
-</div>
 <script src="https://transring.neocities.org/ring.js"></script>
 
 
