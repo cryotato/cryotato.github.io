@@ -17,6 +17,11 @@ author_profile: false
 　　　||／彡￣<br>
 </b>
 
+
+.｡.
+
+<br>
+
 [KITTERCHORD](/shop) is a circuit luther
 
 [OVXX](https://open.spotify.com/artist/5kysZzGC0WtDlkwSX4P1St?si=XnfRdxzNSuePDD1tFXZgxg) is a noise musician
@@ -24,6 +29,19 @@ author_profile: false
 [RHYO](/about) is a real human bean
 
 [CRYOTATO](/blog) is a home for all of them
+
+.｡.
+
+<br>
+
+✉˖⁺‧₊‧⁺˖⁺‧₊૮꒰ ˶• ༝ •˶꒱ა ♡↪
+
+
+<iframe width="540" height="305" src="https://sibforms.com/serve/MUIFAGII6dnItKKSjLTX5EippiUkxF1ouYlSnSpzunfoBOjdGVblho2CGhGW4mzc_KILsCsbcRkVSQpr3dTsERtEpvp0j1SnAL-F9rQNcW-kZ28QD3goYzm_lKFx-QQTTso0z5GwqizHIOu7mGV-OlrS33TT10jCRG8qegcTmMavoyw6xUByxMzzJ_WUDtvkxMCqcMU_dFDLIp9V" frameborder="0" scrolling="auto" allowfullscreen style="display: block;margin-left: auto;margin-right: auto;max-width: 100%;"></iframe>
+
+
+
+<a href="mailto:{{ site.email }}?subject=Haii%3F&body=(%20•ω•ฅ）.｡.:*" class="btn btn--wide btn--large">E✉AIL ME</a>
 
 
 <!-- ![](/assets/images/artifactspain.jpeg) -->
