@@ -17,6 +17,14 @@ author_profile: false
 　　　||／彡￣<br>
 </b>
 
+[KITTERCHORD](/shop) is a circuit luther
+
+[OVXX](https://open.spotify.com/artist/5kysZzGC0WtDlkwSX4P1St?si=XnfRdxzNSuePDD1tFXZgxg) is a noise musician
+
+[RHYO](/about) is a real human bean
+
+[CRYOTATO](/blog) is a home for all of them
+
 
 <!-- ![](/assets/images/artifactspain.jpeg) -->
 <!-- <div align="right">
