@@ -1,5 +1,5 @@
 ---
-title: "ϑ'KitterChord Thing 喵鬍の東西 ᵖʳᵒᵈᵘᶜᵗ ᵈᵉˢᶦᵍⁿ"
+title: "ϑ'KitterChord Synthesthesia 喵鬍の合感"
 date: 2023-02-20T02:58:27.548+0000
 categories: ["art"]
 tags: ["product design"]
@@ -16,7 +16,7 @@ header:
 
 If there's no such thing as a "wrong note" then why do I still suck at music? Memorizing abstract theory? Practicing for hours a day? I thought music was supposed to be fun!
 
-Introducing: the Omni-Kitty Chroma-Chord Candy Bar Bass (or KitterChord Thing for short) - the instrument that loves you back! {:.drop-cap}
+Introducing: the Omni-Kitty Chroma-Chord Candy Bar Bass (AKA the KitterChord Synthesthesia for short) - the instrument that loves you back! {:.drop-cap}
 
 <iframe src="https://www.youtube.com/embed/hOqqhYsUClU?controls=0" title="Project Embed Content" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-pointer-lock allow-forms" loading="lazy" fetchpriority="auto"></iframe>
 
