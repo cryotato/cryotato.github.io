@@ -11,6 +11,8 @@ main:
     url: /portfolio/
   - title: "commissions 佣: closed"
     url: /commissions/
+  - title: "me 窝"
+    url: /about/
   # - title: "✉ail"
   #   url: /mail/
   # - title: "Me"
