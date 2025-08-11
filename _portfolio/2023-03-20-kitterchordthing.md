@@ -1,5 +1,7 @@
 ---
 title: "ϑ'KitterChord SYNthesthesia 喵鬍の合感 ᵐⁱᵈⁱ ʲᵃᶻᶻ ᵒᵐⁿⁱᶜʰᵒʳᵈ ᵍᵘⁱᵗᵃʳ"
+seo_title: "KitterChord SYNthesthesia - the MIDI jazz omnichord guitar"
+seo_description: "The Syn is a MIDI guitar with stradella bass Omnichord inspired full jazz-capable chord control and visualizations"
 date: 2023-02-20T02:58:27.548+0000
 categories: ["art"]
 tags: ["product design"]
