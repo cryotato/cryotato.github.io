@@ -1,7 +1,7 @@
 ---
 # title: corproart
 layout: collection
-permalink: /portfolio/
+permalink: /p/
 collection: portfolio
 entries_layout: grid
 classes: wide
