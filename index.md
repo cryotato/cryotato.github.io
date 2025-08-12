@@ -32,16 +32,19 @@ seo_description: "Rhyo is the developer of innovative sonic weapons as OVXX, CEO
 
 [CRYOTATO](/blog) is a home for all of them
 
+<br>
+
 .｡.
 
-<br>
 
 ✉˖⁺‧₊‧⁺˖⁺‧₊૮꒰ ˶• ༝ •˶꒱ა ♡↪
 
 
 <iframe width="540" height="305" src="https://sibforms.com/serve/MUIFAGII6dnItKKSjLTX5EippiUkxF1ouYlSnSpzunfoBOjdGVblho2CGhGW4mzc_KILsCsbcRkVSQpr3dTsERtEpvp0j1SnAL-F9rQNcW-kZ28QD3goYzm_lKFx-QQTTso0z5GwqizHIOu7mGV-OlrS33TT10jCRG8qegcTmMavoyw6xUByxMzzJ_WUDtvkxMCqcMU_dFDLIp9V" frameborder="0" scrolling="auto" allowfullscreen style="display: block;margin-left: auto;margin-right: auto;max-width: 100%;"></iframe>
 
+<!-- 
 
+note to self this is a Bravo email list that goes to rrrrr -->
 
 <a href="mailto:{{ site.email }}?subject=Haii%3F&body=(%20•ω•ฅ）.｡.:*" class="btn btn--wide btn--large">E✉AIL ME</a>
 
