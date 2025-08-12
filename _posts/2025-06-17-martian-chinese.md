@@ -31,5 +31,6 @@ Speaking of 草書, ϑ'only cursive script characters we ԙ able to use remain c
 - や - 也 (personally helps me distinguish 也 & 世)
 - も - 毛 (distinguish twix 毛 & 手)
 
-## Alternative Characters
-ï also have a soft spot for certain variations of characters. On̅e example would be 髙 for 高 meaning high, b∵c it has a ladder.
+## Classical Chinese & Translingualism
+Using classical chinese in place of more modern mandarin carries a higher degree of universality. So for example, with 我們 (meaning we) the plural marker 們 can be replaced with its more classical synonymn 等, this way it would be more consistent with Korean hanja (我等 - 무리), Japanese (我等 - われら), and various chinese "dialects" like Hakka (𠊎等 - ngai den). If we keep going with the pronouns theme we find that 你 (meaning you) can also be replaced with it's literary form 尔, so 你們 -> 尔等. I don't think 你 needs 人 particle at all... 等 on the other hand could definitely be confused with it's other meanings. To deal with this we can give the 人 particle to it instead -> 𠎬. While 𠎬 exists in unicode, it's pretty much completely unused so it might not display properly on some devices. ï also just find that certain variations of characters just make more sense, like 髙 for 高 meaning high, b∵c it has a ladder.
+ 
