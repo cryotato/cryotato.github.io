@@ -31,7 +31,7 @@ Sign up for sparse biennialish KitterChord & OVXX updates here:
 
 ***
 
-live reaction cam:
+臉 live reaction cam:
 <img src="/assets/images/pocky.gif" alt="POCKY" width="70%">
 
 ***
