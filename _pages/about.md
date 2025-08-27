@@ -4,8 +4,6 @@ permalink: /about/
 author_profile: false
 ---
 
-![POCKY](/assets/images/pocky.gif)
-
 <h2>ïm <a href="https://cryotato.github.io/name/">Rhyo Leo Tz-Tzen</a>. Everythiŋ ï do iꝬ to declare my identity ⅋ut ï døn't really have one. ï aspire to be a <a href="https://cryotato.github.io/blog/">Concept</a>, ïm a schizor𖹭mantic in that way. ïm from everywhere ⅋ nøwhere... hold your breath c∵z ï diffuse into thin air! ïm a short circuit!!</h2>
 
 窝是[子尘](https://cryotato.github.io/name/)。窝所做の一切、皆ゐ定義自窝、但窝其實冇一个固定の身份。窝渴求成ゐ一个[概念](https://cryotato.github.io/blog/)、從這點來說、窝是一名分裂性浪漫者。窝來自處處、や來自無處。屏息以待吧、因ゐ窝會消散於無形! 窝就是一場短路!
@@ -27,6 +25,7 @@ Sign up for sparse biennialish KitterChord & OVXX updates here:
 ✉˖⁺‧₊‧⁺˖⁺‧₊૮꒰ ˶• ༝ •˶꒱ა ♡↪
 
 ***
+![POCKY](/assets/images/pocky.gif)
 
 <div id="gr_quote_body">&quot;To read too many books is harmful.&quot;&mdash; <a title="Mao Zedong quotes" href="https://www.goodreads.com/author/quotes/4797485.Mao_Zedong">Mao Zedong</a><br/><br/></div><script src="https://www.goodreads.com/quotes/widget/114414047-mybussywroteathesisoncolonialism?v=2" type="text/javascript"></script><br/>
 <div style="text-align: right;"><h3><a href="https://www.goodreads.com/user/show/114414047-mybussywroteathesisoncolonialism" rel="nofollow">silly quote corner</a></h3></div>
