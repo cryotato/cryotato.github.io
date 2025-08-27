@@ -4,6 +4,7 @@ permalink: /about/
 author_profile: false
 ---
 
+![POCKY](/assets/images/pocky.gif)
 
 <h2>ïm <a href="https://cryotato.github.io/name/">Rhyo Leo Tz-Tzen</a>. Everythiŋ ï do iꝬ to declare my identity ⅋ut ï døn't really have one. ï aspire to be a <a href="https://cryotato.github.io/blog/">Concept</a>, ïm a schizor𖹭mantic in that way. ïm from everywhere ⅋ nøwhere... hold your breath c∵z ï diffuse into thin air! ïm a short circuit!!</h2>
 
