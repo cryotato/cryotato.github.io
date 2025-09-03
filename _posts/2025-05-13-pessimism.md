@@ -15,6 +15,8 @@ TW: suicide
 
 ***
 
+![chiikawa](/assets/images/chiikawa.png)
+
 ## let's set ϑ'scene..,
 
 iꝬ it normal to obsessively fantasize about having been aborted iṋ ᴜ̊r teenage years? ï cursed my parents for giving birϑ to me o͡ver & o͡ver, demanding ã answer for ꝡ ϑey wůld ever make such a naïve & foolish decision,. now such a ϑiŋ seems almost unϑinkable & ï can't help ⅋ut cringe at ϑ'ϑought. ï wonder ŵ changed. ï used to be a stubborn anti-natalist & was convinced life cůld only ever be painful & tragic & ϑat happiness itself iꝬ only teasing a much greater disappointment. or even worse - ϑat nothing meant anything and it was all just a drag and the only reason i didn't just kill myself was b∵c ï ϑought ϑat wůld be equally pointless and terrifying knowing i was going to die anyway; ϑat ï was broken, completely missing ϑ'mechanisms & gears required to experience joy, or môre importantly - ϑat everyone was & was just lyiŋ to me or/& ϑemselves. ï was wrong. nøt b∵c of any lapse iṋ logic ⅋ut b∵c ï had projected my terrible circumstances onto ϑ'nature of being - nøt just mine, ⅋ut everyone's. a cold lifeless environment had been normalized by everyone around me. ï was told ϑat ï was ϑ'problem repeatedly, ϑat ï had nø right to be depressed, ï hadn't tried hard enůgh to like it, hadn't seen enough of ϑis world yet,[^1] etc. ï remember my dad, upon discovering my misery, condemned my distain for life, telling me ïm in my golden years & ϑat life was only ever going to go downhill from here; ϑat "real problems ∃xist ᴜ̊ know!" & maybe ϑeyԙ right. all i ever dared to ask was "wait... if ϑis iꝬ it ϑen ŵꝬ ϑ'point?". 
