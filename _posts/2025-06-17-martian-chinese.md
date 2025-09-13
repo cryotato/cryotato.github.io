@@ -1,6 +1,6 @@
 ---
 
-title: Kaomojified Huoonty Chinese - 魂體火星文
+title: Kaomojified Huoonty Chinese - 훈鬼骨티 火星文
 
 ---
 
