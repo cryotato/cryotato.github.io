@@ -12,7 +12,7 @@ image:
   path: /assets/images/1_HbQgkZAGvgV__2p_lvpqUw.png
 ---
 
-Huoonty Hantze, an etymological hybrid logographic hangul script & universal methodology to immortalize Chinese characters
+Huoonty Hantze, an etymological hybrid logographic hangul script to immortalize Chinese characters and provide a universal framework for the reintroduction of deterritorialized creativity back into East Asian scripts
 
 
 ![](/assets/images/1_HbQgkZAGvgV__2p_lvpqUw.png)
@@ -22,34 +22,7 @@ Huoonty Hantze, an etymological hybrid logographic hangul script & universal met
 
 Disclaimer: I’m not a dictator. 窝是 [子尘](https://cryotato.github.io/name/)。窝 숴斤イ줘 の 一체刀、皆 ゐ ウ딩羊이 自 窝、イ단 窝 其實 冇 一个 囗구ウ딩 の 身イ펀。窝 シ커求 戊청 ゐ 一个 [木가이念](https://cryotato.github.io/blog/)、辵총 辵저黑뎬 來言숴、窝是 一名 分례衣心싱シ랑漫者。窝 來自 추夂几추夂几、や 來 自 無추夂几。尸빙息以彳다이 囗바、因ゐ 窝 會 シ샤오林肉산 於 無形! 窝 就是 一土창 矢두안足루!\.
 
-## Part you can skip if you don't care about the political aspects of language
-
-On paper, 普通話 (Mandarin recontextualized to be "ordinary speech" i.e "Chinese") as a concept can be understood as a cultural genocide\. Widespread systematic censorship of local languages specifically targeted towards children — cartoons were not allowed to be in anything but Mandarin, children were punished for speaking their mother tongue in schools, characters in films had to enforce the stereotype that speakers of other Chinese languages were uneducated if they wanted to include them at all, etc\. For context as to how fast Mandarin took over the world, not even Mao Zedong knew Mandarin & this was around 1950\. He spoke Hunanese\. Even despite me saying all of this I completely understand what they were going for\. Back then literacy seemed impossible, 漢字 \(Chinese characters\) are infamously hard to learn even today after standardisation & back then most people couldn’t read or write\. I don’t think China could be the economic powerhouse it is today without the forced erasure of all the other countless languages for a universal united lingua franca\. Spoken Mandarin is relatively simple compared to the others and the idea of teaching children Literary Chinese \(which was pretty much completely separate from everyday speech\) is unthinkable\.
-{:.drop-cap}
-
-It’s pretty hard to imagine today but back in the day when all the language reforms were taking place it was such a big problem that even after having created simplified Chinese to help make writing easier, Mao was still convinced 漢字 as a whole needed to go “eventually” — This apparently only never came to fruition because Stalin talked him out of it\. So that’s how we got “Chinese” as we know it today\! Still the most difficult script for anyone anywhere to learn, even for Chinese people\.
-{:.drop-cap}
-
-## Why is it so difficult?
-
-If you didn’t know already, this is because the writing has little to no reliable correlation with how the words are pronounced\. There are many types of characters, some are just picograms, but most also have a phonetic component \(聲旁\) alongside them\. There are many examples where this system works relatively predictably like with 馬s _\(horse\)_ there's 嗎 _\(indicating question\)_ , 媽 _\(mum\)_ , 碼 _\(weight\)_ , 罵 _\(to scold\)_ which are all pronounced “ma”; or 門s _\(door\)_ 們 _\(indicating plural\)_ , 悶 _\(bored\)_ , 捫 _\(cover\)_ all pronounced “men”\. But more often than not these phonemes were bought over from middle Chinese and are now outdated or very abstract \(like 旁 “pang” used in the title of this very article uses 方 “fang” as the phonetic component, and 韓 “han” uses 倝 “gan” which itself uses an ancient form of 偃 “yan” which coincidentally also used 方 “pang”\) and even in the rare cases it works as it’s supposed to it can still be confusing to denote which component is the phoneme or if there is any at all\. Like try to guess how these are pronounced — 関 _\(to close shut\)_ , 開 _\(to open\)_ , 間 _\(a room\)_ \. From the previous example you’d think these are pronounced “men” too, but the 門 component in these are actually being used as a pictograph to represent ideas that involve doors\. And coming back to 媽, knowing it has a female component 女 & a horse 馬 you’d be forgiven to think it has something to do with a female horse \(the high school your mum jokes just write themselves\) \. Most Chinese characters are composed like this, and there is little signification to suggest which components are phonemes and which aren‘t\.
-{:.drop-cap}
-
-Another issue arises when you realize Hanzi’s use extends beyond Mandarin\. It’s used in Japanese, and used to be in Korean and Vietnamese\. Hanzi was easily adopted by other languages because the characters hold meaning rather than pronunciation, like numbers\. So making the phonemes updated to just fit Mandarin would be unfair to the other languages that have been using Hanzi long before Mandarin had even been established\.
-{:.drop-cap}
-
-## Why not just switch to a fully phonetic system like the rest of the world?
-
-I like to imagine what the conversation between Mao and Stalin could have gone\. Despite it all, there’s a reason its so hard to imagine Mandarin without 漢字\. The first issue is that Mandarin has very little phonemes at all — 29 while English has 44\. The fact that Mandarin uses very short words oftentimes just containing 1 syllable, switching to a phonetic system would make many words very hard to distinguish from one another\. In English we have the buffalo buffalo buffalo buffalo debaucle but in Chinese we have this monstrosity of words which are all pronounced “shi”:
-{:.drop-cap}
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9jtiw721RAg?si=dckohODVDN5TSI6d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-
-Aside from readability, Hanzi is just awesome, it’s the last pictographic script we still use \(besides numbers and emojis\) and its the main reason I study Chinese to this day despite all it’s frustrating pitfalls\. It allows for writing that is concise and succinct\. Writing that transcends even spoken language itself\.
-
-### 漢字 as resistance against the imperial significating degloving machine
+## 漢字 as resistance against the imperial significating degloving machine
 
 > The magic triangle with its three sides—voice-audition, graphism-body, eye-pain—thus seems to us to be an order of connotation, a system of cruelty where the word has an essentially designating function, but where the graphism itself constitutes a sign in conjunction with the thing designated, and where the eye goes from one to the other, extracting and measuring the visibility of the one against the pain of the other.
 
@@ -67,6 +40,33 @@ The signifier (phonetic abstractions of symbols) "overcoding" the signified (pic
 
 While an emoji doesn't really have this problem because it exists in a "perfect" form digitally, because Chinese pictograms are derived from literally thousands of years of carving and handwriting, for the "production" side of things to work for you to interpret it there still has to be an "authority" deciding a certain abstract stroke represents a concept. But a lot of the time, the semantic diagrams are still directly made up of concepts which "produce" its meaning rather than just a sound. Many many chinese characters have been completely divorced from the meaning of the original pictogram anyway (such as 我 which I will get to in a minute). Part of this project is to amend this in some way. I don't think D&G's problem with phonetic writing is literally signification itself, but the way in which phonetization degloves the "sign" to hang up the skin.
 {:.drop-cap}
+
+With this, D&G invites us to imagine how an "A-signifying" orthographic system might look.
+
+## the Mandaring of Chinese languages
+
+On paper, 普通話 (Mandarin recontextualized to be "ordinary speech" i.e "Chinese") as a concept can be understood as a cultural genocide\. Widespread systematic censorship of local languages specifically targeted towards children — cartoons were not allowed to be in anything but Mandarin, children were punished for speaking their mother tongue in schools, characters in films had to enforce the stereotype that speakers of other Chinese languages were uneducated if they wanted to include them at all, etc\. For context as to how fast Mandarin took over the world, not even Mao Zedong knew Mandarin & this was around 1950\. He spoke Hunanese\. Even despite me saying all of this I completely understand what they were going for\. Back then literacy seemed impossible, 漢字 \(Chinese characters\) are infamously hard to learn even today after standardisation & back then most people couldn’t read or write\. I don’t think China could be the economic powerhouse it is today without the forced erasure of all the other countless languages for a universal united lingua franca\. Spoken Mandarin is relatively simple compared to the others and the idea of teaching children Literary Chinese \(which was pretty much completely separate from everyday speech\) is unthinkable\.
+{:.drop-cap}
+
+It’s pretty hard to imagine today but back in the day when all the language reforms were taking place it was such a big problem that even after having created simplified Chinese to help make writing easier, Mao was still convinced 漢字 as a whole needed to go “eventually” — This apparently only never came to fruition because Stalin talked him out of it\. So that’s how we got “Chinese” as we know it today\! Still the most difficult script for anyone anywhere to learn, even for Chinese people\.
+{:.drop-cap}
+
+## Why is it so difficult?
+
+If you didn’t know already, this is because the writing has little to no reliable correlation with how the words are pronounced\. There are many types of characters, some are just picograms, but most also have a phonetic component \(聲旁\) alongside them\. There are many examples where this system works relatively predictably like with 馬s _\(horse\)_ there's 嗎 _\(indicating question\)_ , 媽 _\(mum\)_ , 碼 _\(weight\)_ , 罵 _\(to scold\)_ which are all pronounced “ma”; or 門s _\(door\)_ 們 _\(indicating plural\)_ , 悶 _\(bored\)_ , 捫 _\(cover\)_ all pronounced “men”\. But more often than not these phonemes were bought over from middle Chinese and are now outdated or very abstract \(like 旁 “pang” used in the title of this very article uses 方 “fang” as the phonetic component, and 韓 “han” uses 倝 “gan” which itself uses an ancient form of 偃 “yan” which coincidentally also used 方 “pang”\) and even in the rare cases it works as it’s supposed to it can still be confusing to denote which component is the phoneme or if there is any at all\. Like try to guess how these are pronounced — 関 _\(to close shut\)_ , 開 _\(to open\)_ , 間 _\(a room\)_ \. From the previous example you’d think these are pronounced “men” too, but the 門 component in these are actually being used as a pictograph to represent ideas that involve doors\. And coming back to 媽, knowing it has a female component 女 & a horse 馬 you’d be forgiven to think it has something to do with a female horse \(the high school your mum jokes just write themselves\) \. Most Chinese characters are composed like this, and there is little signification to suggest which components are phonemes and which aren‘t\.
+{:.drop-cap}
+
+Another issue arises when you realize Hanzi’s use extends beyond Mandarin\. It’s used in Japanese, and used to be in Korean and Vietnamese\. Hanzi was easily adopted by other languages because the characters hold meaning rather than pronunciation, like numbers\. So making the phonemes updated to just fit Mandarin would be unfair to the other languages that have been using Hanzi long before Mandarin had even been established\.
+{:.drop-cap}
+
+## Why hasn't 漢字 been signified like the rest of the world?
+
+Are the big brained Chinese just on a higher plane of literacy as Deleuze implies? No. I like to imagine what the conversation between Mao and Stalin could have gone\. Despite it all, there’s a reason its so hard to imagine Mandarin without 漢字\. The first issue is that Mandarin has very little phonemes at all — 29 while English has 44\. The fact that Mandarin uses very short words oftentimes just containing 1 syllable, switching to a phonetic system would make many words very hard to distinguish from one another\. In English we have the buffalo buffalo buffalo buffalo debaucle but in Chinese we have this monstrosity of words which are all pronounced “shi”:
+{:.drop-cap}
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9jtiw721RAg?si=dckohODVDN5TSI6d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 ## Compromise
 
