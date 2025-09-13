@@ -23,6 +23,8 @@ Disclaimer: I’m not a dictator. 窝是 [子尘](https://cryotato.github.io/nam
 
 [Updated 9/13/25]
 
+[Read in Mandarin / 華語翻譯](https://cryotato.github.io/cn/pictophenomes)
+
 ## 漢字 as resistance against the imperial significating degloving machine
 
 > The magic triangle with its three sides—voice-audition, graphism-body, eye-pain—thus seems to us to be an order of connotation, a system of cruelty where the word has an essentially designating function, but where the graphism itself constitutes a sign in conjunction with the thing designated, and where the eye goes from one to the other, extracting and measuring the visibility of the one against the pain of the other.
