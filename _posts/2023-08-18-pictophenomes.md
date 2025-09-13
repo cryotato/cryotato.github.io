@@ -22,6 +22,8 @@ Huoonty Hantze, an etymological hybrid logographic hangul script to immortalize 
 
 Disclaimer: I’m not a dictator. 窝是 [子尘](https://cryotato.github.io/name/)。窝 숴斤イ줘 の 一체刀、皆 ゐ ウ딩羊이 自 窝、イ단 窝 其實 冇 一个 囗구ウ딩 の 身イ펀。窝 シ커求 戊청 ゐ 一个 [木가이念](https://cryotato.github.io/blog/)、辵총 辵저黑뎬 來言숴、窝是 一名 分례衣心싱シ랑漫者。窝 來自 추夂几추夂几、や 來 自 無추夂几。尸빙息以彳다이 囗바、因ゐ 窝 會 シ샤오林肉산 於 無形! 窝 就是 一土창 矢두안足루!\.
 
+[Updated 9/13/25]
+
 ## 漢字 as resistance against the imperial significating degloving machine
 
 > The magic triangle with its three sides—voice-audition, graphism-body, eye-pain—thus seems to us to be an order of connotation, a system of cruelty where the word has an essentially designating function, but where the graphism itself constitutes a sign in conjunction with the thing designated, and where the eye goes from one to the other, extracting and measuring the visibility of the one against the pain of the other.
@@ -142,8 +144,6 @@ This is the result of my experiment with Article 1 of the Universal Declaration 
 A handwritten draft
 
 ## Kaomojifying
-
-[Updated 9/13/25]
 
 Digitizing an idea like this \(accelerationist huoontification, if you will\) would prove to be difficult but I still have a couple of ideas\. I could either make a font which has a very limited use case and would take a lifetime to create \(still might do it anyway & if I do I’ll document some cool etymology findings\), or use a system that makes use of existing hangul unicodes besides the Chinese component, like 應 “yin” as written above could be represented by 인心 instead of in one block… Spaces, like in korean, can be reintroduced to separate words. In a recent study involving Mandarin Chinese, adding spaces to separate words helped participants read faster anyway. Of course this leaves out the fact that there is still debate on what a word even is in this context. It would also have the potential to make certain characters less dense and more readable when made smaller. As much as I'm team traditional characters (because the abstraction of simplified chinese has a habit of stepping into signifying territory) they can be quite hard to read as embedded bold subtitles in 360p. This deconstruction of characters also gives way to a whole new way of inventing words and neologisms in the modern era, bringing back creativity from territorial state standardization. \.
 {:.drop-cap}
