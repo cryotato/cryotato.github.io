@@ -1,7 +1,6 @@
 ---
 title: "훈鬼骨티 シ한字 — Fixing Chinese pictophonemes for Mao"
 date: 2023-08-18T19:31:09.548+0000
-last_modified_at: 2024-10-26T13:56:38.709+0000
 categories: [""]
 tags: ["linguistics","orthography"]
 toc: true
