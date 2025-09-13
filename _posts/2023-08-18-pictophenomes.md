@@ -78,9 +78,9 @@ It’s really simple, I just had to repurpose and adjust the Korean Hangul syste
 ![](/assets/images/1_S90Z1kIFapqPU--PmN0-Vw.png)
 
 
-Then I had to figure out which components in every character were phonetic\. I haven’t been alive for all of ancient Chinese history so for this I had to check every character in the [Yellowbridge](https://www.yellowbridge.com/chinese/dictionary.php) dictionary\. The final step is to just construct the hangul and replace it with the phonetic component\!
+The hard part is figuring out which components in every character were phonetic\. I haven’t been alive for all of ancient Chinese history so for this I had to check every character in the [Yellowbridge](https://www.yellowbridge.com/chinese/dictionary.php) dictionary or Wiktionary\. This can be a really bleh-ifying process but until LLMs replace us all I just have to do it manually. The final step is to just construct the hangul and replace it with the phonetic component\!
 
-Because my idea for this was to make Chinese Characters immune to any phonetic changes that will come with time, and to make it more easily adaptable to any language that uses Hanzi, I call it 훈鬼骨티 シ한字 / 魂體한字 “Huoonty Hantze\.” 魂 “hun” meaning spirit/immortal, which ironically has an outdated phoneme itself \(云 now pronounced “yun”\) \.
+Because my idea for this was to make Chinese Characters immune to any phonetic changes that will come with time, and to make it more easily adaptable to any language that uses Hanzi, I call it 훈鬼骨티 シ한字 “Huoonty Hantze\.” 魂 “hun” meaning spirit/immortal, which ironically has an outdated phoneme itself \(云 now pronounced “yun”\) \.
 
 This is the result of my experiment with Article 1 of the Universal Declaration of Human Rights, used to demonstrate scripts on [Omniglot](https://www.omniglot.com/index.htm) \. “人人生而自由﹐在尊嚴和權利上一律平等。他們賦有理性和良心﹐並應以兄弟關係的精神互相對待。” and chapter 25 from the Tao Te Ching
 
