@@ -49,11 +49,11 @@ I like to imagine what the conversation between Mao and Stalin could have gone\.
 
 Aside from readability, Hanzi is just awesome, it’s the last pictographic script we still use \(besides numbers and emojis\) and its the main reason I study Chinese to this day despite all it’s frustrating pitfalls\. It allows for writing that is concise and succinct\. Writing that transcends even spoken language itself\.
 
-### 漢字 as resistance against the imperial signifier
+### 漢字 as resistance against the imperial significating degloving machine
 
 > The magic triangle with its three sides—voice-audition, graphism-body, eye-pain—thus seems to us to be an order of connotation, a system of cruelty where the word has an essentially designating function, but where the graphism itself constitutes a sign in conjunction with the thing designated, and where the eye goes from one to the other, extracting and measuring the visibility of the one against the pain of the other.
 
-Deleuze and Guattari describe a deconstruction of orthography in that each process involved in creating a writing system is a kind of in conflict with each other. Earlier he talks about the development of phonetic symbols and how it requires two separate cultures / languages for one to meet up and misinterpret them because its easier to communicate a symbol as a sound than a concept,,. I think this is a bit of an arbitrary assumption but its still fun to think about and it made me think about chinese pictographic writing eventually creating japanese hirigana etc., in that its original symbolic meanings are lost. Chinese characters seem to be the only modern exception to this but even several components are used phonetically and are certifiably a complete nightmare as mentioned earlier.
+Deleuze and Guattari describe a deconstruction of orthography in that each process involved in creating a writing system is in conflict with each other. Earlier he talks about the development of phonetic symbols and how it requires two separate cultures / languages for one to meet up and misinterpret them because its easier to communicate a symbol as a sound than a concept,,. I think this is a bit of an arbitrary assumption but its still fun to think about and it made me think about chinese pictographic writing eventually creating japanese hirigana etc., in that its original symbolic meanings are lost. Chinese characters seem to be the only modern exception to this but even several components are used phonetically and are certifiably a complete nightmare as mentioned earlier.
 {:.drop-cap}
 
 > There, however, as elsewhere, an irreducible exteriority of conquest asserts itself. For if language itself does not presuppose conquest, the leveling operations (les operations de rabattement) that constitute written language indeed presuppose two inscriptions that do not speak the same language: two languages (langages), one of masters, the other of slaves. Jean Nougayrol describes just such a situation: "For the Sumerians, [a given sign] is water; the Sumerians read this sign a, which signifies water in Sumerian. An Akkadian comes along and asks his Sumerian master: what is this sign? The Sumerian replies: that's a. The Akkadian takes this sign for a, and on this point there is no longer any relationship between the sign and water, which in Akkadian is called mu. . . . I believe that the presence of the Akkadians determined the phoneticization of the writing system . . . and that the contact of two peoples is almost necessary before the spark of a new writing can spring forth."55 One cannot better show how an operation of biunivocalization organizes itself around a despotic signifier, so that a phonetic and alphabetical chain flows from it. Alphabetical writing is not for illiterates, but by illiterates.
@@ -65,18 +65,68 @@ Deleuze and Guattari describe a deconstruction of orthography in that each proce
 The signifier (phonetic abstractions of symbols) "overcoding" the signified (pictographic representations of concepts, which i think they think is more real or true somehow) is just described as "imperial" or like violent structuralist arbitrary rule-making and creates this kind of atmosphere where the meaning of a fundamentally meaningless string of letters is policed? As if by law, only to be redirected to the original "signified" (the actual concept)., which now, in extension, has become an "empty tomb". It's just as easy to argue that writing can never be a real representation of anything and language through speech is more natural and has been around for much longer. That it's a core part of what makes us human, and so phonetic characters are not any more arbitrary than pictographic writing outside of their made up concept of what graphism is. But i think what they care about is moving away from representation entirely to a model of "production". Like with Chinese characters there are ones that "produce" its represented effect - there are a lot especially ones with the 心 heart component. 忘 (forget/neglect) has the component meaning "lost" above it, 忍 (endure/hard-heartedness) has a blade's edge, 愁 sorrow has autumn, 秋 autumn itself being a combination of a crop and a fire -- they are images that produce or conjure up thought directly. Outside of 漢字, I think emojis are a decent foil to understand the concept by,, as in the emoji doesn't require a cultural authority to be understood, it just is., universally, and so it is able to transcend a single culture or state as long as it is intuitive or legible enough. Chinese characters do the same in a more abstract form which is why so many countries used to use classical chinese to communicate with each other and write despite their languages coming from completely different language families.
 {:.drop-cap}
 
+While an emoji doesn't really have this problem because it exists in a "perfect" form digitally, because Chinese pictograms are derived from literally thousands of years of carving and handwriting, for the "production" side of things to work for you to interpret it there still has to be an "authority" deciding a certain abstract stroke represents a concept. But a lot of the time, the semantic diagrams are still directly made up of concepts which "produce" its meaning rather than just a sound. Many many chinese characters have been completely divorced from the meaning of the original pictogram anyway (such as 我 which I will get to in a minute). Part of this project is to amend this in some way. I don't think D&G's problem with phonetic writing is literally signification itself, but the way in which phonetization degloves the "sign" to hang up the skin.
+{:.drop-cap}
+
 ## Compromise
 
 In my eyes the obvious solution is to combine the advantages of a phonetic system and a logographic system together\. Replacing all the inconsistent phonetic compounds with an actual alphabet while keeping all the beautiful pictograms on the side\. I decided to use Hangul to help with this because it’s another script that is arranged into blocks \(and not just because it’s really cool\) \.
 {:.drop-cap}
 
-## What I came up with…
+## Cooking
 
 It’s really simple, I just had to repurpose and adjust the Korean Hangul system to fit the phonemes of Mandarin\.
 
+| Initials | | Finals | |
+| :--- | :--- | :--- | :--- |
+| **Pinyin** | **Hangul** | **Pinyin** | **Hangul** |
+| b | ㅃ | a | 아 |
+| p | ㅍ | o | 오 / 워¹ |
+| m | ㅁ | e | 어 / 으어 |
+| f | ㅍ | ê | 에 |
+| d | ㄸ | i (-i) | 이 / 으² |
+| t | ㅌ | u | 우 |
+| n | ㄴ | ü (yu) | 위 |
+| l | ㄹ | ai | 아이 |
+| g | ㄲ | ei | 에이 |
+| k | ㅋ | ui (uei) | 웨이 |
+| h | ㅎ | ao | 아오 |
+| j | ㅉ³ | ou | 오우 |
+| q | ㅊ³ | iu (iou) | 이우 |
+| x | ㅅ³ | ie | 예 |
+| zh | ㅉ³ | üe (yue) | 웨 |
+| ch | ㅊ³ | er | 얼 |
+| sh | ㅅ³ | an | 안 |
+| r | ㄹ | en | 언 / 은 |
+| z | ㅉ³ | in | 인 |
+| c | ㅊ³ | un (wen) | 운 |
+| s | ㅅ³ | ün (yun) | 윈 |
+| y | (See Finals)⁴ | ang | 앙 |
+| w | (See Finals)⁴ | eng | 엉 / 응 |
+| | | ing | 잉 |
+| | | ong | 옹 |
+| | | **i- / y- Finals** | |
+| | | ia (ya) | 야 |
+| | | iao (yao) | 야오 |
+| | | ian (yan) | 옌 |
+| | | iang (yang) | 양 |
+| | | iong (yong) | 융 |
+| | | **u- / w- Finals** | |
+| | | ua (wa) | 와 |
+| | | uo (wo) | 워 |
+| | | uai (wai) | 와이 |
+| | | uan (wan) | 완 |
+| | | uang (wang)| 왕 |
+| | | ueng (weng)| 웡 |
+| | | **ü- / yu- Finals** | |
+| | | üan (yuan) | 위안 |
 
-![](/assets/images/1_S90Z1kIFapqPU--PmN0-Vw.png)
+---
 
+Note that:
+
+- The final `-i` is transliterated as **이** (i) in most cases (e.g., `li` -> `리`). However, after the initials `z, c, s, zh, ch, sh, r`, it is pronounced as a syllabic consonant and is written as **으** (eu). For example, `shi` -> `스`, `zi` -> `쯔`.
+- Korean, much like the southern Chinese accents I grew up with, does not distinguish between the dental (`z, c, s`), retroflex (`zh, ch, sh`), and alveolo-palatal (`j, q, x`) initials, so here they are merged.
 
 The hard part is figuring out which components in every character were phonetic\. I haven’t been alive for all of ancient Chinese history so for this I had to check every character in the [Yellowbridge](https://www.yellowbridge.com/chinese/dictionary.php) dictionary or Wiktionary\. This can be a really bleh-ifying process but until LLMs replace us all I just have to do it manually. The final step is to just construct the hangul and replace it with the phonetic component\!
 
