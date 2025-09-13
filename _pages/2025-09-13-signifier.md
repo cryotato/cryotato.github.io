@@ -1,5 +1,5 @@
 ---
-
+permalink: /signifier/
 title: Signifier
 
 ---
