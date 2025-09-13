@@ -11,7 +11,7 @@ image:
   path: /assets/images/1_HbQgkZAGvgV__2p_lvpqUw.png
 ---
 
-Huoonty Hantze, an etymological hybrid logographic hangul script to provide a universal framework for the reintroduction of deterritorialized creativity back into East Asian scripts
+Huoonty Hantze, an etymological hybrid logographic hangul script to provide a universal framework for the deterritorialization of East Asian scripts.
 
 
 ![](/assets/images/1_HbQgkZAGvgV__2p_lvpqUw.png)
