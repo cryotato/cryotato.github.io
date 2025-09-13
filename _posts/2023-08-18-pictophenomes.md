@@ -84,25 +84,25 @@ It’s really simple, I just had to repurpose and adjust the Korean Hangul syste
 | p | ㅍ | o | 오 / 워¹ |
 | m | ㅁ | e | 어 / 으어 |
 | f | ㅍ | ê | 에 |
-| d | ㄸ | i (-i) | 이 / 으² |
+| d | ㄸ | i (-i) | 이 / 으 |
 | t | ㅌ | u | 우 |
 | n | ㄴ | ü (yu) | 위 |
 | l | ㄹ | ai | 아이 |
 | g | ㄲ | ei | 에이 |
 | k | ㅋ | ui (uei) | 웨이 |
 | h | ㅎ | ao | 아오 |
-| j | ㅉ³ | ou | 오우 |
-| q | ㅊ³ | iu (iou) | 이우 |
-| x | ㅅ³ | ie | 예 |
-| zh | ㅉ³ | üe (yue) | 웨 |
-| ch | ㅊ³ | er | 얼 |
-| sh | ㅅ³ | an | 안 |
+| j | ㅉ | ou | 오우 |
+| q | ㅊ | iu (iou) | 이우 |
+| x | ㅅ | ie | 예 |
+| zh | ㅉ | üe (yue) | 웨 |
+| ch | ㅊ | er | 얼 |
+| sh | ㅅ | an | 안 |
 | r | ㄹ | en | 언 / 은 |
-| z | ㅉ³ | in | 인 |
-| c | ㅊ³ | un (wen) | 운 |
-| s | ㅅ³ | ün (yun) | 윈 |
-| y | (See Finals)⁴ | ang | 앙 |
-| w | (See Finals)⁴ | eng | 엉 / 응 |
+| z | ㅉ | in | 인 |
+| c | ㅊ | un (wen) | 운 |
+| s | ㅅ | ün (yun) | 윈 |
+| y | (See Finals) | ang | 앙 |
+| w | (See Finals) | eng | 엉 / 응 |
 | | | ing | 잉 |
 | | | ong | 옹 |
 | | | **i- / y- Finals** | |
