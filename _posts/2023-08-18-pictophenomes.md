@@ -19,7 +19,7 @@ Huoonty Hantze, an etymological hybrid logographic hangul script to provide a un
 人人 生而 自由﹐째土 尊吅얀 わ헤 木뛴利 上 一律 平竹등。他イ믄 貝푸有 王리心싱 わ헤 良心﹐並 心잉 以 兄弟 門관イ시 の 精神 互相 對ㄔ대。
 {:.drop-cap}
 
-Disclaimer: I’m not a dictator. 窝是 [子尘](https://cryotato.github.io/name/)。窝 숴斤イ줘 の 一체刀、皆 ゐ ウ딩羊이 自 窝、イ단 窝 其實 冇 一个 囗구ウ딩 の 身イ펀。窝 シ커求 戊청 ゐ 一个 [木가이念](https://cryotato.github.io/blog/)、辵총 辵저黑뎬 來言숴、窝是 一名 分례衣心싱シ랑漫者。窝 來自 추夂几추夂几、や 來 自 無추夂几。尸빙息以彳다이 囗바、因ゐ 窝 會 シ샤오林肉산 於 無形! 窝 就是 一土창 矢두안足루!\.
+Disclaimer: I’m not a dictator. 窝是 [子尘](https://cryotato.github.io/name/)。窝 숴斤イ줘(所做) の 一체刀(切)、皆 ゐ ウ딩羊이(定義) 自 窝、イ단(但) 窝 其實 冇 一个 囗구ウ딩(固定) の 身イ펀(份)。窝 シ커(渴)求 戊청(成) ゐ 一个 [木가이(概)念](https://cryotato.github.io/blog/)、辵총(從) 辵저黑뎬(這點) 來言숴(說)、窝是 一名 分례衣싱心(裂性)シ랑(浪)漫者。窝 來自 추夂几추夂几(處處)、や 來 自 無추夂几(處)。尸빙(屏)息以彳다이(待) 囗바(吧)、因ゐ 窝 會 シ샤오林肉산(消散) 於 無形! 窝 就是 一土창(場) 矢두안足루(短路)!
 
 [Updated 9/13/25]
 
