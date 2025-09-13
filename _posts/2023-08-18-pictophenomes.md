@@ -11,13 +11,13 @@ image:
   path: /assets/images/1_HbQgkZAGvgV__2p_lvpqUw.png
 ---
 
-Huoonty Hantze, an etymological hybrid logographic hangul script to immortalize Chinese characters and provide a universal framework for the reintroduction of deterritorialized creativity back into East Asian scripts
+Huoonty Hantze, an etymological hybrid logographic hangul script to provide a universal framework for the reintroduction of deterritorialized creativity back into East Asian scripts
 
 
 ![](/assets/images/1_HbQgkZAGvgV__2p_lvpqUw.png)
 
 人人 生而 自由﹐째土 尊吅얀 わ헤 木뛴利 上 一律 平竹등。他イ믄 貝푸有 王리心싱 わ헤 良心﹐並 心잉 以 兄弟 門관イ시 の 精神 互相 對ㄔ대。
-
+{:.drop-cap}
 
 Disclaimer: I’m not a dictator. 窝是 [子尘](https://cryotato.github.io/name/)。窝 숴斤イ줘 の 一체刀、皆 ゐ ウ딩羊이 自 窝、イ단 窝 其實 冇 一个 囗구ウ딩 の 身イ펀。窝 シ커求 戊청 ゐ 一个 [木가이念](https://cryotato.github.io/blog/)、辵총 辵저黑뎬 來言숴、窝是 一名 分례衣心싱シ랑漫者。窝 來自 추夂几추夂几、や 來 自 無추夂几。尸빙息以彳다이 囗바、因ゐ 窝 會 シ샤오林肉산 於 無形! 窝 就是 一土창 矢두안足루!\.
 
@@ -26,9 +26,10 @@ Disclaimer: I’m not a dictator. 窝是 [子尘](https://cryotato.github.io/nam
 ## 漢字 as resistance against the imperial significating degloving machine
 
 > The magic triangle with its three sides—voice-audition, graphism-body, eye-pain—thus seems to us to be an order of connotation, a system of cruelty where the word has an essentially designating function, but where the graphism itself constitutes a sign in conjunction with the thing designated, and where the eye goes from one to the other, extracting and measuring the visibility of the one against the pain of the other.
-
-Deleuze and Guattari describe a deconstruction of orthography in that each process involved in creating a writing system is in conflict with each other. Earlier he talks about the development of phonetic symbols and how it requires two separate cultures / languages for one to meet up and misinterpret them, because as it turns out its easier to communicate a symbol as a sound than a concept,,. I think this is a bit of an arbitrary assumption but its still fun to think about and it made me think about chinese pictographic writing eventually creating japanese hirigana etc., in that its original symbolic meanings are lost.
 {:.drop-cap}
+
+Deleuze and Guattari describe a deconstruction of orthography in that each process involved in creating a writing system is in conflict with each other. Earlier he talks about the development of phonetic symbols and how it requires two separate cultures / languages for one to meet up and misinterpret them. As it turns out it's easier to communicate a symbol as a sound than a concept,,.
+<!-- I think this is a bit of an arbitrary assumption but its still fun to think about and it made me think about chinese pictographic writing eventually creating japanese hirigana etc., in that its original symbolic meanings are lost. -->
 
 > There, however, as elsewhere, an irreducible exteriority of conquest asserts itself. For if language itself does not presuppose conquest, the leveling operations (les operations de rabattement) that constitute written language indeed presuppose two inscriptions that do not speak the same language: two languages (langages), one of masters, the other of slaves. Jean Nougayrol describes just such a situation: "For the Sumerians, [a given sign] is water; the Sumerians read this sign a, which signifies water in Sumerian. An Akkadian comes along and asks his Sumerian master: what is this sign? The Sumerian replies: that's a. The Akkadian takes this sign for a, and on this point there is no longer any relationship between the sign and water, which in Akkadian is called mu. . . . I believe that the presence of the Akkadians determined the phoneticization of the writing system . . . and that the contact of two peoples is almost necessary before the spark of a new writing can spring forth."55 One cannot better show how an operation of biunivocalization organizes itself around a despotic signifier, so that a phonetic and alphabetical chain flows from it. Alphabetical writing is not for illiterates, but by illiterates.
 
