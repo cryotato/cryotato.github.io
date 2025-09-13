@@ -78,56 +78,40 @@ In my eyes the obvious solution is to combine the advantages of a phonetic syste
 
 It’s really simple, I just had to repurpose and adjust the Korean Hangul system to fit the phonemes of Mandarin\.
 
-| Initials | | Finals | |
-| :--- | :--- | :--- | :--- |
-| **Pinyin** | **Hangul** | **Pinyin** | **Hangul** |
-| b | ㅃ | a | 아 |
-| p | ㅍ | o | 오 / 워¹ |
-| m | ㅁ | e | 어 / 으어 |
-| f | ㅍ | ê | 에 |
-| d | ㄸ | i (-i) | 이 / 으 |
-| t | ㅌ | u | 우 |
-| n | ㄴ | ü (yu) | 위 |
-| l | ㄹ | ai | 아이 |
-| g | ㄲ | ei | 에이 |
-| k | ㅋ | ui (uei) | 웨이 |
-| h | ㅎ | ao | 아오 |
-| j | ㅉ | ou | 오우 |
-| q | ㅊ | iu (iou) | 이우 |
-| x | ㅅ | ie | 예 |
-| zh | ㅉ | üe (yue) | 웨 |
-| ch | ㅊ | er | 얼 |
-| sh | ㅅ | an | 안 |
-| r | ㄹ | en | 언 / 은 |
-| z | ㅉ | in | 인 |
-| c | ㅊ | un (wen) | 운 |
-| s | ㅅ | ün (yun) | 윈 |
-| y | (See Finals) | ang | 앙 |
-| w | (See Finals) | eng | 엉 / 응 |
-| | | ing | 잉 |
-| | | ong | 옹 |
-| | | **i- / y- Finals** | |
-| | | ia (ya) | 야 |
-| | | iao (yao) | 야오 |
-| | | ian (yan) | 옌 |
-| | | iang (yang) | 양 |
-| | | iong (yong) | 융 |
-| | | **u- / w- Finals** | |
-| | | ua (wa) | 와 |
-| | | uo (wo) | 워 |
-| | | uai (wai) | 와이 |
-| | | uan (wan) | 완 |
-| | | uang (wang)| 왕 |
-| | | ueng (weng)| 웡 |
-| | | **ü- / yu- Finals** | |
-| | | üan (yuan) | 위안 |
+| Initials | | Finals | | | |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **拼音** | **朝鮮글** | **拼音** | **朝鮮글** | **拼音** | **朝鮮글** |
+| b | ㅃ | a | 아 | ia (ya) | 야 |
+| p | ㅍ | o | 오 / 워 | iao (yao) | 야오 |
+| m | ㅁ | e | 어 / 으어 |  ian (yan) | 옌 |
+| f | ㅍ | ê | 에 | iang (yang) | 양 |
+| d | ㄸ | i (-i) | 이 / 으 | iong (yong) | 융 |
+| t | ㅌ | u | 우 | ua (wa) | 와 |
+| n | ㄴ | ü (yu) | 위 | uo (wo) | 워 |
+| l | ㄹ | ai | 아이 | uai (wai) | 와이 |
+| g | ㄲ | ei | 에이 | uan (wan) | 완 |
+| k | ㅋ | ui (uei) | 웨이 | uang (wang)| 왕 |
+| h | ㅎ | ao | 아오 | ueng (weng)| 웡 |
+| j | ㅉ | ou | 오우 | üan (yuan) | 위안 |
+| q | ㅊ | iu (iou) | 이우 | | |
+| x | ㅅ | ie | 예 | | |
+| zh | ㅉ | üe (yue) | 웨 | | |
+| ch | ㅊ | er | 얼 | | |
+| sh | ㅅ | an | 안 | | |
+| r | ㄹ | en | 언 / 은 | | |
+| z | ㅉ | in | 인 | | |
+| c | ㅊ | un (wen) | 운 | | |
+| s | ㅅ | ün (yun) | 윈 | | |
+| y | (See Finals) | ang | 앙 | | |
+| w | (See Finals) | eng | 엉 / 응 | | |
+| | | ing | 잉 | | |
+| | | ong | 옹 | | |
 
 ---
 
 Note that:
-
-- The final `-i` is transliterated as **이** (i) in most cases (e.g., `li` -> `리`). However, after the initials `z, c, s, zh, ch, sh, r`, it is pronounced as a syllabic consonant and is written as **으** (eu). For example, `shi` -> `스`, `zi` -> `쯔`.
-- Korean, much like the southern Chinese accents I grew up with, does not distinguish between the dental (`z, c, s`), retroflex (`zh, ch, sh`), and alveolo-palatal (`j, q, x`) initials, so here they are merged.
+- The final -i is transliterated as **이** (i) in most cases (e.g., li -> 리). However, after the initials z, c, s, zh, ch, sh, r, it is pronounced as a syllabic consonant and is written as **으** (eu). For example, shi -> 스, zi -> 쯔.
+- Korean, much like the southern Chinese accents I grew up with, does not distinguish between the dental (z, c, s), retroflex (zh, ch, sh), and alveolo-palatal (j, q, x) initials, so here they are merged.
 
 The hard part is figuring out which components in every character were phonetic\. I haven’t been alive for all of ancient Chinese history so for this I had to check every character in the [Yellowbridge](https://www.yellowbridge.com/chinese/dictionary.php) dictionary or Wiktionary\. This can be a really bleh-ifying process but until LLMs replace us all I just have to do it manually. The final step is to just construct the hangul and replace it with the phonetic component\!
 
