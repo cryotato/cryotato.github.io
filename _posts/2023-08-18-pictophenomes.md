@@ -1,5 +1,5 @@
 ---
-title: "훈鬼骨티 シ한字 — Fixing Chinese pictophonemes for Mao"
+title: "훈鬼骨티 シ한字 — Peacemaking 'twixt Signified & Signifier"
 date: 2023-08-18T19:31:09.548+0000
 categories: [""]
 tags: ["linguistics","orthography"]
