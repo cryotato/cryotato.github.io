@@ -17,7 +17,7 @@ Huoonty Hantze, an etymological hybrid logographic hangul script & universal met
 
 ![](/assets/images/1_HbQgkZAGvgV__2p_lvpqUw.png)
 
-人人 生而 自由﹐째土 尊吅얀 헤口 木뛴利 上 一律 平竹등。他人믄 貝푸有 王리心싱 헤口 良心﹐並 心잉 以 兄弟 門관人시 の 精神 互相 對ㄔ대。
+人人 生而 自由﹐째土 尊吅얀 わ헤 木뛴利 上 一律 平竹등。他イ믄 貝푸有 王리心싱 헤 良心﹐並 心잉 以 兄弟 門관イ시 の 精神 互相 對ㄔ대。
 
 
 Disclaimer: I’m not a dictator\.
