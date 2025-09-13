@@ -20,7 +20,8 @@ Huoonty Hantze, an etymological hybrid logographic hangul script & universal met
 人人 生而 自由﹐째土 尊吅얀 わ헤 木뛴利 上 一律 平竹등。他イ믄 貝푸有 王리心싱 わ헤 良心﹐並 心잉 以 兄弟 門관イ시 の 精神 互相 對ㄔ대。
 
 
-Disclaimer: I’m not a dictator\.
+Disclaimer: I’m not a dictator. 窝是 [子尘](https://cryotato.github.io/name/)。窝 숴斤イ줘 の 一체刀、皆 ゐ ウ딩羊이 自 窝、イ단 窝 其實 冇 一个 囗구ウ딩 の 身イ펀。窝 シ커求 戊청 ゐ 一个 [木가이念](https://cryotato.github.io/blog/)、辵총 辵저黑뎬 來言숴、窝是 一名 分례衣心싱シ랑漫者。窝 來自 추夂几추夂几、や 來 自 無추夂几。尸빙息以彳다이 囗바、因ゐ 窝 會 シ샤오林肉산 於 無形! 窝 就是 一土창 矢두안足루!\.
+
 ## Part you can skip if you don't care about the political aspects of language
 
 On paper, 普通話 (Mandarin recontextualized to be "ordinary speech" i.e "Chinese") as a concept can be understood as a cultural genocide\. Widespread systematic censorship of local languages specifically targeted towards children — cartoons were not allowed to be in anything but Mandarin, children were punished for speaking their mother tongue in schools, characters in films had to enforce the stereotype that speakers of other Chinese languages were uneducated if they wanted to include them at all, etc\. For context as to how fast Mandarin took over the world, not even Mao Zedong knew Mandarin & this was around 1950\. He spoke Hunanese\. Even despite me saying all of this I completely understand what they were going for\. Back then literacy seemed impossible, 漢字 \(Chinese characters\) are infamously hard to learn even today after standardisation & back then most people couldn’t read or write\. I don’t think China could be the economic powerhouse it is today without the forced erasure of all the other countless languages for a universal united lingua franca\. Spoken Mandarin is relatively simple compared to the others and the idea of teaching children Literary Chinese \(which was pretty much completely separate from everyday speech\) is unthinkable\.
