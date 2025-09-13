@@ -23,7 +23,7 @@ Disclaimer: I’m not a dictator. 窝是 [子尘](https://cryotato.github.io/nam
 
 [Updated 9/13/25]
 
-[Read in Mandarin / 華語翻譯](https://cryotato.github.io/cn/pictophenomes)
+[Read in Mao's Mandarin / 華語翻譯](https://cryotato.github.io/cn/pictophenomes)
 
 ## 漢字 as resistance against the imperial significating degloving machine
 
