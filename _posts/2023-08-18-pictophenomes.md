@@ -97,7 +97,7 @@ A handwritten draft
 Digitizing an idea like this \(accelerationist huoontification, if you will\) would prove to be difficult but I still have a couple of ideas\. I could either make a font which has a very limited use case and would take a lifetime to create \(still might do it anyway & if I do I’ll document some cool etymology findings\), or use a system that makes use of existing hangul unicodes besides the Chinese component, like 應 “yin” as written above could be represented by 인心 instead of in one block… Spaces, like in korean, can be reintroduced to separate words. In a recent study involving Mandarin Chinese, adding spaces to separate words helped participants read faster anyway. Of course this leaves out the fact that there is still debate on what a word even is in this context. It would also have the potential to make certain characters less dense and more readable when made smaller. As much as I'm team traditional characters (because the abstraction of simplified chinese has a habit of stepping into signifying territory) they can be quite hard to read as embedded bold subtitles in 360p. This deconstruction of characters also gives way to a whole new way of inventing words and neologisms in the modern era, bringing back creativity from territorial state standardization. \.
 {:.drop-cap}
 
-Some components look quite lonely on their own and have weird gaps that can be confused for spacings, so we can borrow some look-alikes from wherever we can find them, especially if the component lacks unicode support or has no "full" version at all:
+Some components look quite lonely on their own and have weird gaps that can be confused for spacings, so we can borrow some look-alikes from wherever we can find them, especially if the component lacks unicode support or has no "full" version at all. In the case that the "full" character (like 水) is still widely used on it's own, a look-alike to represent the component provides more clarity:
 
 - 氵 = シ / 水
 - 辶 = え / 辵
@@ -106,7 +106,7 @@ Some components look quite lonely on their own and have weird gaps that can be c
 and so on...
 
 The digitized version of the Declaration of Human Rights would look something like this:
-人人 生而 自由﹐째土 尊吅얀 헤口 木뛴利 上 一律 平竹등。他人믄 貝푸有 王리心싱 헤口 良心﹐並 心잉 以 兄弟 門관人시 の 精神 互相 對ㄔ대。
+人人 生而 自由﹐째土 尊吅얀 わ헤 木뛴利 上 一律 平竹등。他イ믄 貝푸有 王리心싱 헤 良心﹐並 心잉 以 兄弟 門관イ시 の 精神 互相 對ㄔ대。
 
 We can go further and experiment with a whole set of new interpretations of characters, for instance:
 
