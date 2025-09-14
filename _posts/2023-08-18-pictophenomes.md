@@ -175,7 +175,7 @@ We can go further and experiment with a whole set of new interpretations of char
 
 The actual meaning of 窝 is a bird's nest, composed of semantic 穴 (empty) and Old Chinese phonetic 呙 (skull). If we take both components literally, it definitely does sound and feel like me... head empty. If we want to make it more quirky XD coded, iṋ writing we could replace ϑ'bottom bit 咼 with a 骨 body and maybe add a 心 heart component, referencing ϑ'bodymind or body without organs. HereꝬ what it wůld lꙭk like:
 
-![心囧骨](/assets/images/wo.png)
+![心囧骨](/assets/images/woe.png)
 
 If we try to Huoontify it we might get something like 心囧骨, but for the most commonly used pronoun it's probably too long. 我 iꝬ actually an ancient pictogram depicting a barrier of swords or someϑiŋ similar which iꝬ cool, ⅋ut ï find ϑ'adoption of it to use for ϑ'most common pronoun of all time as a phoneme quite uninspired. So non-bidenary of me. 窩 iꝬ already used & recognised iṋ Chinese post-irony innerweb circles, where itꝬ used phonetically as a lazier more casual sounding 我 "wo" b∵c it lacks tone. Woe is me 囧! Muɕh of ŵhat ïm outlining here iꝬ an exploration of ϑose existing frameworks like the 火星文 Martian Script.
 
