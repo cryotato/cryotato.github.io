@@ -16,12 +16,12 @@ Huoonty Hantze, an etymological hybrid logographic hangul script to provide a un
 
 ![](/assets/images/1_HbQgkZAGvgV__2p_lvpqUw.png)
 
-人人 生而 自由﹐째土(在) 尊吅얀(嚴) わ헤(和) 木뛴(權)利 上 一律 平竹등(等)。他イ믄(們) 貝푸(賦)有 王리(理)性 わ헤 良心﹐並 心잉(應) 以 兄弟 門관イ시(關係) の 精神 互相 對ㄔ대(待)。
+人人 生而 自由﹐째土(在) 尊吅얀(嚴) わ헤(和) 木뛴(權)利 上 一律 平竹등(等)。他イ믄(們) 貝푸(賦)有 王리(理)性 わ헤 良心﹐並 ♡잉(應) 以 兄弟 門관イ시(關係) の 精神 互相 對ㄔ대(待)。
 {:.drop-cap}
 
 Disclaimer: I’m not a dictator., but I might've been a pretty cool one... 窝是 [子尘](https://cryotato.github.io/name/)。窝 숴斤イ줘(所做) の 一체刀(切)、皆 ゐ ウ딩羊이(定義) 自 窝、イ단(但) 窝 其實 冇 一个 囗구ウ딩(固定) の 身イ펀(份)。窝 シ커(渴)求 戊청(成) ゐ 一个 [木가이(概)念](https://cryotato.github.io/blog/)、辵총(從) 辵저黑뎬(這點) 來言숴(說)、窝是 一名 分례衣(裂)性シ랑(浪)漫者。窝 來自 추夂几추夂几(處處)、や 來 自 無추夂几(處)。尸빙(屏)息以彳다이(待) 囗바(吧)、因ゐ 窝 會 シ샤오𣏟산(消散) 於 無形! 窝 就是 一土창(場) 矢두안足루(短路)!
 
-[Updated 9/13/25]
+[Updated 9/14/25]
 
 [Read in Mao's Mandarin / 華語翻譯](https://cryotato.github.io/cn/pictophenomes)
 
@@ -139,7 +139,7 @@ A handwritten draft
 
 ## Kaomojifying
 
-Digitizing an idea like this \(accelerationist huoontification, if you will\) would prove to be difficult but I still have a couple of ideas\. I could either make a font which has a very limited use case and would take a lifetime to create \(still might do it anyway & if I do I’ll document some cool etymology findings\), or use a system that makes use of existing hangul unicodes besides the Chinese component, like 應 “yin” as written above could be represented by 인心 instead of in one block… Spaces, like in korean, can be reintroduced to separate words. In a recent study involving Mandarin Chinese, adding spaces to separate words helped participants read faster anyway. Of course this leaves out the fact that there is still debate on what a word even is in this context. It would also have the potential to make certain characters less dense and more readable when made smaller. As much as I'm team traditional characters (because the abstraction of simplified chinese has a habit of stepping into signifying territory) they can be quite hard to read as embedded bold subtitles in 360p.
+Digitizing an idea like this \(accelerationist huoontification, if you will\) would prove to be difficult but I still have a couple of ideas\. I could either make a font which has a very limited use case and would take a lifetime to create \(still might do it anyway & if I do I’ll document some cool etymology findings\), or use a system that makes use of existing hangul unicodes besides the Chinese component, like 應 “yin” as written above could be represented by 인♡ instead of in one block… Spaces, like in korean, can be reintroduced to separate words. In a recent study involving Mandarin Chinese, adding spaces to separate words helped participants read faster anyway. Of course this leaves out the fact that there is still debate on what a word even is in this context. It would also have the potential to make certain characters less dense and more readable when made smaller. As much as I'm team traditional characters (because the abstraction of simplified chinese has a habit of stepping into signifying territory) they can be quite hard to read as embedded bold subtitles in 360p.
 {:.drop-cap}
 
 This deconstruction of characters also gives way to a whole new way of inventing words and neologisms in the modern era, bringing back creativity from territorial state standardization. For example with 散 (san / sam) the Shuowen dictionary declares it to be a phono-semantic compound with a semantic 肉 + phonetic 𢽳, but the ways in which characters have been used, adapted and interpreted since 2000BC paints a much more nuanced picture. The 肉 meat compound simplified to 月 is a reference to its original meaning - to kill or to clear out vegetation, but today that interpretation has been lost entirely. A semantic interpretation of the "phonetic" components 𢽳 has overcoded it, 𣏟 bamboo and 攴 knock to mean messy or scattered. This what makes attempting to identify the leftover appendix component so difficult - because for 99.9% of writing there was no central authority at all. The signified diagram itself produces meaning. So what are the leftovers here? 龷 is a component that has become an abstracted form with various meanings depending on the character. It used to be used as a simplification of a flood 𡿧 but here it actually represents the forest 林 or bamboo 𣏟, and we don't need 肉 anymore, so a Huoontified version might look like 𢽳산 or 𣏟산. When we uncover abstracted components or use archaic characters, we can add a Huoonty block just for clarification.  \.
@@ -153,6 +153,7 @@ Some components look quite lonely on their own and have weird gaps that can be c
 - 氵 = シ for 水 or ツ for 川
 - 辶 = え / 辵
 - 宀 = ウ / 𰃦 
+- 忄 = 心 / ♡
 
 and so on...
 
@@ -160,7 +161,7 @@ The problem with Huoontifying characters too methodologically is that characters
 
 The digitized version of the Declaration of Human Rights would look something like this:
 
-人人 生而 自由﹐째土 尊吅얀 わ헤 木뛴利 上 一律 平竹등。他イ믄 貝푸有 王리性 わ헤 良心﹐並 心잉 以 兄弟 門관イ시 の 精神 互相 對ㄔ대。
+人人 生而 自由﹐째土 尊吅얀 わ헤 木뛴利 上 一律 平竹등。他イ믄 貝푸有 王리性 わ헤 良心﹐並 ♡잉 以 兄弟 門관イ시 の 精神 互相 對ㄔ대。
 
 We can go further and experiment with a whole set of new interpretations of characters, for instance:
 
@@ -177,9 +178,9 @@ We can go further and experiment with a whole set of new interpretations of char
 
 The actual meaning of 窝 is a bird's nest, composed of semantic 穴 (empty) and Old Chinese phonetic 呙 (skull). If we take both components literally, it definitely does sound and feel like me... head empty. If we want to make it more quirky XD coded, iṋ writing we could replace ϑ'bottom bit 咼 with a 骨 body and maybe add a 心 heart component, referencing ϑ'bodymind or body without organs. HereꝬ what it wůld lꙭk like:
 
-![心囧骨](/assets/images/woe.png)
+![♡囧骨](/assets/images/woe.png)
 
-If we try to Huoontify it we might get something like 心囧骨, but for the most commonly used pronoun it's probably too long. 我 iꝬ actually an ancient pictogram depicting a barrier of swords or someϑiŋ similar which iꝬ cool, ⅋ut ï find ϑ'adoption of it to use for ϑ'most common pronoun of all time as a phoneme quite uninspired. So non-bidenary of me. 窩 iꝬ already used & recognised iṋ Chinese post-irony innerweb circles, where itꝬ used phonetically as a lazier more casual sounding 我 "wo" b∵c it lacks tone. Woe is me 囧! Muɕh of ŵhat ïm outlining here iꝬ an exploration of ϑose existing frameworks like the 火星文 Martian Script.
+If we try to Huoontify it we might get something like ♡囧骨, but for the most commonly used pronoun it's probably too long. 我 iꝬ actually an ancient pictogram depicting a barrier of swords or someϑiŋ similar which iꝬ cool, ⅋ut ï find ϑ'adoption of it to use for ϑ'most common pronoun of all time as a phoneme quite uninspired. So non-bidenary of me. 窩 iꝬ already used & recognised iṋ Chinese post-irony innerweb circles, where itꝬ used phonetically as a lazier more casual sounding 我 "wo" b∵c it lacks tone. Woe is me 囧! Muɕh of ŵhat ïm outlining here iꝬ an exploration of ϑose existing frameworks like the 火星文 Martian Script.
 
 ### の - possessive 的
 ϑis ones a raϑer low hanging fruit since itꝬ already widely used & even legally recognised in Hong Kong. From my understanding, itꝬ used as a 草書 cursive script rendering of the bopomo character ㄉ, ⅋ut it cůld also be ϑat の in Japanese iꝬ used ϑ'same way. 的 has been on̅e of ϑ'most baffling characters to people trying to understand chinese writing logograφically. ItꝬ used 99.9% of ϑ' time as ϑ'possessive particle "de" ⅋ut b∵c it was adopted as a phoneme like 我, ϑ'character suggests it's related to l̗i̗gh̖t̖ - 白 means white and 勺 iꝬ a ladle w/ someϑiŋ iṋ it. When used as "dì" (instead of de) meaning aim or clear, ϑis makes total sense, ⅋ut oϑerwise... nøt so muɕh.
