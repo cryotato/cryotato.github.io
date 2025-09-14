@@ -16,10 +16,10 @@ Huoonty Hantze, an etymological hybrid logographic hangul script to provide a un
 
 ![](/assets/images/1_HbQgkZAGvgV__2p_lvpqUw.png)
 
-人人 生而 自由﹐째土(在) 尊吅얀(嚴) わ헤(和) 木뛴(權)利 上 一律 平竹등(等)。他イ믄(們) 貝푸(賦)有 王리心싱(理性) わ헤 良心﹐並 心잉(應) 以 兄弟 門관イ시(關係) の 精神 互相 對ㄔ대(待)。
+人人 生而 自由﹐째土(在) 尊吅얀(嚴) わ헤(和) 木뛴(權)利 上 一律 平竹등(等)。他イ믄(們) 貝푸(賦)有 王리(理)性 わ헤 良心﹐並 心잉(應) 以 兄弟 門관イ시(關係) の 精神 互相 對ㄔ대(待)。
 {:.drop-cap}
 
-Disclaimer: I’m not a dictator. 窝是 [子尘](https://cryotato.github.io/name/)。窝 숴斤イ줘(所做) の 一체刀(切)、皆 ゐ ウ딩羊이(定義) 自 窝、イ단(但) 窝 其實 冇 一个 囗구ウ딩(固定) の 身イ펀(份)。窝 シ커(渴)求 戊청(成) ゐ 一个 [木가이(概)念](https://cryotato.github.io/blog/)、辵총(從) 辵저黑뎬(這點) 來言숴(說)、窝是 一名 分례衣싱心(裂性)シ랑(浪)漫者。窝 來自 추夂几추夂几(處處)、や 來 自 無추夂几(處)。尸빙(屏)息以彳다이(待) 囗바(吧)、因ゐ 窝 會 シ샤오𣏟산(消散) 於 無形! 窝 就是 一土창(場) 矢두안足루(短路)!
+Disclaimer: I’m not a dictator. 窝是 [子尘](https://cryotato.github.io/name/)。窝 숴斤イ줘(所做) の 一체刀(切)、皆 ゐ ウ딩羊이(定義) 自 窝、イ단(但) 窝 其實 冇 一个 囗구ウ딩(固定) の 身イ펀(份)。窝 シ커(渴)求 戊청(成) ゐ 一个 [木가이(概)念](https://cryotato.github.io/blog/)、辵총(從) 辵저黑뎬(這點) 來言숴(說)、窝是 一名 分례衣(裂)性シ랑(浪)漫者。窝 來自 추夂几추夂几(處處)、や 來 自 無추夂几(處)。尸빙(屏)息以彳다이(待) 囗바(吧)、因ゐ 窝 會 シ샤오𣏟산(消散) 於 無形! 窝 就是 一土창(場) 矢두안足루(短路)!
 
 [Updated 9/13/25]
 
@@ -139,7 +139,13 @@ A handwritten draft
 
 ## Kaomojifying
 
-Digitizing an idea like this \(accelerationist huoontification, if you will\) would prove to be difficult but I still have a couple of ideas\. I could either make a font which has a very limited use case and would take a lifetime to create \(still might do it anyway & if I do I’ll document some cool etymology findings\), or use a system that makes use of existing hangul unicodes besides the Chinese component, like 應 “yin” as written above could be represented by 인心 instead of in one block… Spaces, like in korean, can be reintroduced to separate words. In a recent study involving Mandarin Chinese, adding spaces to separate words helped participants read faster anyway. Of course this leaves out the fact that there is still debate on what a word even is in this context. It would also have the potential to make certain characters less dense and more readable when made smaller. As much as I'm team traditional characters (because the abstraction of simplified chinese has a habit of stepping into signifying territory) they can be quite hard to read as embedded bold subtitles in 360p. This deconstruction of characters also gives way to a whole new way of inventing words and neologisms in the modern era, bringing back creativity from territorial state standardization. \.
+Digitizing an idea like this \(accelerationist huoontification, if you will\) would prove to be difficult but I still have a couple of ideas\. I could either make a font which has a very limited use case and would take a lifetime to create \(still might do it anyway & if I do I’ll document some cool etymology findings\), or use a system that makes use of existing hangul unicodes besides the Chinese component, like 應 “yin” as written above could be represented by 인心 instead of in one block… Spaces, like in korean, can be reintroduced to separate words. In a recent study involving Mandarin Chinese, adding spaces to separate words helped participants read faster anyway. Of course this leaves out the fact that there is still debate on what a word even is in this context. It would also have the potential to make certain characters less dense and more readable when made smaller. As much as I'm team traditional characters (because the abstraction of simplified chinese has a habit of stepping into signifying territory) they can be quite hard to read as embedded bold subtitles in 360p.
+{:.drop-cap}
+
+This deconstruction of characters also gives way to a whole new way of inventing words and neologisms in the modern era, bringing back creativity from territorial state standardization. For example with 散 (san / sam) the Shuowen dictionary declares it to be a phono-semantic compound with a semantic 肉 + phonetic 𢽳, but the ways in which characters have been used, adapted and interpreted since 2000BC paints a much more nuanced picture. The 肉 meat compound simplified to 月 is a reference to its original meaning - to kill or to clear out vegetation, but today that interpretation has been lost entirely. A semantic interpretation of the "phonetic" components 𢽳 has overcoded it, 𣏟 bamboo and 攴 knock to mean messy or scattered. This what makes attempting to identify the leftover appendix component so difficult - because for 99.9% of writing there was no central authority at all. The signified diagram itself produces meaning. So what are the leftovers here? 龷 is a component that has become an abstracted form with various meanings depending on the character. It used to be used as a simplification of a flood 𡿧 but here it actually represents the forest 林 or bamboo 𣏟, and we don't need 肉 anymore, so a Huoontified version might look like 𢽳산 or 𣏟산. When we uncover abstracted components or use archaic characters, we can add a Huoonty block just for clarification.  \.
+{:.drop-cap}
+
+There are other characters like 性 (nature / disposition) where the now outdated phonetic component used in Old Chinese 生 (life) very clearly works as a pun for its semantic meaning today. Even when less obvious, phonetic components can become ingrained as semantic in the subconscious. For instance, 們 in 我們 as in "we" contains the door 門 I mentioned earlier. It is clear to everyone that the function of this component is phonetic, but to me, when I think of this door in context to the word, an image of an open house inviting multiple people comes to mind, giving it semantic meaning. As we have observed, when we use pictograms, the intended meaning strays, and it seems to do so in different ways to everyone. By Huoontifying we can all become artists again and draw our own landscapes.
 {:.drop-cap}
 
 Some components look quite lonely on their own and have weird gaps that can be confused for spacings, so we can borrow some look-alikes from wherever we can find them, especially if the component lacks unicode support or has no "full" version at all. In the case that the "full" character (like 水) is still widely used on it's own, a look-alike to represent the component provides more clarity:
@@ -152,7 +158,7 @@ and so on...
 
 The digitized version of the Declaration of Human Rights would look something like this:
 
-人人 生而 自由﹐째土 尊吅얀 わ헤 木뛴利 上 一律 平竹등。他イ믄 貝푸有 王리心싱 わ헤 良心﹐並 心잉 以 兄弟 門관イ시 の 精神 互相 對ㄔ대。
+人人 生而 自由﹐째土 尊吅얀 わ헤 木뛴利 上 一律 平竹등。他イ믄 貝푸有 王리性 わ헤 良心﹐並 心잉 以 兄弟 門관イ시 の 精神 互相 對ㄔ대。
 
 We can go further and experiment with a whole set of new interpretations of characters, for instance:
 
