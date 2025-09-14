@@ -13,3 +13,7 @@ Iṋ a cꙩsmꙩs where blogs have a say o͡ver an epic algorithmic deaϑconsci�
 　　⊂⌒(◌•ω•◌)つ<br>
 　　　＼_っ/￣￣￣/<br>
 　　　　＼/＿＿＿/  旦<br>
+
+ ⟟ Featured Manifestos ⟟ 
+⋆˙⟡˖ ࣪⭑[훈鬼骨티 シ한字 — Peacemaking ‘twixt Signified & Signifier](https://cryotato.github.io/pictophenomes/)
+✧˖°.[a Practical Guide to Cannibalize Banal Evil for ϑ’Schizo-Accelerationist](https://cryotato.github.io/on-crueltisquadesqueia/)
