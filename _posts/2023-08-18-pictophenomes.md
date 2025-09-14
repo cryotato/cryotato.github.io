@@ -173,7 +173,7 @@ We can go further and experiment with a whole set of new interpretations of char
 - 窩ゐ你瘋了 (ᴜ̊ drive me crazy 囧)
 - 窝ゐ你瘋了 (ᴜ̊ drive me crazy :3)
 
-Iṋ writing ï prefer to replace ϑ'bottom bit 咼 with a 骨 body and maybe add a 心 heart component, ⅋ut unicode for chinese characters has itꝬ limits. HereꝬ what it wůld lꙭk like:
+The actual meaning of 窝 is a bird's nest, composed of semantic 穴 (empty) and Old Chinese phonetic 呙 (skull). If we take both components literally, it definitely does sound and feel like me... head empty. If we want to make it more quirky XD coded, iṋ writing we could replace ϑ'bottom bit 咼 with a 骨 body and maybe add a 心 heart component, referencing ϑ'bodymind or body without organs. HereꝬ what it wůld lꙭk like:
 
 ![心囧骨](/assets/images/wo.png)
 
