@@ -4,7 +4,7 @@ title: hereꝬ some embarrassiŋ information about me PLEASE DØN'T BULLY ME W/ 
 author_profile: false
 layout: posts
 ---
-Iṋ a cꙩsmꙩs where blogs have a say o͡ver an epic algorithmic deaϑconsciůsness, "ï" "write" "ϑeses" on "colonialism" -- [musique](https://cryotato.github.io/tags/#music), [anorϑograφy](https://cryotato.github.io/tags/#orthography) / [liŋguistics](https://cryotato.github.io/tags/#linguistics), [violensiṋisms](https://cryotato.github.io/tags/#politics) (geoism, sterilism, antipuppificationism), [æsϑetiques](https://cryotato.github.io/tags/#design) *(aka ŵhat itꝬ like beiŋ so beautεĭзful & cool,. well, just for all of ᴜ̊ to støp askiŋ - itꝬ really hard. ï truly struggle w/ it everyday)*, &c.
+Iṋ a cꙩsmꙩs where blogs have a say o͡ver an epic algorithmic deaϑconsciůsness, "ï" "write" "ϑeses" on "colonialism" -- <a href="https://cryotato.github.io/tags/#music" class="btn">musique</a>, <a href="https://cryotato.github.io/tags/#orthography" class="btn">anorϑograφy</a> / <a href="https://cryotato.github.io/tags/#linguistics" class="btn">liŋguistics</a>, <a href="https://cryotato.github.io/tags/#politics" class="btn">violensiṋisms</a> (geoism, sterilism, antipuppificationism), <a href="https://cryotato.github.io/tags/#design" class="btn">æsϑetiques</a> (aka ŵhat itꝬ like beiŋ so beautεĭзful & cool,. well, just for all of ᴜ̊ to støp askiŋ - itꝬ really hard. ï truly struggle w/ it everyday), &c.
 {:.drop-cap}
 
 °✧           ✧<br>
@@ -14,7 +14,6 @@ Iṋ a cꙩsmꙩs where blogs have a say o͡ver an epic algorithmic deaϑconsci�
 　　　＼_っ/￣￣￣/<br>
 　　　　＼/＿＿＿/  旦<br>
 
- ⟟ Featured Manifestoes ⟟ 
-
-⋆˙⟡˖ ࣪⭑ <a href="https://cryotato.github.io/pictophenomes/" class="btn">훈鬼骨티 シ한字 — Peacemaking ‘twixt Signified & Signifier</a>
-✧˖°.<a href="https://cryotato.github.io/on-crueltisquadesqueia/" class="btn">a Practical Guide to Cannibalize Banal Evil for ϑ’Schizo-Accelerationist</a>
+ ⟟ Featured Manifestoes ⟟ <br>
+<a href="https://cryotato.github.io/pictophenomes/" class="btn">훈鬼骨티 シ한字 — Peacemaking ‘twixt Signified & Signifier</a>
+<a href="https://cryotato.github.io/on-crueltisquadesqueia/" class="btn">a Practical Guide to Cannibalize Banal Evil for ϑ’Schizo-Accelerationist</a>
