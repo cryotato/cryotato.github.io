@@ -133,10 +133,6 @@ This is the result of my experiment with Article 1 of the Universal Declaration 
 
 ![](/assets/images/1_Bbxn_JZo9bQgOVwWJwboiA.png)
 
-![A handwritten draft](/assets/images/1_vR39VC-KlYTQVjDqCi3Opw.png)
-
-A handwritten draft
-
 ## Kaomojifying
 
 Digitizing an idea like this \(accelerationist huoontification, if you will\) would prove to be difficult but I still have a couple of ideas\. I could either make a font which has a very limited use case and would take a lifetime to create \(still might do it anyway & if I do I’ll document some cool etymology findings\), or use a system that makes use of existing hangul unicodes besides the Chinese component, like 應 “yin” as written above could be represented by 인♡ instead of in one block… Spaces, like in korean, can be reintroduced to separate words. In a recent study involving Mandarin Chinese, adding spaces to separate words helped participants read faster anyway. Of course this leaves out the fact that there is still debate on what a word even is in this context. It would also have the potential to make certain characters less dense and more readable when made smaller. As much as I'm team traditional characters (because the abstraction of simplified chinese has a habit of stepping into signifying territory) they can be quite hard to read as embedded bold subtitles in 360p.
@@ -247,4 +243,8 @@ I debated bringing up Hokkien at all because the discussion around it is complic
 The Hangul & Huoontification is so obvious I’m weary to even point it out\.
 
 Either way I hope another linguacel finds this interesting\!
+
+![A handwritten draft](/assets/images/1_vR39VC-KlYTQVjDqCi3Opw.png)
+
+A handwritten draft
 
