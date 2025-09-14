@@ -19,7 +19,7 @@ Huoonty Hantze, an etymological hybrid logographic hangul script to provide a un
 人人 生而 自由﹐째土(在) 尊吅얀(嚴) わ헤(和) 木뛴(權)利 上 一律 平竹등(等)。他イ믄(們) 貝푸(賦)有 王리(理)性 わ헤 良心﹐並 心잉(應) 以 兄弟 門관イ시(關係) の 精神 互相 對ㄔ대(待)。
 {:.drop-cap}
 
-Disclaimer: I’m not a dictator. 窝是 [子尘](https://cryotato.github.io/name/)。窝 숴斤イ줘(所做) の 一체刀(切)、皆 ゐ ウ딩羊이(定義) 自 窝、イ단(但) 窝 其實 冇 一个 囗구ウ딩(固定) の 身イ펀(份)。窝 シ커(渴)求 戊청(成) ゐ 一个 [木가이(概)念](https://cryotato.github.io/blog/)、辵총(從) 辵저黑뎬(這點) 來言숴(說)、窝是 一名 分례衣(裂)性シ랑(浪)漫者。窝 來自 추夂几추夂几(處處)、や 來 自 無추夂几(處)。尸빙(屏)息以彳다이(待) 囗바(吧)、因ゐ 窝 會 シ샤오𣏟산(消散) 於 無形! 窝 就是 一土창(場) 矢두안足루(短路)!
+Disclaimer: I’m not a dictator., but I might've been a pretty cool one... 窝是 [子尘](https://cryotato.github.io/name/)。窝 숴斤イ줘(所做) の 一체刀(切)、皆 ゐ ウ딩羊이(定義) 自 窝、イ단(但) 窝 其實 冇 一个 囗구ウ딩(固定) の 身イ펀(份)。窝 シ커(渴)求 戊청(成) ゐ 一个 [木가이(概)念](https://cryotato.github.io/blog/)、辵총(從) 辵저黑뎬(這點) 來言숴(說)、窝是 一名 分례衣(裂)性シ랑(浪)漫者。窝 來自 추夂几추夂几(處處)、や 來 自 無추夂几(處)。尸빙(屏)息以彳다이(待) 囗바(吧)、因ゐ 窝 會 シ샤오𣏟산(消散) 於 無形! 窝 就是 一土창(場) 矢두안足루(短路)!
 
 [Updated 9/13/25]
 
@@ -173,7 +173,11 @@ We can go further and experiment with a whole set of new interpretations of char
 - 窩ゐ你瘋了 (ᴜ̊ drive me crazy 囧)
 - 窝ゐ你瘋了 (ᴜ̊ drive me crazy :3)
 
-Iṋ writing ï prefer to replace ϑ'bottom bit 咼 with a 骨 body, ⅋ut unicode for chinese characters has itꝬ limits (sometimes ï wiʃh we cůld construct characters like w/ hangul somehow). 我 iꝬ actually an ancient pictogram depicting a barrier of swords or someϑiŋ similar which iꝬ cool, ⅋ut ï find ϑ'adoption of it to use for ϑ'most common pronoun of all time as a phoneme quite uninspired. So non-bidenary of me. 窩 iꝬ already used & recognised iṋ Chinese post-irony innerweb circles, where itꝬ used phonetically as a lazier more casual sounding 我 b∵c it lacks tone. Muɕh of ŵhat ïm outlining here iꝬ an exploration of ϑose existing deterritorial frameworks like 火星文 Martian Script.
+Iṋ writing ï prefer to replace ϑ'bottom bit 咼 with a 骨 body and maybe add a 心 heart component, ⅋ut unicode for chinese characters has itꝬ limits. HereꝬ what it wůld lꙭk like:
+
+![心囧骨](/assets/images/wo.png)
+
+If we try to Huoontify it we might get something like 心囧骨, but for the most commonly used pronoun it's probably too long. 我 iꝬ actually an ancient pictogram depicting a barrier of swords or someϑiŋ similar which iꝬ cool, ⅋ut ï find ϑ'adoption of it to use for ϑ'most common pronoun of all time as a phoneme quite uninspired. So non-bidenary of me. 窩 iꝬ already used & recognised iṋ Chinese post-irony innerweb circles, where itꝬ used phonetically as a lazier more casual sounding 我 b∵c it lacks tone. Muɕh of ŵhat ïm outlining here iꝬ an exploration of ϑose existing frameworks like the 火星文 Martian Script.
 
 ### の - possessive 的
 ϑis ones a raϑer low hanging fruit since itꝬ already widely used & even legally recognised in Hong Kong. From my understanding, itꝬ used as a 草書 cursive script rendering of the bopomo character ㄉ, ⅋ut it cůld also be ϑat の in Japanese iꝬ used ϑ'same way. 的 has been on̅e of ϑ'most baffling characters to people trying to understand chinese writing logograφically. ItꝬ used 99.9% of ϑ' time as ϑ'possessive particle "de" ⅋ut b∵c it was adopted as a phoneme like 我, ϑ'character suggests it's related to l̗i̗gh̖t̖ - 白 means white and 勺 iꝬ a ladle w/ someϑiŋ iṋ it. When used as "dì" (instead of de) meaning aim or clear, ϑis makes total sense, ⅋ut oϑerwise... nøt so muɕh.
