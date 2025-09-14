@@ -4,7 +4,7 @@ title: hereꝬ some embarrassiŋ information about me PLEASE DØN'T BULLY ME W/ 
 author_profile: false
 layout: posts
 ---
-Iṋ a cꙩsmꙩs where blogs have a say o͡ver an epic algorithmic deaϑconsciůsness, "ï" "write" "ϑeses" on "colonialism" -- <a href="https://cryotato.github.io/tags/#music" class="btn">musique</a>, <a href="https://cryotato.github.io/tags/#orthography" class="btn">anorϑograφy</a> / <a href="https://cryotato.github.io/tags/#linguistics" class="btn">liŋguistics</a>, <a href="https://cryotato.github.io/tags/#politics" class="btn">violensiṋisms</a> (geoism, sterilism, antipuppificationism), <a href="https://cryotato.github.io/tags/#design" class="btn">æsϑetiques</a> (aka ŵhat itꝬ like beiŋ so beautεĭзful & cool,. well, just for all of ᴜ̊ to støp askiŋ - itꝬ really hard. ï truly struggle w/ it everyday), &c.
+Iṋ a cꙩsmꙩs where blogs have a say o͡ver an epic algorithmic deaϑconsciůsness, "ï" "write" "ϑeses" on "colonialism" -- <a href="https://cryotato.github.io/tags/#music" class="btn">musique</a> <a href="https://cryotato.github.io/tags/#orthography" class="btn">anorϑograφy</a> <a href="https://cryotato.github.io/tags/#linguistics" class="btn">liŋguistics</a>, <a href="https://cryotato.github.io/tags/#politics" class="btn">violensiṋisms</a> (geoism, sterilism, antipuppificationism) <a href="https://cryotato.github.io/tags/#design" class="btn">æsϑetiques</a> &c.
 {:.drop-cap}
 
 °✧           ✧<br>
