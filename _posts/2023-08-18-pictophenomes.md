@@ -1,5 +1,5 @@
 ---
-title: "훈鬼骨티 シ한字 — Peacemaking 'twixt Signified & Signifier"
+title: "훈鬼骨티 ツ한字 — Peacemaking 'twixt Signified & Signifier"
 date: 2023-08-18T19:31:09.548+0000
 categories: [""]
 tags: ["linguistics","orthography"]
@@ -150,11 +150,13 @@ There are other characters like 性 (nature / disposition) where the now outdate
 
 Some components look quite lonely on their own and have weird gaps that can be confused for spacings, so we can borrow some look-alikes from wherever we can find them, especially if the component lacks unicode support or has no "full" version at all. In the case that the "full" character (like 水) is still widely used on it's own, a look-alike to represent the component provides more clarity:
 
-- 氵 = シ / 水
+- 氵 = シ for 水 or ツ for 川
 - 辶 = え / 辵
 - 宀 = ウ / 𰃦 
 
 and so on...
+
+The problem with Huoontifying characters too methodologically is that characters that are pronounced the same AND share the same semantic component will basically be merged. An example of this would be the 漢 (Han chinese) diagram in 漢字 (Hanzi) itself. When Huoontified like this: シ한 it could very easily be confused with 汗 (sweat) because 干 like 𦰩 are both Old Chinese phonetic elements (well, kind of. This is up for debate. There's an interpretation that involves 𦰩 being a pictogram involving a human sacrifice being burned at the stake in hopes of rain, but maybe that's a topic for another day). We can amend this by looking closer at the etymology of each character. 汗's シ obviously indicates drops of water, but why is there a シ in the character for Han Chinese people? Are they uh... Wet? No. The 漢 actually refers to the Han River. The name passed on to the Han dynasty which then passed on to a general demographic of people and then to refer to an entire system of writing. Knowing this, we can use the component for river 川 / 巛 instead of the one for water 水. Luckily for us, the Japanese have already created a simplified version of 川 --> ツ! The smiley! And it happens to loop back into looking similar enough to 氵to make the connection. Therefore, ツ한 = 漢, シ한 = 汗. I want to make clear that the "point" of something like this is not to necessarily to "fix" anything, but to break conventions to find new ways to chain them together again.
 
 The digitized version of the Declaration of Human Rights would look something like this:
 
