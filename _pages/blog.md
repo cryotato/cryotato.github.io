@@ -14,6 +14,7 @@ Iṋ a cꙩsmꙩs where blogs have a say o͡ver an epic algorithmic deaϑconsci�
 　　　＼_っ/￣￣￣/<br>
 　　　　＼/＿＿＿/  旦<br>
 
- ⟟ Featured Manifestos ⟟ 
-⋆˙⟡˖ ࣪⭑[훈鬼骨티 シ한字 — Peacemaking ‘twixt Signified & Signifier](https://cryotato.github.io/pictophenomes/)
-✧˖°.[a Practical Guide to Cannibalize Banal Evil for ϑ’Schizo-Accelerationist](https://cryotato.github.io/on-crueltisquadesqueia/)
+ ⟟ Featured Manifestoes ⟟ 
+
+⋆˙⟡˖ ࣪⭑ <a href="https://cryotato.github.io/pictophenomes/" class="btn">훈鬼骨티 シ한字 — Peacemaking ‘twixt Signified & Signifier</a>
+✧˖°.<a href="https://cryotato.github.io/on-crueltisquadesqueia/" class="btn">a Practical Guide to Cannibalize Banal Evil for ϑ’Schizo-Accelerationist</a>
