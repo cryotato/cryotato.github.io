@@ -151,9 +151,9 @@ There are other characters like 性 (nature / disposition) where the now outdate
 Some components look quite lonely on their own and have weird gaps that can be confused for spacings, so we can borrow some look-alikes from wherever we can find them, especially if the component lacks unicode support or has no "full" version at all. In the case that the "full" character (like 水) is still widely used on it's own, a look-alike to represent the component provides more clarity:
 
 - 氵 = シ for 水 or ツ for 川
-- 辶 = え / 辵
-- 宀 = ウ / 𰃦 
-- 忄 = 心 / ♡
+- 辶 = え / 辵 (Not widely used anymore so I use the full component)
+- 宀 = ウ / 𰃦 (Barely supported by Unicode)
+- 忄 = ♡ for 心
 
 and so on...
 
