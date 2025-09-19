@@ -21,7 +21,7 @@ Huoonty Hantze, an etymological hybrid logographic hangul script to provide a un
 
 Disclaimer: I’m not a dictator., but I might've been a pretty cool one... 窝是 [子尘](https://cryotato.github.io/name/)。窝 숴斤イ줘(所做) の 一체刀(切)、皆 ゐ ウ딩羊이(定義) 自 窝、イ단(但) 窝 其實 冇 一个 囗구ウ딩(固定) の 身イ펀(份)。窝 シ커(渴)求 戊청(成) ゐ 一个 [木가이(概)念](https://cryotato.github.io/blog/)、从 辵저黑뎬(這點) 來言숴(說)、窝是 一名 分례衣(裂)性シ랑(浪)漫者。窝 來自 추夂几추夂几(處處)、や 來 自 無추夂几(處)。尸빙(屏)息以彳다이(待) 囗바(吧)、因ゐ 窝 會 シ샤오𣏟산(消散) 於 無形! 窝 就是 一土창(場) 矢두안足루(短路)!
 
-<a href="https://cryotato.github.io/pictophenomes/#compromise" class="btn">TLDR BUTTON</a>
+<a href="https://cryotato.github.io/pictophenomes/#compromise" class="btn">TLDR BUTTON: TAKE ME STRAIGHT TO THE PRAXIS</a>
 
 [Updated 9/14/25]
 
