@@ -19,13 +19,17 @@ Huoonty Hantze, an etymological hybrid logographic hangul script to provide a un
 人人 生而 自由﹐째土(在) 尊吅얀(嚴) わ헤(和) 木뛴(權)利 上 一律 平竹등(等)。他イ믄(們) 貝푸(賦)有 王리(理)性 わ헤 良心﹐並 ♡잉(應) 以 兄弟 門관イ시(關係) の 精神 互相 對彳대(待)。
 {:.drop-cap}
 
-Disclaimer: I’m not a dictator., but I might've been a pretty cool one... 窝是 [子尘](https://cryotato.github.io/name/)。窝 숴斤イ줘(所做) の 一체刀(切)、皆 ゐ ウ딩羊이(定義) 自 窝、イ단(但) 窝 其實 冇 一个 囗구ウ딩(固定) の 身イ펀(份)。窝 シ커(渴)求 戊청(成) ゐ 一个 [木가이(概)念](https://cryotato.github.io/blog/)、辵총(從) 辵저黑뎬(這點) 來言숴(說)、窝是 一名 分례衣(裂)性シ랑(浪)漫者。窝 來自 추夂几추夂几(處處)、や 來 自 無추夂几(處)。尸빙(屏)息以彳다이(待) 囗바(吧)、因ゐ 窝 會 シ샤오𣏟산(消散) 於 無形! 窝 就是 一土창(場) 矢두안足루(短路)!
+Disclaimer: I’m not a dictator., but I might've been a pretty cool one... 窝是 [子尘](https://cryotato.github.io/name/)。窝 숴斤イ줘(所做) の 一체刀(切)、皆 ゐ ウ딩羊이(定義) 自 窝、イ단(但) 窝 其實 冇 一个 囗구ウ딩(固定) の 身イ펀(份)。窝 シ커(渴)求 戊청(成) ゐ 一个 [木가이(概)念](https://cryotato.github.io/blog/)、从 辵저黑뎬(這點) 來言숴(說)、窝是 一名 分례衣(裂)性シ랑(浪)漫者。窝 來自 추夂几추夂几(處處)、や 來 自 無추夂几(處)。尸빙(屏)息以彳다이(待) 囗바(吧)、因ゐ 窝 會 シ샤오𣏟산(消散) 於 無形! 窝 就是 一土창(場) 矢두안足루(短路)!
+
+<a href="https://cryotato.github.io/pictophenomes/#compromise" class="btn">TLDR BUTTON</a>
 
 [Updated 9/14/25]
 
 [Read in Mao's Mandarin / 華語翻譯](https://cryotato.github.io/cn/pictophenomes)
 
 ## 漢字 as resistance against the imperial significating degloving machine
+
+> 鬼모シ파(魔法) 三角 の 三辵변(邊) —— 聲音-耳팅(聽)覺、圖イ샹(像)-身骨티(體)、目睛-疒퉁(痛)艸쿠(苦) —— 째土(在) 窩イ믄(們) 看來, 似乎 木꼬우(構)戊청(成)了 一禾쫑(種) 意涵 の 秩广쉬(序), 一个 殘酉쿠(酷) の 骨티(體)系。째土(在)此, 言츠言위(詞語) 基本 具有 も지(指)禾칭(稱) 工能, イ단(但) 圖イ상(像) 本身 與 被 も지(指)禾칭(稱) の 物結合, 木꼬우(構)戊청(成)了 一个 竹푸(符)號, 而 目睛 則 째土(在) 兩者 之門쩬(間) 游移, 从 一者 の 可見性 中 提取 わ(和) 衡量 另一者 の 疒퉁艸쿠(痛苦)。
 
 > The magic triangle with its three sides—voice-audition, graphism-body, eye-pain—thus seems to us to be an order of connotation, a system of cruelty where the word has an essentially designating function, but where the graphism itself constitutes a sign in conjunction with the thing designated, and where the eye goes from one to the other, extracting and measuring the visibility of the one against the pain of the other.
 {:.drop-cap}
@@ -151,6 +155,8 @@ Some components look quite lonely on their own and have weird gaps that can be c
 - 宀 = ウ / 𰃦 (Barely supported by Unicode)
 - 忄 = ♡ for 心
 - 亻 = イ for 人
+- 艹 = 艸
+- 扌 = も for 手
 
 and so on...
 
@@ -190,7 +196,6 @@ Speaking of 草書, ϑ'only cursive script characters we ԙ able to use remain c
 - ふ - 不
 - わ - 和
 - や - 也 (personally helps me distinguish 也 & 世)
-- も - 毛 (distinguish twix 毛 & 手)
 
 ### Classical Chinese & Translingualism
 Using classical chinese in place of more modern mandarin carries a higher degree of universality. So for example, with 我們 (meaning we) the plural marker 們 can be replaced with its more classical synonymn 等, this way it would be more consistent with Korean hanja (我等 - 무리), Japanese (我等 - われら), and various chinese "dialects" like Hakka (𠊎等 - ngai den). If we keep going with the pronouns theme we find that 你 (meaning you) can also be replaced with it's literary form 尔, so 你們 -> 尔等. I don't think 你 needs 人 particle at all... 等 on the other hand could definitely be confused with it's other meanings. To deal with this we can give the 人 particle to it instead -> 𠎬. While 𠎬 exists in unicode, it's pretty much completely unused so it might not display properly on some devices. On the subject of rare characters from the CJK Unified Ideographs Extensions, many of these are quite incredible. 𠀝 is an ideogrammic compound containing 下 (meaning down) above 上 (meaning above) and is a variant form of 空 (meaning void). 𠀊 is a blend of 大 (meaning big) and 小 (meaning small) from Wu. ï also just find that certain variations of characters just make more sense, like 髙 for 高 meaning high, b∵c it has a ladder.
