@@ -23,7 +23,7 @@ Disclaimer: I’m not a dictator., but I might've been a pretty cool one... 窝�
 
 <a href="https://cryotato.github.io/pictophenomes/#compromise" class="btn">TLDR BUTTON: TAKE ME STRAIGHT TO THE PRAXIS</a>
 
-[Updated 9/14/25]
+[Updated 9/19/25]
 
 [Read in Mao's Mandarin / 華語翻譯](https://cryotato.github.io/cn/pictophenomes)
 
