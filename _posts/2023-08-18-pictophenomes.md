@@ -44,6 +44,7 @@ Another issue arises when you realize Hanzi’s use extends beyond Mandarin\. It
 {:.drop-cap}
 
 From this viewpoint we can start to empathize with Mao's understanding of 漢字 being elitist counterrevolutionary nonsense., And... Well he'd be completely right.. but before we continue uhh,, let's have a word with the elitists! There is much to be said about the signifying nature of it in comparison to the dissolution of meaning in purely phonetic systems.
+{:.drop-cap}
 
 ## 漢字 as resistance against the imperial significating degloving machine
 
