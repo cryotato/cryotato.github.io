@@ -57,6 +57,7 @@ In Anti-Œdipus, Deleuze and Guattari describe a deconstruction of orthography i
 <!-- I think this is a bit of an arbitrary assumption but its still fun to think about and it made me think about chinese pictographic writing eventually creating japanese hirigana etc., in that its original symbolic meanings are lost. -->
 
 > There, however, as elsewhere, an irreducible exteriority of conquest asserts itself. For if language itself does not presuppose conquest, the leveling operations (les operations de rabattement) that constitute written language indeed presuppose two inscriptions that do not speak the same language: two languages (langages), one of masters, the other of slaves. Jean Nougayrol describes just such a situation: "For the Sumerians, [a given sign] is water; the Sumerians read this sign a, which signifies water in Sumerian. An Akkadian comes along and asks his Sumerian master: what is this sign? The Sumerian replies: that's a. The Akkadian takes this sign for a, and on this point there is no longer any relationship between the sign and water, which in Akkadian is called mu. . . . I believe that the presence of the Akkadians determined the phoneticization of the writing system . . . and that the contact of two peoples is almost necessary before the spark of a new writing can spring forth." One cannot better show how an operation of biunivocalization organizes itself around a despotic signifier, so that a phonetic and alphabetical chain flows from it. Alphabetical writing is not for illiterates, but by illiterates.
+{:.drop-cap}
 
 For a phrase as nonsensical as "Alphabetical writing is not for illiterates, but by illiterates" there are a surprising bulk of cases we can study in the real world. One that came to mind was with Nüshu 女書 (girl writing), which emerged at a time when women were blocked off from education. With the little they knew, they created their own phonetic writing system based on Chinese characters. This happened in two isolated instances between China and Japan, where japanese 女手 eventually became hiragana.
 {:.drop-cap}
@@ -64,6 +65,7 @@ For a phrase as nonsensical as "Alphabetical writing is not for illiterates, but
 ![](/assets/images/nushu.png)
 
 > It goes by way of illiterates, those unconscious workers. The signifier implies a language that overcodes another language, while the other language is completely coded into phonetic elements. And if the unconscious in fact includes the topical order of a double inscription, it is not structured like one language, but like two. The signifier does not appear to keep its promise, which is to give us access to a modern and functional understanding of language. The imperialism of the signifier does not take us beyond the question, "What does it mean?"; it is content to bar the question in advance, to render all the answers insufficient by relegating them to the status of a simple signified. It challenges exegesis in the name of recitation, pure textuality, and superior "scientificity" (scientificite). Like the young palace dogs too quick to drink the verse water, and who never tire of crying: The signifier, you have not reached the signifier, you are still at the level of the signifieds! The signifier is the only thing that gladdens their hearts. But this master signifier remains what it was in ages past, a transcendent stock that distributes lack to all the elements of the chain, something in common for a common absence, the authority that channels all the breaks-flows into one and the same locus of one and the same cleavage: the detached object, the phallus-and-castration, the bar that delivers over all the depressive subjects to the great paranoiac king. O signifier, terrible archaism of the despot where they still look for the empty tomb, the dead father, and the mystery of the name! And perhaps that is what incites the anger of certain linguists against Lacan, no less than the enthusiasm of his followers: the vigor and the serenity with which Lacan accompanies the signifier back to its source, to its veritable origin, the despotic age, and erects an infernal machine that welds desire to the Law, because, everything considered—so Lacan thinks—this is indeed the form in which the signifier is in agreement with the unconscious, and the form in which it produces effects of the signified in the unconscious.* The signifier as the repressing representation, and the new displaced represented that it induces, the famous metaphors and metonymy—all of that constitutes the overcoding and deterritorialized despotic machine.
+{:.drop-cap}
 
 The signifier (phonetic abstractions of symbols) "overcoding" the signified (pictographic representations of concepts) is described as "imperial" or like violent structuralist arbitrary rule-making and creates this kind of atmosphere where the meaning of a fundamentally meaningless string of letters is policed? As if by law, only to be redirected to the original "signified" (the actual concept)., which now, in extension, has become an "empty tomb". It's just as easy to argue that writing can never be a real representation of anything and language through speech is more natural and has been around for much longer. That it's a core part of what makes us human, and so phonetic characters are not any more arbitrary than pictographic writing outside of their made up concept of what graphism is. But i think what they care about is moving away from representation entirely to a model of "production". Like with Chinese characters there are ones that "produce" its represented effect - there are a lot especially ones with the 心 heart component:
 {:.drop-cap}
@@ -133,6 +135,7 @@ Note that:
 - You can use existing hangul-hanja transliterations if they fit into one block better and they sound similar enough.
 
 The hard part is figuring out which components in every character were phonetic\. I haven’t been alive for all of ancient Chinese history so for this I had to check every character in the [Yellowbridge](https://www.yellowbridge.com/chinese/dictionary.php) dictionary or Wiktionary\. This can be a really bleh-ifying process but until LLMs replace us all I just have to do it manually. The final step is to just construct the hangul and replace it with the phonetic component\!
+{:.drop-cap}
 
 Because my idea for this was to make Chinese Characters immune to any phonetic changes that will come with time, and to make it more easily adaptable to any language that uses Hanzi, I call it 훈鬼骨티 シ한字 “Huoonty Hantze\.” 魂 “hun” meaning spirit/immortal, which ironically has an outdated phoneme itself \(云 now pronounced “yun”\) \.
 
@@ -153,6 +156,7 @@ There are other characters like 性 (nature / disposition) where the now outdate
 {:.drop-cap}
 
 Some components look quite lonely on their own and have weird gaps that can be confused for spacings, so we can borrow some look-alikes from wherever we can find them, especially if the component lacks unicode support or has no "full" version at all. In the case that the "full" character (like 水) is still widely used on it's own, a look-alike to represent the component provides more clarity:
+{:.drop-cap}
 
 - 氵 = シ for 水 or ツ for 川
 - 辶 = え / 辵 (Not widely used anymore so I use the full component)
@@ -165,6 +169,7 @@ Some components look quite lonely on their own and have weird gaps that can be c
 and so on...
 
 The problem with Huoontifying characters too methodologically is that characters that are pronounced the same AND share the same semantic component will basically be merged. An example of this would be the 漢 (Han chinese) diagram in 漢字 (Hanzi) itself. When Huoontified like this: シ한 it could very easily be confused with 汗 (sweat) because 干 like 𦰩 are both Old Chinese phonetic elements (well, kind of. This is up for debate. There's an interpretation that involves 𦰩 being a pictogram involving a human sacrifice being burned at the stake in hopes of rain, but maybe that's a topic for another day). We can amend this by looking closer at the etymology of each character. 汗's シ obviously indicates drops of water, but why is there a シ in the character for Han Chinese people? Are they uh... Wet? No. The 漢 actually refers to the Han River. The name passed on to the Han dynasty which then passed on to a general demographic of people and then to refer to an entire system of writing. Knowing this, we can use the component for river 川 / 巛 instead of the one for water 水. Luckily for us, the Japanese have already created a simplified version of 川 --> ツ! The smiley! And it happens to loop back into looking similar enough to 氵to make the connection. Therefore, ツ한 = 漢, シ한 = 汗. I want to make clear that the "point" of something like this is not to necessarily to "fix" anything, but to break conventions to find new ways to chain them together again.
+{:.drop-cap}
 
 The digitized version of the Declaration of Human Rights would look something like this:
 
@@ -184,13 +189,16 @@ We can go further and experiment with a whole set of new interpretations of char
 - 窝ゐ你瘋了 (ᴜ̊ drive me crazy :3)
 
 The actual meaning of 窝 is a bird's nest, composed of semantic 穴 (empty) and Old Chinese phonetic 呙 (skull). If we take both components literally, it definitely does sound and feel like me... head empty. If we want to make it more quirky XD coded, iṋ writing we could replace ϑ'bottom bit 咼 with a 骨 body and maybe add a 心 heart component, referencing ϑ'bodymind or body without organs. HereꝬ what it wůld lꙭk like:
+{:.drop-cap}
 
 ![♡囧骨](/assets/images/woe.png)
 
 If we try to Huoontify it we might get something like ♡囧骨, but for the most commonly used pronoun it's probably too long. 我 iꝬ actually an ancient pictogram depicting a barrier of swords or someϑiŋ similar which iꝬ cool, ⅋ut ï find ϑ'adoption of it to use for ϑ'most common pronoun of all time as a phoneme quite uninspired. So non-bidenary of me. Characters like this, that are completely divorced from their original diagram's form, seem to be the most open to adaption, because turning it into an A-signifying sign involves replacing the whole thing for anything we might want. 窩 iꝬ already used & recognised iṋ Chinese post-irony innerweb circles, where itꝬ used phonetically as a lazier more casual sounding 我 "wo" b∵c it lacks tone, so that's my personal favorite. Woe is me 囧!
+{:.drop-cap}
 
 ### の - possessive 的
 ϑis ones a raϑer low hanging fruit since itꝬ already widely used & even legally recognised in Hong Kong. From my understanding, itꝬ used as a 草書 cursive script rendering of the bopomo character ㄉ, ⅋ut it cůld also be ϑat の in Japanese iꝬ used ϑ'same way. 的 has been on̅e of ϑ'most baffling characters to people trying to understand chinese writing logograφically. ItꝬ used 99.9% of ϑ' time as ϑ'possessive particle "de" ⅋ut b∵c it was adopted as a phoneme like 我, ϑ'character suggests it's related to l̗i̗gh̖t̖ - 白 means white and 勺 iꝬ a ladle w/ someϑiŋ iṋ it. When used as "dì" (instead of de) meaning aim or clear, ϑis makes total sense, ⅋ut oϑerwise... nøt so muɕh.
+{:.drop-cap}
 
 ### 草書
 Speaking of 草書, ϑ'only cursive script characters we ԙ able to use remain culturally exclusive to Japan ϑa̍ňk̍s to ϑeir adoption of rushed characters as hirigana. Lets make use of what we have. We can't be letting ϑem have all ϑ'fun, ï mean ゐ什麼日本人可以用草書字但是窩用の事後你們叫窩一个 traitor. 窩ふ要給窩の婆婆 ww2 flashbacks 但是やふ窩の錯 technology killed ϑ'whimsy out of writing. Ahem.. Anyway, ϑere are plenty (& even more if ᴜ̊ count ϑ'unicodes for 變體假名 hentaigana) ⅋ut ϑese seem to be ϑ'most legible:
@@ -211,8 +219,10 @@ Like I hinted at earlier, this project was meant as a new way to see Hanzi beyon
 {:.drop-cap}
 
 Korean and Vietnamese have stopped teaching Hanzi in their official education curriculum, both largely due to colonization\. Japanese occupation of Korea caused Korean literacy to plummet, and post\-occupation Korea grew to associate Hanzi with imperial Japan\. Because of this Korean newspapers that exclusively featured Hangul became much more popular, and it eventually became the status quo\. While in Vietnam, Christian missionaries and the French flat out ruined 𡨸喃 \(Chữ Nôm\) for everyone\.
+{:.drop-cap}
 
 Apart from traditions sake, there could also be practical reasons\. In [Schwar’s video on Hanja](https://www.youtube.com/watch?v=d9CaoxfljsU) , he explains how the sudden disappearance of Hanzi in Korean caused many words take the exact same written phonetic form, and how in official documents where specificity is crucial, Hanja is still used in conjunction with Hangul today, but much more rarely. It's yet another great example of the signifier "overcoding" the signified. Many would think this to be purely thanks to its ease of use, but there was an organized attempt on Hanja's life by the infamous dictator and anti-communist CIA puppet Park Chung Hee (朴正熙). In 1968 he enacted the 5-Year Plan for Hangul Exclusivity (한글專用 5個年 計劃案) which of course everyone remotely literate at the time hated. It banned Hanja in education and the military (which of course was his home base). In 2013 Hanja was brought back into schools, but the damage had already been done - There already an entire generation with extremely low Hanja literacy. Interviews in South Korea about Hanja normally cast "I hated ts in school but I can read my own name I guess" zoomers against "our writing has lost all colour and it's over" boomers. Historically, Chinese characters are read out phonetically similar to kanji. In this arrangement, it's one or the other. But all I'm asking is for Korean to bring semantic symbols back into their words while preserving the phonetic blocks in full. They've already figured out the use of spaces so they're practially much further ahead than the rest of East Asia.  \.
+{:.drop-cap}
 
 
 ![](/assets/images/1_uP6bsnhoTktUeGYfGGKl8w.png)
@@ -234,6 +244,7 @@ As for Vietnam, a comeback for Chữ Nôm as it is would prove very difficult\. 
 For both these countries, Huoonty Hantze could create a comfortable middle ground for them to reconnect with their forgotten culture and traditions\. It would make Korean mixed script much much more accessible and easy to learn for Koreans, and standardize phonetic components for Vietnamese\.
 
 If you’ve been following along, you can probably imagine the possibilities of this being used for other Sinitic languages\. Coincidentally Hokkien shares a [very similar set of spoken phenomes as Korean](https://www.youtube.com/watch?v=HNcW47zZYjQ) , and also has a dire literacy rate\. My grandma, who's Hokkien is literally her native tongue, genuinely still believes to this day that there is “no way to write it\.” Well she’s wrong, but yes it’s just as “difficult” as you’d expect \(at least to me\), having a similar clutter to Chữ Nôm:
+{:.drop-cap}
 
 
 ![This is what it looks like\. Really cool\.](/assets/images/0_o2Vt0Ns-08BnJQnw.jpg)
