@@ -48,7 +48,7 @@ From this viewpoint we can start to empathize with Mao's understanding of 漢字
 
 ## 漢字 as resistance against the imperial significating degloving machine
 
-> 鬼모シ파(魔法) 三角 の 三辵변(邊) —— 聲音-耳팅(聽)覺、圖イ샹(像)-身骨티(體)、目睛-疒퉁(痛)艸쿠(苦) —— 째土(在) 窩イ믄(們) 看來, 似乎 木꼬우(構)戊청(成)了 一禾쫑(種) 意涵 の 秩广쉬(序), 一个 殘酉쿠(酷) の 骨티(體)系。째土(在)此, 言츠言위(詞語) 基本 具有 も지(指)禾칭(稱) 工能, イ단(但) 圖イ상(像) 本身 與 被 も지(指)禾칭(稱) の 物結合, 木꼬우(構)戊청(成)了 一个 竹푸(符)號, 而 目睛 則 째土(在) 兩者 之門쩬(間) 游移, 从 一者 の 可見性 中 提取 わ(和) 衡量 另一者 の 疒퉁艸쿠(痛苦)。
+鬼모シ파(魔法) 三角 の 三辵변(邊) —— 聲音-耳팅(聽)覺、圖イ샹(像)-身骨티(體)、目睛-疒퉁(痛)艸쿠(苦) —— 째土(在) 窩イ믄(們) 看來, 似乎 木꼬우(構)戊청(成)了 一禾쫑(種) 意涵 の 秩广쉬(序), 一个 殘酉쿠(酷) の 骨티(體)系。째土(在)此, 言츠言위(詞語) 基本 具有 も지(指)禾칭(稱) 工能, イ단(但) 圖イ상(像) 本身 與 被 も지(指)禾칭(稱) の 物結合, 木꼬우(構)戊청(成)了 一个 竹푸(符)號, 而 目睛 則 째土(在) 兩者 之門쩬(間) 游移, 从 一者 の 可見性 中 提取 わ(和) 衡量 另一者 の 疒퉁艸쿠(痛苦)。
 
 > The magic triangle with its three sides—voice-audition, graphism-body, eye-pain—thus seems to us to be an order of connotation, a system of cruelty where the word has an essentially designating function, but where the graphism itself constitutes a sign in conjunction with the thing designated, and where the eye goes from one to the other, extracting and measuring the visibility of the one against the pain of the other.
 {:.drop-cap}
