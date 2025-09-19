@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: RYO
+title: KITTERCHORD BY OVXX [子尘の 鬼모シ파]
 email: ryovxx@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   developer of innovative sonic weapons as OVXX, CEO reptilian of KitterChord, comrade of Twinknation,. ϑ'self does nøt lie passively in wait for us to discover it ︻╦̵̵͇̿̿̿̿══╤─
@@ -58,7 +58,7 @@ plugins:
   - jekyll-seo-tag
 
 author:
-  name   : "Rhyo Leo [子尘]"
+  name   : "Rhyo Leo [廖子尘]"
   avatar : "/assets/images/magikarp.gif"
   bio    : "developer of innovative sonic weapons as OVXX & KitterChord"
   home: "/about/"
