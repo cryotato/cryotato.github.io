@@ -130,6 +130,7 @@ Note that:
 - The final -i is transliterated as **이** (i) in most cases (e.g., li -> 리). However, after the initials z, c, s, zh, ch, sh, r, it is pronounced as a syllabic consonant and is written as **으** (eu). For example, shi -> 스, zi -> 쯔.
 - Korean, much like the southern Chinese accents I grew up with, does not distinguish between the dental (z, c, s), retroflex (zh, ch, sh), and alveolo-palatal (j, q, x) initials, so here they are merged.
 - It's kind of whatever. Whatever phonetic system you use to replace Chinese components will be more coherent than the reality of the situation.
+- You can use existing hangul-hanja transliterations if they fit into one block better and they sound similar enough.
 
 The hard part is figuring out which components in every character were phonetic\. I haven’t been alive for all of ancient Chinese history so for this I had to check every character in the [Yellowbridge](https://www.yellowbridge.com/chinese/dictionary.php) dictionary or Wiktionary\. This can be a really bleh-ifying process but until LLMs replace us all I just have to do it manually. The final step is to just construct the hangul and replace it with the phonetic component\!
 

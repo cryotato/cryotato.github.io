@@ -29,6 +29,7 @@ document.addEventListener('DOMContentLoaded', function() {
     "YOU ARE NOT HELPLESS YOU ARE NOT MENTALLY ILL YOU ARE INJURED YOU ARE NOT HELPLESS YOU ARE NOT MENTALLY ILL YOU ARE INJURED YOU ARE NOT HELPLESS YOU ARE NOT MENTALLY ILL YOU ARE INJURED YOU ARE NOT HELPLESS YOU ARE NOT MENTALLY ILL YOU ARE INJURED YOU ARE NOT HELPLESS YOU ARE NOT MENTALLY ILL YOU ARE INJURED",
     "BE STRONG BE HARD RESIST TEMPTATION STICK YOUR HAND IN YOUR EYE CLOSE YOUR FIST RESIST WALK ON THIS LINE LOOK STRAIGHT AHEAD FLEX YOUR MUSCLES FLEX YOUR MUSCLES UUYUGHH FLEX YOUR MUSCLES FLEX YOUR MUSCLES BE HARD BE STRONG BE HARD BE HARD HARD HARD AAND COME BACK FOR MORE UUUCOME BACK COME BACK FLEX YOUR MUSCLES",
     "我는 我가 見고 싶은 君 貌을 見았네 其이 決코 君가 非임을 知지 못한 채 我는 我가 見고 싶은 君 貌을 見았네 其이 決코 君가 非임을 知지 못한 채 我는 汝를 愛했었나 我는 我를 愛했었나 此이 多 何 所用인가 結局 多 하는 虛言 我等은 相互를 欺고 生活하는 人 我等은 相互를 欺고 愛하는 人 我等은 相互를 欺고 生活하는 人 我等은 相互를 欺고 愛하는 人"
+    "鬼모シ파 三角 の 三辵변 —— 聲音-耳팅覺、圖イ샹-身骨티、目睛-疒퉁艸쿠 —— 째土 窩イ믄 看來, 似乎 木꼬우(構)戊청了 一禾쫑 意涵 の 秩广쉬, 一个 殘酉쿠 の 骨티系。째土此, 言츠言위 基本 具有 も지禾칭 工能, イ단 圖イ상 本身 與 被 も지禾칭 の 物結合, 木꼬우戊청了 一个 竹푸號, 而 目睛 則 째土 兩者 之門쩬 游移, 从 一者 の 可見性 中 提取 わ 衡量 另一者 の 疒퉁艸쿠。"
   ];
 
   // --- Configuration ---
