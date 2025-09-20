@@ -555,7 +555,7 @@ Using this, we can finally start Huoontifying. Because standard Mandarin pronunc
   </tbody>
 </table>
 
-Because of the sheer amount of phonetic blocks I choose to preserve here, it'd probably be more interesting to construct them into their own character blocks in writing like was originally proposed, but I'm still pretty happy with it!
+Because of the sheer amount of phonetic blocks I choose to preserve here, it'd probably be more interesting to construct them into their own character blocks in writing like was originally proposed, but either way Hangul was quite literally designed to be put next to Hanzi and I'm just quite happy with it from a purely aesthetic standpoint
 
 
 Be free my fellow linguacel~
