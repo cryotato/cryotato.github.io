@@ -555,6 +555,8 @@ Using this, we can finally start Huoontifying. Because standard Mandarin pronunc
   </tbody>
 </table>
 
+Because of the sheer amount of phonetic blocks I choose to preserve here, it'd probably be more interesting to construct them into their own character blocks in writing like was originally proposed, but I'm still pretty happy with it!
+
 
 Be free my fellow linguacel~
 
