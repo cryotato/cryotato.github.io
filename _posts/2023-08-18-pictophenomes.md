@@ -481,6 +481,49 @@ Coda endings
   </tbody>
 </table>
 
+Using this, we can finally start Huoontifying. Because standard Mandarin pronunciation is assumed, we can be a bit more liberal with it. These are some common Malaysian Hokkien phrases just to get started:
+
+Steady / Awesome / Capable (my dad's favourite slang term, loaned from Cantonese)
+
+겡
+勁
+Kèng / geng
+
+I'm telling you... (also another overused dad phrase)
+
+꽈 가 리 공
+我共你講
+Góa kā lí kóng
+
+Have you eaten yet? (this is how they say hi)
+리 챠ᄒ 바 ᅰ?
+你食飽未？
+`Lí chia̍h pá bōe?`
+
+Thank you
+감샤
+感謝
+`Kám-siā`
+
+Delicious.
+허 챠ᄒ.
+好食
+`Hó chia̍h.`
+
+Shy / Embarrassed / Sorry.**
+패세.
+歹勢
+`Phaì-sè.`
+
+OWO what is this?**
+체 시 샷미ᄒ?
+這(tsit)是啥物？
+`Che sī siáⁿ-mi̍h?`
+
+I'm fed up!
+샨라ᄒ.
+厭啦
+`Siān--lah.`
 
 
 Either way I hope another linguacel finds this interesting\!
