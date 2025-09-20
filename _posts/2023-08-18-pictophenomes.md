@@ -264,123 +264,222 @@ The Hangul & Huoontification is so obvious I’m weary to even point it out.
 
 On top of this, Hokkien phonemes are almost perfectly matched with Korean, with plenty of shared vocabulary and preserved middle Chinese pronunciations between them. Taiwanese linguist Hsu Tsao-te had already developed a Hangul based writing system for Hokkien by 1987 called ]대끼깐뿐 Tâi-gí Gān-bûn](https://en.m.wikipedia.org/wiki/Taiwanese_Hangul). They proposed a mixed script to fill in gaps for uniquely Hokkien words with no (known) ties to literary Chinese, and even included tonal markers. But I think by Huoontifing it, we could do better.
 
-Here's how the phonemes compare, copied straight from the Wiki:
+Here's how the phonemes compare:
 
-=== Initials ===
-{|class=wikitable
-!rowspan=2 colspan=2| !!colspan=2|[[Bilabial consonant|Bilabial]]!!colspan=2|[[Alveolar consonant|Alveolar]]
-!colspan=2|[[Alveolo-palatal consonant|Alveolo-palatal]]!!colspan=2|[[Velar consonant|Velar]]!![[Glottal consonant|Glottal]]
-|-
-![[Voicelessness|Voiceless]]!![[Voice (phonetics)|Voiced]]!![[Voicelessness|Voiceless]]!![[Voice (phonetics)|Voiced]]
-![[Voicelessness|Voiceless]]!![[Voice (phonetics)|Voiced]]!![[Voicelessness|Voiceless]]!![[Voice (phonetics)|Voiced]]
-![[Voicelessness|Voiceless]]
-|-align=center
-!colspan=2|[[Nasal consonant|Nasal]]
-| 
-|[[Bilabial nasal|'''<big>ᄆ</big>''' {{IPA|[m]|cat=no}}]]<br/>ㄇ 毛 (<span style="color:#FF0000;">m</span>o͘ )
-|
-|[[Alveolar nasal|'''<big>ᄂ</big>''' {{IPA|[n]|cat=no}}]]<br/>ㄋ 耐 (<span style="color:#FF0000;">n</span>āi)
-| 
-|
-| 
-|[[Velar nasal|'''<big>	ㄸ</big>''' {{IPA|[ŋ]|cat=no}}]]<br/>ㄫ 雅 (<span style="color:#FF0000;">ng</span>á)
-|
-|-align=center
-!rowspan=2|[[Stop consonant|Stop]]!![[Aspirated consonant|Unaspirated]]
-|[[Voiceless bilabial stop|'''<big>ᄇ</big>''' {{IPA|[p]|cat=no}}]]<br/>ㄅ 邊 (<span style="color:#FF0000;">p</span>ian)
-|[[Voiced bilabial stop|'''<big>ᄈ</big>''' {{IPA|[b]|cat=no}}]]<br/>ㆠ 文 (<span style="color:#FF0000;">b</span>ûn)
-|[[Voiceless alveolar stop|'''<big>ᄃ</big>''' {{IPA|[t]|cat=no}}]]<br/>ㄉ 地 (<span style="color:#FF0000;">t</span>ē)|| || ||
-|[[Voiceless velar stop|'''<big>ᄀ</big>''' {{IPA|[k]|cat=no}}]]<br/>ㄍ 求 (<span style="color:#FF0000;">k</span>iû)
-|[[Voiced velar stop|'''<big>ᄁ</big>''' {{IPA|[ɡ]|cat=no}}]]<br/>ㆣ 語 (<span style="color:#FF0000;">g</span>í)||
-|-align=center
-![[Aspirated consonant|Aspirated]]
-|[[Voiceless bilabial stop|'''<big>ᄑ</big>''' {{IPA|[pʰ]|cat=no}}]]<br/>ㄆ 波 (<span style="color:#FF0000;">ph</span>o)|| 
-|[[Voiceless alveolar stop|'''<big>ᄐ</big>''' {{IPA|[tʰ]|cat=no}}]]<br/>ㄊ 他 (<span style="color:#FF0000;">th</span>aⁿ)|| || ||
-|[[Voiceless velar stop|'''<big>ᄏ</big>''' {{IPA|[kʰ]|cat=no}}]]<br/>ㄎ 去 (<span style="color:#FF0000;">kh</span>ì)|| ||
-|-align=center
-!rowspan=2|[[Affricate consonant|Affricate]]!![[Aspirated consonant|Unaspirated]]
-| || ||[[Voiceless alveolar affricate|'''<big>ᄌ</big>''' {{IPA|[ts]|cat=no}}]]<br/>ㄗ 曾 <br/>(<span style="color:#FF0000;">ts</span>an/<span style="color:#FF0000;">ch</span>an)
-|[[Voiced alveolar affricate|'''<big>ᄍ</big>''' {{IPA|[dz]|cat=no}}]]<br/>ㆡ 熱 (<span style="color:#FF0000;">j</span>oa̍h)
-|[[Voiceless alveolo-palatal affricate|'''<big>ᄌ</big>''' {{IPA|[tɕ]|cat=no}}]]<br/>ㄐ 尖 <br/>(<span style="color:#FF0000;">tsi</span>am/<span style="color:#FF0000;">chi</span>am)
-|[[Voiced alveolo-palatal affricate|'''<big>ᄍ</big>''' {{IPA|[dʑ]|cat=no}}]]<br/>ㆢ 入 (<span style="color:#FF0000;">ji̍</span>p)|| || ||
-|-align=center
-![[Aspirated consonant|Aspirated]]
-| || ||[[Voiceless alveolar affricate|'''<big>ᄎ</big>''' {{IPA|[tsʰ]|cat=no}}]]<br/>ㄘ 出 <br/>(<span style="color:#FF0000;">tsh</span>ut/<span style="color:#FF0000;">chh</span>ut)||
-|[[Voiceless alveolo-palatal affricate|'''<big>ᄎ</big>''' {{IPA|[tɕʰ]|cat=no}}]]<br/>ㄑ 手 <br/>(<span style="color:#FF0000;">tshi</span>ú/<span style="color:#FF0000;">chhi</span>ú)|| || || ||
-|-align=center
-!colspan=2|[[Fricative consonant|Fricative]]
-| || ||[[Voiceless alveolar fricative#Voiceless alveolar sibilant|'''<big>ㅅ</big>''' {{IPA|[s]|cat=no}}]]<br/>ㄙ 衫 (<span style="color:#FF0000;">s</span>aⁿ)||
-|[[Voiceless alveolo-palatal sibilant|'''<big>ㅅ</big>''' {{IPA|[ɕ]|cat=no}}]]<br/>ㄒ 寫 (<span style="color:#FF0000;">si</span>á)|| || ||
-|[[Voiceless glottal fricative|'''<big>ᄒ</big>''' {{IPA|[h]|cat=no}}]]<br/>ㄏ 喜 (<span style="color:#FF0000;">h</span>í)
-|-align=center
-!colspan=2|[[Lateral consonant|Lateral]]
-| || || ||[[Alveolar lateral approximant|'''<big>ᄅ</big>''' {{IPA|[l]|cat=no}}]]<br/>ㄌ 柳 (<span style="color:#FF0000;">l</span>iú)|| || || || ||
-|}
+Initials
+<table>
+  <tbody>
+    <tr>
+      <th rowspan="2" colspan="2"></th>
+      <th colspan="2">Bilabial</th>
+      <th colspan="2">Alveolar</th>
+      <th colspan="2">Alveolo-palatal</th>
+      <th colspan="2">Velar</th>
+      <th>Glottal</th>
+    </tr>
+    <tr>
+      <th>Voiceless</th>
+      <th>Voiced</th>
+      <th>Voiceless</th>
+      <th>Voiced</th>
+      <th>Voiceless</th>
+      <th>Voiced</th>
+      <th>Voiceless</th>
+      <th>Voiced</th>
+      <th>Voiceless</th>
+    </tr>
+    <tr>
+      <th colspan="2">Nasal</th>
+      <td></td>
+      <td><b>ᄆ</b> [m]<br>ㄇ 毛 (mo͘)</td>
+      <td></td>
+      <td><b>ᄂ</b> [n]<br>ㄋ 耐 (nāi)</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td><b>ㄸ</b> [ŋ]<br>ㄫ 雅 (ngá)</td>
+      <td></td>
+    </tr>
+    <tr>
+      <th rowspan="2">Stop</th>
+      <th>Unaspirated</th>
+      <td><b>ᄇ</b> [p]<br>ㄅ 邊 (pian)</td>
+      <td><b>ᄈ</b> [b]<br>ㆠ 文 (bûn)</td>
+      <td><b>ᄃ</b> [t]<br>ㄉ 地 (tē)</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td><b>ᄀ</b> [k]<br>ㄍ 求 (kiû)</td>
+      <td><b>ᄁ</b> [ɡ]<br>ㆣ 語 (gí)</td>
+      <td></td>
+    </tr>
+    <tr>
+      <th>Aspirated</th>
+      <td><b>ᄑ</b> [pʰ]<br>ㄆ 波 (pho)</td>
+      <td></td>
+      <td><b>ᄐ</b> [tʰ]<br>ㄊ 他 (thaⁿ)</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td><b>ᄏ</b> [kʰ]<br>ㄎ 去 (khì)</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th rowspan="2">Affricate</th>
+      <th>Unaspirated</th>
+      <td></td>
+      <td></td>
+      <td><b>ᄌ</b> [ts]<br>ㄗ 曾 <br>(tsan/chan)</td>
+      <td><b>ᄍ</b> [dz]<br>ㆡ 熱 (joa̍h)</td>
+      <td><b>ᄌ</b> [tɕ]<br>ㄐ 尖 <br>(tsiam/chiam)</td>
+      <td><b>ᄍ</b> [dʑ]<br>ㆢ 入 (ji̍p)</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th>Aspirated</th>
+      <td></td>
+      <td></td>
+      <td><b>ᄎ</b> [tsʰ]<br>ㄘ 出 <br>(tshut/chhut)</td>
+      <td></td>
+      <td><b>ᄎ</b> [tɕʰ]<br>ㄑ 手 <br>(tshiú/chhiú)</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th colspan="2">Fricative</th>
+      <td></td>
+      <td></td>
+      <td><b>ㅅ</b> [s]<br>ㄙ 衫 (saⁿ)</td>
+      <td></td>
+      <td><b>ㅅ</b> [ɕ]<br>ㄒ 寫 (siá)</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td><b>ᄒ</b> [h]<br>ㄏ 喜 (hí)</td>
+    </tr>
+    <tr>
+      <th colspan="2">Lateral</th>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td><b>ᄅ</b> [l]<br>ㄌ 柳 (liú)</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+ 
+Vowels
+<table>
+  <tbody>
+    <tr>
+      <td style="vertical-align: top;">
+        <table>
+          <caption>Monophthongs</caption>
+          <tbody>
+            <tr>
+              <th rowspan="2"></th>
+              <th colspan="2">Front</th>
+              <th>Central</th>
+              <th colspan="2">Back</th>
+            </tr>
+            <tr>
+              <th>Simple</th>
+              <th>Nasal</th>
+              <th>Simple</th>
+              <th>Simple</th>
+              <th>Nasal</th>
+            </tr>
+            <tr>
+              <th>Close</th>
+              <td><b>ᅵ</b> [i]<br>ㄧ 衣 (i)</td>
+              <td><b>잇</b> [ĩ]<br>ㆪ 圓 (îⁿ)</td>
+              <td></td>
+              <td><b>ᅮ</b> [u]<br>ㄨ 污 (u)</td>
+              <td><b>웃</b> [ũ]<br>ㆫ 張 (tiuⁿ)</td>
+            </tr>
+            <tr>
+              <th>Mid</th>
+              <td><b>ᅦ</b> [e]<br>ㆤ 禮 (lé)</td>
+              <td><b>엣</b> [ẽ]<br>ㆥ 生 (seⁿ)</td>
+              <td><b>ᅥ</b> [ə]<br>ㄜ 高 (ko)</td>
+              <td><b>ᅩ</b> [ɔ]<br>ㆦ 烏 (o͘)</td>
+              <td><b>옷</b> [ɔ̃]<br>ㆧ 翁 (oⁿ)</td>
+            </tr>
+            <tr>
+              <th>Open</th>
+              <td><b>ᅡ</b> [a]<br>ㄚ 查 (cha)</td>
+              <td><b>앗</b> [ã]<br>ㆩ 衫 (saⁿ)</td>
+              <td></td>
+              <td></td>
+              <td></td>
+            </tr>
+          </tbody>
+        </table>
+      </td>
+      <td style="vertical-align: top;">
+        <table>
+          <caption>Diphthongs &amp; Triphthongs</caption>
+          <tbody>
+            <tr>
+              <th rowspan="2">Diphthongs</th>
+              <td><b>ᅢ</b> [aɪ]<br>ㄞ (ai)</td>
+              <td><b>알</b> [aʊ]<br>ㄠ (au)</td>
+              <td><b>ᅣ</b> [ɪa]<br>ㄧㄚ (ia)</td>
+              <td><b>ᅧ</b> [ɪo]<br>ㄧㄜ (io)</td>
+            </tr>
+            <tr>
+              <td><b>ᅲ</b> [iu]<br>ㄧㄨ (iu)</td>
+              <td><b>ᅪ</b> [ua]<br>ㄨㄚ (oa)</td>
+              <td><b>ᅰ</b> [ue]<br>ㄨㆤ (oe)</td>
+              <td><b>ᅱ</b> [ui]<br>ㄨㄧ (ui)</td>
+            </tr>
+            <tr>
+              <th>Triphthongs</th>
+              <td colspan="2"><b>얄</b> [ɪaʊ]<br>ㄧㄠ (iau)</td>
+              <td colspan="2"><b>ᅫ</b> [uai]<br>ㄨㄞ (oai)</td>
+            </tr>
+          </tbody>
+        </table>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-=== Vowels ===
-{|
-|valign=top|
-{|class=wikitable
-|+Monophthongs
-!rowspan=2| !!colspan=2|[[Front vowel|Front]]!![[Central vowel|Central]]!!colspan=2|[[Back vowel|Back]]
-|-align=center
-!Simple!![[Nasal vowel|Nasal]]!!Simple!!Simple!![[Nasal vowel|Nasal]]
-|-align=center
-![[Close vowel|Close]]
-|[[Close front unrounded vowel|'''<big>ᅵ</big>''' {{IPA|[i]|cat=no}}]]<br/>ㄧ 衣 (<span style="color:#FF0000;">i</span>)
-|[[Close front unrounded vowel|'''<big>잇</big>''' {{IPA|[ĩ]|cat=no}}]]<br/>ㆪ 圓 (<span style="color:#FF0000;">îⁿ</span>)||
-|[[Close back rounded vowel|'''<big>ᅮ</big>''' {{IPA|[u]|cat=no}}]]<br/>ㄨ 污 (<span style="color:#FF0000;">u</span>)
-|[[Close back rounded vowel|'''<big>웃</big>''' {{IPA|[ũ]|cat=no}}]]<br/>ㆫ 張 (ti<span style="color:#FF0000;">uⁿ</span>)
-|-align=center
-![[Mid vowel|Mid]]
-|[[Close-mid front unrounded vowel|'''<big>ᅦ</big>''' {{IPA|[e]|cat=no}}]]<br/>ㆤ 禮 (l<span style="color:#FF0000;">é</span>)
-|[[Close-mid front unrounded vowel|'''<big>엣</big>''' {{IPA|[ẽ]|cat=no}}]]<br/>ㆥ  生 (s<span style="color:#FF0000;">eⁿ</span>)
-|[[Mid central vowel|'''<big>ᅥ</big>''' {{IPA|[ə]|cat=no}}]]<br/>ㄜ 高 (k<span style="color:#FF0000;">o</span>)
-|[[Open-mid back rounded vowel|'''<big>ᅩ</big>''' {{IPA|[ɔ]|cat=no}}]]<br/>ㆦ 烏 (<span style="color:#FF0000;">o͘ </span>)
-|[[Open-mid back rounded vowel|'''<big>옷</big>''' {{IPA|[ɔ̃]|cat=no}}]]<br/>ㆧ 翁 (<span style="color:#FF0000;">oⁿ</span>)
-|-align=center
-![[Open vowel|Open]]
-|[[Open front unrounded vowel|'''<big>ᅡ</big>''' {{IPA|[a]|cat=no}}]]<br/>ㄚ 查 (ch<span style="color:#FF0000;">a</span>)
-|[[Open front unrounded vowel|'''<big>앗</big>''' {{IPA|[ã]|cat=no}}]]<br/>ㆩ 衫 (s<span style="color:#FF0000;">aⁿ</span>)|| || ||
-|}
-|valign=top|
-{|class=wikitable
-|+Diphthongs & Triphthongs
-|-align=center
-!rowspan=2|Diphthongs
-|'''<big>ᅢ</big>''' {{IPA|[aɪ]}}<br/>ㄞ (<span style="color:#FF0000;">ai</span>)
-|'''<big>알</big>''' {{IPA|[aʊ]}}<br/>ㄠ (<span style="color:#FF0000;">au</span>)
-|'''<big>ᅣ</big>''' {{IPA|[ɪa]}}<br/>ㄧㄚ (<span style="color:#FF0000;">ia</span>)
-|'''<big>ᅧ</big>''' {{IPA|[ɪo]}}<br/>ㄧㄜ (<span style="color:#FF0000;">io</span>)
-|-align=center
-|'''<big>ᅲ</big>''' {{IPA|[iu]}}<br/>ㄧㄨ (<span style="color:#FF0000;">iu</span>)
-|'''<big>ᅪ</big>''' {{IPA|[ua]}}<br/>ㄨㄚ (<span style="color:#FF0000;">oa</span>)
-|'''<big>ᅰ</big>''' {{IPA|[ue]}}<br/>ㄨㆤ (<span style="color:#FF0000;">oe</span>)
-|'''<big>ᅱ</big>''' {{IPA|[ui]}}<br/>ㄨㄧ (<span style="color:#FF0000;">ui</span>)
-|-align=center
-!Triphthongs
-|colspan=2|'''<big>얄</big>''' {{IPA|[ɪaʊ]}}<br/>ㄧㄠ (<span style="color:#FF0000;">iau</span>)
-|colspan=2|'''<big>ᅫ</big>''' {{IPA|[uai]}}<br/>ㄨㄞ (<span style="color:#FF0000;">oai</span>)
-|}
-|}
-
-=== Coda endings ===
-{|class=wikitable
-! !![[Bilabial consonant|Bilabial]]!![[Alveolar consonant|Alveolar]]
-![[Velar consonant|Velar]]!![[Glottal consonant|Glottal]]
-|-align=center
-![[Nasal consonant]]
-|[[Bilabial nasal|'''<big>ᄆ</big>''' {{IPA|[m]|cat=no}}]]<br/>ㆬ (<span style="color:#FF0000;">-m</span>)
-|[[Alveolar nasal|'''<big>ᄂ</big>''' {{IPA|[n]|cat=no}}]]<br/>ㄣ (<span style="color:#FF0000;">-n</span>)
-|[[Velar nasal|'''<big>ㅇ</big>''' {{IPA|[ŋ]|cat=no}}]]<br/>ㆭ (<span style="color:#FF0000;">-ng</span>)
-|
-|-align=center
-![[Stop consonant]]
-|'''<big>ᄇ</big>''' {{IPA|[p̚]}}<br/>ㆴ (<span style="color:#FF0000;">-p</span>)
-|'''<big>ᄃ</big>''' {{IPA|[t̚]}}<br/>ㆵ (<span style="color:#FF0000;">-t</span>)
-|'''<big>ᄀ</big>''' {{IPA|[k̚]}}<br/>ㆻ (<span style="color:#FF0000;">-k</span>)
-|[[Glottal stop|'''<big>ᄒ</big>''' {{IPA|[ʔ]|cat=no}}]]<br/>ㆷ (<span style="color:#FF0000;">-h</span>)
-|}
+Coda endings
+<table>
+  <tbody>
+    <tr>
+      <th></th>
+      <th>Bilabial</th>
+      <th>Alveolar</th>
+      <th>Velar</th>
+      <th>Glottal</th>
+    </tr>
+    <tr>
+      <th>Nasal</th>
+      <td><b>ᄆ</b> [m]<br>ㆬ (-m)</td>
+      <td><b>ᄂ</b> [n]<br>ㄣ (-n)</td>
+      <td><b>ㅇ</b> [ŋ]<br>ㆭ (-ng)</td>
+      <td></td>
+    </tr>
+    <tr>
+      <th>Stop</th>
+      <td><b>ᄇ</b> [p̚]<br>ㆴ (-p)</td>
+      <td><b>ᄃ</b> [t̚]<br>ㆵ (-t)</td>
+      <td><b>ᄀ</b> [k̚]<br>ㆻ (-k)</td>
+      <td><b>ᄒ</b> [ʔ]<br>ㆷ (-h)</td>
+    </tr>
+  </tbody>
+</table>
 
 Either way I hope another linguacel finds this interesting\!
 
