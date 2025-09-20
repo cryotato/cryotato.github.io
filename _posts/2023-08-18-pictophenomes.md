@@ -483,47 +483,75 @@ Coda endings
 
 Using this, we can finally start Huoontifying. Because standard Mandarin pronunciation is assumed, we can be a bit more liberal with it. These are some common Malaysian Hokkien phrases just to get started:
 
-Steady / Awesome / Capable (my dad's favourite slang term, loaned from Cantonese)
-
-겡
-勁
-Kèng / geng
-
-I'm telling you... (also another overused dad phrase)
-
-꽈 가 리 공
-我共你講
-Góa kā lí kóng
-
-Have you eaten yet? (this is how they say hi)
-리 챠ᄒ 바 ᅰ?
-你食飽未？
-`Lí chia̍h pá bōe?`
-
-Thank you
-감샤
-感謝
-`Kám-siā`
-
-Delicious.
-허 챠ᄒ.
-好食
-`Hó chia̍h.`
-
-Shy / Embarrassed / Sorry.**
-패세.
-歹勢
-`Phaì-sè.`
-
-OWO what is this?**
-체 시 샷미ᄒ?
-這(tsit)是啥物？
-`Che sī siáⁿ-mi̍h?`
-
-I'm fed up!
-샨라ᄒ.
-厭啦
-`Siān--lah.`
+<table>
+  <thead>
+    <tr>
+      <th>Meaning</th>
+      <th>Huoonty Hokkien</th>
+      <th>漢字 Hàn-jī</th>
+      <th>Pe̍h-ōe-jī</th>
+      <th>Notes</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Thank you</td>
+      <td>♡감言샤</td>
+      <td>感謝</td>
+      <td>Kám-siā</td>
+      <td>This is the one I say the most. It's pronounced almost exactly the same and has the same roots as the most common thanks in Korean "gamsahamnida" written like 感謝합니다 in Hanja. If the Korean were to be Huoontified it would be written exactly the same.</td>
+    </tr>
+    <tr>
+      <td>Have you eaten yet?</td>
+      <td>尔리 食챠 食바 未ᅰ?</td>
+      <td>你食飽未？</td>
+      <td>Lí chia̍h pá bōe?</td>
+      <td>This is how Chinese people say hi.</td>
+    </tr>
+    <tr>
+      <td>Steady / Awesome / Capable</td>
+      <td>겡力</td>
+      <td>勁</td>
+      <td>Kèng / geng</td>
+      <td>My dad's favourite slang term, loaned from Cantonese.</td>
+    </tr>
+    <tr>
+      <td>I'm telling you...</td>
+      <td>窩꽈 共가 尔리 言공</td>
+      <td>我共你講</td>
+      <td>Góa kā lí kóng</td>
+      <td>Also another overused dad phrase. 共 kā is a Hokkien grammatical particle and its 漢字 is debated, but it has still occasionally been used for its semantic meaning - to share.</td>
+    </tr>
+    <tr>
+      <td>Sorry</td>
+      <td>歹패세力.</td>
+      <td>歹勢</td>
+      <td>Phaì-sè.</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Delicious.</td>
+      <td>㚥허 食챠.</td>
+      <td>好食</td>
+      <td>Hó chia̍h.</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>OWO what is this?</td>
+      <td>辵체 昰시 什샷幺미?</td>
+      <td>這是啥物？</td>
+      <td>Che sī siáⁿ-mi̍h?</td>
+      <td>什麽 is an alternative form of 啥物, but while Mandarin now uses 什麽 to mean "what" it still means "thing" in Hokkien.</td>
+    </tr>
+    <tr>
+      <td>I'm fed up!</td>
+      <td>厂샨라.</td>
+      <td>厭啦</td>
+      <td>Siān--lah.</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
 
 
 Either way I hope another linguacel finds this interesting\!
