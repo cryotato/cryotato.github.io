@@ -253,6 +253,8 @@ If you’ve been following along, you can probably imagine the possibilities of 
 
 ![This is what it looks like\. Really cool\.](/assets/images/0_o2Vt0Ns-08BnJQnw.jpg)
 
+### Hokkien
+
 I debated bringing up Hokkien at all because the discussion around it is complicated and is too focused on keeping Hokkien alive at all to care about reforming a traditional writing system, seeing as to how close it is from going extinct in Singapore, Malaysia and Taiwan\. My Grandma's native language is Hokkien, and when asked how she writes it she simply replies "it can't be" - for context, she grew up in Hainan between Japanese occupation and what I'm just going to call the Great Mandaring from now on for laughs. The same is true of my parents who are also Hokkien speakers. I've only ever met one person who can read Hokkien, and upon discovering she was literate in it I was just in total awe. The splitting image of the dodo in front of my eyes. She said she picked it up watching Hokkien dramas with subtitles on as a kid, on a now-defunct Taiwanese TV channel. In a desperate situation like this many people argue that the standardization of Hokkien using the latin alphabet, like Pe̍h\-ōe\-jī, might be ideal\. I’d even make the case that Pe̍h\-ōe\-jī is too complicated and convoluted to the average English and Malay educated Malaysian\. It’s still interesting to note that a Pe̍h\-ōe\-jī and Hanzi mixed writing system exists too, and it’s a lot more readable than Pe̍h\-ōe\-jī by itself to most Malaysian Chinese people, but they’d still just read it as Mandarin because the Hanzi unHuoontified fails to preserve Hokkien specific pronunciation\. It looks like this:
 {:.drop-cap}
 
@@ -554,9 +556,9 @@ Using this, we can finally start Huoontifying. Because standard Mandarin pronunc
 </table>
 
 
-Either way I hope another linguacel finds this interesting\!
+Be free my fellow linguacel~
 
-![A handwritten draft](/assets/images/1_vR39VC-KlYTQVjDqCi3Opw.png)
+<!-- ![A handwritten draft](/assets/images/1_vR39VC-KlYTQVjDqCi3Opw.png)
 
-A handwritten draft
+A handwritten draft -->
 
