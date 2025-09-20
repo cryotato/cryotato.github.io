@@ -456,7 +456,7 @@ Vowels
   </tbody>
 </table>
 
-Coda endings
+Coda endings are provided too but they're probably unnecessary for a Huoonty Hokkien script
 <table>
   <tbody>
     <tr>
