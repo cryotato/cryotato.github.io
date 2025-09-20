@@ -543,7 +543,7 @@ Using this, we can finally start Huoontifying. Because standard Mandarin pronunc
       <td>辵체 昰시 什샷幺미?</td>
       <td>這是啥物？</td>
       <td>Che sī siáⁿ-mi̍h?</td>
-      <td>什麽 is an alternative form of 啥物, but while Mandarin now uses 什麽 to mean "what" it still means "thing" in Hokkien.</td>
+      <td>什麽 is an alternative form of 啥物</td>
     </tr>
     <tr>
       <td>I'm fed up!</td>
