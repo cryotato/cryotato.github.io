@@ -262,9 +262,9 @@ I debated bringing up Hokkien at all because the discussion around it is complic
 
 The Hangul & Huoontification is so obvious I’m weary to even point it out.
 
-On top of this, Hokkien phonemes are almost perfectly matched with Korean, with plenty of shared vocabulary and preserved middle Chinese pronunciations between them. Taiwanese linguist Hsu Tsao-te had already developed a Hangul based writing system for Hokkien by 1987 called ]대끼깐뿐 Tâi-gí Gān-bûn](https://en.m.wikipedia.org/wiki/Taiwanese_Hangul). They proposed a mixed script to fill in gaps for uniquely Hokkien words with no (known) ties to literary Chinese, and even included tonal markers. But I think by Huoontifing it, we could do better.
+On top of this, Hokkien phonemes are almost perfectly matched with Korean, with plenty of shared vocabulary and preserved middle Chinese pronunciations between them. Taiwanese linguist Hsu Tsao-te had already developed a Hangul based writing system for Hokkien by 1987 called [대끼깐뿐 Tâi-gí Gān-bûn](https://en.m.wikipedia.org/wiki/Taiwanese_Hangul). They proposed a mixed script to fill in gaps for uniquely Hokkien words with no (known) ties to literary Chinese, and even included tonal markers. But I think by Huoontifing it, we could do better.
 
-Here's how the phonemes compare:
+First lets just steal that table from Wikipedia for reference:
 
 Initials
 <table>
@@ -480,6 +480,8 @@ Coda endings
     </tr>
   </tbody>
 </table>
+
+
 
 Either way I hope another linguacel finds this interesting\!
 
