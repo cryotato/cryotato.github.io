@@ -6,7 +6,7 @@ tags: ["linguistics","orthography"]
 toc: true
 toc_label: "ϑawts"
 toc_icon: "brain"  # corresponding Font Awesome icon name (without fa prefix)
-description: "Huoonty Hantze, hybrid logographic hangul script for 普通話"
+description: "Huoonty Hantze, an etymological hybrid logographic hangul script to provide a universal framework for the deterritorialization of East Asian scripts."
 image:
   path: /assets/images/1_HbQgkZAGvgV__2p_lvpqUw.png
 ---
