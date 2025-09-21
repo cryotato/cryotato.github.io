@@ -552,6 +552,13 @@ Using this, we can finally start Huoontifying. Because standard Mandarin pronunc
       <td>Siān--lah.</td>
       <td></td>
     </tr>
+<tr>
+      <td>What's with that demeanor</td>
+      <td>も안辵니 콴欠</td>
+      <td>按呢款</td>
+      <td>Án-ni khoán</td>
+      <td>yeah my dad used to use this a lot to be like "don't be like that" whenever my mum through a fit lol</td>
+    </tr>
   </tbody>
 </table>
 
