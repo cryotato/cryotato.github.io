@@ -28,6 +28,7 @@ iꝬ it normal to obsessively fantasize about having been aborted iṋ ᴜ̊r te
 {:.drop-cap}
 
 > It is difficult to elucidate the system of the strata without seeming to introduce a kind of cosmic or even spiritual evolution from one to the other, as if they were arranged in stages and ascended degrees of perfection. Nothing of the sort. The different figures of content and expression are not stages. There is no biosphere or noosphere, but everywhere the same Mechanosphere. [...] if we consider the plane of consistency we note that the most disparate of things and signs move upon it: a semiotic fragment rubs shoulders with a chemical interaction, an electron crashes into a language, a black hole captures a genetic message, a crystallization produces a passion, the wasp and the orchid cross a letter… There is no “like” here, we are not saying “like an electron,” “like an interaction,” etc. The plane of consistency is the abolition of all metaphor; all that consists is Real. 
+
 -- The Geology of Morals in A Thousand Plautaus by D&G
 
 ŵ iꝬ it ϑat a child is able to understand ϑat we cannot? ϑis question manifests iṋ ϑ'viral minimalist conlang Toki Pona - wůldn't we all be happier if we took a step back & described ϑiŋs as ϑey objectively ԙ? do we really need môre ϑan 123 words to play wiϑ? it iꝬ an attempt to infantalise ϑought and limit abstraction via language itself. ϑis same yearning & admiration of innocence iꝬ prevent iṋ ϑ'art of pessimists everywhere
