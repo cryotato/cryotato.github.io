@@ -63,6 +63,10 @@ iṋ The Myth of Normal, ϑis world to mind to world relationʃhip iꝬ describe
 
 ï have nø decent way to end ϑis except to sꜽ ïm tired. Parents: how to tell ϑem itꝬ too late & ϑat ϑey've ruined me; how to forgive w̃ ï know ï will never recover. Maté iṋ his wisdom tells me quite gently in a voice ϑat feels universal., hꙩpe iꝬ nøt lost!!!
 
+> Nihilism is not overcome by arguments or analyses, it is tamed by love and care. Any disease of the soul must be conquered by a turning of one’s soul. This turning is done through one’s own affirmation of one’s worth—an affirmation fueled by the concern of others.
+
+- Cornel West
+
 [^1]: ᴜ̊ԙ listening to... Car Seat Headrest! my conscience cůld nøt escape ϑis particular soŋ around my tweendom.
 
 [^2]: Sparklehorse. rest iṋ peace 
