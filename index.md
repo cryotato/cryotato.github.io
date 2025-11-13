@@ -24,13 +24,13 @@ seo_description: "Rhyo is the developer of innovative sonic weapons as OVXX, CEO
 
 <br>
 
-[KITTERCHORD](/shop) is a circuit luther
+<a href="https://cryotato.github.io/p" class="btn">KITTERCHORD</a> is a circuit luther
 
-[OVXX](https://open.spotify.com/artist/5kysZzGC0WtDlkwSX4P1St?si=XnfRdxzNSuePDD1tFXZgxg) is a noise musician
+<a href="https://open.spotify.com/artist/5kysZzGC0WtDlkwSX4P1St?si=XnfRdxzNSuePDD1tFXZgxg" class="btn">OVXX</a> is a noise musician
 
-[RHYO](/about) is a real human bean
+<a href="https://cryotato.github.io/about" class="btn">RHYO</a> is a real human bean
 
-[CRYOTATO](/blog) is a home for all of them
+<a href="https://cryotato.github.io/blog" class="btn">CRYOTATO</a> is a home for all of them
 
 <br>
 
