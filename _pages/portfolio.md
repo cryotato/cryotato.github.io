@@ -14,9 +14,9 @@ sort_order: reverse # forward (default), reverse
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
 
-  <a href="https://www.linkedin.com/in/ovxx/" class="btn btn--wide btn--large">LinkedIn</a>
-  <a href="https://www.behance.net/ryanmeow" class="btn btn--wide btn--large">Behance</a>
-  <a href="mailto:{{ site.email }}" class="btn btn--wide btn--large">E✉AIL</a>
+  <a href="https://www.linkedin.com/in/ovxx/" class="btn btn--large">LinkedIn</a>
+  <a href="https://www.behance.net/ryanmeow" class="btn btn--large">Behance</a>
+  <a href="mailto:{{ site.email }}" class="btn btn--large">E✉AIL</a>
 
 </div>
 
