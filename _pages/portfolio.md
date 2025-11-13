@@ -21,7 +21,7 @@ sort_order: reverse # forward (default), reverse
   <!-- <source src="your-video.webm" type="video/webm"> -->
   your browser doesn't support embedded videos xd
 </video>
-
+<br>
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
 
   <a href="https://www.linkedin.com/in/ovxx/" class="btn btn--large">LinkedIn</a>
@@ -29,6 +29,7 @@ sort_order: reverse # forward (default), reverse
   <a href="mailto:{{ site.email }}" class="btn btn--large">E✉AIL</a>
 
 </div>
+<br>
 
 <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/g9JDMQ1mcVI?si=RQnQ6qZswMxTkfUq&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> -->
 
