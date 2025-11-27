@@ -58,7 +58,7 @@ plugins:
   - jekyll-seo-tag
 
 author:
-  name   : "Rhyo Leo [廖子尘]"
+  name   : "Rhyo Lyo 子尘"
   avatar : "/assets/images/magikarp.gif"
   bio    : "developer of innovative sonic weapons as OVXX & KitterChord"
   home: "/about/"
