@@ -5,7 +5,7 @@ title: Caroline’s Sailboat as Flows of Desire through the Frou Frou to Polache
 
 ---
 
-[The following was written under the moniker / alter ego "Ryan Mochi", an unfinished project started with the elusive "Cameron Mochi", before he died (in excruciating pain) after a tragic and embarrassing "accident" involving steroid abuse (involving but not limited to the kidnapping of two monkey proportioned puppies named "puppymonkeys", and the synthesized black hole they produced against the "cycle of aimless drifting, wandering or mundane existence"). His contributions have been erased.](#link){: .btn .btn--danger}
+[The following was written under the moniker / alter ego "Ryan Mochi", an unfinished project started with the elusive "Cameron Mochi", before he died (in excruciating pain) after a tragic and embarrassing "accident" involving steroid abuse (not limited to the kidnapping of two monkey proportioned puppies named "puppymonkeys", and the synthesized black hole they produced against the "cycle of aimless drifting, wandering or mundane existence"). His contributions have been erased.](#link){: .btn .btn--danger}
 
 In an interview, Caroline Polachek speaks of her concept of desire "like electricity, like the physical force that moves us through the world that's like the force of our will", and in extension, her sailboat - the one in which she hallucinates Cher’s voice in Dov'è l'amore as a "white sailboat that was chopping through the ocean so purely and victoriously” “I was moved to tears by hearing it and I kind of wanted to try my hand at that kind of quite openhearted throwing everything to the wind”.
 {:.drop-cap}
