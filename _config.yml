@@ -125,6 +125,10 @@ footer:
     - label: "itch.io"
       icon: "fab fa-fw fa-itch-io"
       url: "https://cryotato.itch.io/"
+    - label: "Fragrantica"
+      icon: "fab fa-fw fa-fragrantica"
+      url: "https://www.fragrantica.com/member/1295000"
+      
       
 
 defaults:
