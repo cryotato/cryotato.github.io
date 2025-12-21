@@ -28,7 +28,7 @@ seo_description: "Rhyo is the developer of innovative sonic weapons as OVXX, CEO
 
 <a href="https://open.spotify.com/artist/5kysZzGC0WtDlkwSX4P1St?si=XnfRdxzNSuePDD1tFXZgxg" class="btn">OVXX</a> is a noise musician
 
-<a href="https://cryotato.github.io/about" class="btn">RHYO</a> is a real human bean
+<a href="https://cryotato.github.io/about" class="btn">RHYO</a> is a real yuman beaŋ 
 
 <a href="https://cryotato.github.io/blog" class="btn">CRYOTATO</a> is a home for all of them
 
