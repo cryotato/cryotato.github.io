@@ -2,7 +2,7 @@
 title: "훈鬼骨티 ツ한字 — Peacemaking 'twixt Signified & Signifier"
 date: 2023-08-18T19:31:09.548+0000
 categories: [""]
-tags: ["linguistics","orthography"]
+tags: ["linguistics","orthography", "Deleuze"]
 toc: true
 toc_label: "ϑawts"
 toc_icon: "brain"  # corresponding Font Awesome icon name (without fa prefix)
