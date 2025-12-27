@@ -3,7 +3,7 @@ title: "a Practical Guide to Cannibalize Banal Evil for ϑ’Schizo-Acceleration
 date: 2024-11-06T02:58:27.548+0000
 last_modified_at: 2025-02-12T18:09:40.509+0000
 categories: [""]
-tags: ["politics","philosophy","culture"]
+tags: ["politics","philosophy","culture", "Deleuze"]
 toc: true
 toc_label: "ϑawts"
 toc_icon: "brain"  # corresponding Font Awesome icon name (without fa prefix)
