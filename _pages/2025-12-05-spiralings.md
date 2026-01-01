@@ -2,8 +2,13 @@
 
 title: spiralings on Mochi from the default mode network
 permalink: /spiralings
+author_profile: false
 
 ---
+
+[unlisted]
+
+[tw: abuse]
 
 One of my biggest criticisms of Intercourse by Dworkin was that she did not take into account kink and the idea that it could be practiced safely completely divorced from any kind of real abuse. But after going through an objectively abusive relationship myself, I see now that what started out as consensual power play reflected a very real and dangerous entitlement and disrespect towards his partners that eventually spilled out into every interaction I had with him. Before I met him, there was a line between play pretend and real life. He's blurred that line.
 
