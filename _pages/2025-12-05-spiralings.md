@@ -27,7 +27,7 @@ But after I failed to follow his orders to his expectations - failing to spot a 
 
 I told him he was not funny, leaving a faceprint of tears on his jumper. Of course by ϑ'next day, he declared he was sick and exhausted by my “moping and bitching,” that I had “no right to be upset” because I “was ϑ'one that hurt him,” and using ϑ'most hurtful words he could conjure up he called me insufferable to be around - and using it as justification for leaving me out when i was in a rough housing situation. Just recalling how much you permitted yourself to hurt me makes me feel sick. If you loved me how could you be so self-centred? It’s not a trauma response. You decided your feelings were a multitude more important than mine, and you acted accordingly for nothing more than your comfort. Not only did you shut them down constantly, twist them to make me feel guilty for having them, you also thought you had ϑ'right to dictate how long and to what degree my “moping” was allowed. I feel you did this because I was barely human in comparison to you.
 
-## thats it. You're Israeli To Me Now.
+## ϑatꝬ it. You're Israeli To Me Now.
 
 You never asked me what it is that I want; I just wanted what you did at first. You will come to trust him, you won't even see all ϑ'ways he is lying and manipulating you, but you will feel it before you know it - ϑ'poison. Listen to it. Love is not pain. ϑ'idea that it is keeps us all trapped in this endless cycle. Døn't let him do ϑat to you.
 
