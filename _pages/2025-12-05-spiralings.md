@@ -1,6 +1,7 @@
 ---
 
 title: spiralings on Mochi from the default mode network
+permalink: /spiralings
 
 ---
 
