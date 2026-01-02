@@ -200,6 +200,15 @@ The actual meaning of 窝 is a bird's nest, composed of semantic 穴 (empty) and
 If we try to Huoontify it we might get something like ♡囧骨, but for the most commonly used pronoun it's probably too long. 我 iꝬ actually an ancient pictogram depicting a barrier of swords or someϑiŋ similar which iꝬ cool, ⅋ut ï find ϑ'adoption of it to use for ϑ'most common pronoun of all time as a phoneme quite uninspired. So non-bidenary of me. Characters like this, that are completely divorced from their original diagram's form, seem to be the most open to adaption, because turning it into an A-signifying sign involves replacing the whole thing for anything we might want. 窩 iꝬ already used & recognised iṋ Chinese post-irony innerweb circles, where itꝬ used phonetically as a lazier more casual sounding 我 "wo" b∵c it lacks tone, so that's my personal favorite. Woe is me 囧!
 {:.drop-cap}
 
+⅋ut Chinese writing traditionally has plenty of 1ˢᵗ person pronouns, many are still used in Japanese. 厶 (like iṋ 私 watashi - わ(我)たし) for example is an ideogram "revolving around oneself", which ï think iꝬ beautεĭзful, now almost completely unused 
+and ready to be reclaimed:
+
+真真有那麼多第一人稱代名詞咩？厶の咧? (they really have that many first person pronouns? what about mine? [我的leh?])
+
+it provides an alternative to the cutesy and emotive 窩 & 窝, for more academic, poétique writings, or even to express lack of emotion or dissociation.
+
+厶ふ管了 (ï døn't care anymore)
+
 ### の - possessive 的
 ϑis ones a raϑer low hanging fruit since itꝬ already widely used & even legally recognised in Hong Kong. From my understanding, itꝬ used as a 草書 cursive script rendering of the bopomo character ㄉ, ⅋ut it cůld also be ϑat の in Japanese iꝬ used ϑ'same way. 的 has been on̅e of ϑ'most baffling characters to people trying to understand chinese writing logograφically. ItꝬ used 99.9% of ϑ' time as ϑ'possessive particle "de" ⅋ut b∵c it was adopted as a phoneme like 我, ϑ'character suggests it's related to l̗i̗gh̖t̖ - 白 means white and 勺 iꝬ a ladle w/ someϑiŋ iṋ it. When used as "dì" (instead of de) meaning aim or clear, ϑis makes total sense, ⅋ut oϑerwise... nøt so muɕh.
 {:.drop-cap}
