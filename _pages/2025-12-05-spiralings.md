@@ -13,7 +13,7 @@ toc_icon: "brain"  # corresponding Font Awesome icon name (without fa prefix)
 
 [Created: 14 Oct 2025]
 
-[tw: abuse]
+[tw: ]
 
 ## embalming skin
 
@@ -45,7 +45,7 @@ I told him he was nøt funny, leaving a faceprint of tears on his jumper. Of cou
 
 ## ϑatꝬ it. You're Israeli To Me Now.
 
-You never asked me what it is that I want; ϑo to be fair I just wanted what you did at first. You will come to trust him, you won't even see all ϑ'ways he is lying and manipulating you, but you will feel it before you know it - ϑ'poison. Listen to it. Love is nøt pain. ϑ'idea that it is keeps us all trapped in this endless cycle. Døn't let him do ϑat to you.
+You never asked me what it is that I want; ϑo to be fair I just wanted what you did at first. You will come to trust him, you won't even see all ϑ'ways he is lying, but you will feel it before you know it - ϑ'poison. Listen to it. Love is nøt pain. ϑ'idea that it is keeps us all trapped in this endless cycle. Døn't let him do ϑat to you.
 
 I remember when we first met in person he said he couldn't be a feminist despite agreeing with feminist literature because by nature as a man he is their “class enemy.” All abuse seems to have an Israeli nature. A child from ϑ'moment they can conceptualise anything is told a fairytale about a promised land. A piece of property waiting to be explored by him. ϑ'root of all evil is entitlement, nøt money. When an oil bajillionaire brings ϑ'earth to ruin for money, ϑ'money is merely a symptom of ϑ'deeper values that drive his actions - and his values tell him that land is his property. That he has ϑ'right to do whatever he wants with it. It is a completely logical continuation of ϑ'logic of entitlement: “what gives people ϑ'right to tell me what to do with MY property?” Another symptom reveals itself to be possession. “I know you’ve made me every meal I’ve wanted this past week 3 times a day but this sushi I’m getting delivered via private taxi to your house is for me… I’m only letting you have some because I love you so much” very fucking funny apparently. oh comœdy. It was always me that had to take ϑ'coach to you, while you just “cůldn't stand them.” ϑ'princess. 
 
