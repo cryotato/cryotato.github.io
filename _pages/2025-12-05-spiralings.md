@@ -13,7 +13,7 @@ toc_icon: "brain"  # corresponding Font Awesome icon name (without fa prefix)
 
 [Created: 14 Oct 2025]
 
-[tw: discussions on abuse]
+[tw: discussion of abuse]
 
 ## embalming skin
 
