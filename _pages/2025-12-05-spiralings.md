@@ -1,6 +1,6 @@
 ---
 
-title: spiralings on Mochi from ϑ'default mode network
+title: spiralings on embalming skin from ϑ'default mode network 
 permalink: /spiralings
 author_profile: true
 toc: true
@@ -9,13 +9,9 @@ toc_icon: "brain"  # corresponding Font Awesome icon name (without fa prefix)
 
 ---
 
-[unlisted]
+[unlisted] [Created 14 Oct 2025, Compiled 1 Jan 2026] [tw: discussion of abuse]
 
-[Created: 14 Oct 2025]
-
-[tw: discussion of abuse]
-
-## embalming skin
+## over several kalpas
 
 I don't need you. ϑ'man I needed is dead, and you killed him. But I still want to lie with his corpse. A ghoul. ϑ'person you could have been. I like to think ϑ'times ᴜ̊ loved me ԙ as real as ϑey were in ϑ'præsent. ItꝬ astroφysically set in stone!! I can go back whenever I want - to ϑ'comfort. & when I die, my being will dissolve out of my current state of entropy to a point of view ϑat will be back w/ ᴜ̊, now & forever !!! ϑereꝬ nø reason to grieve.. ϑere will be a time for everyone when time itself iꝬ nø môre !! I like ϑ'idea of having a part of you I can really have forever & ever. A part of you ϑat can't hurt me. This is ϑ'real reason I refuse to send you back your clothes. It is nøt in light of being taken for granted that I refuse to do anything for you anymore,. it's more so that I wear them knowing ϑ'skin it used to rest under was yours, and it gives me a fleeting sense of power, but it also makes me feel so close to you,. or a version of you I still hold dear.
 
