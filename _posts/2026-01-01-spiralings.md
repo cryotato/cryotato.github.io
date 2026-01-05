@@ -9,7 +9,7 @@ toc_icon: "brain"  # corresponding Font Awesome icon name (without fa prefix)
 
 ---
 
-[unlisted] [Created 14 Oct 2025, Compiled 1 Jan 2026] [tw: discussion of abuse]
+[Created 14 Oct 2025, Compiled 1 Jan 2026] [tw: discussion of abuse]
 
 ## over several kalpas
 
