@@ -57,7 +57,7 @@ document.addEventListener('DOMContentLoaded', function() {
 { originalSrc: '/assets/images/my_avatars/IMG-20240220-WA0001.jpg', ditheredSrc: '/assets/images/my_avatars/dithered/dither_it_IMG-20240220-WA0001.jpg', caption: 'ringcamera @tech-nic' },
 { originalSrc: '/assets/images/my_avatars/20190411.jpg', ditheredSrc: '/assets/images/my_avatars/dithered/dither_it_20190411.jpg', caption: 'teenage angst 20190411' },
 { originalSrc: '/assets/images/my_avatars/IMG_9943.jpg', ditheredSrc: '/assets/images/my_avatars/dithered/dither_it_IMG_9943.jpg', caption: 'farewell mylove' },
-{ originalSrc: '/assets/images/my_avatars/20250725_225128-ANIMATION.gif', ditheredSrc: '/assets/images/my_avatars/dithered/dither_it_20250725_225130.jpg', caption: 'weatherday! n morgan! 20250725' }
+{ originalSrc: '/assets/images/my_avatars/20250725_225128-ANIMATION.gif', ditheredSrc: '/assets/images/my_avatars/dithered/dither_it_20250725_225130.jpg', caption: 'weatherday! n morgan! 20250725_ANIM' }
 
   ];
 

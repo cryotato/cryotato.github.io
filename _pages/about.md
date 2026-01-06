@@ -6,7 +6,9 @@ author_profile: false
 
 <h2>ïm <a href="https://cryotato.github.io/name/">Rhyo Lyo Tz-Tzen</a>. Everythiŋ ï do iꝬ to declare my identity ⅋ut ï døn't really have one. ï aspire to be a <a href="https://cryotato.github.io/blog/">Concept</a>, ïm a schizor𖹭mantic in that way. ïm from everywhere ⅋ nøwhere... hold your breath c∵z ï diffuse into thin air! ïm a short circuit!!</h2>
 
-窝是 [子尘](https://cryotato.github.io/name/)。窝 숴斤イ줘(所做) の 一체刀(切)、皆 ゐ ウ딩羊이(定義) 自 窝、イ단(但) 窝 其實 冇 一个 囗구ウ딩(固定) の 身イ펀(份)。窝 シ커(渴)求 戊청(成) ゐ 一个 [木가이(概)念](https://cryotato.github.io/blog/)、辵총(從) 辵저黑뎬(這點) 來言숴(說)、窝是 一名 分례衣싱心(裂性)シ랑(浪)漫者。窝 來自 추夂几추夂几(處處)、や 來 自 無추夂几(處)。尸빙(屏)息以彳다이(待) 囗바(吧)、因ゐ 窝 會 シ샤오𣏟산(消散) 於 無形! 窝 就是 一土창(場) 矢두안足루(短路)!
+<p>
+  厶是 <a href="https://cryotato.github.io/name/">子尘</a>。窝 숴斤イ줘<span style="opacity: 0.3;">(所做)</span> の 一체刀<span style="opacity: 0.3;">(切)</span>、皆 ゐ ウ딩羊이<span style="opacity: 0.3;">(定義)</span> 自 厶、イ단<span style="opacity: 0.3;">(但)</span> 窝 其實 冇 一个 囗구ウ딩<span style="opacity: 0.3;">(固定)</span> の 身イ펀<span style="opacity: 0.3;">(份)</span>。窝 シ커<span style="opacity: 0.3;">(渴)</span>求 戊청<span style="opacity: 0.3;">(成)</span> ゐ 一个 <a href="https://cryotato.github.io/blog/">木가이<span style="opacity: 0.3;">(概)</span>念</a>、从 辵저黑뎬<span style="opacity: 0.3;">(這點)</span> 來言숴<span style="opacity: 0.3;">(說)</span>、窝是 一名 分례衣<span style="opacity: 0.3;">(裂)</span>性シ랑<span style="opacity: 0.3;">(浪)</span>漫者。窝 來自 추夂几추夂几<span style="opacity: 0.3;">(處處)</span>、や 來 自 無추夂几<span style="opacity: 0.3;">(處)</span>。尸빙<span style="opacity: 0.3;">(屏)</span>息以彳다이<span style="opacity: 0.3;">(待)</span> 囗바<span style="opacity: 0.3;">(吧)</span>、因ゐ 窝 會 シ샤오𣏟산<span style="opacity: 0.3;">(消散)</span> 於 無形! 窩 就是 一土창<span style="opacity: 0.3;">(場)</span> 矢두안足루<span style="opacity: 0.3;">(短路)</span>!
+</p>
 
 <!-- 
 窝是子尘。窝所做の一切、皆ゐ定義自窝、但窝其實冇一个固定の身份。窝渴求成ゐ一个概念、從這點來說、窝是一名分裂性浪漫者。窝來自處處、や來自無處。屏息以待吧、因ゐ窝會消散於無形! 窝就是一場短路!
