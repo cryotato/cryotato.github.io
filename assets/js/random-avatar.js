@@ -48,7 +48,10 @@ document.addEventListener('DOMContentLoaded', function() {
     { originalSrc: '/assets/images/my_avatars/thesadness_20210629_074704.jpg', ditheredSrc: '/assets/images/my_avatars/dithered/dither_it_thesadness_20210629_074704.jpg', caption: 'thesadness 20210629 074704' },
     { originalSrc: '/assets/images/my_avatars/artifactspain.jpg', ditheredSrc: '/assets/images/my_avatars/dithered/dither_it_artifactspain.jpg', caption: 'endless consumption 20250227' },
     // { src: '/assets/images/my_avatars/toothbrush_20220817_025823.jpg', caption: 'Toothbrush 20220817 025823' },
-    { originalSrc: '/assets/images/my_avatars/vr-20221230-WA0007-02.jpg', ditheredSrc: '/assets/images/my_avatars/dithered/dither_it_vr-20221230-WA0007-02.jpg', caption: 'Vr 20221230 Wa0007 02' }
+    { originalSrc: '/assets/images/my_avatars/vr-20221230-WA0007-02.jpg', ditheredSrc: '/assets/images/my_avatars/dithered/dither_it_vr-20221230-WA0007-02.jpg', caption: 'Vr 20221230 Wa0007 02' },
+{ originalSrc: '/assets/images/my_avatars/25-11-21.jpg', ditheredSrc: '/assets/images/my_avatars/dithered/dither_it_25-11-21.jpg', caption: 'ciggy w th skinwalkr' },
+{ originalSrc: '/assets/images/my_avatars/20250916_193806.jpg', ditheredSrc: '/assets/images/my_avatars/dithered/dither_it_20250916_193806.jpg', caption: '20250916_193806' },
+{ originalSrc: '/assets/images/my_avatars/20251223_115241.jpg', ditheredSrc: '/assets/images/my_avatars/dithered/dither_it_20251223_115241.jpg', caption: 'me n puppymonkey <3 20251223' }
   ];
 
   const randomIndex = Math.floor(Math.random() * avatarData.length);
