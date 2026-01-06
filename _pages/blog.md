@@ -4,7 +4,7 @@ title: hreꝬ sme embarrassiŋ info abt me PLEASE DØN'T BULLY ME W/ IT
 author_profile: false
 layout: posts
 ---
-Iṋ a cꙩsmꙩs where blogs have a say o͡ver an epic algorithmic deaϑconsciůsness, "ï" "write" "ϑeses" on "colonialism"<br>
+Iṋ a cꙩsmꙩs where blogs have a say o͡ver an epic algorithmic deaϑconsciůsness, "ï" "write" "ϑeses" on "colonialism",<br>
 <a href="https://cryotato.github.io/tags/#music" class="btn">musique</a> <a href="https://cryotato.github.io/tags/#orthography" class="btn">anorϑograφy</a> <a href="https://cryotato.github.io/tags/#linguistics" class="btn">liŋguistics</a> <a href="https://cryotato.github.io/tags/#politics" class="btn">violensiṋisms (geoism, sterilism, antipuppificationism)</a> <a href="https://cryotato.github.io/tags/#design" class="btn">æsϑetiques</a> &c. <br> Laŋguage iꝬ a virus from ꙩuter space?
 {:.drop-cap}
 
