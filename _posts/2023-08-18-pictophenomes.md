@@ -16,10 +16,15 @@ Huoonty Hantze, an etymological hybrid logographic hangul script to provide a un
 
 ![](/assets/images/1_HbQgkZAGvgV__2p_lvpqUw.png)
 
-人人 生而 自由﹐째土(在) 尊吅얀(嚴) わ헤(和) 木뛴(權)利 上 一律 平竹등(等)。他イ믄(們) 貝푸(賦)有 王리(理)性 わ헤 良心﹐並 ♡잉(應) 以 兄弟 門관イ시(關係) の 精神 互相 對彳대(待)。
-{:.drop-cap}
+<p>
+人人 生而 自由﹐째土<span style="opacity: 0.3;">(在)</span> 尊吅얀<span style="opacity: 0.3;">(嚴)</span> わ헤<span style="opacity: 0.3;">(和)</span> 木뛴<span style="opacity: 0.3;">(權)</span>利 上 一律 平竹등<span style="opacity: 0.3;">(等)</span>。他イ믄<span style="opacity: 0.3;">(們)</span> 貝푸<span style="opacity: 0.3;">(賦)</span>有 王리<span style="opacity: 0.3;">(理)</span>性 わ헤 良心﹐並 ♡잉<span style="opacity: 0.3;">(應)</span> 以 兄弟 門관イ시<span style="opacity: 0.3;">(關係)</span> の 精神 互相 對彳대<span style="opacity: 0.3;">(待)</span>。
+</p>
 
-Disclaimer: I’m not a dictator., but I might've been a pretty cool one... 厶是 [子尘](https://cryotato.github.io/name/)。窝 숴斤イ줘(所做) の 一체刀(切)、皆 ゐ ウ딩羊이(定義) 自 厶、イ단(但) 窝 其實 冇 一个 囗구ウ딩(固定) の 身イ펀(份)。窝 シ커(渴)求 戊청(成) ゐ 一个 [木가이(概)念](https://cryotato.github.io/blog/)、从 辵저黑뎬(這點) 來言숴(說)、窝是 一名 分례衣(裂)性シ랑(浪)漫者。窝 來自 추夂几추夂几(處處)、や 來 自 無추夂几(處)。尸빙(屏)息以彳다이(待) 囗바(吧)、因ゐ 窝 會 シ샤오𣏟산(消散) 於 無形! 窩 就是 一土창(場) 矢두안足루(短路)!
+Disclaimer: I’m not a dictator., but I might've been a pretty cool one...
+
+<p>
+  厶是 <a href="https://cryotato.github.io/name/">子尘</a>。窝 숴斤イ줘<span style="opacity: 0.3;">(所做)</span> の 一체刀<span style="opacity: 0.3;">(切)</span>、皆 ゐ ウ딩羊이<span style="opacity: 0.3;">(定義)</span> 自 厶、イ단<span style="opacity: 0.3;">(但)</span> 窝 其實 冇 一个 囗구ウ딩<span style="opacity: 0.3;">(固定)</span> の 身イ펀<span style="opacity: 0.3;">(份)</span>。窝 シ커<span style="opacity: 0.3;">(渴)</span>求 戊청<span style="opacity: 0.3;">(成)</span> ゐ 一个 <a href="https://cryotato.github.io/blog/">木가이<span style="opacity: 0.3;">(概)</span>念</a>、从 辵저黑뎬<span style="opacity: 0.3;">(這點)</span> 來言숴<span style="opacity: 0.3;">(說)</span>、窝是 一名 分례衣<span style="opacity: 0.3;">(裂)</span>性シ랑<span style="opacity: 0.3;">(浪)</span>漫者。窝 來自 추夂几추夂几<span style="opacity: 0.3;">(處處)</span>、や 來 自 無추夂几<span style="opacity: 0.3;">(處)</span>。尸빙<span style="opacity: 0.3;">(屏)</span>息以彳다이<span style="opacity: 0.3;">(待)</span> 囗바<span style="opacity: 0.3;">(吧)</span>、因ゐ 窝 會 シ샤오𣏟산<span style="opacity: 0.3;">(消散)</span> 於 無形! 窩 就是 一土창<span style="opacity: 0.3;">(場)</span> 矢두안足루<span style="opacity: 0.3;">(短路)</span>!
+</p>
 
 <a href="https://cryotato.github.io/pictophenomes/#cooking" class="btn">TLDR BUTTON: TAKE ME STRAIGHT TO THE PRAXIS</a>
 
