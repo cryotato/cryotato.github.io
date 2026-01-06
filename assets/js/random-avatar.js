@@ -51,7 +51,7 @@ document.addEventListener('DOMContentLoaded', function() {
     { originalSrc: '/assets/images/my_avatars/vr-20221230-WA0007-02.jpg', ditheredSrc: '/assets/images/my_avatars/dithered/dither_it_vr-20221230-WA0007-02.jpg', caption: 'Vr 20221230 Wa0007 02' },
 { originalSrc: '/assets/images/my_avatars/25-11-21.jpg', ditheredSrc: '/assets/images/my_avatars/dithered/dither_it_25-11-21.jpg', caption: 'ciggy w th skinwalkr' },
 { originalSrc: '/assets/images/my_avatars/20250916_193806.jpg', ditheredSrc: '/assets/images/my_avatars/dithered/dither_it_20250916_193806.jpg', caption: '20250916_193806' },
-{ originalSrc: '/assets/images/my_avatars/20251223_115241.jpg', ditheredSrc: '/assets/images/my_avatars/dithered/dither_it_20251223_115241.jpg', caption: 'me n puppymonkey <3 20251223' }
+{ originalSrc: '/assets/images/my_avatars/20251223_115241.jpg', ditheredSrc: '/assets/images/my_avatars/dithered/dither_it_20251223_115241.jpg', caption: 'me n puppymonkey <3 20251223' },
 { originalSrc: '/assets/images/my_avatars/20250424_085903.jpg', ditheredSrc: '/assets/images/my_avatars/dithered/dither_it_20250424_085903.jpg', caption: '20250424_085903' },
 { originalSrc: '/assets/images/my_avatars/HNI_0015.jpg', ditheredSrc: '/assets/images/my_avatars/dithered/dither_it_HNI_0015.jpg', caption: 'small DSi2012' },
 { originalSrc: '/assets/images/my_avatars/IMG-20240220-WA0001.jpg', ditheredSrc: '/assets/images/my_avatars/dithered/dither_it_IMG-20240220-WA0001.jpg', caption: 'ringcamera @tech-nic' },
