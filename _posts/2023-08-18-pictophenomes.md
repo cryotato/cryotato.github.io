@@ -210,7 +210,7 @@ If we try to Huoontify it we might get something like ♡囧骨, but for the mos
 ⅋ut Chinese writing traditionally has plenty of 1ˢᵗ person pronouns, many are still used in Japanese. 厶 (like iṋ 私 watashi - わ(我)たし) for example is an ideogram "revolving around oneself", which ï think iꝬ beautεĭзful, now almost completely unused 
 and ready to be reclaimed:
 
-真真有那麼多第一人稱代名詞咩？厶の咧? (they really have that many first person pronouns? what about mine? [我的leh?])
+真真有那么多第一人稱代名詞咩？厶の咧? (they really have that many first person pronouns? what about mine? [我的leh?])
 
 it provides an alternative to the cutesy and emotive 窩 & 窝, for more academic, poétique writings, or even to express lack of emotion or dissociation.
 
