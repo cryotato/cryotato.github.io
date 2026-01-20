@@ -238,6 +238,7 @@ itꝬ a miracle ïve gone ϑis far w/ø takiŋ about on̅e of ϑ'most extensive 
 - 裏/裡 -> 里 (some place somewhere, ï just find both these traditional forms extremely confusing)
 - 從 -> 从 (follow, pictogram of two people with one behind another makes sense wnough to get rid of everything else)
 - 雲 -> 云 (cloud, remove the rain)
+- 麼 -> 么 (extremely common suffix for what 什么, how 怎么, such 這么... just døesn't need ϑat phonetic component)
 
 ### Variants
 There's more out ϑere to choose from ϑan just from official simplified characters.
