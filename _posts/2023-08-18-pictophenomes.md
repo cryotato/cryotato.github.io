@@ -218,9 +218,13 @@ it provides an alternative to the cutesy and emotive 窩 & 窝, for more academi
 - 厶ふ管了 (ï døn't care anymore)
 
 ### 你/儞
-ï have a similar gripe with ϑ'character for "you". it's derived phonetically, like 我, from an old pictogram of a cloth of some kind 爾. ï døn't like ϑat it lꙭks like it means 亻小 small person. if ᴜ̊ move ϑe "person" component down iṋto 人 it lꙭks like a mouth & w/ droopy eyes. ϑat ones my favourite... ϑo it might lꙭk too much like ϑ'simplified 滅 -> 灭 so maybe ϑ'top bit of 尔 could be used instead? & 您 (polite form) makes more sense too b∵c itꝬ heart 心 iꝬ where ϑ'chest should be. ϑereꝬ also on̅e reminiscent of ϑ'alternative 我 -> 窝 ϑat i use, & anoϑer w/ a big mouth like a tongue 舌 to address aunts ϑat ԙ just too loud &c. ïm nøt sure what compells me to do any of ϑis anymore tbh.
+ï have a similar gripe with ϑ'character for "you". it's derived phonetically, like 我, from an old pictogram of a cloth of some kind 爾. ï døn't like ϑat it lꙭks like it means 亻小 small person.
 
-working with what ï have ï could type it like イ灭 (⅋ut ϑen ϑere'd be two 人 components) or 灭니 if ï were feeling particularly stubborn.
+![](/assets/images/ni.png)
+
+if ᴜ̊ move ϑe "person" component down iṋto 人 it lꙭks like a mouth & w/ droopy eyes. ϑat ones my favourite... ϑo it might lꙭk too much like ϑ'simplified 滅 -> 灭 so maybe ϑ'top bit of 尔 could be used instead? & 您 (polite form) makes more sense too b∵c itꝬ heart 心 iꝬ where ϑ'chest should be. ϑereꝬ also on̅e reminiscent of ϑ'alternative 我 -> 窝 ϑat i use, & anoϑer w/ a big mouth like a tongue 舌 to address aunts ϑat ԙ just too loud &c. ïm nøt sure what compells me to do any of ϑis anymore tbh.
+
+working with what ï have ï could type it like イ灭 (⅋ut ϑen ϑere'd be two 人 components) or 灭니 if ï were feeling particularly stubborn., but really how could that possibly bother me less than just using イ小?
 
 ### の - possessive 的
 ϑis ones a raϑer low hanging fruit since itꝬ already widely used & even legally recognised in Hong Kong. From my understanding, itꝬ used as a 草書 cursive script rendering of the bopomo character ㄉ, ⅋ut it cůld also be ϑat の in Japanese iꝬ used ϑ'same way. 的 has been on̅e of ϑ'most baffling characters to people trying to understand chinese writing logograφically. ItꝬ used 99.9% of ϑ' time as ϑ'possessive particle "de" ⅋ut b∵c it was adopted as a phoneme like 我, ϑ'character suggests it's related to l̗i̗gh̖t̖ - 白 means white and 勺 iꝬ a ladle w/ someϑiŋ iṋ it. When used as "dì" (instead of de) meaning aim or clear, ϑis makes total sense, ⅋ut oϑerwise... nøt so muɕh.
