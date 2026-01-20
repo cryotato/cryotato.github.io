@@ -220,7 +220,7 @@ it provides an alternative to the cutesy and emotive 窩 & 窝, for more academi
 ϑis ones a raϑer low hanging fruit since itꝬ already widely used & even legally recognised in Hong Kong. From my understanding, itꝬ used as a 草書 cursive script rendering of the bopomo character ㄉ, ⅋ut it cůld also be ϑat の in Japanese iꝬ used ϑ'same way. 的 has been on̅e of ϑ'most baffling characters to people trying to understand chinese writing logograφically. ItꝬ used 99.9% of ϑ' time as ϑ'possessive particle "de" ⅋ut b∵c it was adopted as a phoneme like 我, ϑ'character suggests it's related to l̗i̗gh̖t̖ - 白 means white and 勺 iꝬ a ladle w/ someϑiŋ iṋ it. When used as "dì" (instead of de) meaning aim or clear, ϑis makes total sense, ⅋ut oϑerwise... nøt so muɕh.
 {:.drop-cap}
 
-### 草書
+### Grass Writing 草書
 Speaking of 草書, ϑ'only cursive script characters we ԙ able to use remain culturally exclusive to Japan ϑa̍ňk̍s to ϑeir adoption of rushed characters as hirigana. Lets make use of what we have. We can't be letting ϑem have all ϑ'fun, ï mean ゐ什麼日本人可以用草書字但是窩用の事後你們叫窩一个 traitor. 窩ふ要給窩の婆婆 ww2 flashbacks 但是やふ窩の錯 technology killed ϑ'whimsy out of writing. Ahem.. Anyway, ϑere are plenty (& even more if ᴜ̊ count ϑ'unicodes for 變體假名 hentaigana) ⅋ut ϑese seem to be ϑ'most legible:
 {:.drop-cap}
 
@@ -229,7 +229,7 @@ Speaking of 草書, ϑ'only cursive script characters we ԙ able to use remain c
 - わ - 和
 - や - 也 (personally helps me distinguish 也 & 世)
 
-### Simplified Characters
+### Simplified Characters 简体字
 itꝬ a miracle ïve gone ϑis far w/ø takiŋ about on̅e of ϑ'most extensive and rewritings of orthography in human history. Many simplified characters used in mainland china today are also derived from cursive writing, but as you may have picked up by now, in most cases, my preference for legible pictograms win over ϑ'abstractions. ϑere ԙ a few exceptions to ϑis. many being historical variants ϑat are more elegant (塵 -> 尘, dust = small 小 dirt 土), cursive forms that look more like what they represent (鳥 -> 鸟, bird has a much more distinct beak and eye, though ï wůld bring back the strokes for the wings if it were up to me), and ϑ'removal of redundant components (氣 -> 气, air. ᴜ̊ cannot convince me ᴜ̊ need rice 米 in ϑere). Here ԙ some oϑers;
 
 - 蟲 -> 虫 (bugs. ï get ϑat bugs are tiny and numerous but come on)
@@ -239,7 +239,7 @@ itꝬ a miracle ïve gone ϑis far w/ø takiŋ about on̅e of ϑ'most extensive 
 - 從 -> 从 (follow, pictogram of two people with one behind another makes sense wnough to get rid of everything else)
 - 雲 -> 云 (cloud, remove the rain)
 
-### Varients
+### Variants
 There's more out ϑere to choose from ϑan just from official simplified characters.
 
 - 聽 -> 咡 (listen, should've been ϑ'simplified form w/ a mouth 口 and an ear 耳... ⅋ut instead we get ϑ'disgusting monstrosity that iꝬ 听, which ï understood to make absolutely no sense even when ï first learnt it as a child)
