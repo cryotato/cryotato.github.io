@@ -229,6 +229,26 @@ Speaking of 草書, ϑ'only cursive script characters we ԙ able to use remain c
 - わ - 和
 - や - 也 (personally helps me distinguish 也 & 世)
 
+### Simplified Characters
+itꝬ a miracle ïve gone ϑis far w/ø takiŋ about on̅e of ϑ'most extensive and rewritings of orthography in human history. Many simplified characters used in mainland china today are also derived from cursive writing, but as you may have picked up by now, in most cases, my preference for legible pictograms win over ϑ'abstractions. ϑere ԙ a few exceptions to ϑis. many being historical variants ϑat are more elegant (塵 -> 尘, dust = small 小 dirt 土), cursive forms that look more like what they represent (鳥 -> 鸟, bird has a much more distinct beak and eye, though ï wůld bring back the strokes for the wings if it were up to me), and ϑ'removal of redundant components (氣 -> 气, air. ᴜ̊ cannot convince me ᴜ̊ need rice 米 in ϑere). Here ԙ some oϑers;
+
+- 蟲 -> 虫 (bugs. ï get ϑat bugs are tiny and numerous but come on)
+- 個 -> 个 (an individual something. itꝬ used too much to justify using ϑat complicated of a character)
+- 網 -> 网 (net / internet. historical variant. looks more like what it means)
+- 裏/裡 -> 里 (some place somewhere, ï just find both these traditional forms extremely confusing)
+- 從 -> 从 (follow, pictogram of two people with one behind another makes sense wnough to get rid of everything else)
+- 雲 -> 云 (cloud, remove the rain)
+
+### Varients
+There's more out ϑere to choose from ϑan just from official simplified characters.
+
+- 聽 -> 咡 (listen, should've been ϑ'simplified form w/ a mouth 口 and an ear 耳... ⅋ut instead we get ϑ'disgusting monstrosity that iꝬ 听, which ï understood to make absolutely no sense even when ï first learnt it as a child)
+- 高 -> 髙 (high, has a ladder instead of a mouth)
+- 不要 -> 嫑 (no want)
+- 不用 -> 甭 (no need, ϑese are very often pronounced as if they one word, so ϑat ʃhůld ideally be reflected in writing)
+- 沒有 -> 冇 (don't have, ϑis goes against what ï just said b∵c ϑis iꝬ pronounced like two words, ⅋ut in Cantonese ϑey pronounce it as on̅e, and so ϑey just take whats inside 有 to express a lack or emptiness, which is fun)
+
+
 ### Classical Chinese & Translingualism
 Using classical chinese in place of more modern mandarin carries a higher degree of universality. So for example, with 我們 (meaning we) the plural marker 們 can be replaced with its more classical synonymn 等, this way it would be more consistent with Korean hanja (我等 - 무리), Japanese (我等 - われら), and various chinese "dialects" like Hakka (𠊎等 - ngai den). If we keep going with the pronouns theme we find that 你 (meaning you) can also be replaced with it's literary form 尔, so 你們 -> 尔等. I don't think 你 needs 人 particle at all... 等 on the other hand could definitely be confused with it's other meanings. To deal with this we can give the 人 particle to it instead -> 𠎬. While 𠎬 exists in unicode, it's pretty much completely unused so it might not display properly on some devices. On the subject of rare characters from the CJK Unified Ideographs Extensions, many of these are quite incredible. 𠀝 is an ideogrammic compound containing 下 (meaning down) above 上 (meaning above) and is a variant form of 空 (meaning void). 𠀊 is a blend of 大 (meaning big) and 小 (meaning small) from Wu. ï also just find that certain variations of characters just make more sense, like 髙 for 高 meaning high, b∵c it has a ladder.
 {:.drop-cap}
