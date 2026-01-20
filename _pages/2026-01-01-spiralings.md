@@ -9,7 +9,10 @@ toc_icon: "brain"  # corresponding Font Awesome icon name (without fa prefix)
 
 ---
 
+*i no longer feel much of what has been stated here, neither did i ever believe all this at once simultaneously, but it does provide a reliable time capsule for my experiences at the time*
+
 [Created 14 Oct 2025, Compiled 1 Jan 2026] [tw: discussion of abuse] [unlisted]
+
 
 ## over several kalpas
 
