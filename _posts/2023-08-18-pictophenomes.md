@@ -6,12 +6,12 @@ tags: ["linguistics","orthography", "Deleuze"]
 toc: true
 toc_label: "ϑawts"
 toc_icon: "brain"  # corresponding Font Awesome icon name (without fa prefix)
-description: "Huoonty Hantze, an etymological hybrid logographic hangul script to provide a universal framework for the destratification of East Asian scripts."
+description: "Huoonty Hantze, an etymological hybrid logographic hangul script to provide a rhizomatic framework for the destratification of East Asian scripts."
 image:
   path: /assets/images/1_HbQgkZAGvgV__2p_lvpqUw.png
 ---
 
-Huoonty Hantze, an etymological hybrid logographic hangul script to provide a universal framework for the destratification of East Asian scripts.
+Huoonty Hantze, an etymological hybrid logographic hangul script to provide a rhizomatic framework for the destratification of East Asian scripts.
 
 
 ![](/assets/images/1_HbQgkZAGvgV__2p_lvpqUw.png)
@@ -222,7 +222,7 @@ it provides an alternative to the cutesy and emotive 窩 & 窝, for more academi
 
 ![](/assets/images/ni.png)
 
-if ᴜ̊ move ϑe "person" component down iṋto 人 it lꙭks like a mouth & w/ droopy eyes. ϑat ones my favourite... ϑo it might lꙭk too much like ϑ'simplified 滅 -> 灭 so maybe ϑ'top bit of 尔 could be used instead? & 您 (polite form) makes more sense too b∵c itꝬ heart 心 iꝬ where ϑ'chest should be. ϑereꝬ also on̅e reminiscent of ϑ'alternative 我 -> 窝 ϑat i use, & anoϑer w/ a big mouth like a tongue 舌 to address aunts ϑat ԙ just too loud &c. ïm nøt sure what compells me to do any of ϑis anymore tbh.
+if ᴜ̊ move ϑe "person" component down iṋto 人 it lꙭks like a mouth & w/ droopy eyes. ϑat ones my favourite... ϑo it might lꙭk too much like ϑ'simplified 滅 -> 灭 so maybe ϑ'top bit of 尔 could be used instead? & 您 (polite form) makes more sense too b∵c itꝬ heart 心 iꝬ where ϑ'chest should be. ϑereꝬ also on̅e reminiscent of ϑ'alternative 我 -> 窝 ϑat i use, & anoϑer w/ a big mouth like a tongue 舌 to address aunts ϑat ԙ just too loud &c. ïm nøt sure what compells me to do any of ϑis anymore tbh. I generally very much enjoy just dreaming of new pictographic symbols like this,.. drifting into a completely lawless paradise where nothing is legible - 天書. But no I am never reading Finnegans Wake. It's stupid when other people do it.
 
 working with what ï have ï could type it like イ灭 (⅋ut ϑen ϑere'd be two 人 components) or 灭니 if ï were feeling particularly stubborn., but really how could that possibly bother me less than just using イ小?
 
