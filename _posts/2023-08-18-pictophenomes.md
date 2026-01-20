@@ -1,5 +1,5 @@
 ---
-title: "훈鬼骨티 ツ한字 — Peacemaking 'twixt Signified & Signifier"
+title: "훈鬼骨티 ツ한字 — my regime of signs"
 date: 2023-08-18T19:31:09.548+0000
 categories: [""]
 tags: ["linguistics","orthography", "Deleuze"]
@@ -10,6 +10,8 @@ description: "Huoonty Hantze, an etymological hybrid logographic hangul script t
 image:
   path: /assets/images/1_HbQgkZAGvgV__2p_lvpqUw.png
 ---
+
+*Peacemaking 'twixt Signified & Signifier*
 
 Huoonty Hantze, an etymological hybrid logographic hangul script to provide a rhizomatic framework for the destratification of East Asian scripts.
 
