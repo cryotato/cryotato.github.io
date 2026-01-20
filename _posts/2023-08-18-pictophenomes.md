@@ -28,9 +28,10 @@ Disclaimer: I’m not a dictator., but I might've been a pretty cool one...
 
 <a href="https://cryotato.github.io/pictophenomes/#cooking" class="btn">TLDR BUTTON: TAKE ME STRAIGHT TO THE PRAXIS</a>
 
-[Updated 9/19/25]
+[Updated 19/1/26]
 
 [Read in Mao's Mandarin / 華語翻譯](https://cryotato.github.io/cn/pictophenomes)
+
 
 ## the Mandaring of Chinese languages
 
@@ -605,8 +606,11 @@ Using this, we can finally start Huoontifying. Because standard Mandarin pronunc
   </tbody>
 </table>
 
-Because of the sheer amount of phonetic blocks I choose to preserve here, it'd probably be more interesting to construct them into their own character blocks in writing like was originally proposed, but either way Hangul was quite literally designed to be put next to Hanzi and I'm just quite happy with it from a purely aesthetic standpoint
+Because of the sheer amount of phonetic blocks I choose to preserve here, it'd probably be more interesting to construct them into their own character blocks in writing like was originally proposed, but either way Hangul was quite literally designed to be put next to Hanzi and I'm just quite happy with it from a purely æsϑetic standpoint
 
+***
+
+ï ϑink at ϑ'end of ϑ'day all of ϑis just reflects ϑ'alienation ï experienced growing up unable to speak to my blood relatives
 
 Be free my fellow linguacel~
 
