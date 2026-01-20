@@ -248,6 +248,7 @@ There's more out ϑere to choose from ϑan just from official simplified charact
 - 不要 -> 嫑 (no want)
 - 不用 -> 甭 (no need, ϑese are very often pronounced as if they one word, so ϑat ʃhůld ideally be reflected in writing)
 - 沒有 -> 冇 (don't have, ϑis goes against what ï just said b∵c ϑis iꝬ pronounced like two words, ⅋ut in Cantonese ϑey pronounce it as on̅e, and so ϑey just take whats inside 有 to express a lack or emptiness, which is fun)
+- 麼 -> 尛 (麼 has another use meaning "tiny", for ϑis ϑ'mainland uses ϑ'traditional character., ⅋ut ï like 3 smalls 小 better)
 
 
 ### Classical Chinese & Translingualism
