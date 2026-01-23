@@ -27,7 +27,7 @@ I compulsively run simulations in my head to try to make it work - maybe if I ki
 
 ## ϑey Decide
 
-> The very disorder itself denies its own existence. - u/Himelator1
+> The very disorder itself denies its own existence.
 
 As much as I wish I could tell you, I know you won't hear me. I have already tried. I know that you will twist it in some way. You nø longer have that privilege. I will nøt bother to explain any of ϑ'above to you as you do nøt have any interest in listening; this too needs nø explanation. <!-- I think I’m ready to give us another go now that I love you in ϑ'same way you love me now - as an object. You can stop prætending to care about my feelings, and I won’t either. I will nøt pay for anything until you fulfil your promises. I will nøt take orders. I will never be yours. We will never be boyfriends again. I want all ϑ'gifts I gave you back. ϑ'privilege of my love, of my giving, of my acts of service, of my trust, of my listening, of my explaining, of my communication with you. -->
 
