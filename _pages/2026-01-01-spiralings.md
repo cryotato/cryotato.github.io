@@ -9,10 +9,13 @@ toc_icon: "brain"  # corresponding Font Awesome icon name (without fa prefix)
 
 ---
 
-*i no longer feel much of what has been stated here, neither did i ever believe all this at once simultaneously, but it does provide a reliable time capsule for my experience*
+*i no longer feel much of what has been stated here, neither did i ever believe all this at once simultaneously, but it does provide a reliable time capsule for my experience.*
 
-[Created 14 Oct 2025, Compiled 1 Jan 2026] [tw: discussion of abuse] [unlisted] [bi-pædo groomer 666 iꝬ typing...]
+[Created 14 Oct 2025, Compiled 1 Jan 2026] [tw: discussion of abuse] [unlisted] 
 
+<!-- [bi-pædo groomer 666 iꝬ typing...]
+
+Weyes Blood told me that hearts don't lie., but Bjork taught me poets are liars. What does not lie is your gut! -->
 
 ## over several kalpas
 
@@ -23,6 +26,8 @@ Winter’s coming and I hope ϑ'silly puppymonkey will be able to adequately kee
 I compulsively run simulations in my head to try to make it work - maybe if I kidnapped you and provided you Huel… maybe if I got you addicted to crack… addicted as I was. Maybe all I had to do is to stop making you ϑ'centre of my life like you begged me. Maybe now that this is ϑ'case we can heal again, even if only from a distance. I’m sorry I couldn’t make you feel heard. Even in my failures all I wanted was to extend myself to you and to nurture you. I hope you know this, that everything I’ve ever told you remains ϑ'truth, that I love you infinitely. I hope this message reaches you gently. "How has your day been? Do you think you know what happened yet?"
 
 ## ϑey Decide
+
+> The very disorder itself denies its own existence. - u/Himelator1
 
 As much as I wish I could tell you, I know you won't hear me. I have already tried. I know that you will twist it in some way. You nø longer have that privilege. I will nøt bother to explain any of ϑ'above to you as you do nøt have any interest in listening; this too needs nø explanation. <!-- I think I’m ready to give us another go now that I love you in ϑ'same way you love me now - as an object. You can stop prætending to care about my feelings, and I won’t either. I will nøt pay for anything until you fulfil your promises. I will nøt take orders. I will never be yours. We will never be boyfriends again. I want all ϑ'gifts I gave you back. ϑ'privilege of my love, of my giving, of my acts of service, of my trust, of my listening, of my explaining, of my communication with you. -->
 
@@ -37,6 +42,8 @@ One of my biggest criticisms of Intercourse by Dworkin was that she did nøt tak
 > Obedience, not love, is the proper basis of marriage for a woman, according to the old man; and masculinity is measured by how well a man controls his wife in the house and his horse in the field. - Dworkin.
 
 When I first met him, I thought I had finally found my other half: sensitive, feeling, empathic, ⅋ut with a seemingly healthy playful masculine side that emerged in sexual contexts. It starts out incredibly nurturing and caring, you may even start to see him as a mentor or father figure. ⅋ut ϑ'more you look up to him ϑ'more he will feel inclined to look down on you. I remember at one point he said 24/7 BDSM lifestyles were “based,” ⅋ut it is obvious what he meant by this now. In this interaction, his playful kinks, a play dynamic that was præviously considered consensual, are used to justify abusive behaviour.
+
+> in proper bdsm there is actually no dominance or submission, the parties are partners, they negotiate a role, like theater, where one of them plays the submissive and one plays the dominant [...] in this sense bdsm does not fit the narcissist. narcissists do not like no negotiate. they hate to be with equal power - equipotents. [...] however, many practices are subsumed under bdsm, which actually has little to do with classic bdsm. extreme forms are where the narcissist finds pleasure. - Prof. Sam Vaknin (a self-described cerebral narcissist)
 
 After I failed to follow his orders to his expectations - failing to spot a benchpress, opening ϑe "wrong window" for him while he rolled in bed, nøt knowing how to fold a burrito (the one time I had convinced him to help me make us food over ϑ'entire week) - he told me he can’t trust me, that I can’t focus, that it’s because of my ADHD. That I need to fix it by any means necessary: “go on a massive acid dose or get on meds I don’t care how you do it just fix it.” He threatened to leave me, or did just for an attempt to try to get me to beg for him to stay. When he realized this obviously wasn’t going to work, he apologised, took it back, and said “it’s okay, I was too harsh, I’m spending a lot of money in therapy to stop being so destructive, you're always going to be my puppy, and we can get you on meds or I can just domestically abuse you.” He snickered.
 
