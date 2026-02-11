@@ -6,7 +6,7 @@ title: Malassezia Risk Index (мж) - a formula to estimate how yummy your skinc
 
 I've had real baffling problems with skin sensitivity, dryness and flare-ups all my life (i've seriously been told by a doctor that i may just have a slight skin allergy to water), but after moving from Malaysia to the UK, my dermis seemed to face a whole crisis., i presume because of the low temp and humidity combo., but also because I was facing a feedback loop of overapplying lotion hoping it would make the dryness go away, only for it to make it worse. after reading the [malassezia bible](https://simpleskincarescience.com/pityrosporum-folliculitis-treatment-malassezia-cure), it seems the problem has been the products themselves feeding what is basically this fungus that has colonized my face. since them, i've been obsessively researching every ingredient off all my skin products, and its been a struggle to say the least, just because there's so much to avoid! but i've found a pretty decent way of estimating the risk of each skin product i'm using.
 
-basically, i just ask gibbidy to list ingredients in the list that are in the C11-C24 range, or any ingredients of concern, and to weight them by the position in the list (ingredients need to be order ofc) using the formula:
+a more sensible human being would've just used sezia.co but basically, i just ask gibbidy to list ingredients in the list that are in the C11-C24 range, or any ingredients of concern, and to weight them by the position in the list (ingredients need to be order ofc) using the formula:
 
 мж% = 1/Position x 100
 
@@ -90,20 +90,30 @@ JOHNSON’S® Bedtime Bath: 147мж%
 
 the last 2 years I have essentially been using a combo of manuka honey (0мж% obviously) for its anti-fungal properties alongside the E45 Itch Relief Gel (0мж%) previously mentioned and as a cleanser I use a ketoconazole shampoo. i also used to use the famous De La Cruz 10% Sulfur. it seemed to work but it really sucked when it got in my eyes and while i didnt mind the smell my partner did. after a few months of basically figuring everything out it basically completely went away, but over the years I've loosened my grip and started experimenting too much with whatever i have access to or whatevers trending (bad idea), which has now lead me back to evaluating my entire regimen again... red faced. I've also been experimenting with red light therapy which seems to be harmless. i think i purchased a lamp way back when people were unironically using it on their balls which i thought was hilarious until i actually did some research which then brainwashed me into believing it could untwink me or something. anyway heres a list of some products of note.
 
-Beauty Of Joseon Calming Serum Green Tea + Panthenol: 0мж%
+***Beauty Of Joseon Calming Serum Green Tea: 0мж%***
 (antioxidants in green tea apparently compliment red light therapy, it also contains Coptis Japonica Root which is supposedly antifungal)
 
 INNISFREE Green Tea Hyaluronic Skin: 0мж%
 (cheaper green tea solution with exfoliating PHA properties)
 
-BIORE UV Milk Spf50+: 0мж%?
-(sunscreen has been the biggest pain. this one was actually recommended in the original blog i mentioned at the start. on the blog they state it had been reformulated to include stearic acid, but except for the blue bottle this does not seem to be the case on the asian market? ingredient lists seem to vary. it also seems the pink and orange bottle has a aluminum bonded to a C14 fatty acid., i assume it's the tint. the white bottle doesn't have this, but it seems to also sometimes contain C12-15 Alkyl Benzoate. folliculitis scout marks both as safe, even though they are esters. the least confusingly varied flanker seems to be the orange "colour correct" bottle so i may just go with that one.)
+BIORE UV Milk Spf50+: 18мж%?
+(sunscreen has been the biggest pain. this one was actually recommended in the original blog i mentioned at the start. on the blog they state it had been reformulated to include stearic acid? ingredient lists seem to vary online, but i can confirm the blog's claims now for the blue, white and pink bottles i checked in person. the ingredients list of the new orange bottle "colour correct" online are all lying. from blurry videos from reviews online you can spot stearic acid etc.)
 
 Skin Aqua Super Moisture Milk SPF 50+: 0мж%?
-(Lauryl- ingredients could break down into a C12, but otherwise it looks like a great option. problem is it is hard to find, and the "gel" and "essence" ones both have baddies.)
+(Lauryl- ingredients could break down into a C12, but otherwise it looks like a great option. problem is it is hard to find, it seems its been discontinued? and the "mild milk" "gel" and "essence" ones both have baddies.)
 
-Nivea Super Water Gel Sunscreen SPF50: 0мж%?
-(this one was also mentioned in the blog. it also has a Lauryl- ingredient, but it seems like a non-issue. i used up an entire... i want to say bottle but in the UK i could only find the refill package which was just super annoying. my ex loved it even though he'd always put way too much on)
+***Nivea Super Water Gel Sunscreen SPF50: 0мж%?***
+(this one was also mentioned in the blog. it also has a Lauryl- ingredient, but it seems like a non-issue. i used up an entire... i want to say bottle but in the UK i could only find the refill package which was just super annoying. my ex loved it even though he'd always put way too much on. it seems like the only asian skincare classics left, and the only place they stock it on shelves is in japan)
+
+***COSRX Ultra-Light Invisible Sunscreen: 0мж%***
+
+***SUN BUM Kids SPF 50 Clear Sunscreen Face Stick: 0мж%***
+
+Hada Labo Uv Perfect Gel Spf50+ Pa++++: 0мж%
+
+Cetaphil Sheer Mineral Liquid Sunscreen: 0мж%?
+
+SUNPLAY Skin Aqua Tone Up UV Essence: 18мж%
 
 SUNPLAY Sport Sunscreen: 25мж%
 (used to be my go to because it was just so easy to reapply even on wet skin but it seems i cant tolerate it anymore)
@@ -117,10 +127,18 @@ Biore UV Aqua Rich Water Essence (UK formula): 63мж%
 Mary&May Retinol 0.1% Bakuchiol Cica Serum: 46мж%
 (i kept using it because it smelled so good but it def does cause problems over time)
 
-La Roche-Posay Effaclar Adapalene Gel 0.1% Retinoid: 0мж
+La Roche-Posay Effaclar Adapalene Gel 0.1% Retinoid: 0мж%
 
-Cetaphil Sheer Mineral Liquid Sunscreen: 0мж
+Eau Thermale Avene Cleansing Foam Face Wash: 0мж%
 
-De La Cruz 10% Sulfur: 0мж
+The Ordinary 100% Plant-Derived Squalane: 0мж%
+(really great but does not agree with the honey and piles)
 
-Eau Thermale Avene Cleansing Foam Face Wash: 0мж
+The Ordinary Niacinamide 10% + Zinc 1%: 0мж%
+
+The Ordinary Multi-Antioxidant Radiance Serum: 0мж%
+
+The Ordinary Sulfur 10% Powder-to-cream Concentrate: 0мж%
+(because it's intended to use as a spot treatment i just dilute it and mix it in to whatever serum or lotion im using)
+
+De La Cruz 10% Sulfur: 0мж%
