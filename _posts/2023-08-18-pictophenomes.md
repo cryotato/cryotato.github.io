@@ -1,5 +1,5 @@
 ---
-title: "훈鬼骨티 ツ한字 — my regime of signs"
+title: "훈鬼体 ツ한字 — my regime of signs"
 date: 2023-08-18T19:31:09.548+0000
 categories: [""]
 tags: ["linguistics","orthography", "Deleuze"]
