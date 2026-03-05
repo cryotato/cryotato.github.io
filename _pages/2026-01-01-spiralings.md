@@ -4,7 +4,7 @@ title: "adventures of puppymonkey & more: ϑ'femcel manifesto"
 permalink: /spiralings
 author_profile: true
 toc: true
-toc_label: "plateaus"
+toc_label: "adventures"
 toc_icon: "brain"  # corresponding Font Awesome icon name (without fa prefix)
 
 ---
