@@ -1,6 +1,6 @@
 ---
 
-title: spiralings on embalming skin from ϑ'default mode network 
+title: fuck my femcel chud life 
 permalink: /spiralings
 author_profile: true
 toc: true
@@ -8,6 +8,8 @@ toc_label: "plateaus"
 toc_icon: "brain"  # corresponding Font Awesome icon name (without fa prefix)
 
 ---
+
+spiralings on embalming skin from ϑ'default mode network 
 
 *i no longer feel much of what has been stated here, neither did i ever believe all this at once simultaneously, but it does provide a reliable time capsule for my experience.*
 
