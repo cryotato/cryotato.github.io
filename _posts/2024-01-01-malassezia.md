@@ -110,6 +110,7 @@ Skin Aqua Super Moisture Milk SPF 50+: 0мж%?
 ***SUN BUM Kids SPF 50 Clear Sunscreen Face Stick: 0мж%***
 
 Hada Labo Uv Perfect Gel Spf50+ Pa++++: 0мж%
+(yes it is good.)
 
 Cetaphil Sheer Mineral Liquid Sunscreen: 0мж%?
 
