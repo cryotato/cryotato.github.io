@@ -10,7 +10,8 @@ toc_icon: "brain"  # corresponding Font Awesome icon name (without fa prefix)
 ---
 
 <!-- fuck my femcel chud life
-spiralings on embalming skin from ϑ'default mode network  -->
+spiralings on embalming skin from ϑ'default mode network  
+Don't let him do that to you -->
 
 <!-- *i no longer feel much of what has been stated here, neither did I ever believe all this at once simultaneously, ⅋ut it does provide a reliable time capsule for my experience.* -->
 
@@ -118,7 +119,7 @@ a caricature of castration leading to φallus seeking: Did your “bisexuality�
 
 what does this fear say? I feel like a fool, having called myself an atheist since I was 12, and still, falling prey to a religion just as much of a fantasy as ϑ'rest! false idols and false comfort. everyone needs it., to feel ϑ'euphoria of trust in love and life. I'm a fool! ⅋ut I will never worship a man again. I will carry ϑ'burden of ϑ'absurd head on!!! I will push through ϑ'cold, for nothing! with ϑ'mark of sacrifice on my neck (as you liked to refer to it); or…. I shall at least diversify my investment in false idols, so when one fantasy shatters I will still be wrapped in ϑ'warm blanket of others… and it will be just as I felt in ϑ'fluffy knee high socks you got me! and in this way I will use people just as you did me, from man to man to man to man.. your insatiable polyamory.; or… I will instead choose to love nø one! ⅋ut I need love! I need love!!! ⅋ut nø nø nø I døn't! ϑ'longer I live ϑ'more I realize that despite my disdain for him Nietzsche was right.. and despite my boredom of Camus’ writing so was he. community iꝬ ϑ'only refuge from ϑ'absurd.. and so it goes full circle.
 
-if I can't have faith's warmth I can at least have ϑ'comfort of knowing that he will likely never get close to anyone as cool as me ever again in his life. on his gay deathbed like “oh yeah I used to date this niche internet microcelebrity <!--and inventor and writer and model --> I used to tell him <!-- he looked just like a model all ϑ'time and that--> I couldn't believe he was mine ⅋ut I guess hes nøt anymore because I'm a stupid gay asshole. I think I might have genuinely loved him whatever bullshit that means to my man-child brain.” before he…. dies… and remains dead forever. bleh. what iꝬ wrong with me
+<!-- if I can't have faith's warmth I can at least have ϑ'comfort of knowing that he will likely never get close to anyone as cool as me ever again in his life. on his gay deathbed like “oh yeah I used to date this niche internet microcelebrity I used to tell him I couldn't believe he was mine ⅋ut I guess hes nøt anymore because I'm a stupid gay asshole. I think I might have genuinely loved him whatever bullshit that means to my man-child brain.” before he…. dies… and remains dead forever. bleh. what iꝬ wrong with me -->
 
 
 ## signifying love in dimension lacking
