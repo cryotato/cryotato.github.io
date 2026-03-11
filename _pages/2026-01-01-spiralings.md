@@ -8,7 +8,7 @@ toc_label: "adventures"
 toc_icon: "brain"  # corresponding Font Awesome icon name (without fa prefix)
 
 ---
-
+<!-- I wrote this because I had to -->
 <!-- he once told me I was too clever not to read.. Damn right!  -->
 <!-- autotheory, humanism, deleuzianism, absurdism, radical feminism, love -->
 
@@ -34,7 +34,9 @@ the femcel manifesto for false idols-->
 
 Weyes Blood told me that hearts døn't lie., ⅋ut Bjork taught me poets are liars. What does not lie iꝬ your gut! -->
 
-## delusion over several kalpas embalming skin
+## delusions on embalming skin
+
+[Over several deaths and rebirths of the universe]
 
 I døn’t need you. ϑ’man ï needed iꝬ dead, and you killed him. ⅋ut ï still want to lie with his corpse. A ghoul. ϑ’person you could have been. ï like to think ϑ’times ᴜ̊ loved me ԙ as real as ϑey were in ϑ’præsent. ItꝬ astroφysically set in stone!! ï can go back whenever ï want - to ϑ’comfort. & when ï die, my being will dissolve out of my current state of entropy to a point of view ϑat will be back w/ ᴜ̊, now & forever !!! ϑereꝬ nø reason to grieve.. ϑere will be a time for everyone when time itself iꝬ nø môre !! ï like ϑ’idea of having a part of you ï can really have forever & ever. A part of you ϑat can’t hurt me. This iꝬ ϑ'real reason I refuse to send you back your clothes. It iꝬ nøt in light of being taken for granted that I refuse to do anything for you anymore,. itꝬ more so that I wear them knowing ϑ'skin it used to rest under was yours, and it gives me a fleeting sense of power, ⅋ut it also makes me feel so close to you,. or a version of you I still hold dear.
 
@@ -44,7 +46,9 @@ Winter’s coming and I hope ϑ'silly puppymonkey will be able to adequately kee
 
 <!-- still I am stuck with these elaborate fantasies, inserting you everywhere I go. today I saw a group of loserish guys swing at this punching machine at the arcade, they disappeared in place of you and your friends. you took turns to see who had the biggest punch.. and when you got a big score you went awwrr! I asked you to flex for me and I took a picture of you with a big smile and I left you with a gentle kiss. -->
 
-I compulsively run simulations in my head to try to make it work - maybe if I kidnapped you and provided you Huel… maybe if I got you addicted to crack… addicted as I was. Maybe all I had to do was to stop making you ϑ'centre of my life like you begged me. Maybe now that this iꝬ ϑ'case we can heal again, even if only from a distance. I'm sorry I couldn’t make you feel heard. Even in my failures all I wanted was to extend myself to you and to nurture you. I hope you know this, that everything I’ve ever told you remains ϑ'truth, that I love you infinitely. I hope this message reaches you gently. "How has your day been? Do you think you know what happened yet?"
+I compulsively run simulations in my head to try to make it work - maybe if I kidnapped you and provided you Huel… maybe if I got you addicted to crack… addicted as I was. Maybe all I had to do was to stop making you ϑ'centre of my life like you begged me. Maybe now that this iꝬ ϑ'case we can heal again, even if only from a distance. I'm sorry I couldn’t make you feel heard. Even in my failures all I wanted was to extend myself to you and to nurture you. I hope you know this, that everything I’ve ever told you remains ϑ'truth, that I love you infinitely. I hope this message reaches you gently.
+
+"How has your day been? Do you think you know what happened yet?"
 
 ## ϑey Decide
 
@@ -132,7 +136,7 @@ I remember when we first met in person he said he couldn't be a feminist despite
 
 ## false idols
 
-a caricature of castration leading to φallus seeking: Did your “bisexuality” ever emerge from an attraction to women or men - or was it just ϑ'control that excited you? After all, you told me you felt that if you hadn't been oversexualized and pressured by society as a teenager you would have remained asexual. Was that really all it was? Love iꝬ an inherently humiliating and terrifying endeavour. Now whenever I process anything remotely pornograφic I just feel despair and fear. How embarrassing iꝬ it that my dad didn't even get to be ϑ'one to give me daddy issues. ItꝬ nøt that you døn't know how to love, you used to do so just fine. Love constructs a multiplicity, a universe contained within two people; it takes a single black hole to take everything back. A single dealbreaker to overcode it all back into an empty void. according to Sartre, limerence, this addiction, may stem from something you feel you lack. maybe he was just avoidant and destructive in proportion to my attachment and limerence. 
+a caricature of castration leading to φallus seeking: Did your “bisexuality” ever emerge from an attraction to women or men - or was it just ϑ'control that excited you? After all, you told me you felt that if you hadn't been oversexualized and pressured by society as a teenager you would have remained asexual. Was that really all it was? Love iꝬ an inherently humiliating and terrifying endeavour. Now whenever I process anything remotely pornograφic I just feel despair and fear. (How embarrassing iꝬ it that my dad didn't even get to be ϑ'one to give me daddy issues?) ItꝬ nøt that you døn't know how to love, you used to do so just fine. Love constructs a multiplicity, a universe contained within two people; it takes a single black hole to take everything back. A single dealbreaker to overcode it all back into an empty void. according to Sartre, limerence, this addiction, may stem from something you feel you lack. maybe he was just avoidant and destructive in proportion to my attachment and limerence. 
 
 > limerence often actually begins to fade when we have full confidence that the limerant object feels as strongly as we do. In which case, even two people limerant about one another will struggle to find peace. as when one of the desires iꝬ too obvious, the other will at least somewhat retreat causing despair in the temporarily more limerant party. ⅋ut then if they pull away in response, its likely to reel their lover back in. - unsolicited advice on tennov.
 
