@@ -83,7 +83,9 @@ he romanticizes an unequal relationship.., ⅋ut because eros iꝬ defined by an
 a relationship w/ a narcissist iꝬ life denying both ways - on ϑ'narcissists end, itꝬ a repulsion of honesty, intimacy & love of ϑ'real-self as a threat to ϑ'false-self's shared φantasy. ⅋ut ϑ'victim has a death instinct too in ϑeir desire to surrender control & responsibility
 
 
-## ϑ'deleuzian narcissist & free patriarchy
+## ϑ'case against desiring-machines: lyotardation
+
+<!-- ϑ'deleuzian narcissist & free patriarchy -->
 
 <!-- 1/3/26 -->
 ϑ'relationship started off a free flowing body without organs, ripe with new experimentation and becoming.. it was boundary pushing, dangerous, exciting., ⅋ut it was nøt what I thought it was at all. I was being stratified into a script he moulded. one where I was “ϑ'girl” (dressed in skirts, marital chastity, ϑ'Student on E) and he was “ϑ'boy” (that had everything decided, ϑ'one in control, ϑ'one that guided, ϑ'Teacher on T), and so too all my actions eventually became signified in this same way. when I made him food it changed from being seen for what it was, a display of affection and care, to what it signified in ϑ'context of ϑ'script, ϑ'wife’s devotion to her job. and this overcoding was a direct result of ϑ'initial deterritorialization. itꝬ where a narcissist thrives - boundary breaking.
