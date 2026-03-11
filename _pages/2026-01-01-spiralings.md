@@ -169,7 +169,7 @@ from what I understand, itꝬ a spectrum determined by a ratio between ϑ'weight
 I know you do love in your own way, even if you cannot feel it ϑ'same way I do. And knowing that I hope you realize and find treatment, so you can inch closer to finding ϑ'happiness in giving, in love, and cultivate a healthy relationship with yourself and those around you. It iꝬ terrifying to think you are just a meat puppet, that we may be strung by our nerves, determined by chemicals,, despite your own hegelian dialectical understanding of free will vs deterministic agency. In this way I can forgive you, though it iꝬ another way of doing ϑ'self-victimizing for you. Still I am grateful for all ϑ'love I felt for you, love you could only feel in a dimension lacking. <!-- Mathematically. Godspeed. -->
 
 
-## who am I without you?
+## counting ϑ'days
 
 At first I wished he could know ϑ'pain he's caused me - nothing less than a swirl of ϑ'most vile feelings I’ve ever felt. ⅋ut he already does. He's known it for most his life. He has justified it to himself as ϑ'nature of things, of love. It has become him. ⅋ut he can't twist mine. <!-- ϑ'fact of ϑ'matter is, neither of us were happy or wanted this, and itꝬ over. We're moving forwards. --> It iꝬ okay to be angry, to grow up in fear of vulnerability and sadness, ⅋ut it iꝬ never okay to be cruel, to treat others without ϑ'recognition that their emotions are just as real as yours. Your love iꝬ cruel and corrupt. I never once asked you to be perfect, only to be true. Your cruelty iꝬ so habitual and casual in nature when you prætend as if it hadn't happened I am left wondering if such an interaction even meant anything to you. Do you remember? My dearest Fiona Apple fan, how about this one?
 
@@ -181,7 +181,7 @@ At first I wished he could know ϑ'pain he's caused me - nothing less than a swi
 
 two months after I escaped you, youԙ a person to me now! ordinary. once you let go of your faith in humanity, you can give up on people, let them go when theyԙ nøt good for you.. and that iꝬ extremely freeing. people are nøt fundamentally good inside. I wonder at what point this iꝬ how you saw me too. all this time endlessly trying to figure you out, even now, itꝬ always just been simple. you do what you do and you mean what you say. all ϑ'contradictions can all be true at once., nø more denial. even without idealizing and crystallizing you, I could have loved you in all your mediocrity, if only you were someone else. in this way, you have been mediocre from ϑ'day I met you, with ϑ'exception that you always knew exactly what to say to make me feel whatever you wanted me to.
 
-[Dec 19 2025]
+[At work, Dec 19 2025]
 
 as I'm watching toddlers watch ϑ'wall, I wonder where he must've been in this exact moment relative to life lived, relative to me, freshly 23 years old again. he was working at a call center. would I still have grown obsessed back then? a Mochi that knew less, less metaφysics, less wise, smaller, skinnier, even angrier, even more dysfunctional? When I'm his age, I wonder how I’ll be. I can be just as wise, write just as well... if I want. He iꝬ nøt a spectral being, nøt particularly special or talented, nøt as particularly intelligent as I imagined.. full of envy, self-victimization, all ϑ'while he operates w/ such entitlement of others around him. He’s just a baby still, & look at me. Do I have nø self respect? You will find someone on your level, really actually,. one day, nøt only in achievements + talent to show for (like his writing that I must admit, I adored) ⅋ut also in real terms, in emotional maturity, understanding beyond academia + performance. poor mochi. never allowed to grow up, præmature and stuck, he never stood a chance. if you ever find yourself in ϑ'mood to nurture again, there are many such cases! and there are much more productive means of healing these broken structures. a people., all of them, equally wounded, cruel. ⅋ut itꝬ best nøt to get personally involved.
 
@@ -189,7 +189,7 @@ as I'm watching toddlers watch ϑ'wall, I wonder where he must've been in this e
 
 I can feel myself slowly regaining sanity as ϑ'days go by without you. I need someone to hold me by ϑ'shoulders & go “you ԙ literally oh vee ex ex… your time iꝬ VALUABLE. you ԙ successful, & capable of making things that matter. people want you & people want to be ᴜ̊ & people want ϑ’ϑiŋs ᴜ̊ make. people listen to ᴜ̊. how many people ԙ as lucky as ᴜ̊ to say ϑat? nø one can ever have self respect for you.. itꝬ something you have to figure out yourself. it doesnt matter how many other ways you are successful if you cannot!" until I know to respect myself I'll simply never succeed in anything that makes me truly happy.
 
-[-]
+## who am I without you?
 
 I see my object of desire as it iꝬ & I am repulsed. It appears he had always been a ghost... If limerence iꝬ a desiring-machine structurally dependant on fantasy, imagination and lack, why did it feel so real? Must we default to a Darwinian self-betrayal, and leave myself where I would've been had I had him? Unfeeling? No, because it was!, both fantasy & reality! Desire creates reality.
 
