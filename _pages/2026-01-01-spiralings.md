@@ -26,7 +26,7 @@ the femcel manifesto for false idols-->
 
 <!-- *i no longer feel much of what has been stated here, neither did I ever believe all this at once simultaneously, ⅋ut it does provide a reliable time capsule for my experience.* -->
 
-[Created 14 Oct 2025, Compiled 1 Jan 2026, Last Updated 3 Mar 2026]
+[Created 14 Oct 2025, Compiled 1 Jan 2026, Last Updated 12 Mar 2026]
 
 [tw: discussion of abuse, consent] [unlisted] 
 
@@ -201,9 +201,9 @@ I like to imagine it iꝬ Ubermenschmaxxed to be open about yearning while every
 
 next week I'm getting that fetch ϑ'boltcutters tattoo you forbade I get. "only I'm allowed to mark you" he said. Well Nøt Anymore! puppymonkey echos something you used to say., “I'm nøt going to let anyone hurt my puppy” and this time itꝬ from a voice I can trust - myself! he will be there. by a wrist you held, it will be a sign to act, externally. with ϑ'tools of liberation, I escaped you!
 
-[to ϑ'false self..]
+[to ϑ'false self.. Jun 25 2025]
 
-> love will be revealed - Cameron winter
+> [love will be revealed](https://youtu.be/98SHttvsNX4) - Cameron Winter
 
 [& to ϑ'cœlestial body at ϑ'start of ϑ'end, Oct 10 2025]
 
