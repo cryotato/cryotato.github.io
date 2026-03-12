@@ -44,8 +44,6 @@ I døn’t need you. ϑ’man ï needed iꝬ dead, and you killed him. ⅋ut ï 
 
 Winter’s coming and I hope ϑ'silly puppymonkey will be able to adequately keep you warm. I’ve doused it in ϑ'perfume you picked out for me. Yours makes me salivate, as if it were still on my nose from biting your neck. φysiologically I'm still wired to you. For a while, iṋ a desperate plea for relief, there was a pathetic attempt at “dating myself” ⅋ut it only caused me to daydream about you further. ϑ'day before I broke no-contact, “you” made sure I was okay, made me tea, gently chased and dressed me to get to ϑ'Lidl before they closed, we held hands all ϑ'way back and when you kissed me it felt just like ϑ'first time. youԙ a ghost. It made me hate myself. Maybe I shut myself out too. In so many ways that make nø sense I still want you. I just don’t know what to do.
 
-<!-- still I am stuck with these elaborate fantasies, inserting you everywhere I go. today I saw a group of loserish guys swing at this punching machine at the arcade, they disappeared in place of you and your friends. you took turns to see who had the biggest punch.. and when you got a big score you went awwrr! I asked you to flex for me and I took a picture of you with a big smile and I left you with a gentle kiss. -->
-
 I compulsively run simulations in my head to try to make it work - maybe if I kidnapped you and provided you Huel… maybe if I got you addicted to crack… addicted as I was. Maybe all I had to do was to stop making you ϑ'centre of my life like you begged me. Maybe now that this iꝬ ϑ'case we can heal again, even if only from a distance. I'm sorry I couldn’t make you feel heard. Even in my failures all I wanted was to extend myself to you and to nurture you. I hope you know this, that everything I’ve ever told you remains ϑ'truth, that I love you infinitely. I hope this message reaches you gently.
 
 "How has your day been? Do you think you know what happened yet?"
@@ -191,6 +189,10 @@ as I'm watching toddlers watch ϑ'wall, I wonder where he must've been in this e
 [At ϑ'grocery store, Dec 22 2025]
 
 I can feel myself slowly regaining sanity as ϑ'days go by without you. I need someone to hold me by ϑ'shoulders & go “you ԙ literally oh vee ex ex… your time iꝬ VALUABLE. you ԙ successful, & capable of making things that matter. people want you & people want to be ᴜ̊ & people want ϑ’ϑiŋs ᴜ̊ make. people listen to ᴜ̊. how many people ԙ as lucky as ᴜ̊ to say ϑat? nø one can ever have self respect for you.. itꝬ something you have to figure out yourself. it doesnt matter how many other ways you are successful if you cannot!" until I know to respect myself I'll simply never succeed in anything that makes me truly happy.
+
+[At ϑ'arcade, Feb 17 2026]
+
+still I am stuck with these elaborate fantasies, inserting you everywhere I go. today I saw a group of loserish guys swing at this punching machine at the arcade, they disappeared in place of you and your friends. you took turns to see who had the biggest punch.. and when you got a big score you went "awwrr!". "do flex for me!" I asked, taking a picture of you with a big smile. I left you with a gentle kiss.
 
 ## who am I without you?
 
