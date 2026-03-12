@@ -28,7 +28,9 @@ the femcel manifesto for false idols-->
 
 [Created 14 Oct 2025, Compiled 1 Jan 2026, Last Updated 12 Mar 2026]
 
-[tw: discussion of abuse, consent] [unlisted] 
+[Content Warning: detailed discussions of abuse, B(u)D(dhi)SM, consent, mentions of substances & self-harm. please read with care <3]
+
+[unlisted] 
 
 <!-- [bi-pædo groomer 666 iꝬ typing...]
 
@@ -89,7 +91,7 @@ he romanticizes an unequal relationship.., ⅋ut because eros iꝬ defined by an
 
 ϑ'divorced man asks why she oftentimes seems to be completely unaffected by divorce. he seems to have so much more to lose. she loses someone to give to, to nurture, to pamper, while he loses his mother, his maid, his child, his trophy, his plaything. You may be inclined to believe he loves you for all your complexities, ⅋ut in this way your brightness and accomplishments are twisted only to elevate him. & so it goes from Anything We Want to anything he wants. You cared for me only as much as it elevated and served you. ϑ'chemistry! like puzzle pieces coming together I loved you selflessly as much as you loved me selfishly.
 
-a relationship w/ a narcissist iꝬ life denying both ways - on ϑ'narcissists end, itꝬ a repulsion of honesty, intimacy & love of ϑ'real-self as a threat to ϑ'false-self's shared φantasy. ⅋ut ϑ'victim has a death instinct too in ϑeir desire to surrender control & responsibility
+a relationship w/ a narcissist iꝬ life denying both ways - on ϑ'narcissists end, itꝬ a repulsion of honesty, intimacy & love of ϑ'real-self as a threat to ϑ'false-self's shared φantasy. ⅋ut ϑ'victim has a death instinct too in ϑeir desire to surrender control & responsibility.
 
 
 ## ϑ'case against desiring-machines
@@ -173,7 +175,7 @@ At first I wished he could know ϑ'pain he's caused me - nothing less than a swi
 
 > But I ran out of white doves' feathers to soak up the hot piss that comes from your mouth every time you address me
 
-ϑ'act of over-intellectualising and rationalising iꝬ very often deployed as a coping mechanism to avoid real acceptance of emotions, deployed effectively enough, it can lead to a rejection of ϑ'right hemisphere all together. a baffling lack of emotional intelligence in otherwise exceptionally “smart” people. these people will only disappoint you.. ϑo ϑ'same iꝬ true for me, and I have been committing ϑ'same sin ϑrůout this entire exercise. nø matter how much I try to rationalize my feelings away, they remain. nøt only that, ⅋ut as ϑ'dissonance between ϑ'rational and irrational grows apart i am left more and more afraid of myself. anoϑer life denying death instinct
+ϑ'act of over-intellectualising and rationalising iꝬ very often deployed as a coping mechanism to avoid real acceptance of emotions, deployed effectively enough, it can lead to a rejection of ϑ'right hemisphere all together. a baffling lack of emotional intelligence in otherwise exceptionally “smart” people. these people will only disappoint you.. ϑo ϑ'same iꝬ true for me, and I have been committing ϑ'same sin ϑrůout this entire exercise. nø matter how much I try to rationalize my feelings away, they remain. nøt only that, ⅋ut as ϑ'dissonance between ϑ'rational and irrational grows apart i am left more and more afraid of myself. this iꝬ ϑ'second death instinct.
 
 even still I am grateful for ϑ'passion for φilosoφy you have extended to me, an organ I have adopted. I remember a time I inspired you just ϑ'same. I want many more organs, there were none left from you for me to adopt,. and I aspire to love oncemore, to live many lives, to discover many passions.
 
