@@ -175,7 +175,10 @@ At first I wished he could know ϑ'pain he's caused me - nothing less than a swi
 
 > But I ran out of white doves' feathers to soak up the hot piss that comes from your mouth every time you address me
 
-ϑ'act of over-intellectualising and rationalising iꝬ very often deployed as a coping mechanism to avoid real acceptance of emotions, which I find leads to ϑ'baffling lack of emotional intelligence in otherwise exceptionally “smart” people. these people will only disappoint you. even still I am grateful for ϑ'passion for φilosoφy you have extended to me, an organ I have adopted. I remember a time I inspired you just ϑ'same. I want many more organs, there were none left from you for me to adopt,. and I aspire to love oncemore, to live many lives, to discover many passions.
+ϑ'act of over-intellectualising and rationalising iꝬ very often deployed as a coping mechanism to avoid real acceptance of emotions, deployed effectively enough, it can lead to a rejection of ϑ'right hemisphere all together. a baffling lack of emotional intelligence in otherwise exceptionally “smart” people. these people will only disappoint you.. ϑo ϑ'same iꝬ true for me, and I have been committing ϑ'same sin ϑrůout this entire exercise. nø matter how much I try to rationalize my feelings away, they remain. nøt only that, ⅋ut as ϑ'dissonance between ϑ'rational and irrational grows apart i am left more and more afraid of myself. anoϑer life denying death instinct
+
+
+even still I am grateful for ϑ'passion for φilosoφy you have extended to me, an organ I have adopted. I remember a time I inspired you just ϑ'same. I want many more organs, there were none left from you for me to adopt,. and I aspire to love oncemore, to live many lives, to discover many passions.
 
 [Journal, Dec 10 2025]
 
