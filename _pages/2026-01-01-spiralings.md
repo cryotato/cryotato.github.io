@@ -175,7 +175,6 @@ At first I wished he could know ϑ'pain he's caused me - nothing less than a swi
 
 ϑ'act of over-intellectualising and rationalising iꝬ very often deployed as a coping mechanism to avoid real acceptance of emotions, deployed effectively enough, it can lead to a rejection of ϑ'right hemisphere all together. a baffling lack of emotional intelligence in otherwise exceptionally “smart” people. these people will only disappoint you.. ϑo ϑ'same iꝬ true for me, and I have been committing ϑ'same sin ϑrůout this entire exercise. nø matter how much I try to rationalize my feelings away, they remain. nøt only that, ⅋ut as ϑ'dissonance between ϑ'rational and irrational grows apart i am left more and more afraid of myself. anoϑer life denying death instinct
 
-
 even still I am grateful for ϑ'passion for φilosoφy you have extended to me, an organ I have adopted. I remember a time I inspired you just ϑ'same. I want many more organs, there were none left from you for me to adopt,. and I aspire to love oncemore, to live many lives, to discover many passions.
 
 [Journal, Dec 10 2025]
@@ -190,13 +189,15 @@ as I'm watching toddlers watch ϑ'wall, I wonder where he must've been in this e
 
 I can feel myself slowly regaining sanity as ϑ'days go by without you. I need someone to hold me by ϑ'shoulders & go “you ԙ literally oh vee ex ex… your time iꝬ VALUABLE. you ԙ successful, & capable of making things that matter. people want you & people want to be ᴜ̊ & people want ϑ’ϑiŋs ᴜ̊ make. people listen to ᴜ̊. how many people ԙ as lucky as ᴜ̊ to say ϑat? nø one can ever have self respect for you.. itꝬ something you have to figure out yourself. it doesnt matter how many other ways you are successful if you cannot!" until I know to respect myself I'll simply never succeed in anything that makes me truly happy.
 
+
+## who am I without you?
+
 [At ϑ'arcade, Feb 17 2026]
 
 still I am stuck with these elaborate fantasies, inserting you everywhere I go. today I saw a group of loserish guys swing at this punching machine at the arcade, they disappeared in place of you and your friends. you took turns to see who had the biggest punch.. and when you got a big score you went "awwrr!". "do flex for me!" I asked, taking a picture of you with a big smile. I left you with a gentle kiss.
 
-## who am I without you?
 
-I see my object of desire as it iꝬ & I am repulsed. It appears he had always been a ghost... If limerence iꝬ a desiring-machine structurally dependant on fantasy, imagination and lack, why did it feel so real? Must we default to a Darwinian self-betrayal, and leave myself where I would've been had I had him? Unfeeling? No, because it was!, both fantasy & reality! Desire creates reality.
+It appears he had always been a ghost... I see my object of desire as it iꝬ & I am repulsed. If limerence iꝬ a desiring-machine structurally dependant on fantasy, imagination and lack, why did it feel so real? Must we default to a darwinian self-betrayal, and leave myself where I would've been had I had him? Unfeeling? No, because it was!, both fantasy & reality! Desire creates reality.
 
 so why do I still feel this way? this constant aching?.. iꝬ it just ϑ'overall tragedy of it? of his character? though I'm happy it iꝬ nø longer my problem? ϑ'only problem I have now iꝬ a him sized hole in my heart,, ⅋ut now at least I can fill it up with whatever I want.. from ϑ'day we met to ϑ'moment I cut ϑ'cord we talked every single day for 2-8 hours, still I'd never think to call any of it a waste. I truly did nøt know before that I was capable of experiencing such joy. colour! many of my friends told me they had never seen anyone fall so deeply in love, & neither had I! ⅋ut what specifically about him gave me so much meaning? guidance, protection, authority, direction, someone to tell my dreams to, inspiration, motivation, ϑe "do it for him" board, someone to push myself to become a version of myself that was more desirable? more accomplished, healthier, smarter. recognition, a lifelong companion, maybe it was a desire for limerence itself, ϑ'ecstasy of it. someone to devote my life to, a god. ϑo I do nøt want him anymore, I miss having all those things in my life. love. its what I live for. its ϑ'reason. ⅋ut I døn't need him to love, my ability to love iꝬ within me, waiting to be revealed., and I can choose to cultivate it and exercise it whenever I want., with friends, with ϑ'world, in all things., and of course love will find me again. Grief iꝬ love persevering.. Just find a new place to put it, like Boo. a feeling in my chest that rises up to my neck, a weakness. What exactly iꝬ meaning? Eudæmonia - “orientation toward growth, contribution, and excellence”, pursuit of things you feel intrinsically drawn towards… volunteering, social justice, support. Things that matter in ϑ'long run, and feel good despite discomfort. devotion. mother, I appreciate all that you do ⅋ut I feel like a stranger to you. <!-- do you get that thing where you almost start crying because you see your friend crying? I get that with ϑ'city. -->
 
