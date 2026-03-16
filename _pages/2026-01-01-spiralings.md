@@ -32,6 +32,12 @@ the femcel manifesto for false idols-->
 
 [unlisted] 
 
+<!-- back cover? -->
+there's this comic my friend Nicole sent me by Somewhere In June about ϑ'process of becoming “living proof of the harm” ϑe “evidence” ϑe “proof that it mattered [...] because if all of those bad things happened to me and i just forget about them, what was the point?” ϑ’last bulk of my life has been devoted to answering this quæstion alone, reading hegel like itꝬ self help, only to be met with Death itself every time - “there is no point.” there iꝬ nø relief. nø forgiveness. nø acknowledgement. it iꝬ a poison i can no longer hold in my body, and this is my sick. i write because i have to.
+
+may we all one day feel safe again
+
+
 <!-- [bi-pædo groomer 666 iꝬ typing...]
 
 Weyes Blood told me that hearts døn't lie., ⅋ut Bjork taught me poets are liars. What does not lie iꝬ your gut! -->
