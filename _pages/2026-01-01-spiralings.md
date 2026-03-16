@@ -70,7 +70,7 @@ As much as I wish I could tell you, I know you won't hear me. I have already tri
 
 it had been going on for a long time. I have my regrets too, I shouldn't have been so honest. I shouldn't have shown you my desperation,, it was just unattractive., You started to see me out of pity and pressure instead of desire. Maybe this iꝬ how I became someone to be used. ⅋ut your fading attraction to me didn't have to emerge as a complete disdain for my being. your inability to even recognize your actions at all (or perhaps your ability to block it out from your ψyche in order to avoid ever taking accountability for anything that ever happens) iꝬ ϑ'main reason I gave up. because you will never change, and I had nø right to change you. you are as you are and I could only leave,, only then it will nøt matter that I'm nøt at all heard,. as if ϑ'words were ever considered. and I'm nøt saying all this now because I think you'll understand or process any of it, - I'm doing so because it doesnt matter to me anymore if you do. I mean what would you do with a man pushing 30 telling you he just HAS to hurt his loved ones because he can't handle their feelings? you give up. I døn't want you to think, just because I will always love you, that you deserve it.
 
----
+<!-- ---
 
 now, let us finish the equation. consider the following:
 
@@ -78,9 +78,9 @@ now, let us finish the equation. consider the following:
 
 ϑeref∴re 
 
-his response - like clockwork: "[This Message was deleted]" "okay man. anyway leaving this line of communication open is clearly never going to be healthy so i'm gonna block" <!-- (rage / mortification he likely realized proved my point. ϑ'weaponized apathy (he is above caring about my feelings) falls in place of ϑ'usual performative fragility declaring "i just cant handle this right now", (yet somehow it is still implied), followed by ϑ'insistance we weren't ever anything. cowardice. ϑ'false self deploys therapy-speak to protect itself, frame itself as ϑ'victim, control ϑ'narrative, & project guilt (am i ashamed to admit this worked on me the 1ˢᵗ 100 times)) -->
+his response - like clockwork: "[This Message was deleted]" "okay man. anyway leaving this line of communication open is clearly never going to be healthy so i'm gonna block" (rage / mortification he likely realized proved my point. ϑ'weaponized apathy (he is above caring about my feelings) falls in place of ϑ'usual performative fragility declaring "i just cant handle this right now", (yet somehow it is still implied), followed by ϑ'insistance we weren't ever anything. cowardice. ϑ'false self deploys therapy-speak to protect itself, frame itself as ϑ'victim, control ϑ'narrative, & project guilt (am i ashamed to admit this worked on me the 1ˢᵗ 100 times))
 
-= NOT LOVE!
+= NOT LOVE! -->
 
 ## ϑ'puppy complex
 
