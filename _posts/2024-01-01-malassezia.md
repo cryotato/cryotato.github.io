@@ -137,7 +137,8 @@ The Ordinary 100% Plant-Derived Squalane: 0мж%
 
 The Ordinary Niacinamide 10% + Zinc 1%: 0мж%
 
-The Ordinary Multi-Antioxidant Radiance Serum: 0мж%
+***The Ordinary Multi-Antioxidant Radiance Serum: 0мж%***
+(saw myself in the mirror after using this and scared myself lowk. i look great.)
 
 The Ordinary Sulfur 10% Powder-to-cream Concentrate: 0мж%
 (because it's intended to use as a spot treatment i just dilute it and mix it in to whatever serum or lotion im using)
