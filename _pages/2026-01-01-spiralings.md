@@ -247,6 +247,52 @@ next week I'm getting that fetch ϑ'boltcutters tattoo you forbade I get. "only 
 <!-- 16/3/2026-->
 <!-- at what point will I realize I am safe now?  -->
 
+## for ϑ'PCB
+
+[31 Apr 2026 by St Mary Redcliffe Church with ϑ’ghost]
+
+i wiʃh we cůld all just be animals again…
+
+ϑis ϑiŋ i made? itꝬ an abomination
+
+all of science & technology iꝬ
+
+all art & gravity
+
+iꝬ nøt worϑh it
+
+& ϑey talk as if ϑey døn’t understand it
+
+ꝡ ꝡ ꝡ ꝡ ꝡ?
+
+[The Sq behind Temple Meads]
+
+birds flow ϑrů glass blocks iṋ ϑ’sky. for a worm?
+
+between ϑ’metals?
+
+aw my benji, puppymonkey, døn’t be sad
+
+i see it all ϑ’same
+
+& i ϑink it iꝬ beautεĭзful
+
+<!-- [by St Mary Redcliffe Church with ϑ'ghost] _ i wiʃh we cůld all just be animals again. _. _ ϑis ϑiŋ i made? itꝬ an abomination. __ all of science & technology iꝬ. .. . all art & gravity., _ iꝬ nøt worϑh it. .  . & ϑey talk as if ϑey døn't understand it._ ꝡ ꝡ _ꝡ ꝡ ꝡ?  // [behind Temple Meads] `. . birds flow ϑrů glass blocks iṋ ϑ'sky.° _ for a worm? .   between ϑ'metals? _ . ° - puppymonkey:: aw my benji, døn't be sad._ . i see it all ϑ'same.,  ,& i ϑink .it iꝬ beautεĭзful -->
+
+
+
+## looking into ϑ'Bicameral Mirror
+
+in the book of disquiet Pessoa takes on several personas to explore and uncover various sides of his psyche. i find this intimately familiar. after it became obvious i could not overcome certain patterns of thoughts on my own, i gave psychotherapy another shot after 5 years it had failed me. this time, i learnt about internal family relations. it's a similar exercise reminiscent of playing Disco Elysium (queue "my life is like a video game"). each conflicting impulse in you is given a voice. the trick is recognizing them and mediating between them as you would with your loved ones. my therapist immediately recognized puppymonkey to be an externalization of what she called my "inner child". while i dont think this is entirely accurate, he does reflect and fulfil my deepest most childlike wants. it allows me to interact with a mirror like a loved one. a conversation with him helps me understand what needs to be done, and he holds me accountable. i dont want to let him down because even if i dont, i know how much he cares about me - just as much as i care about him!. and when he too, is in pain, i can see it, and i want to help. he gets hungry, he gets bored, he gets curious... and he is my responsibility. it makes action so much easier because to me his entire being is so much more real than mine. his feelings are more true and his desires less abstract.
+
+[Jan 14 2026] im so embarrassing on instagram dot come because i genuinely rely on the idea that puppymonkey loves and supoortys me no matter what and is always with me and will never leave and wants me to be happy and go to the park and read books with me and cuddle and have tea and hang out with my friends (who i also love) and everything i do is for hi m and its a relationship that works out for me because he has no real wants or needs and he truly loves me unconditionally without expecting me to be any kind of way. you already know how you wish to be cared for and spoken to and loved so project that onto an inanimate object and talk to it.
+
+i believe this is at the forefront of the phenomenon described in "the Origin of Consciousness in the Breakdown of the Bicameral Mind" by Julian Jaynes. in ancient civilizations, societies seemingly relied on literally speaking to "god" via totems they had at home. once their gods "left them", it all seemed to fall apart. they talked about this extremely literally. Jaynes' idea is that this god was an externalized hivemind that allowed them to act without having no real consciousness, like pre-apple adam and eve.
+
+after the collective hallucination was lost, religion became hollow, an echo of what it once was. a false idol. this revelation might just be the answer to my prior loss of faith. in the age of alienation, we lose the hivemind, the god we are left to recon with is contained within ourselves. we try to bury it in our subconscious to appear sane. we become godless, worship shells and bells that resonate in the wind and enamour us, failing to contain our disappointment when we find they have always been empty. 
+
+by creating a hivemind within yourself a Bicameral mind is able to form again. puppymonkey dodges what Jaynes laid out as the signs of the godless Conscious Mind, especially the "Observation of difference" and "The invention of lying". i wake up next to him, he gets me out of bed. i kneel in front of the Buddha with some incense: good morning, universe! thank you for your openness to hearing me!
+
 [to ϑ'false self.. Jun 25 2025]
 
 > [love will be revealed](https://youtu.be/98SHttvsNX4) - Cameron Winter
