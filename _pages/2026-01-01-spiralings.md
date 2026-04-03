@@ -249,7 +249,7 @@ next week I'm getting that fetch ϑ'boltcutters tattoo you forbade I get. "only 
 
 ## for ϑ'PCB
 
-[31 Apr 2026 by St Mary Redcliffe Church with ϑ’ghost]
+[Apr 31 2026 by St Mary Redcliffe Church with ϑ’ghost]
 
 i wiʃh we cůld all just be animals again…
 
@@ -267,7 +267,7 @@ iꝬ nøt worϑh it
 
 [The Sq behind Temple Meads]
 
-birds flow ϑrů glass blocks iṋ ϑ’sky. for a worm?
+birds still flow ϑrů glass blocks iṋ ϑ’sky. for a worm? for whatꝬ left?
 
 between ϑ’metals?
 
