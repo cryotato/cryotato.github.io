@@ -26,7 +26,7 @@ the femcel manifesto for false idols-->
 
 <!-- *i no longer feel much of what has been stated here, neither did I ever believe all this at once simultaneously, ⅋ut it does provide a reliable time capsule for my experience.* -->
 
-[Created 14 Oct 2025, Compiled 1 Jan 2026, Last Updated 12 Mar 2026]
+[Created 14 Oct 2025, Compiled 1 Jan 2026, Last Updated 2 Apr 2026]
 
 [Content Warning: detailed discussions of abuse, B(u)D(dhi)SM, consent, mentions of substances & self-harm. please read with care <3]
 
