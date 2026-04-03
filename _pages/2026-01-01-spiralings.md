@@ -263,7 +263,7 @@ iꝬ nøt worϑh it
 
 & ϑey talk as if ϑey døn’t understand it
 
-ꝡ ꝡ ꝡ ꝡ ꝡ?
+ꝡhy ꝡ ꝡ ꝡ ꝡ?
 
 [The Sq behind Temple Meads]
 
