@@ -4,27 +4,32 @@ title: kaomoji art dump
 ---
 
 ### puppymonkey watching..
-
-   ~ . <br>
-૮ (ΩΩ)\ <br>
- _( ∴ヌ∴)<br>
-/    ~\＼<br>
+~~~
+   ~ . 
+૮ (ΩΩ)\ 
+ _( ∴ヌ∴)
+/    ~\＼
+~~~
 
 ### anatomy of puppymonkey
-
-   ~ ,      <-- tuft<br>
- ૮(ΩΩ)ა      <-- soul<br>
- (∴叉∴)      <-- snoot<br>
-// ~ \＼      <-- bloat<br>
-(0)--(0)      <-- beans<br>
-
+~~~
+   ~ ,      <-- tuft
+ ૮(ΩΩ)ა      <-- soul
+ (∴叉∴)      <-- snoot
+// ~ \＼      <-- bloat
+(0)--(0)      <-- beans
+~~~
 ### vampire roleplay
 
-(●₩●)...<br>
-      NOM!<br>
-Σ(ﾟ∀´(₩●　)♡<br>
+~~~
+(●₩●)...
+      NOM!
+Σ(ﾟ∀´(₩●　)♡
+~~~
 
 ### 哭
 
-(╥◇╥) gwaah,,..<br>
-(╥﹏╥) wah.<br>
+~~~
+(╥◇╥) gwaah,,..
+(╥﹏╥) wah.
+~~~
