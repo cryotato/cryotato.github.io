@@ -13,11 +13,11 @@ title: kaomoji art dump
 
 ### anatomy of puppymonkey
 ~~~
-    ~,       <-- tuftt
-  ૮(ΩΩ)ა      <-- spiritt
-  (∴叉∴)      <-- snoott
- // ~ \＼      <-- bloatt
-'(0)͝͝ ͝ (0)`      <-- mitt
+    ~,       <--[tuftt]
+  ૮(ΩΩ)ა      <-- [spiritt]
+  (∴叉∴)      <-- [snoott]
+ // ~ \＼      <-- [bloatt]
+'(0)͝͝ ͝ (0)`     <-- [mitt]
 ~~~
 
 ### vampire roleplay
