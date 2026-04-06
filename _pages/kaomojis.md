@@ -13,14 +13,14 @@ title: kaomoji art dump
 
 ### anatomy of puppymonkey
 ~~~
-    ˶,      <-- tuft
-  ૮(ΩΩ)ა      <-- soul
-  (∴叉∴)      <-- snoot
- // ~ \＼      <-- bloat
-'(0)͝͝ ͝ (0)`      <-- beans
+    ~,       <-- tuftt
+  ૮(ΩΩ)ა      <-- spiritt
+  (∴叉∴)      <-- snoott
+ // ~ \＼      <-- bloatt
+'(0)͝͝ ͝ (0)`      <-- mitt
 ~~~
-### vampire roleplay
 
+### vampire roleplay
 ~~~
 (●₩●)...
       NOM!
@@ -28,7 +28,6 @@ title: kaomoji art dump
 ~~~
 
 ### 哭
-
 ~~~
 (╥◇╥) gwaah,,..
 (╥﹏╥) wah.
