@@ -1,6 +1,6 @@
 ---
 
-title: "adventures of puppymonkey & more: ϑ'femcel manifesto"
+title: "anatomy of puppymonkey"
 permalink: /spiralings
 author_profile: true
 toc: true
@@ -22,9 +22,18 @@ no more whimsy
 loss of love
 the case against desiring-machines
 deleuzian feminism
-the femcel manifesto for false idols-->
+the femcel manifesto for false idols
+adventures of puppymonkey & more: ϑ'femcel manifesto"-->
 
 <!-- *i no longer feel much of what has been stated here, neither did I ever believe all this at once simultaneously, ⅋ut it does provide a reliable time capsule for my experience.* -->
+
+~~~
+   ~ ,      <-- tuft
+ ૮(ΩΩ)ა      <-- soul
+ (∴叉∴)      <-- snoot
+// ~ \＼      <-- bloat
+(0)--(0)      <-- beans
+~~~
 
 [Created 14 Oct 2025, Compiled 1 Jan 2026, Last Updated 2 Apr 2026]
 
