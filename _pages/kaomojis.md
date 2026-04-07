@@ -8,6 +8,11 @@ title: kaomoji art dump
 ୧₍⌒૮ ,◕ ﻌ -ა︻╦̵̵͇̿̿══╤─
 ~~~
 
+### hydraulic-pressed puppymonkey
+~~~
+꒰ঌ_૮Ω(∴ヌ:)Ωა_໒꒱
+~~~
+
 ### puppymonkey watching..
 ~~~
    ~ . 
