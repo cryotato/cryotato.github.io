@@ -2,6 +2,11 @@
 permalink: /kao/
 title: kaomoji art dump
 ---
+### anarchopuppy
+
+~~~
+୧₍⌒૮ ,◕ ﻌ -ა︻╦̵̵͇̿̿══╤─
+~~~
 
 ### puppymonkey watching..
 ~~~
