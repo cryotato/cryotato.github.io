@@ -1,10 +1,10 @@
 main:
   # - title: "OVXX"
   # url: /ovxx/
-  - title: "HEX 咒"
-    url: /shop/ 
-  - title: "SYN 合"
-    url: /syn/
+  # - title: "HEX 咒"
+  #   url: /shop/ 
+  # - title: "SYN 合"
+  #   url: /syn/
   - title: "lapses 志"
     url: /blog/ 
   - title: "iṋ experience 历"
