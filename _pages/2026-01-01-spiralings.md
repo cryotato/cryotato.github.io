@@ -23,7 +23,9 @@ loss of love
 the case against desiring-machines
 deleuzian feminism
 the femcel manifesto for false idols
-adventures of puppymonkey & more: ϑ'femcel manifesto"-->
+adventures of puppymonkey & more: ϑ'femcel manifesto"
+nø evil
+-->
 
 <!-- *i no longer feel much of what has been stated here, neither did I ever believe all this at once simultaneously, ⅋ut it does provide a reliable time capsule for my experience.* -->
 
@@ -97,7 +99,8 @@ One of my biggest criticisms of *Intercourse* by Dworkin was that she did nøt t
 
 <!-- > Obedience, not love, is the proper basis of marriage for a woman, according to the old man; and masculinity is measured by how well a man controls his wife in the house and his horse in the field. - Dworkin. -->
 
-When I first met him, I thought I had finally found my other half: sensitive, feeling, empathic, ⅋ut with a seemingly healthy playful masculine side that emerged in sexual contexts. It starts out incredibly nurturing and caring, you may even start to see him as a mentor or father figure. ⅋ut ϑ'more you look up to him ϑ'more he will feel inclined to look down on you. <!-- I remember at one point he said 24/7 BDSM lifestyles were “based,” ⅋ut it iꝬ obvious what he meant by this now. -->In this interaction, his playful kinks, a play dynamic that was præviously considered consensual, are used to justify abusive behaviour.
+<!--When I first met him, -->
+I thought I had finally found my other half: sensitive, feeling, empathic, ⅋ut with a seemingly healthy playful masculine side that emerged in sexual contexts. It starts out incredibly nurturing and caring, you may even start to see him as a mentor or father figure. ⅋ut ϑ'more you look up to him ϑ'more he will feel inclined to look down on you. <!-- I remember at one point he said 24/7 BDSM lifestyles were “based,” ⅋ut it iꝬ obvious what he meant by this now. -->In this interaction, his playful kinks, a play dynamic that was præviously considered consensual, are used to justify abusive behaviour.
 
 <!-- > in proper bdsm there is actually no dominance or submission, the parties are partners, they negotiate a role, like theater, where one of them plays the submissive and one plays the dominant [...] in this sense bdsm does not fit the narcissist. narcissists do not like to negotiate. they hate to be with equal power - equipotents. [...] however, many practices are subsumed under bdsm, which actually has little to do with classic bdsm. extreme forms are where the narcissist finds pleasure. - Prof. Sam Vaknin (a self-described cerebral narcissist) -->
 
