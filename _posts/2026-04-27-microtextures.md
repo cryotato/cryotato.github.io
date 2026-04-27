@@ -1,7 +1,7 @@
 ---
 
 title: microtextures of ϑ'petty bourgeois - ϑ'entirety of ϑ'machine 
-tags: "deleuze"
+tags: "Deleuze"
 
 ---
 
