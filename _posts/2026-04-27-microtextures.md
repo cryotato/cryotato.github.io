@@ -15,5 +15,5 @@ it is much more accurate to understand the money machine as a single body that e
 
 manufacturing consent is only one menial aspect of the machine that provides conscious justifications for its existence, but the unconscious subjectification of the proletariat had long been stratified. it's a performance. this is nøt to say the bourgeois does nøt aim to mislead the prolitariat, only that it does nøt matter. that either way it is the same machine and the same flows of desire. so following a single flow’s narrative, it's manufactured “consents” (Brexit, 9/11, Tiananmen Square…) often overlook the entirety of the machine.
 
-though this totalizing view can make us feel even more helpless, i also maintain that there is no “libidinal band” only a cancerous machine that consumes everything. the jouissance in it's consumption is merely a coincidence. the proletariat do not “hold onto their chains” out of sheer intensity of feeling. because microtexture is not skin, and the “chains” are non-linear.
+though this totalizing view can make us feel even more helpless, i also maintain that there is no “libidinal band” only a cancerous machine that consumes everything. the jouissance in it's consumption is merely a coincidence. the proletariat do not “hold onto their chains” out of sheer intensity of feeling, b∵c microtexture is nøt skin, and the “chains” are non-linear. 
 
