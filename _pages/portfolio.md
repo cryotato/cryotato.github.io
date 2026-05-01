@@ -13,14 +13,14 @@ sort_order: reverse # forward (default), reverse
 ---
 
 
-<h2> A design-first creative technologist bridging physical & digital realms. With end-to-end experience leading projects from experimental hardware to VR, my expertise lies in translating the metaphysical into the material.
-</h2> 
+<!-- <h2> A design-first creative technologist bridging physical & digital realms. With end-to-end experience leading projects from experimental hardware to VR, my expertise lies in translating the metaphysical into the material.
+</h2>  -->
 
-<video autoplay muted loop playsinline width= "100%" style="object-fit: cover;">
-  <source src="/assets/videos/2022showreel.mp4" type="video/mp4">
+<!-- <video autoplay muted loop playsinline width= "100%" style="object-fit: cover;">
+  <source src="/assets/videos/2022showreel.mp4" type="video/mp4"> -->
   <!-- <source src="your-video.webm" type="video/webm"> -->
-  your browser doesn't support embedded videos xd
-</video>
+  <!-- your browser doesn't support embedded videos xd
+</video> -->
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
 
