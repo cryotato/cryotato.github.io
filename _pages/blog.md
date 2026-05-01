@@ -1,5 +1,5 @@
 ---
-permalink: /blog/
+permalink: /b/
 title: hreꝬ sme embarrassiŋ info abt me PLEASE DØN'T BULLY ME W/ IT
 author_profile: false
 layout: posts

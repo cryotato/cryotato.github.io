@@ -6,10 +6,10 @@ main:
   # - title: "SYN 合"
   #   url: /syn/
   - title: "lapses 志"
-    url: /blog/ 
+    url: /b/ 
   - title: "gallery 历"
     url: /p/
-  - title: "commissions 佣: OPEN"
+  - title: "commissions 佣"
     url: /commissions/
   - title: "窝"
     url: /about/
