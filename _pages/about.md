@@ -11,7 +11,7 @@ ẘ?
 ＼ ＿＿＿　＿ ＿＿＿　＿ ＿／<br>
    　 　　 ∨<br>
    　　　  ∧＿∧<br>
-　　　    (*￣v￣)／<br>
+　　　   (*￣v￣)／<br>
 
 music is sacred and i try to make it as OVXX. there are about 20 thousand audible frequencies and an infinite ways to make them.. i aim to find a few. you can buy some of my experiments at the kitterstore. i also sometimes have "thoughts" that tickle, and so i write them down. you can read some of those here too. everythiŋ ï do iꝬ to declare my identity ⅋ut ï døn't really have one. ï aspire to be a Concept, ïm a schizor𖹭mantic in that way. ïm from everywhere ⅋ nøwhere... ï diffuse into thin air. ïm a short circuit!!
 
