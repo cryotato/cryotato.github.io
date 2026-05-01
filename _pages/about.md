@@ -23,7 +23,7 @@ music is sacred and i try to make it as OVXX. there are about 20 thousand audibl
 窝是子尘。窝所做の一切、皆ゐ定義自窝、但窝其實冇一个固定の身份。窝渴求成ゐ一个概念、從這點來說、窝是一名分裂性浪漫者。窝來自處處、や來自無處。屏息以待吧、因ゐ窝會消散於無形! 窝就是一場短路!
 -->
 
-<img src="/assets/images/pocky.gif" alt="POCKY" width="35%" text-align="right">
+<img src="/assets/images/pocky.gif" alt="POCKY" width="45%">
 
 xenogenders 異類性別 - geoist 喬治主義者; commie 共產主義者; spiritually post-structuralist 靈性後結構主義者 (reduce me to nøϑiŋness 將窝化ゐ虛無); cyber-schizoid 賽博精神分裂; neuroarchitect 神經架構師; 99 kiss machines 九十九座親吻機器
 
