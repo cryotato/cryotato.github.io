@@ -3,9 +3,11 @@ permalink: /about/
 author_profile: false
 ---
 
-ẘ?
+<!-- <h2> -->
+ẘ? ïm Ryan Lyo (like meow)
 
-<h2>ïm ryan lyo (like meow). everythiŋ ï do iꝬ to declare my identity ⅋ut ï døn't really have one.</h2>
+Everythiŋ ï do iꝬ to declare my identity ⅋ut ï døn't really have one
+<!-- </h2> -->
 
 <!-- ï aspire to be a <a href="https://cryotato.github.io/blog/">Concept</a>, ïm a schizor𖹭mantic in that way. ïm from everywhere ⅋ nøwhere... hold your breath c∵z ï diffuse into thin air! ïm a short circuit!!</h2> -->
 
@@ -18,11 +20,8 @@ ẘ?
 -->
 
 
-***
-
 xenogenders 異類性別 - geoist 喬治主義者; communist 共產主義者; spiritually post-structuralist 靈性後結構主義者 (reduce me to nøϑiŋness 將窝化ゐ虛無); cyber-schizoid 賽博精神分裂; neuroarchitect 神經架構師; 99 kiss machines 九十九座親吻機器
 
-***
 <!-- Sign up for sparse biennialish KitterChord & OVXX updates here:
 
 <iframe width="540" height="305" src="https://sibforms.com/serve/MUIFAGII6dnItKKSjLTX5EippiUkxF1ouYlSnSpzunfoBOjdGVblho2CGhGW4mzc_KILsCsbcRkVSQpr3dTsERtEpvp0j1SnAL-F9rQNcW-kZ28QD3goYzm_lKFx-QQTTso0z5GwqizHIOu7mGV-OlrS33TT10jCRG8qegcTmMavoyw6xUByxMzzJ_WUDtvkxMCqcMU_dFDLIp9V" frameborder="0" scrolling="auto" allowfullscreen style="display: block;margin-left: auto;margin-right: auto;max-width: 100%;"></iframe>
