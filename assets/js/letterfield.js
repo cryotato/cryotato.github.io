@@ -24,7 +24,7 @@ document.addEventListener("DOMContentLoaded", () => {
   let idleFactor = 1; 
   
   // --- TWEAK THIS VALUE: How long to wait before returning to idle (in milliseconds) ---
-  const IDLE_DELAY_MS = 3500; // 3.5 seconds
+  const IDLE_DELAY_MS = 13500; // 3.5 seconds
 
   function initGrid() {
     container.innerHTML = '';
