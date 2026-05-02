@@ -808,34 +808,38 @@ button:hover, .btn:hover {
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@100..700&display=swap');
 
 #letterfield {
-  /* Forces 100% width breakout */
+  /* Layout breakout trick using transform (much safer than negative margins) */
   width: 100vw;
   position: relative;
   left: 50%;
   transform: translateX(-50%);
   
-  /* The Javascript will automatically set the height to exactly 3 rows */
+  display: flex;
+  flex-direction: column; /* Force it into strict rows */
+  align-items: center; /* Center the block of text on the screen */
   background: var(--bg-0);
   font-family: 'Roboto Mono', monospace;
   line-height: 1;
   cursor: crosshair;
+  padding: 3rem 0;
   overflow: hidden;
-  margin: 3rem 0; /* 3rem gap above and below the block */
 }
 
-.lf-char {
-  position: absolute; /* Physically pins the letter to a coordinate */
-  width: 72px;
-  height: 72px;
+.letter-row {
+  display: flex;
+  white-space: pre; /* Ensures spaces aren't collapsed */
+}
+
+.letter-row div {
   display: flex;
   align-items: center;
   justify-content: center;
-  font-size: 72px;
-  user-select: none;
-  
-  /* Blends your light/dark colors smoothly */
+  width: 72px;  /* 3x bigger (was 24) */
+  height: 72px; /* 3x bigger */
+  font-size: 72px; /* Ensure font scales up */
+  user-select: none; 
   color: color-mix(in srgb, var(--dark) calc(var(--val, 0) * 85% + 15%), var(--light));
   
-  /* Hardware acceleration for performance */
+  /* Hardware acceleration for ultra-smooth rendering */
   will-change: font-weight, color; 
 }

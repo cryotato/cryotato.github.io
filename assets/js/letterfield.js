@@ -8,10 +8,12 @@ document.addEventListener("DOMContentLoaded", () => {
     "OMNITONAL ORB 謳卜 "
   ];
 
-  const charSize = 72; // Font size & grid cell size
+  const charSize = 72; // 3x bigger size!
   let gridItems = [];
   let rect = container.getBoundingClientRect();
-  
+  let cols = 0;
+  let rows = lines.length;
+
   // Mouse tracking state
   let mouse = { x: -1000, y: -1000 };
   let targetMouse = { x: -1000, y: -1000 };
@@ -24,13 +26,15 @@ document.addEventListener("DOMContentLoaded", () => {
     gridItems = [];
     rect = container.getBoundingClientRect();
     
-    // Lock the container height to exactly the 3 rows
-    container.style.height = `${lines.length * charSize}px`;
-    
-    // Calculate how many characters fit horizontally across the screen
-    const cols = Math.ceil(rect.width / charSize) + 1;
+    // Calculate how many characters fit across the screen
+    cols = Math.ceil(rect.width / charSize) + 1; // +1 to ensure it reaches the edge
 
-    for (let y = 0; y < lines.length; y++) {
+    for (let y = 0; y < rows; y++) {
+      // Create a strict row container so lines never get jumbled
+      const rowEl = document.createElement('div');
+      rowEl.className = 'letter-row';
+      container.appendChild(rowEl);
+
       const str = lines[y];
       const charArray = Array.from(str); 
 
@@ -38,31 +42,21 @@ document.addEventListener("DOMContentLoaded", () => {
         const char = charArray[x % charArray.length];
         
         const el = document.createElement('div');
-        el.className = 'lf-char'; // Use specific class to avoid CSS clashes
         el.textContent = char;
-        
-        // mathematically calculate exact pixel positioning
-        const xPos = x * charSize;
-        const yPos = y * charSize;
-        
-        el.style.left = `${xPos}px`;
-        el.style.top = `${yPos}px`;
-        
-        container.appendChild(el);
+        rowEl.appendChild(el);
 
         gridItems.push({
           el: el,
-          x: xPos + (charSize / 2), // The center-point of the character
-          y: yPos + (charSize / 2), 
+          x: x * charSize + charSize / 2, 
+          y: y * charSize + charSize / 2,
           lastWeight: -1 // Cache to stop lag
         });
       }
     }
   }
 
-  // Handle Mouse Tracking
+  // Handle Mouse Activity
   container.addEventListener('mousemove', (e) => {
-    // Recalculate bounds in case user scrolled the page
     const bounds = container.getBoundingClientRect();
     targetMouse.x = e.clientX - bounds.left;
     targetMouse.y = e.clientY - bounds.top;
@@ -70,7 +64,6 @@ document.addEventListener("DOMContentLoaded", () => {
     isMouseActive = true;
     clearTimeout(mouseTimeout);
     
-    // Idle fallback after 1.5s
     mouseTimeout = setTimeout(() => { isMouseActive = false; }, 1500);
   });
 
@@ -78,7 +71,6 @@ document.addEventListener("DOMContentLoaded", () => {
     isMouseActive = false;
   });
 
-  // Rebuild grid if window resizes
   window.addEventListener('resize', () => {
     clearTimeout(window.resizeTimer);
     window.resizeTimer = setTimeout(initGrid, 200);
@@ -86,13 +78,10 @@ document.addEventListener("DOMContentLoaded", () => {
 
   initGrid();
 
-  // Animation Loop
   function animate(time) {
-    // Smoothly follow cursor
     mouse.x += (targetMouse.x - mouse.x) * 0.1;
     mouse.y += (targetMouse.y - mouse.y) * 0.1;
 
-    // Fade between idle wave and mouse flashlight
     if (isMouseActive) {
       idleFactor = Math.max(0, idleFactor - 0.05); 
     } else {
@@ -102,23 +91,21 @@ document.addEventListener("DOMContentLoaded", () => {
     for (let i = 0; i < gridItems.length; i++) {
       const item = gridItems[i];
       
-      // Idle sweeping wave effect
       const wavePulse = Math.sin(item.x * 0.005 - time * 0.002) * 0.5 + 0.5;
 
-      // Mouse proximity effect
       const dx = item.x - mouse.x;
       const dy = item.y - mouse.y;
       const dist = Math.sqrt(dx * dx + dy * dy);
       
-      const mouseVal = Math.max(0, 1 - dist / 500); // 500 is the mouse flashlight radius
+      // Increased radius to 500 to compensate for larger letters
+      const mouseVal = Math.max(0, 1 - dist / 500); 
       
-      // Blend the two states
       const val = (mouseVal * (1 - idleFactor)) + (wavePulse * idleFactor);
 
-      // Convert 0.0-1.0 to Font Weight (100 to 700) rounded to tens
+      // Map value to Font Weight (100 to 700) and round it to nearest 10 for performance
       let weight = Math.round((100 + val * 600) / 10) * 10;
 
-      // Only update DOM if it visually changed (Huge lag fix)
+      // LAG FIX: Only update the DOM if the weight actually changed
       if (item.lastWeight !== weight) {
         item.el.style.fontWeight = weight;
         item.el.style.setProperty('--val', val.toFixed(2));
