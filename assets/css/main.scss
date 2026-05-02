@@ -825,12 +825,12 @@ button:hover, .btn:hover {
 
 .lf-char {
   position: absolute; 
-  width: 35px;
-  height: 35px;
+  width: 72px;
+  height: 72px;
   display: flex;
   align-items: center;
   justify-content: center;
-  font-size: 35px;
+  font-size: 72px;
   user-select: none;
   
   color: color-mix(in srgb, var(--dark) calc(var(--val, 0) * 85% + 15%), var(--light));

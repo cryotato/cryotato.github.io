@@ -3,15 +3,15 @@ document.addEventListener("DOMContentLoaded", () => {
   if (!container) return;
 
   const lines = [
-    "KITTER咪",
-    "CHORD胡",
-    "の",
-    "ORB謳卜",
+    "KITTER咪 ",
+    "CHORD胡 ",
+    " の",
+    "ORB謳卜 ",
     "&",
     "HEX咒光 "
   ];
 
-  const charSize = 35; 
+  const charSize = 72; 
   let gridItems = [];
   let rect = container.getBoundingClientRect();
   
