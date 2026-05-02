@@ -13,7 +13,7 @@ document.addEventListener("DOMContentLoaded", () => {
     "SOON "
   ];
 
-  const charSize = 72; 
+  const charSize = 70; 
   let gridItems = [];
   let rect = container.getBoundingClientRect();
   
