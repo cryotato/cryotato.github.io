@@ -46,7 +46,7 @@ nø evil
 <!-- back cover? -->
 there's this comic my friend Nicole sent me by Somewhere In June about ϑ'process of becoming “living proof of the harm” ϑe “evidence” ϑe “proof that it mattered [...] because if all of those bad things happened to me and I just forget about them, what was the point?” ϑ’last bulk of my life has been devoted to answering this quæstion alone, <!--reading Hegel like itꝬ self help, only to be met with Death itself every time--> only to find a hollowness each time - “there is no point.” there iꝬ nø relief. nø forgiveness. nø acknowledgement. it iꝬ a poison I can no longer hold in my body, and this is my sick. I write because I have to.
 
-may we all one day feel safe again
+<!-- may we all one day feel safe again -->
 
 
 <!-- [bi-pædo groomer 666 iꝬ typing...]
@@ -263,7 +263,7 @@ next week I'm getting that fetch ϑ'boltcutters tattoo you forbade I get. "only 
 <!-- 16/3/2026-->
 <!-- at what point will I realize I am safe now?  -->
 
-## for ϑ'PCB
+## anatomy of puppymonkey: looking into ϑ'Bicameral Mirror
 
 [Apr 31 2026 by St Mary Redcliffe Church with ϑ’ghost]
 
@@ -295,9 +295,6 @@ i see it all ϑ’same
 
 <!-- [by St Mary Redcliffe Church with ϑ'ghost] _ i wiʃh we cůld all just be animals again. _. _ ϑis ϑiŋ i made? itꝬ an abomination. __ all of science & technology iꝬ. .. . all art & gravity., _ iꝬ nøt worϑh it. .  . & ϑey talk as if ϑey døn't understand it._ ꝡ ꝡ _ꝡ ꝡ ꝡ?  // [behind Temple Meads] `. . birds flow ϑrů glass blocks iṋ ϑ'sky.° _ for a worm? .   between ϑ'metals? _ . ° - puppymonkey:: aw my benji, døn't be sad._ . i see it all ϑ'same.,  ,& i ϑink .it iꝬ beautεĭзful -->
 
-
-
-## looking into ϑ'Bicameral Mirror
 
 <!-- in the book of disquiet Pessoa takes on several personas to explore and uncover various sides of his psyche. i find this intimately familiar. -->after it became obvious i could not overcome certain patterns of thoughts on my own, i gave psychotherapy another shot after 5 years it had failed me. this time, i learnt about internal family relations. it's an exercise reminiscent of writing a Disco Elysium (queue "my life is like a video game"). each conflicting impulse in you is given a voice. the trick is recognizing them and mediating between them as you would with your loved ones. my therapist immediately recognized puppymonkey to be an externalization of what she called my "inner child". while i dont think this is entirely accurate, he does reflect and fulfil my deepest most childlike wants. it allows me to interact with a mirror like a loved one. a conversation with him helps me understand what needs to be done, and he holds me accountable. i dont want to let him down because even if i dont, i know how much he cares about me - just as much as i care about him!. and when he too, is in pain, i can see it, and i want to help. he gets hungry, he gets bored, he gets curious... and he is my responsibility. it makes action so much easier because to me his entire being is so much more real than mine. his feelings are more true and his desires less abstract.
 
