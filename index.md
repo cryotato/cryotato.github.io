@@ -4,7 +4,6 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: single
 author_profile: false
-permalink: /letterfield
 ---
 
 <div id="letterfield"></div>
