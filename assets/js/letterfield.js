@@ -9,7 +9,8 @@ document.addEventListener("DOMContentLoaded", () => {
     "ORB謳卜 ",
     " &",
     "HEX咒光 ",
-    "COMING SOON "
+    "COMING ",
+    "SOON "
   ];
 
   const charSize = 72; 
