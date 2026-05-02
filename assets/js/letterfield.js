@@ -5,9 +5,9 @@ document.addEventListener("DOMContentLoaded", () => {
   const lines = [
     "KITTER咪 ",
     "CHORD胡 ",
-    " の",
+    "の ",
     "ORB謳卜 ",
-    "&",
+    " &",
     "HEX咒光 "
   ];
 
