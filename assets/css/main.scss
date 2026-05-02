@@ -806,34 +806,33 @@ button:hover, .btn:hover {
 //   visibility: visible; /* Show them once JS has loaded the content */
 // }
 
-/* Import a Monospace Variable font for the smooth thickness transition */
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@100..700&display=swap');
 
 #letterfield {
-  position: relative; /* Allows it to flow in the document so you can scroll past it */
-  width: 100%;
-  height: 100vh; /* Adjust to how tall you want the area to be */
-  overflow: hidden;
+  /* This layout breakout forces it to 100% screen width, bypassing Minimal Mistakes' narrow container */
+  width: 100vw;
+  position: relative;
+  left: 50%;
+  right: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
+  
   display: flex;
   flex-wrap: wrap;
+  overflow: hidden;
   background: var(--bg-0); /* Uses your site's background variable */
   font-family: 'Roboto Mono', monospace;
   line-height: 1;
   cursor: crosshair;
+  padding: 1rem 0; /* A little breathing room on top and bottom */
 }
 
 #letterfield div {
   display: flex;
   align-items: center;
   justify-content: center;
-  width: 24px; /* Fixed grid size to keep rows perfectly aligned */
+  width: 24px; 
   height: 24px;
-  user-select: none; /* Prevents text highlighting when interacting */
-  
-  /* 
-    This is the magic: It blends your --dark and --light variables 
-    based on the --val (0 to 1) calculated by the JavaScript!
-    The + 15% ensures the letters are still slightly visible when far away.
-  */
+  user-select: none; 
   color: color-mix(in srgb, var(--dark) calc(var(--val, 0) * 85% + 15%), var(--light));
 }
