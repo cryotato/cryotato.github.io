@@ -3,12 +3,12 @@ document.addEventListener("DOMContentLoaded", () => {
   if (!container) return;
 
   const lines = [
-    "KITTER 咪 ",
-    "CHORD 胡 ",
-    "の ",
-    "ORB 謳卜 ",
-    "& ",
-    "HEX 咒光 "
+    "KITTER咪",
+    "CHORD胡",
+    "の",
+    "ORB謳卜",
+    "&",
+    "HEX咒光 "
   ];
 
   const charSize = 35; 
