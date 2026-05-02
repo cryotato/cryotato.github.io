@@ -3,9 +3,12 @@ document.addEventListener("DOMContentLoaded", () => {
   if (!container) return;
 
   const lines = [
-    "KITTERCHORD咪胡",
-    "HEX咒灮",
-    "ORB謳卜"
+    "KITTERCHORD咪胡 ",
+    "ORB謳卜 ",
+    "&",
+    "HEX咒灮 ",
+    "~",
+    "OVXX ",
   ];
 
   const charSize = 72; // 3x bigger size!
