@@ -265,7 +265,10 @@ next week I'm getting that fetch ϑ'boltcutters tattoo you forbade I get. "only 
 
 ## anatomy of puppymonkey: looking into ϑ'Bicameral Mirror
 
-[Apr 31 2026 by St Mary Redcliffe Church with ϑ’ghost]
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/pcbpoetry.jpg" alt="" class="full">
+
+
+<!-- [Apr 31 2026 by St Mary Redcliffe Church with ϑ’ghost]
 
 i wiʃh we cůld all just be animals again…
 
@@ -291,7 +294,7 @@ aw my benji, puppymonkey, døn’t be sad
 
 i see it all ϑ’same
 
-& i ϑink it iꝬ beautεĭзful
+& i ϑink it iꝬ beautεĭзful -->
 
 <!-- [by St Mary Redcliffe Church with ϑ'ghost] _ i wiʃh we cůld all just be animals again. _. _ ϑis ϑiŋ i made? itꝬ an abomination. __ all of science & technology iꝬ. .. . all art & gravity., _ iꝬ nøt worϑh it. .  . & ϑey talk as if ϑey døn't understand it._ ꝡ ꝡ _ꝡ ꝡ ꝡ?  // [behind Temple Meads] `. . birds flow ϑrů glass blocks iṋ ϑ'sky.° _ for a worm? .   between ϑ'metals? _ . ° - puppymonkey:: aw my benji, døn't be sad._ . i see it all ϑ'same.,  ,& i ϑink .it iꝬ beautεĭзful -->
 
