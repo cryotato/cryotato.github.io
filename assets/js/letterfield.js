@@ -4,7 +4,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
   const lines = [
     "KITTER咪 ",
-    "CHORD胡 ",
+    "CHORD 胡 ",
     "の ",
     "ORB謳卜 ",
     " &",
