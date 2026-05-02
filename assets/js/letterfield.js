@@ -8,29 +8,33 @@ document.addEventListener("DOMContentLoaded", () => {
     "OMNITONAL ORB 謳卜 "
   ];
 
-  const charSize = 24; 
+  const charSize = 72; // 3x bigger size!
   let gridItems = [];
   let rect = container.getBoundingClientRect();
   let cols = 0;
-  let rows = 0;
+  let rows = lines.length;
 
   // Mouse tracking state
   let mouse = { x: -1000, y: -1000 };
   let targetMouse = { x: -1000, y: -1000 };
   let isMouseActive = false;
   let mouseTimeout;
-  let idleFactor = 1; // 1 = idle pulse, 0 = mouse active
+  let idleFactor = 1; 
 
   function initGrid() {
     container.innerHTML = '';
     gridItems = [];
     rect = container.getBoundingClientRect();
     
-    // Fill the width of the screen, but STRICTLY limit rows to the 3 lines
-    cols = Math.ceil(rect.width / charSize);
-    rows = lines.length; 
+    // Calculate how many characters fit across the screen
+    cols = Math.ceil(rect.width / charSize) + 1; // +1 to ensure it reaches the edge
 
     for (let y = 0; y < rows; y++) {
+      // Create a strict row container so lines never get jumbled
+      const rowEl = document.createElement('div');
+      rowEl.className = 'letter-row';
+      container.appendChild(rowEl);
+
       const str = lines[y];
       const charArray = Array.from(str); 
 
@@ -39,12 +43,13 @@ document.addEventListener("DOMContentLoaded", () => {
         
         const el = document.createElement('div');
         el.textContent = char;
-        container.appendChild(el);
+        rowEl.appendChild(el);
 
         gridItems.push({
           el: el,
           x: x * charSize + charSize / 2, 
-          y: y * charSize + charSize / 2  
+          y: y * charSize + charSize / 2,
+          lastWeight: -1 // Cache to stop lag
         });
       }
     }
@@ -59,7 +64,6 @@ document.addEventListener("DOMContentLoaded", () => {
     isMouseActive = true;
     clearTimeout(mouseTimeout);
     
-    // Return to pulse mode if mouse stops moving for 1.5s
     mouseTimeout = setTimeout(() => { isMouseActive = false; }, 1500);
   });
 
@@ -75,37 +79,38 @@ document.addEventListener("DOMContentLoaded", () => {
   initGrid();
 
   function animate(time) {
-    // Smoothly follow the mouse
     mouse.x += (targetMouse.x - mouse.x) * 0.1;
     mouse.y += (targetMouse.y - mouse.y) * 0.1;
 
-    // Smoothly transition between Pulse mode and Mouse mode
     if (isMouseActive) {
-      idleFactor = Math.max(0, idleFactor - 0.05); // Fade OUT pulse
+      idleFactor = Math.max(0, idleFactor - 0.05); 
     } else {
-      idleFactor = Math.min(1, idleFactor + 0.02); // Fade IN pulse
+      idleFactor = Math.min(1, idleFactor + 0.02); 
     }
 
     for (let i = 0; i < gridItems.length; i++) {
       const item = gridItems[i];
       
-      // 1. Gentle Idle Pulse (A very slow, sweeping wave left-to-right)
       const wavePulse = Math.sin(item.x * 0.005 - time * 0.002) * 0.5 + 0.5;
 
-      // 2. Mouse Aura (250 is the radius of the cursor)
       const dx = item.x - mouse.x;
       const dy = item.y - mouse.y;
       const dist = Math.sqrt(dx * dx + dy * dy);
-      const mouseVal = Math.max(0, 1 - dist / 250); 
       
-      // Interpolate between the two states cleanly
+      // Increased radius to 500 to compensate for larger letters
+      const mouseVal = Math.max(0, 1 - dist / 500); 
+      
       const val = (mouseVal * (1 - idleFactor)) + (wavePulse * idleFactor);
 
-      // Map our 0-1 value to a Font Weight (100 to 700)
-      const weight = Math.round(100 + val * 600);
+      // Map value to Font Weight (100 to 700) and round it to nearest 10 for performance
+      let weight = Math.round((100 + val * 600) / 10) * 10;
 
-      item.el.style.setProperty('--val', val.toFixed(3));
-      item.el.style.fontWeight = weight;
+      // LAG FIX: Only update the DOM if the weight actually changed
+      if (item.lastWeight !== weight) {
+        item.el.style.fontWeight = weight;
+        item.el.style.setProperty('--val', val.toFixed(2));
+        item.lastWeight = weight;
+      }
     }
 
     requestAnimationFrame(animate);

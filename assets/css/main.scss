@@ -809,30 +809,38 @@ button:hover, .btn:hover {
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@100..700&display=swap');
 
 #letterfield {
-  /* This layout breakout forces it to 100% screen width, bypassing Minimal Mistakes' narrow container */
+  /* Layout breakout trick using transform (much safer than negative margins) */
   width: 100vw;
   position: relative;
   left: 50%;
-  right: 50%;
-  margin-left: -50vw;
-  margin-right: -50vw;
+  transform: translateX(-50%);
   
   display: flex;
-  flex-wrap: wrap;
-  overflow: hidden;
-  background: var(--bg-0); /* Uses your site's background variable */
+  flex-direction: column; /* Force it into strict rows */
+  align-items: center; /* Center the block of text on the screen */
+  background: var(--bg-0);
   font-family: 'Roboto Mono', monospace;
   line-height: 1;
   cursor: crosshair;
-  padding: 1rem 0; /* A little breathing room on top and bottom */
+  padding: 3rem 0;
+  overflow: hidden;
 }
 
-#letterfield div {
+.letter-row {
+  display: flex;
+  white-space: pre; /* Ensures spaces aren't collapsed */
+}
+
+.letter-row div {
   display: flex;
   align-items: center;
   justify-content: center;
-  width: 24px; 
-  height: 24px;
+  width: 72px;  /* 3x bigger (was 24) */
+  height: 72px; /* 3x bigger */
+  font-size: 72px; /* Ensure font scales up */
   user-select: none; 
   color: color-mix(in srgb, var(--dark) calc(var(--val, 0) * 85% + 15%), var(--light));
+  
+  /* Hardware acceleration for ultra-smooth rendering */
+  will-change: font-weight, color; 
 }
