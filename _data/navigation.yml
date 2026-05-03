@@ -5,10 +5,10 @@ main:
   #   url: /shop/ 
   # - title: "SYN 合"
   #   url: /syn/
+  - title: "works 历"
+    url: /p/
   - title: "lapses 志"
     url: /b/ 
-  - title: "gallery 历"
-    url: /p/
   - title: "commissions 佣"
     url: /commissions/
   - title: "窝"

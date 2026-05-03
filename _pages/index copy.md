@@ -9,6 +9,7 @@ author_profile: false
 #   nav: "docs"
 seo_title: "KitterChord / OVXX / cryotato"
 seo_description: "Rhyo is the developer of innovative sonic weapons as OVXX, CEO reptilian of KitterChord, & comrade of Twinknation. Welcome to their personal website."
+permalink: /welcome
 ---
 <b>
 　　　　 ＿＿ ＿<br>
