@@ -7,44 +7,81 @@
 <script type="module">
   import { animate, scrambleText } from 'https://esm.sh/animejs';
 
+  // 1. HELPER: Finds pure text inside an element without destroying HTML/links
+  function wrapSafeTextNodes(element) {
+    const spans = [];
+    // TreeWalker safely scans through the DOM looking ONLY at Text Nodes
+    const walker = document.createTreeWalker(element, NodeFilter.SHOW_TEXT, null, false);
+    const textNodes = [];
+    
+    let node;
+    while ((node = walker.nextNode())) {
+      // Only grab text that actually contains characters (ignore empty formatting space)
+      if (node.nodeValue.trim() !== '') {
+        textNodes.push(node);
+      }
+    }
+    
+    // Wrap every safe text node in an invisible <span>
+    textNodes.forEach(textNode => {
+      const span = document.createElement('span');
+      span.textContent = textNode.nodeValue;
+      span.classList.add('scramble-target');
+      textNode.parentNode.replaceChild(span, textNode);
+      spans.push(span);
+    });
+  }
+
+  // 2. Set up the Intersection Observer
   const observerOptions = {
     root: null,
     rootMargin: '0px',
-    // 0.1 means trigger when 10% of the header is visible
     threshold: 0.1
   };
 
-  const observer = new IntersectionObserver((entries) => {
+  const observer = new IntersectionObserver((entries, observer) => {
     entries.forEach(entry => {
-      // When the header scrolls INTO view
       if (entry.isIntersecting) {
-        animate(entry.target, {
-          innerHTML: scrambleText({
-            duration: 750,
-            settleDuration: 250,
-            perturbation: 0.2,
-            cursor: '░▒▓█'
-          })
-        });
+        const container = entry.target;
         
-        // Notice we REMOVED observer.unobserve(el) here!
-        // Now it will trigger again next time you scroll to it.
+        // Find the safe spans we created and ONLY animate those
+        const textSpans = container.querySelectorAll('.scramble-target');
+        
+        textSpans.forEach(span => {
+          animate(span, {
+            innerHTML: scrambleText({
+              duration: 750,
+              settleDuration: 250,
+              perturbation: 0.2,
+              cursor: '░▒▓█'
+            })
+          });
+        });
+
+        observer.unobserve(container);
       }
     });
   }, observerOptions);
 
+  // 3. Initialize everything when the page loads
   document.addEventListener('DOMContentLoaded', () => {
-    // 1. Grab ALL headers (H1 through H6) plus your page leads
-    const headers = document.querySelectorAll('h1, h2, h3, h4, h5, h6, .page__lead');
+    // Grab all titles and subtitles
+    const containers = document.querySelectorAll('.page__title, .page__lead, .archive__item-title');
     
-    // 2. Tell the observer to watch every single one of them
-    headers.forEach(header => {
-      observer.observe(header);
+    containers.forEach(container => {
+      // Pre-process the container to protect links
+      wrapSafeTextNodes(container);
+      
+      // Observe the overall container
+      observer.observe(container);
       
       // OPTIONAL hover effect (uncomment to use)
       /*
-      header.addEventListener('pointerenter', () => {
-         animate(header, { innerHTML: scrambleText({ duration: 500, perturbation: 0.2, cursor: '░▒▓█' }) });
+      container.addEventListener('pointerenter', () => {
+        const textSpans = container.querySelectorAll('.scramble-target');
+        textSpans.forEach(span => {
+          animate(span, { innerHTML: scrambleText({ duration: 500, perturbation: 0.2, cursor: '░▒▓█' }) });
+        });
       });
       */
     });
