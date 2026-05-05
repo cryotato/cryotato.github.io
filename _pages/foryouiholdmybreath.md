@@ -4,6 +4,8 @@ permalink: /foryou
 author_profile: false
 ---
 
+arrows dictate where orb LED points, arrows with double lines like ⇓ indicate a relative minor shortcut.
+
 ~~~
 [Intro]
 
@@ -26,7 +28,7 @@ B |
 3 |
 R | x                   x                   x              x              x
 B |
-     F#add9 ← i          Eadd9 ↑ VII         Bm7 ↓ iv
+     F#add9 ⇐ i          Eadd9 ↑ VII         Bm7 ⇓ iv
 (F# is played using A -> F#m shortcut, and Bm is D -> Bm)
 
 "Cry baby boy your cupboards bare"
@@ -37,7 +39,7 @@ B |
 3 |
 R | x                   x                   x              x              x
 B |
-     F#add9 ← i          Eadd9 ↑ VII         Dadd9 ↓ VI
+     F#add9 ⇐ i          Eadd9 ↑ VII         Dadd9 ↓ VI
 
 "With vapour trails across the sky"
 11|
@@ -47,7 +49,7 @@ B |
 3 |
 R | x                   x                   x              x
 B |
-     F#add9 ← i          E6 ↑ VII            Dmaj7 ↓ VI
+     F#add9 ⇐ i          E6 ↑ VII            Dmaj7 ↓ VI
 
 "Said will you, won't you? Never be mine"
 11|
@@ -57,7 +59,7 @@ B |
 3 |         sus4
 R | x                   x                   x          x          x
 B |
-     F#sus4 ← i          E6 ↑ VII            D5  ↓ VI
+     F#sus4 ⇐ i          E6 ↑ VII            D5  ↓ VI
 
 (harmonizing vocals) x2
 11|
@@ -67,7 +69,7 @@ B |
 3 |      sus4                b3
 R | x              x    x              x    x
 B |
-     Bsus4 ↓ iv          C#m ↑ v             D5 ↓ VI
+     Bsus4 ⇓ iv          C#m ⇑ v             D5 ↓ VI
 (C#m is played from E -> C#m shortcut)
 
 [Chorus]
@@ -79,7 +81,7 @@ B |
 3 |                            b3                 sus4               sus4
 R |    x         x      x          x      x           x       x
 B |
-     C#(b9) ↑ v       Bm ↓ iv           Asus4 ← III
+     C#(b9) ⇑ v       Bm ⇓ iv           Asus4 ← III
 (C# is played as C#m from E)
 
 "For you, I get undressed"
@@ -90,7 +92,7 @@ B |
 3 |                            b3                 sus4               sus4
 R |    x         x      x          x      x           x       x
 B |
-     C#(b9) ↑ v       Bm ↓ iv           Asus4 ← III
+     C#(b9) ⇑ v       Bm ⇓ iv           Asus4 ← III
 
 "The cupboards bare, There's nothing left"
 11|
@@ -100,7 +102,7 @@ B |
 3 |                            b3                 sus4               sus4
 R |    x         x      x          x      x           x       x
 B |
-     C#(b9) ↑ v       Bm ↓ iv           Asus4 ← III
+     C#(b9) ⇑ v       Bm ⇓ iv           Asus4 ← III
 
 "You should've known, You should've guessed"
 11|
@@ -110,6 +112,6 @@ B |
 3 |                            b3
 R |    x         x      x          x      x
 B |
-     C#(b9) ↑ v       Bm ↓ iv           Asus4 ← III
+     C#(b9) ⇑ v       Bm ⇓ iv           Asus4 ← III
 
 ~~~
