@@ -852,3 +852,13 @@ hr {
   border: none !important;
   background-color: transparent !important;
 }
+
+/* Hide scrollbar for the sticky sidebar */
+.sidebar.sticky {
+  -ms-overflow-style: none;  /* IE and Edge */
+  scrollbar-width: none;  /* Firefox */
+}
+
+.sidebar.sticky::-webkit-scrollbar {
+  display: none; /* Chrome, Safari and Opera */
+}
