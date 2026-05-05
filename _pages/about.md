@@ -36,8 +36,9 @@ here are somemore opinions i possess:
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
 
   <a href="https://rateyourmusic.com/~cryotato" class="btn btn--large" style="flex: 1;">i love sounds</a>
-  <a href="https://www.goodreads.com/user/show/114414047-mybussywroteathesisoncolonialism" class="btn btn--large" style="flex: 1;">i love reads</a>
   <a href="https://www.fragrantica.com/member/1295000#votes" class="btn btn--large" style="flex: 1;">i love stinks</a>
+  <a href="https://www.goodreads.com/user/show/114414047-mybussywroteathesisoncolonialism" class="btn btn--large" style="flex: 1;">i love reads</a>
+  <a href="https://letterboxd.com/ryuuu/" class="btn btn--large" style="flex: 1;">i love motion</a>
 
 </div>
 <br>
