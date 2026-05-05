@@ -10,15 +10,15 @@
   const observerOptions = {
     root: null,
     rootMargin: '0px',
+    // 0.1 means trigger when 10% of the header is visible
     threshold: 0.1
   };
 
-  const observer = new IntersectionObserver((entries, observer) => {
+  const observer = new IntersectionObserver((entries) => {
     entries.forEach(entry => {
+      // When the header scrolls INTO view
       if (entry.isIntersecting) {
-        const el = entry.target;
-
-        animate(el, {
+        animate(entry.target, {
           innerHTML: scrambleText({
             duration: 750,
             settleDuration: 250,
@@ -26,30 +26,25 @@
             cursor: '░▒▓█'
           })
         });
-
-        observer.unobserve(el);
+        
+        // Notice we REMOVED observer.unobserve(el) here!
+        // Now it will trigger again next time you scroll to it.
       }
     });
   }, observerOptions);
 
   document.addEventListener('DOMContentLoaded', () => {
-    // 1. Find all title and subtitle containers
-    const containers = document.querySelectorAll('.page__title, .page__lead, .archive__item-title');
+    // 1. Grab ALL headers (H1 through H6) plus your page leads
+    const headers = document.querySelectorAll('h1, h2, h3, h4, h5, h6, .page__lead');
     
-    containers.forEach(container => {
-      // 2. Check if this specific container has a link inside it
-      const linkInside = container.querySelector('a');
+    // 2. Tell the observer to watch every single one of them
+    headers.forEach(header => {
+      observer.observe(header);
       
-      // 3. If there is a link, target the link. If not, target the container itself.
-      const targetElement = linkInside ? linkInside : container;
-      
-      // 4. Observe the correct element
-      observer.observe(targetElement);
-      
-      // OPTIONAL hover effect - updated to use the correct target as well
+      // OPTIONAL hover effect (uncomment to use)
       /*
-      targetElement.addEventListener('pointerenter', () => {
-         animate(targetElement, { innerHTML: scrambleText({ duration: 500, perturbation: 0.2, cursor: '░▒▓█' }) });
+      header.addEventListener('pointerenter', () => {
+         animate(header, { innerHTML: scrambleText({ duration: 500, perturbation: 0.2, cursor: '░▒▓█' }) });
       });
       */
     });
