@@ -5,14 +5,12 @@
 <!-- insert favicons. use https://realfavicongenerator.net/ -->
 
 <script type="module">
-  // Import ONLY the necessary animation functions from Anime.js
   import { animate, scrambleText } from 'https://esm.sh/animejs';
 
-  // 1. Setup the Intersection Observer (detects when elements appear on screen)
   const observerOptions = {
     root: null,
     rootMargin: '0px',
-    threshold: 0.1 // Triggers when 10% of the element is visible
+    threshold: 0.1
   };
 
   const observer = new IntersectionObserver((entries, observer) => {
@@ -20,36 +18,38 @@
       if (entry.isIntersecting) {
         const el = entry.target;
 
-        // 2. Run the scramble animation
         animate(el, {
           innerHTML: scrambleText({
             duration: 750,
             settleDuration: 250,
             perturbation: 0.2,
-            cursor: '░▒▓█',
-            // You can add other options here like chars: 'lowercase' 
+            cursor: '░▒▓█'
           })
         });
 
-        // 3. Stop observing so it only happens the *first* time it appears
         observer.unobserve(el);
       }
     });
   }, observerOptions);
 
-  // 4. Wait for the DOM to load, then find the titles and observe them
   document.addEventListener('DOMContentLoaded', () => {
-    // These are standard Minimal Mistakes classes for titles and subtitles.
-    // Add or remove CSS selectors here based on what you want to animate.
-    const targets = document.querySelectorAll('.page__title, .page__lead, .archive__item-title');
+    // 1. Find all title and subtitle containers
+    const containers = document.querySelectorAll('.page__title, .page__lead, .archive__item-title');
     
-    targets.forEach(target => {
-      observer.observe(target);
+    containers.forEach(container => {
+      // 2. Check if this specific container has a link inside it
+      const linkInside = container.querySelector('a');
       
-      // OPTIONAL: Uncomment the lines below if you also want the effect to happen when users hover over the titles
+      // 3. If there is a link, target the link. If not, target the container itself.
+      const targetElement = linkInside ? linkInside : container;
+      
+      // 4. Observe the correct element
+      observer.observe(targetElement);
+      
+      // OPTIONAL hover effect - updated to use the correct target as well
       /*
-      target.addEventListener('pointerenter', () => {
-         animate(target, { innerHTML: scrambleText({ duration: 500, perturbation: 0.2, cursor: '░▒▓█' }) });
+      targetElement.addEventListener('pointerenter', () => {
+         animate(targetElement, { innerHTML: scrambleText({ duration: 500, perturbation: 0.2, cursor: '░▒▓█' }) });
       });
       */
     });
