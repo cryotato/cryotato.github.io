@@ -2,6 +2,7 @@
 title: For You I Hold My Breath by Katie Jane Garside [KitterChord Tab]
 permalink: /foryou
 author_profile: false
+layout: splash
 ---
 
 arrows dictate where orb LED points, arrows with double lines like ⇓ indicate a relative minor shortcut.
