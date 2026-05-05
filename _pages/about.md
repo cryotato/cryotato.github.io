@@ -37,7 +37,7 @@ here are somemore opinions i possess:
 
   <a href="https://rateyourmusic.com/~cryotato" class="btn btn--large" style="flex: 1;">i love sounds</a>
   <a href="https://www.goodreads.com/user/show/114414047-mybussywroteathesisoncolonialism" class="btn btn--large" style="flex: 1;">i love reads</a>
-  <a href="mailto:{{ site.email }}" class="btn btn--large" style="flex: 1;">i love stinks</a>
+  <a href="https://www.fragrantica.com/member/1295000#votes" class="btn btn--large" style="flex: 1;">i love stinks</a>
 
 </div>
 <br>
