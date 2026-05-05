@@ -836,3 +836,19 @@ button:hover, .btn:hover {
   color: color-mix(in srgb, var(--dark) calc(var(--val, 0) * 85% + 15%), var(--light));
   will-change: font-weight, color; 
 }
+
+/* Remove lines under headers (excluding h1) */
+.page__content h2,
+.page__content h3,
+.page__content h4,
+.page__content h5,
+.page__content h6 {
+  border-bottom: none !important;
+}
+
+/* Remove lines from markdown breaks (*** or ---) */
+.page__content hr, 
+hr {
+  border: none !important;
+  background-color: transparent !important;
+}
