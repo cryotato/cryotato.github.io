@@ -31,6 +31,17 @@ everythiŋ ï do iꝬ to declare my identity ⅋ut ï døn't really have one. ï
 
 xenogenders 異類性別 - geoist 喬治主義者; commie 共產主義者; spiritually post-structuralist 靈性後結構主義者 (reduce me to nøϑiŋness 將窝化ゐ虛無); cyber-schizoid 賽博精神分裂; neuroarchitect 神經架構師; 99 kiss machines 九十九座親吻機器
 
+here are somemore opinions i possess:
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+
+  <a href="https://rateyourmusic.com/~cryotato" class="btn btn--large" style="flex: 1;">i love sounds</a>
+  <a href="https://www.goodreads.com/user/show/114414047-mybussywroteathesisoncolonialism" class="btn btn--large" style="flex: 1;">i love reads</a>
+  <a href="mailto:{{ site.email }}" class="btn btn--large" style="flex: 1;">i love stinks</a>
+
+</div>
+<br>
+
 <!-- puppilled; team "music is sacred"; professional; fartist -->
 
 <!-- Sign up for sparse biennialish KitterChord & OVXX updates here:
