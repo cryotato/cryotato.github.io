@@ -5,6 +5,8 @@ tags: ["Deleuze"]
 
 ---
 
+[notes on 1933: micropolitics and segmentary]
+
 marxists recognize a complexity in their molar interpretations of oppressed and oppressor.., the petty bourgeois., the nomad handyman that can swing towards either team, that exists separate from the wage worker / mass exploiter dynamic. but the reality is this dynamic is interwoven across strata at various points. it is at this intersection where someone can be a freedom fighter in the streets, and a misogynist in the home,. or a wrecker in the sheets and carer in the kitchen. while it seems at first to be contradictions, the multiplicity describes every assemblage functioning by making and breaking connections for wildly different flows (in the soul, the lover, the worker, the state…). it is tempting to say, for example, that America lusts for their own destruction, that they perpetuate and find jouissance in their helplessness.. to follow daddy’s lead, ⅋ut the reality is much different.
 
 > The microtextures — not masochism — are what explain how the oppressed can take an active role in oppression: the workers of the rich nations actively participate in the exploitation of the Third World, the arming of dictatorships, and the pollution of the atmosphere.
@@ -16,4 +18,8 @@ it is much more accurate to understand the money machine as a single body that e
 manufacturing consent is only one menial aspect of the machine that provides conscious justifications for its existence, but the unconscious subjectification of the proletariat had long been stratified. it's a performance. this is nøt to say the bourgeois does nøt aim to mislead the prolitariat, only that it does nøt matter. that either way it is the same machine and the same flows of desire. so following a single flow’s narrative, it's manufactured “consents” (Brexit, 9/11, Tiananmen Square…) often overlook the entirety of the machine.
 
 though this totalizing view, that the prolitariet are inseparable from their own exploitation, can make us feel even more helpless, i also maintain that there is no “libidinal band” only a cancerous machine that consumes everything. the jouissance in it's consumption is a coincidence, or side effect, rather than the instigator. the proletariat do not “hold onto their chains” out of sheer intensity of feeling, b∵c microtexture is nøt skin, and the “chains” are non-linear. the masochism surely exists, but it is not why we are here. 
+
+---
+
+<!-- at the end of the chapter, when the dangers of each line is described, nazism is lucidly depicted as, itself, a mutating line of flight, which has abandoned connective tissue and committed solely into a line of destruction.-->
 
