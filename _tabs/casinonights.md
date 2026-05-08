@@ -5,7 +5,7 @@ author_profile: false
 layout: splash
 ---
 
-# Casino Nights By PilotRedSun - KitterChord Tab
+# PilotRedSun - Casino Nights
 
 ~~~
 
