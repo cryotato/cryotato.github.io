@@ -91,8 +91,8 @@
    ========================================================================== */
 
 body {
-  background: var(--bg-0) !important;
-  color: var(--dark) !important;
+  background: var(--bg-8) !important;
+  color: var(--light) !important;
   font-family: monospace, "Fairfax HD";
   font-size: 16px;
   font-size-adjust: from-font;
@@ -144,11 +144,12 @@ blockquote p {
 
 pre {
   font-family: monospace, "Fairfax HD"; // <<< CHANGED font stack
-  background: var(--bg-2);
+  background: var(--bg-0);
   border: var(--border-standard); // Uses the new 1px border
   padding: 1em;
   color: var(--dark) !important;
   text-shadow: var(--l-shadow) !important;
+  font-size: 16px !important; /* Prevents the container from shrinking */
   overflow-x: auto;
 }
 
