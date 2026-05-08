@@ -1,9 +1,13 @@
 ---
-title: For You I Hold My Breath by Katie Jane Garside - KitterChord Tab
+title: Katie Jane Garside - For You I Hold My Breath
 permalink: /foryou
 author_profile: false
 layout: splash
 ---
+
+***
+
+# Katie Jane Garside - For You I Hold My Breath
 
 arrows dictate where orb LED points, arrows with double lines like ⇓ indicate a relative minor shortcut.
 
