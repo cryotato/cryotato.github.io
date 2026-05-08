@@ -9,6 +9,14 @@ layout: splash
 
 # PilotRedSun - Fat Cat 
 
+Imaj7 (F#maj7)
+
+bVI7#9 (D7#9) — Borrowed from the parallel minor (F# minor). modal mixture. classic, crunchy out of key jazz/funk chord
+
+IVmaj9 (Bmaj9) — subdominant. lush floaty chord that brings you back into the diatonic (in-key) scale.
+
+ii13 (G#m13) — supertonic. In traditional jazz, a ii chord usually goes to a V chord, but here it skips the V and loops smoothly right back to the I (a ii - I cadence)
+
 ~~~
 
 [intro]
