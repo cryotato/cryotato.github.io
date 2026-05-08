@@ -149,6 +149,13 @@ defaults:
       share: true
       comments: true
       show_date: true
+  # _tabs
+  - scope:
+      path: "_tabs"
+      type: tabs
+    values:
+      layout: splash
+      author_profile: false
 
 
 # wait then wgat the fycj is this.. huh?
@@ -170,6 +177,9 @@ after_footer_scripts:
 
 collections:
   portfolio:
+    output: true
+    permalink: /:collection/:path/
+  tabs:
     output: true
     permalink: /:collection/:path/
 
