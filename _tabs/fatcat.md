@@ -9,6 +9,8 @@ layout: splash
 
 # PilotRedSun - Fat Cat 
 
+Difficulty:  ★★☆☆☆
+
 Imaj7 (F#maj7)
 
 bVI7#9 (D7#9) — Borrowed from the parallel minor (F# minor). modal mixture. classic, crunchy out of key jazz/funk chord
