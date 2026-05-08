@@ -1,4 +1,9 @@
-
+---
+title: Fat Cat By PilotRedSun - KitterChord Tab
+permalink: /fatcat 
+author_profile: false
+layout: splash
+---
 # PilotRedSun - Fat Cat 
 ~~~
 
