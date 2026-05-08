@@ -4,7 +4,11 @@ permalink: /fatcat
 author_profile: false
 layout: splash
 ---
+
+***
+
 # PilotRedSun - Fat Cat 
+
 ~~~
 
 [intro]
@@ -16,7 +20,9 @@ layout: splash
 3 |                         |                         x
 R |         x       x       |         x           x
 B | x                       | x
-  | F#maj7                  | D7#9
+  F#maj7                    D7#9#
+  I                         bVI
+                             (play septimal min3 9# for hendrix chord)
 
 11|                         |
 9 | 9      9          9     |
@@ -25,8 +31,8 @@ B | x                       | x
 3 |        x          x     |         b3
 R |            x          x |                     x   x
 B | x                       |     x
-  |Bmaj9                    | G#m13
-
+  Bmaj9                    G#m13
+  IV                       ii
 
 [lead melody]
                               
@@ -36,9 +42,9 @@ B | x                       |     x
 5 |                            | x                     x
 3 |                            | x         x
 R | x          x               | x
-B | x                          | D7#9
-  | F#maj7
-
+B | x                          | 
+  F#maj7                       D7#9
+  I                            bVI
 11|                |
 9 | 9              |
 7 |                |                 b7
@@ -46,8 +52,8 @@ B | x                          | D7#9
 3 |                | s4
 R | x           x  | x                         x
 B | x              | x
-  | Bmaj9          | G#m11
-
+  Bmaj9            G#m11
+  IV               ii
 ~~~
 
 transposed from Weemusark's piano covers:
