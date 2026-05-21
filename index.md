@@ -13,6 +13,6 @@ stay in the loop:
 
 <iframe width="540" height="305" src="https://sibforms.com/serve/MUIFAGII6dnItKKSjLTX5EippiUkxF1ouYlSnSpzunfoBOjdGVblho2CGhGW4mzc_KILsCsbcRkVSQpr3dTsERtEpvp0j1SnAL-F9rQNcW-kZ28QD3goYzm_lKFx-QQTTso0z5GwqizHIOu7mGV-OlrS33TT10jCRG8qegcTmMavoyw6xUByxMzzJ_WUDtvkxMCqcMU_dFDLIp9V" frameborder="0" scrolling="auto" allowfullscreen style="display: block;margin-left: auto;margin-right: auto;max-width: 100%;"></iframe>
 
-i'll be making a kickstarter preorder campaign for the Orb soon! there'll be an early bird discount and everything so keep ya eyes peeled :3 ive not figured out mailing list stuff yet so i might just send announcements through my personal email.. hope thats okay!
+<!-- i'll be making a kickstarter preorder campaign for the Orb soon! there'll be an early bird discount and everything so keep ya eyes peeled :3 ive not figured out mailing list stuff yet so i might just send announcements through my personal email.. hope thats okay! -->
 
 <!--  note to self this is a Bravo email list that goes to rrrrr -->
