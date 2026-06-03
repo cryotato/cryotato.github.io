@@ -1,6 +1,6 @@
 ---
 
-title: non-metaphorical biological devolution of the west
+title: nøn-metaphorical biological devolution of ϑ'West
 
 ---
 
