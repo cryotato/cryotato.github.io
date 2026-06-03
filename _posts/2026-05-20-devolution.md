@@ -10,6 +10,8 @@ title: "apes iṋ a labcoat: ϑ'nøn-metaφorical biological devolution of ϑ'We
 
 > We are, in sum, incomplete or unfinished animals who complete or finish ourselves through culture—and not through culture in general but through highly particular forms of it. — Clifford Geertz
 
+ϑis biological cultural link can be felt iṋ our earliest influences even iṋ our teenage years. cůld ϑis be ꝡ music & ϑeir respective scenes end up making up so much of our identity? (ϑere will never be anoϑer album like Icedancer)
+
 & even if we return to a purely biological basis for understanding ourselves, zoologist Adolf Portmann wůld point out from a Darwinian perspective ϑat as our need for narrow hips for bipedal walking got iṋ ϑ'way of our brains growing larger, we had to be born "early." ϑis wůld entail ϑ'idea ϑat our brains are uniquely unwired (for about a year) outside ϑ'womb. 
 
 ϑis iꝬ both our biggest strength & weakness - our neurological malleability. just as ϑere iꝬ nø limit to our collective intelligence, there iꝬ nø limit to our idiocy. ϑ'call of barbarism represents a non-metaphorical biological devolution...
