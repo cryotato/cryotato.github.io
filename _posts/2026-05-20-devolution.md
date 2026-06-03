@@ -1,6 +1,6 @@
 ---
 
-title: "apes iṋ a labcoat: ϑ'nøn-metaφorical biological devolution of ϑ'West"
+title: "apes iṋ a labcoat: nøn-metaφorical biological devolution"
 
 ---
 
